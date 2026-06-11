@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "She ... to school every day by bus.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "went"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct sentence from the following options:",
+    "options": {
+      "A": "The police is investigating the theft case at the store.",
+      "B": "The police are investigating the theft case at the store.",
+      "C": "The police has investigating the theft case at the store.",
+      "D": "The police does investigating the theft case at the store."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "If I had known about the traffic jam, I ... taken a different route.",
+    "options": {
+      "A": "will have",
+      "B": "would have",
+      "C": "will",
+      "D": "had"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What is the synonym of the word: BENEVOLENT",
+    "options": {
+      "A": "Greedy",
+      "B": "Kind",
+      "C": "Cruel",
+      "D": "Shy"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "The police officer asked the witness, 'Where ... when the accident happened?'",
+    "options": {
+      "A": "were you",
+      "B": "you were",
+      "C": "did you",
+      "D": "are you"
+    },
+    "correctAnswer": "A"
+  }
+]

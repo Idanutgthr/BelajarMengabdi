@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Siapakah Kepala Kepolisian Negara Republik Indonesia (Kapolri) yang pertama?",
+    "options": {
+      "A": "Jenderal Polisi Raden Said Soekanto Tjokroatmodjo",
+      "B": "Jenderal Polisi Hoegeng Iman Santoso",
+      "C": "Jenderal Polisi Sutanto",
+      "D": "Jenderal Polisi Anton Soedjarwo"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Lambang Kepolisian Negara Republik Indonesia dinamakan...",
+    "options": {
+      "A": "Rastra Sewakottama",
+      "B": "Bhayangkara",
+      "C": "Tribrata",
+      "D": "Catur Prasetya"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Lembaga negara independen yang bertugas menangani tindak pidana korupsi di Indonesia adalah...",
+    "options": {
+      "A": "Komisi Pemberantasan Korupsi (KPK)",
+      "B": "Kejaksaan Agung",
+      "C": "Kepolisian Negara Republik Indonesia",
+      "D": "Badan Pemeriksa Keuangan (BPK)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Ibu kota Provinsi Papua Barat adalah...",
+    "options": {
+      "A": "Jayapura",
+      "B": "Manokwari",
+      "C": "Sorong",
+      "D": "Merauke"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Hari Lahir Pancasila diperingati bangsa Indonesia setiap tanggal...",
+    "options": {
+      "A": "1 Juni",
+      "B": "1 Oktober",
+      "C": "17 Agustus",
+      "D": "10 November"
+    },
+    "correctAnswer": "A"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Jika x = 3 dan y = 4, maka tentukanlah nilai dari: 2x^2 - 3y + 5 = ...",
+    "options": {
+      "A": "9",
+      "B": "11",
+      "C": "15",
+      "D": "23"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Sebuah motor menempuh jarak sejauh 120 km dalam waktu 2 jam. Berapa kecepatan rata-rata motor tersebut?",
+    "options": {
+      "A": "50 km/jam",
+      "B": "60 km/jam",
+      "C": "70 km/jam",
+      "D": "80 km/jam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Berapakah nilai dari 15% dari uang sebesar Rp 200.000?",
+    "options": {
+      "A": "Rp 20.000",
+      "B": "Rp 25.000",
+      "C": "Rp 30.000",
+      "D": "Rp 35.000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Tentukan hasil perhitungan pecahan berikut: 4/5 + 1/2 - 1/4 = ...",
+    "options": {
+      "A": "17/20",
+      "B": "19/20",
+      "C": "21/20",
+      "D": "23/20"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Tentukan nilai rata-rata (mean) dari data nilai berikut: 7, 8, 9, 6, 10.",
+    "options": {
+      "A": "7,0",
+      "B": "7,5",
+      "C": "8,0",
+      "D": "8,5"
+    },
+    "correctAnswer": "C"
+  }
+]

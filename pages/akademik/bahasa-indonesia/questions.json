@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Penulisan kata serapan baku yang benar terdapat dalam kalimat...",
+    "options": {
+      "A": "Jadwal keberangkatan kereta api sudah disesuaikan.",
+      "B": "Obat tradisional itu dapat dibeli di apotik terdekat.",
+      "C": "Analisa data kasus dilakukan oleh tim penyidik khusus.",
+      "D": "Kwalitas pelayanan publik harus terus ditingkatkan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Kalimat yang mengandung kata berimbuhan dengan fungsi membentuk kata benda (nomina) adalah...",
+    "options": {
+      "A": "Pencuri kendaraan bermotor itu akhirnya ditangkap oleh polisi.",
+      "B": "Anggota polantas sedang mengatur lalu lintas di perempatan.",
+      "C": "Siswa bintara itu berlari mengelilingi lapangan hijau.",
+      "D": "Masyarakat menuntut penegakan hukum yang berkeadilan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Bacalah teks berikut:\n'Polisi merupakan pelindung dan pengayom masyarakat. Dalam menjalankan tugasnya, polisi harus senantiasa bersikap humanis namun tetap tegas dalam menegakkan hukum. Hal ini penting untuk membangun kepercayaan publik.'\nIde pokok paragraf di atas adalah...",
+    "options": {
+      "A": "Pentingnya sikap tegas kepolisian dalam bertugas",
+      "B": "Membangun kepercayaan publik terhadap hukum",
+      "C": "Peran polisi sebagai pelindung masyarakat dan penegak hukum",
+      "D": "Sikap humanis polri dalam menjaga ketertiban masyarakat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Manakah penulisan kata baku berikut yang tepat sesuai dengan PUEBI/KBBI?",
+    "options": {
+      "A": "Praktek",
+      "B": "Praktik",
+      "C": "Kawatir",
+      "D": "Silahkan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Tentukan antonim (lawan kata) dari kata: PROGRESIF",
+    "options": {
+      "A": "Dinamis",
+      "B": "Regresif",
+      "C": "Aktif",
+      "D": "Modern"
+    },
+    "correctAnswer": "B"
+  }
+]

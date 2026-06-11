@@ -1,0 +1,3924 @@
+[
+  {
+    "id": 1,
+    "question": "Ketika Anda melihat rekan kerja Anda melakukan kecurangan kecil dalam tugas administrasi kepolisian...",
+    "options": {
+      "A": "Membiarkannya karena merasa hal itu bukan urusan atau tanggung jawab saya.",
+      "B": "Menegurnya secara pribadi dengan sopan dan mengingatkannya untuk bersikap jujur.",
+      "C": "Melaporkannya langsung kepada pimpinan tanpa berkomunikasi terlebih dahulu dengannya.",
+      "D": "Mengikuti tindakannya karena hal tersebut terbukti mempermudah penyelesaian pekerjaan."
+    },
+    "weights": {
+      "A": 4,
+      "B": 10,
+      "C": 8,
+      "D": 2
+    }
+  },
+  {
+    "id": 2,
+    "question": "Tugas pelayanan masyarakat yang diberikan kepada Anda sangat menumpuk dan batas waktunya sangat mepet...",
+    "options": {
+      "A": "Menyelesaikan tugas sebisa saya secara santai dan membiarkan sisanya terbengkalai.",
+      "B": "Mengeluh kepada rekan kerja di kantor dan meminta mereka mengerjakan tugas saya.",
+      "C": "Membuat skala prioritas, fokus penuh, dan bekerja ekstra untuk menyelesaikannya tepat waktu.",
+      "D": "Meminta perpanjangan waktu secara terus-menerus kepada pimpinan dengan alasan beban berat."
+    },
+    "weights": {
+      "A": 5,
+      "B": 4,
+      "C": 10,
+      "D": 2
+    }
+  },
+  {
+    "id": 3,
+    "question": "Dalam suatu musyawarah tim kerja, pendapat Anda ditolak oleh sebagian besar anggota kelompok...",
+    "options": {
+      "A": "Merasa kesal, marah, dan memutuskan untuk keluar dari tim kerja tersebut.",
+      "B": "Menerima keputusan kelompok dengan lapang dada dan berkomitmen mendukung hasil keputusan bersama.",
+      "C": "Tetap bersikeras mempertahankan pendapat saya secara agresif hingga rapat selesai.",
+      "D": "Menerima keputusan kelompok secara terpaksa namun enggan berkontribusi aktif dalam pengerjaan."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 4,
+      "D": 3
+    }
+  },
+  {
+    "id": 4,
+    "question": "Ketika Anda ditugaskan untuk melayani masyarakat di daerah pelosok/terpencil yang minim fasilitas...",
+    "options": {
+      "A": "Menolak penugasan tersebut dengan berbagai alasan kesehatan atau keluarga.",
+      "B": "Menerimanya sebagai tantangan untuk melayani masyarakat sepenuh hati serta lekas beradaptasi.",
+      "C": "Menerima penugasan tersebut dengan syarat diberikan kompensasi khusus yang besar.",
+      "D": "Pergi ke lokasi penugasan baru namun bekerja dengan setengah hati dan tidak profesional."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 6,
+      "D": 3
+    }
+  },
+  {
+    "id": 5,
+    "question": "Bagaimana Anda menanggapi kritik pedas dari elemen masyarakat mengenai kinerja institusi Anda?",
+    "options": {
+      "A": "Membalas kritik masyarakat tersebut secara emosional dan reaktif di media sosial.",
+      "B": "Menjadikannya bahan evaluasi diri dan kesatuan untuk berbenah memberikan layanan terbaik.",
+      "C": "Mengabaikannya begitu saja karena merasa masyarakat tidak paham tantangan tugas polisi.",
+      "D": "Merasa sangat terpukul, tidak tahan, dan berpikir untuk mengundurkan diri."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 4,
+      "D": 3
+    }
+  },
+  {
+    "id": 6,
+    "question": "Apabila Anda menemukan dompet berisi sejumlah uang dan kartu identitas penting di sekitar area kantor...",
+    "options": {
+      "A": "Mengambil uang di dalamnya lalu membuang dompet beserta kartu identitasnya.",
+      "B": "Mengamankan dompet tersebut dan segera melacak atau menyerahkannya ke bagian pelayanan pengaduan barang hilang.",
+      "C": "Membiarkan dompet tersebut tergeletak di jalan agar orang lain saja yang mengurusnya.",
+      "D": "Mengambil seluruh isi dompet dan menyimpannya sebagai hak milik pribadi."
+    },
+    "weights": {
+      "A": 1,
+      "B": 10,
+      "C": 4,
+      "D": 2
+    }
+  },
+  {
+    "id": 7,
+    "question": "Rekan kerja satu tim Anda sedang mengalami kendala keluarga yang cukup berat sehingga kinerja kerjanya menurun...",
+    "options": {
+      "A": "Menghindarinya karena tidak ingin ikut campur masalah pribadinya.",
+      "B": "Mengajaknya mengobrol secara empatik dan menawarkan bantuan kerja sementara jika dia membutuhkan.",
+      "C": "Memarahinya di depan rekan lain agar dia tetap bekerja secara profesional.",
+      "D": "Melaporkannya langsung kepada pimpinan agar posisinya lekas diganti orang lain."
+    },
+    "weights": {
+      "A": 3,
+      "B": 10,
+      "C": 2,
+      "D": 5
+    }
+  },
+  {
+    "id": 8,
+    "question": "Apa tindakan Anda bila atasan memberikan perintah lisan yang dinilai bertentangan dengan aturan baku (SOP)?",
+    "options": {
+      "A": "Menolak perintah secara frontal di hadapan rekan-rekan kerja yang lain.",
+      "B": "Menyampaikan pendapat dengan santun secara empat mata mengenai keselarasan perintah dengan SOP tertulis.",
+      "C": "Melaksanakan perintah tersebut tanpa memikirkannya lagi karena takut mendapat sanksi.",
+      "D": "Melaporkan atasan tersebut kepada media massa agar mendapat sorotan publik secara luas."
+    },
+    "weights": {
+      "A": 4,
+      "B": 10,
+      "C": 6,
+      "D": 2
+    }
+  },
+  {
+    "id": 9,
+    "question": "Anda merupakan orang yang sangat disiplin dan pekerja keras, maka tidak heran banyak pelanggan yang merasa puas dengan pelayanan anda. Tidak jarang beberapa pelanggan memberikan anda sejumlah bingkisan sebagai bentuk ucapan terima kasih dan apresiasi terhadap pelayanan anda. Sementara lembaga anda mempunyai peraturan di mana setiap karyawan tidak diperkenankan menerima hadiah dalam bentuk apapun dan dari siapapun dalam kaitannya dengan pekerjaan. Apa yang mesti anda lakukan....",
+    "image": null,
+    "options": {
+      "A": "Menolaknya, tetapi bila dipaksa akan diterima.",
+      "B": "Menolaknya dengan halus dan kemudian memberitahu aturan kantor kepada pelanggan.",
+      "C": "Meminta pelanggan tersebut mengirim ke rumah agar tidak diketahui lembaga tempat saya bekerja.",
+      "D": "Menerima terlebih dahulu dan menyampaikannya kepada atasan.",
+      "E": "Menerimanya dan kemudian membagikan kepada rekan-rekan tempat saya bekerja."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 10,
+    "question": "Anda merupakan seorang lulusan dari salah satu Perguruan Tinggi (PT) ternama di Indonesia. Ketika anda melamar pekerjaan, ternyata anda diterima di salah satu perusahaan. Di perusahaan tersebut, anda dipercaya sebagai petugas penjualan produk baru. Di gerai penjualan produk baru, anda melihat antrean yang sangat panjang, tidak teratur, dan saling berebut satu sama lain. Apa yang bakal anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Memarahi calon pembeli.",
+      "B": "Hanya memperhatikan antrean tersebut.",
+      "C": "Melapor kepada manager perusahaan agar segera melakukan sesuatu.",
+      "D": "Menertibkan dan berinisiatif membuat nomor antrian.",
+      "E": "Menertibkan dan membuka loket pembelian tambahan bila memungkinkan."
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 11,
+    "question": "Hari ini merupakan hari pertama anda ditempatkan di kantor yang baru dengan bidang pekerjaan yang hampir sama dengan pekerjaan sebelumnya. Ketika anda bekerja, anda melihat rekan kerja baru sangat terlihat serius dan jarang sekali bercanda. Bagaimana sikap anda terhadap hal tersebut …",
+    "image": null,
+    "options": {
+      "A": "Bersikap apa adanya saja.",
+      "B": "Mengajak rekan tersebut untuk bersantai dalam bekerja.",
+      "C": "Tetap bekerja seperti tempat bekerja yang sebelumnya.",
+      "D": "Menanyakan kabar dan berbicara dengan rekan tersebut supaya suasana menjadi cair.",
+      "E": "Mencoba beradaptasi dengan lingkungan pekerjaan saat ini."
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 12,
+    "question": "Saya mempunyai teman yang sangat dekat kurang lebih sekitar dua belas tahun. Saya dan teman tersebut bekerja dalam kantor yang sama, tetapi departemen kami berbeda. Pekan depan saya ditugaskan untuk menyelesaikan proyek kantor di luar kota. Pada saat yang bersamaan, teman tadi meminta saya menemani membeli souvenir pernikahannya. Apa yang seharusnya saya lakukan",
+    "image": null,
+    "options": {
+      "A": "Menemaninya secara virtual di sela-sela waktu senggang sembari menyelesaikan proyek luar kota.",
+      "B": "Menyarankan teman tersebut mencari orang lain.",
+      "C": "Meminta maaf karena tidak dapat mendampinginya membeli souvenir pernikahan.",
+      "D": "Menemaninya meskipun nanti bakal mengganggu proyek luar kota saya.",
+      "E": "Menawarkan teman tersebut ketika saya telah menyelesaikan proyek di luar kota."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 13,
+    "question": "Anda diundang ke pesta ulang tahun pernikahan relasi bisnis anda. Anda ingin membawakannya sesuatu sebagai hadiah ulang tahun pernikahan. Dalam memilih hadiah, apa yang anda pertimbangkan …",
+    "image": null,
+    "options": {
+      "A": "Mempertimbangkan barang kesukaan relasi anda.",
+      "B": "Uang yang anda miliki.",
+      "C": "Kemampuan anda membeli sesuatu dan kesukaan relasi anda.",
+      "D": "Kemampuan anda membeli sesuatu dan kesukaan anda sendiri.",
+      "E": "Barang yang mewah."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 14,
+    "question": "Seorang teman baik anda yang akan menikah mengundang anda untuk mengikuti pesta lajang. Menurut tradisi keluarganya, ketika pesta biasanya mengonsumsi alkohol agar dapat berdansa sesuka hati. Adapun keyakinan anda tidak mengonsumsi alkohol. Bagaimana dengan sikap anda terhadap kegiatan tadi …",
+    "image": null,
+    "options": {
+      "A": "Menghadiri pesta dan mengikuti tradisi tadi sekali saja.",
+      "B": "Tidak menghadiri pesta tanpa melakukan konfirmasi sama sekali terhadap teman baik anda.",
+      "C": "Menghadiri pesta dan kemudian memberi ucapan selamat tanpa mengikuti tradisi tersebut.",
+      "D": "Menghubungi teman tersebut dan memohon maaf tidak dapat menghadiri pesta lajang.",
+      "E": "Menghadiri pesta tersebut, kemudian memberikan hadiah, dan meninggalkan lokasi pesta."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 15,
+    "question": "Anda merupakan seorang guru di Sekolah Menengah Atas (SMA) negeri. Pemerintah menciptakan program pelatihan yang disebut dengan &#8220;Guru Belajar&#8221; untuk meningkatkan kompetensi guru. Para guru dapat mengikuti beberapa pelatihan melalui portal yang telah disediakan dan nantinya memperoleh sertifikat. Apa sikap anda terkait program tersebut…",
+    "image": null,
+    "options": {
+      "A": "Segera mengikuti program agar kompetensi anda meningkat dan nantinya dapat disebarkan kepada guru yang lain.",
+      "B": "Bersikap biasa saja karena tidak mempengaruhi numerasi gaji anda.",
+      "C": "Tidak perlu mengikuti karena anda tidak memiliki kuota internet.",
+      "D": "Mengikuti program agar dapat memperoleh sertifikat sebanyak mungkin.",
+      "E": "Mengikuti program bila rekan-rekan yang lain juga mengikuti program tersebut."
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 16,
+    "question": "Anda adalah salah seorang audit internal di Kementerian Sosial. Oleh pimpinan, anda diminta melakukan pemeriksaan data dan menemukan data ganda penerima bantuan sosial. Bila merujuk aturan, kejadian di atas tidak diperbolehkan. Apa yang bakal anda lakukan …",
+    "image": null,
+    "options": {
+      "A": "Berkoordinasi dengan Menteri Sosial supaya penerima bantuan sosial lebih diperketat.",
+      "B": "Melakukan perbaikan data penerima bantuan sosial supaya kejadian tersebut tidak terulang kembali.",
+      "C": "Meminta masyarakat jujur dan melaporkan kejadian serupa kepada Kementerian Sosial.",
+      "D": "Melaporkan kejadian tersebut kepada atasan anda.",
+      "E": "Melakukan verifikasi dan validasi data penerima bantuan sosial di lapangan dengan data komputer."
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 17,
+    "question": "Dua pekan yang lalu, anda mengalami kecelakaan yang cukup hebat. Kecelakaan tersebut membuat anda harus menjalani istirahat di rumah. Pimpinan anda memperbolehkan anda mengerjakan laporan dari rumah. Sayangnya anda mengalami kesulitan mengetik laporan karena tangan anda belum pulih total. Dengan perkembangan teknologi saat ini, tindakan apa yang bakal anda lakukan.....",
+    "image": null,
+    "options": {
+      "A": "Menyewa orang lain untuk membantu anda.",
+      "B": "Meminta toleransi dari pimpinan untuk memperpanjang masa pemulihan anda.",
+      "C": "Menggunakan jasa pengetikan.",
+      "D": "Memanfaatkan fitur voice-command pada perangkat anda agar pesan automasi terketik dengan sendirinya.",
+      "E": "Memanfaatkan perekam suara untuk penyelesaian laporan kantor."
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 18,
+    "question": "Menurut anda, kerja keras dan ketelitian merupakan wujud konkret anda menjadi pribadi yang bermanfaat. Berkaitan dengan hal tersebut, anda senang melakukan....",
+    "image": null,
+    "options": {
+      "A": "Bekerja tanpa mengenal lelah dan pamrih.",
+      "B": "Pekerjaan yang menumbuhkan kreativitas baru.",
+      "C": "Pekerjaan yang sangat menantang.",
+      "D": "Pekerjaan yang rutin.",
+      "E": "Bekerja dengan standar yang tinggi."
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 19,
+    "question": "Pada pukul 16.30 WIB, atasan anda menghampiri anda ke meja kerja untuk membuatkan jadwal rapat selama satu bulan ke depan. Tugas tadi membuat anda berpikir cukup keras dan mempertimbangkan banyak hal. Ketika anda belum menyelesaikan tugas membuatkan jadwal rapat, jam kantor menunjukkan pukul 17.00 WIB. Pukul 17.00 WIB merupakan jam akhir pekerjaan anda. Sikap anda yaitu.....",
+    "image": null,
+    "options": {
+      "A": "Memilih tidak melanjutkan tugas tersebut dan pulang ke rumah.",
+      "B": "Meminta pendapat atasan anda.",
+      "C": "Tetap menyelesaikan pekerjaan karena tanggung jawab anda.",
+      "D": "Menyampaikan hasil pekerjaan sekadarnya kepada pimpinan.",
+      "E": "Meminta bantuan rekan agar jadwal rapat satu bulan ke depan dapat selesai."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 20,
+    "question": "Anda merupakan pimpinan tertinggi dari perusahaan X. Anda mempunyai banyak anak buah, tetapi di antara anak buah tadi terdapat beberapa orang yang tidak hadir ke kantor dengan alasan yang jelas. Hal ini dikhawatirkan memicu kecemburuan anak buah anda yang lain. Apa yang akan anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Mengeluarkannya dari pekerjaan.",
+      "B": "Membiarkannya saja karena tidak berdampak sekali terhadap kinerja perusahaan.",
+      "C": "Menanggil anak buah tersebut dan menanyakan alasan tidak hadir ke kantor perusahaan.",
+      "D": "Memotong gaji anak buah yang tidak hadir ke kantor.",
+      "E": "Meminta anak buah tersebut menghentikan kebiasaan tidak hadir ke kantor agar anak buah yang lain tidak cemburu."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 21,
+    "question": "Ketika pemilihan Ketua Rukun Tetangga (RT), Pak Mahmud terpilih sebagai Ketua RT. Pak Mahmud ingin menolak karena ia sangat sibuk dengan pekerjaannya di kantor. Meskipun demikian, warga tetap meminta Pak Mahmud menjadi Ketua RT. Terkait situasi tadi, apa yang harus dilakukan oleh Pak Mahmud.....",
+    "image": null,
+    "options": {
+      "A": "Meyakinkan diri dapat menjalankan amanah dari warga sebaik-baiknya.",
+      "B": "Menerima proses demokrasi yang ada dan aktif meyakinkan warga bahwa mereka dapat mencapai tujuan bersama.",
+      "C": "Memberi alasan kesibukan dalam pekerjaan untuk membatalkan hasil pemilihan Ketua RT.",
+      "D": "Menunjukkan sikap tidak bersahabat kepada para tetangga yang memilihnya.",
+      "E": "Berpikir negatif bahwa warga telah memaksakan kehendak kepada dirinya menjadi Ketua RT."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 22,
+    "question": "Di kantor anda terjadi pertikaian beberapa pegawai yang dikhawatirkan dapat mempengaruhi kinerja perusahaan. Anda sebagai pegawai yang dipandang senior oleh pegawai yang lain diminta berupaya menyelesaikan pertikaian secara obyektif, maka upaya yang bakal anda lakukan adalah...",
+    "image": null,
+    "options": {
+      "A": "Memerintahkan pegawai yang bertikai menyelesaikan pertikaian di luar kantor.",
+      "B": "Membuat putusan secepatnya dan memberikan sanksi kepada pegawai yang bertikai.",
+      "C": "Meminta masukan dari pegawai yang tidak bertikai dan kemudian menasehatinya supaya berdamai.",
+      "D": "Berperan sebagai pihak penengah dalam menyelesaikan pertikaian antarpegawai.",
+      "E": "Memberikan hukuman kepada seluruh pegawai di kantor tanpa terkecuali."
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 23,
+    "question": "Di suatu ruang dalam perpustakaan, sekelompok orang mengadakan diskusi mengenai pentingnya penggunaan bahasa Indonesia. Sekolompok orang tersebut beranggapan lebih penting bahasa internasional daripada bahasa Indonesia. Anda yang berada di sekitar ruangan tidak sengaja mendengarkan diskusi tersebut, maka sikap anda terkait dengan peristiwa tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Menegur kelompok diskusi tersebut dengan sopan santun.",
+      "B": "Mencoba menjelaskan pentingnya mengutamakan penggunaan bahasa Indonesia daripada bahasa internasional.",
+      "C": "Menanyakan alasan kelompok diskusi memilih bahasa internasional.",
+      "D": "Mencoba berbaur dengan kelompok diskusi dan memberitahu pentingnya menggunakan bahasa Indonesia.",
+      "E": "Membiarkan hal tersebut dan berencana menjadikan hasil diskusi sebagai karya tulis ilmiah."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 24,
+    "question": "Anda baru dipindah tugaskan ke suatu daerah terpencil. Anda juga mengetahui pemerintah kini sedang gencar-gencarnya memberikan sosialisasi untuk tidak melakukan eksploitasi hewan secara sembarangan. Di daerah tempat bekerja anda, terdapat kebiasaan masyarakat mengonsumsi kucing. Apa yang hendak anda lakukan …",
+    "image": null,
+    "options": {
+      "A": "Menyampaikan kejadian tersebut kepada pemerintah.",
+      "B": "Mencoba memahami kebiasaan masyarakat setempat.",
+      "C": "Mendokumentasikannya dan memberi tahu rekan kerja yang lain.",
+      "D": "Mendokumentasikan kebiasaan masyarakat tersebut.",
+      "E": "Menjelaskan kepada kepala daerah setempat terkait adanya larangan pemerintah."
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 25,
+    "question": "Anda ialah seorang tenaga kesehatan di sebuah rumah sakit milik pemerintah. Selama libur Idul Fitri, jumlah pasien positif Coronavirus Disease 2019 (Covid-19) mengalami peningkatan sangat tajam. Tingkat keterisian tempat tidur di rumah sakit pun mengalami hal yang sama. Akhirnya, anda diminta bekerja lembur dan acapkali tidak memperoleh hari libur atau cuti. Apa yang akan anda lakukan …",
+    "image": null,
+    "options": {
+      "A": "Melayani pasien sekadarnya saja.",
+      "B": "Meminta izin untuk pergi berlibur agar dapat beristirahat.",
+      "C": "Tetap melayani dan merawat pasien dengan sepenuh hati.",
+      "D": "Melayani pasien dengan terpaksa karena tuntutan profesi.",
+      "E": "Sebisa mungkin menghindari tugas merawat pasien agar tidak terlalu lelah dalam bekerja."
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 26,
+    "question": "Anda merupakan karyawan di sebuah perusahaan multinasional. Anda memperoleh fasilitas perusahaan berupa komputer dan meja kerja di kantor. Ketika anda memasukkan diska lepas, komputer kerja anda tiba-tiba mengalami error akibat virus dari diska lepas tadi. Dengan demikian, apa tindakan yang anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Mencabut diska lepas dan berpura-pura tidak tahu apa yang terjadi.",
+      "B": "Mencabut diska lepas dan melaporkannya kepada teknisi kantor.",
+      "C": "Membiarkan komputer mengalami error.",
+      "D": "Mencoba membersihkan komputer tersebut terlebih dahulu dan apabila tidak bisa baru melaporkannya kepada teknisi kantor.",
+      "E": "Meminta bantuan kepada rekan kerja yang lain."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 27,
+    "question": "Anda adalah seorang kepala kantor cabang perusahaan. Sebagai seorang pimpinan, anda telah terbiasa hadir lebih dahulu daripada pegawai kantor yang lain. Suatu ketika salah seorang pelanggan hadir sebelum jam operasional kantor dimulai dan menyatakan kepada anda pergi ke luar negeri. Apa sikap anda terkait dengan kejadian tersebut …",
+    "image": null,
+    "options": {
+      "A": "Melayani sebatas kemampuan anda sebagai pimpinan.",
+      "B": "Membiarkan pelanggan menunggu karena hadir di kantor sebelum jam operasional dimulai.",
+      "C": "Meminta pelanggan tersebut menunggu jam operasional kantor dimulai.",
+      "D": "Anda segera melayani keperluannya.",
+      "E": "Meminta pegawai yang telah datang untuk melayani pelanggan tersebut."
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 28,
+    "question": "Pada pukul 11.00 WIB, anda diminta hadir dalam wawancara oleh perusahaan yang anda impikan selama ini. Di tengah perjalanan, anda melihat seseorang mengalami kecelakaan dengan luka berat. Waktu pada jam tangan anda menunjukkan pukul 10.40 WIB dan letak kantor perusahaan anda berjarak sekitar dua ratus meter dari tempat kecelakaan. Bagaimana sikap anda terhadap peristiwa tersebut…",
+    "image": null,
+    "options": {
+      "A": "Tetap melanjutkan perjalanan agar tepat waktu tiba di kantor perusahaan.",
+      "B": "Tetap melanjutkan perjalanan setelah anda memastikan ada orang lain yang membantu korban kecelakaan.",
+      "C": "Mengejar pelaku tabrak lari dan memintanya bertanggung jawab mengantarkan korban kecelakaan ke rumah sakit.",
+      "D": "Mengabaikan korban kecelakaan di tepi jalan raya.",
+      "E": "Menolong dan membawa korban kecelakaan ke rumah sakit terdekat."
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 29,
+    "question": "Saat atasan saya memberikan masukan tentang pekerjaan, saya akan.........",
+    "image": null,
+    "options": {
+      "A": "Mentaatinya dengan patuh, karena seorang atasan pasti lebih tahu pekerjaan dibawahnya",
+      "B": "Menolaknya karena tidak sesuai dengan cara saya bekerja",
+      "C": "Menolaknya karena tidak sesuai dengan sistem kerja namun tetap mendengar masukan atasan saya",
+      "D": "Atasan juga manusia, sehingga mungkin saja dia salah dalam memberikan masukan"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4
+    }
+  },
+  {
+    "id": 30,
+    "question": "Pekerjaan saya sangat banyak, sementara teman-teman saya yang lain sedang bersantai karena tidak ada pekerjaan, sikap saya....",
+    "image": null,
+    "options": {
+      "A": "Meminta kepada atasan saya menyuruh pegawai lain membantu pekerjaan saya",
+      "B": "Meminta kepada teman-teman saya untuk membantu",
+      "C": "Meminta kepada teman saya untuk membantu dan nantinya jika dia mengalami kesulitan maka saya akan membantunya",
+      "D": "Mengerjakan sendiri, sehingga hasilnya dapat dipertanggung jawabkan",
+      "E": "Mencoba berdiskusi tercepat menyelesaikanya, namun jika tidak bersedia membantu saya akan tetap mengerjakanya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 31,
+    "question": "Salah satu dari anggota tim kerja saya tidak serius dalam mengerjakan suatu pekerjaan yang sangat penting. saya selaku ketua kelompok .....",
+    "image": null,
+    "options": {
+      "A": "menegurnya untuk lebih bertanggung jawab dalam pekerjaannya",
+      "B": "memberikan surat peringatan, jika masih tidak mengindahkan maka saya akan lapor kepada atasan",
+      "C": "Perlu, karena informasi itu perlu dihargai",
+      "D": "Sangat perlu karena hal tersebut bentuk etika dan agar semua orang memahami",
+      "E": "Tergantung apakah informasi ini cukup penting atau tidak"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 32,
+    "question": "Apakah anda merasa perlu menarik minat orang lain untuk mendengarkan pembicaraan anda…",
+    "image": null,
+    "options": {
+      "A": "Tidak, yang penting anda telah menyampaikan",
+      "B": "Tidak, yang penting mereka mengetahui",
+      "C": "Tergantung apakah informasi ini cukup penting atau tidak",
+      "D": "Perlu, karena informasi itu perlu dihargai",
+      "E": "Sangat perlu karena hal tersebut bentuk etika dan agar semua orang memahami"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 33,
+    "question": "Dalam mengambil keputusan biasanya anda....",
+    "image": null,
+    "options": {
+      "A": "Memutuskan bersama-sama",
+      "B": "Memaksakan kehendak",
+      "C": "Membiarkan apapun keputusanya",
+      "D": "Mengikuti yang terbanyak",
+      "E": "Cukup mengutarakan ide dan pendapat"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 34,
+    "question": "Anda diminta oleh direktur perusahaan untuk menjadi ketua sekaligus penanggungjawab sebuah tim di kantor anda, padahal anda merasa belum pantas sebab masih ada manajer yang anda anggap mampu. Sikap yang harus anda lakukan adalah......",
+    "image": null,
+    "options": {
+      "A": "Menolak permintaan direktur tersebut",
+      "B": "Mempertimbangkan permintaan tersebut dan meminta saran/masukan dari manajer anda",
+      "C": "Menerima permintaan tersebut dengan senang hati",
+      "D": "Menolak permintaan dan mengusulkan manajer anda saja kepada direktur",
+      "E": "Menerima tawaran tersebut agar anda bisa naik jabatan sejajar manajer anda"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 35,
+    "question": "Anda telah mempersiapkan diri dengan baik sebelum melakukan presentasi di kantor besok pagi, anda akan......",
+    "image": null,
+    "options": {
+      "A": "Anda yakin besok presentasi berjalan dengan baik, namun anda tetap melaksanakan dengan maksimal",
+      "B": "Meski begitu cemas kalau ternyata besok anda presentasi kurang lancar",
+      "C": "Anda pasrah jika ada kendala",
+      "D": "Tidak mungkin presentasi anda tidak lancar",
+      "E": "Tapi mungkin saja presentasi anda terganggu hal lain"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 36,
+    "question": "Setelah mematangkan rencana......",
+    "image": null,
+    "options": {
+      "A": "Anda masih khawatir apakah rencana tersebut berhasil",
+      "B": "Berhasil tidaknya tak lepas dari pihak lain juga",
+      "C": "Manusia berusaha sebaik-baiknya dan Tuhan yang menentukan",
+      "D": "Bagaimanapun caranya rencana harus berhasil",
+      "E": "Anda meminta pendapat orang lain lebih dahulu, sebab pendapat banyak orang lebih baik daripada pendapat satu orang"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 37,
+    "question": "Anda sekarang menghadapi ujian akhir, namun anda tidak bisa hadir ujian akibat sakit dan dosen anda tidak menawarkan sebuah ujian susulan...",
+    "image": null,
+    "options": {
+      "A": "Cuek saja",
+      "B": "Anda menghadap beliau untuk meminta ujian susulan",
+      "C": "Anda menyadari bila anda tidak mengikuti ujian mungkin anda tidak akan lulus",
+      "D": "Seharusnya dosen tahu bahwa anda sedang sakit sehingga berhalangan hadir",
+      "E": "Anda mungkin akan mengikuti ujian susulan kalau dadakan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 38,
+    "question": "Ada pekerjaan yang terbengkalai karena orang yang seharusnya berperan ternyata pindah kerja, maka anda....",
+    "image": null,
+    "options": {
+      "A": "Langsung mengerjakan pekerjaan tersebut dan baru akan memberitahu atasan setelah pekerjaan itu selesai.",
+      "B": "Langsung mengerjakan pekerjaan tersebut, karena bila terbengkalai terlalu lama akan mengganggu proses kerja.",
+      "C": "Melakukan hanya apa yang dilakukan oleh atasan",
+      "D": "Menyarankan orang lain untuk menuruti perintah anda dalam mengerjakan perintah itu.",
+      "E": "Menyarankan dan merekomendasikan hal-hal yang diperlukan, namun tak bertindak sebelum disetujui atasan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 39,
+    "question": "Menurut anda bagaimana usulan yang baik didalam sebuah rapat....",
+    "image": null,
+    "options": {
+      "A": "Disampaikan secara terbuka dan jelas didalam forum tersebut",
+      "B": "Sampaikan secara diam-diam",
+      "C": "Disampaikan melalui perantara rekan kerja",
+      "D": "Disampaikan secara sembunyi-sembunyi kepada pimpinan langsung",
+      "E": "Menyuruh seseorang untuk menyampaikan"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 40,
+    "question": "Anda sedang sakit kepala namun hari itu banyak klien yang datang ke kantor menemui anda, maka anda akan...",
+    "image": null,
+    "options": {
+      "A": "Meninggalkan klien-klien tersebut dan beristirahat",
+      "B": "Meminta rekan anda untuk menemui mereka",
+      "C": "Meminta rekan anda untuk menyampaikan kepada mereka bahwa anda tidak enak badan",
+      "D": "Menemui mereka meskipun melelahkan",
+      "E": "Beristirahat dulu sebelum menemui mereka"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 41,
+    "question": "Bagi saya untuk menjadi PNS yang sukses, saya harus...",
+    "image": null,
+    "options": {
+      "A": "Mengikuti perintah pimpinan secara loyal",
+      "B": "Melakukan pekerjaan dengan baik dan sesuai standar",
+      "C": "Mengembangkan hal-hal baru",
+      "D": "Membina hal baik dengan setiap orang",
+      "E": "Bekerja berdasarkan imbalan yang diberikan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 42,
+    "question": "Saat berbicara dengan orang lain, saya cenderung ....",
+    "image": null,
+    "options": {
+      "A": "Memelankan suara saya jika orang tersebut lebih tua",
+      "B": "Berusaha akrab dengan menggunakan bahasa yang tidak kaku/baku",
+      "C": "Menatap matanya untuk memberikan kesan bahwa saya memperhatikan dengan baik",
+      "D": "Tidak banyak bicara dan acuh",
+      "E": "Berbicara secara lugas sehingga jelas dan singkat"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 43,
+    "question": "Ketika anda ingin pergi bersama kawan lama, tiba-tiba anda teringat bahwa anda harusnya menghadiri rapat karang taruna. Maka yang anda lakukan adalah.....",
+    "image": null,
+    "options": {
+      "A": "Segera pulang ke rumah",
+      "B": "Tetap bermain bersama teman",
+      "C": "Mematikan telepon seluler",
+      "D": "Menyuruh adik anda untuk menggantikan",
+      "E": "Absen dari rapat karang taruna"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 44,
+    "question": "Ketika anda sedang mengantri di kasir, anda melihat seorang nenek ikut mengantri dibelakang anda, maka tindakan anda adalah....",
+    "image": null,
+    "options": {
+      "A": "Tetap mengikuti antrian",
+      "B": "Mundur dari antrian dan kembali bekerja",
+      "C": "Memberikan prioritas bagi nenek tersebut",
+      "D": "Meminta orang lain untuk mengalah",
+      "E": "Mempercepat waktu transaksi"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 45,
+    "question": "Telepon berdering dari meja rekan anda yang tidak ada ditempat, sedangkan anda sedang sibuk dengan pekerjaan, maka reaksi anda adalah...",
+    "image": null,
+    "options": {
+      "A": "Mencabut telepon",
+      "B": "Tidak mengangkat telepon",
+      "C": "Mengangkat telepon kemudian mencatat pesan dari penelepon",
+      "D": "Memanggil rekan anda untuk segera ke meja",
+      "E": "Menjawab telepon dengan jawaban singkat"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 46,
+    "question": "Ketika anda sedang bersantai depan teras, anda melihat tetangga sedang membetulkan atap rumahnya. Maka reaksi anda adalah...",
+    "image": null,
+    "options": {
+      "A": "Kembali masuk kedalam rumah",
+      "B": "Menawarkan bantuan",
+      "C": "Menyarankan agar menggunakan jasa renovasi rumah",
+      "D": "Menonton dari kejauhan",
+      "E": "Melihat aktivitas tersebut sambil berbincang kepadanya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 47,
+    "question": "Anda lebih memilih untuk menghabiskan liburan di...",
+    "image": null,
+    "options": {
+      "A": "Eropa",
+      "B": "Singapura",
+      "C": "Jayapura",
+      "D": "Bali",
+      "E": "Rumah saja"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 48,
+    "question": "Era milenium ketiga menjadikan perubahan dunia terjadi begitu cepat. Perubahan tersebut merambat dalam kehidupan sehari-hari, maka saya...",
+    "image": null,
+    "options": {
+      "A": "Mengikuti perkembangan teknologi dari media masa",
+      "B": "Mempelajari cara pengoprasioan komputer",
+      "C": "Meminta orang tua untuk melengkapi barang-barang elektronik",
+      "D": "Berusaha mempelajari buku pengetahuan yang baru",
+      "E": "Berusaha menguasai keterampilan di bidang teknologi informasi"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 49,
+    "question": "Anda senang menjadi PNS karena...",
+    "image": null,
+    "options": {
+      "A": "Pekerjaannya santai",
+      "B": "Gajinya terjamin",
+      "C": "Anda bisa bolos kapan saja",
+      "D": "Masa tua terjamin dengan pensiun tiap bulan",
+      "E": "Persaingannya tidak begitu tinggi"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 50,
+    "question": "Anda memutuskan menjadi seorang PNS. Berarti anda...",
+    "image": null,
+    "options": {
+      "A": "Siap dilayani oleh masyarakat",
+      "B": "Siap melayani masyarakat",
+      "C": "Siap ditempatkan dimanapun",
+      "D": "Siap digaji berapapun",
+      "E": "Siap dipandang hormat oleh masyarakat"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 51,
+    "question": "Saya dikenal oleh rekan-rekan sekantor saya sebagai orang yang.....",
+    "image": null,
+    "options": {
+      "A": "Mudah panik",
+      "B": "Mudah emosi",
+      "C": "Murah senyum",
+      "D": "Suka melucu",
+      "E": "Cenderung pendiam"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 52,
+    "question": "Menurut anda, jika ada seorang yang sedang marah sebaiknya anda.....",
+    "image": null,
+    "options": {
+      "A": "Tidak ikut marah",
+      "B": "Diam saja",
+      "C": "Menyuruhnya duduk",
+      "D": "Menyuruhnya minum dan mencuci muka",
+      "E": "Pergi dari hadapanya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 53,
+    "question": "Saya senang jika saya marah orang akan......",
+    "image": null,
+    "options": {
+      "A": "Membujuk saya",
+      "B": "Memarahi saya",
+      "C": "Pergi dari hadapan saya",
+      "D": "Diam saja dan mendengarkan saya",
+      "E": "Melakukan apa yang saya minta"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 54,
+    "question": "Ketika atasan saya menyuruh saya untuk mengerjakan pekerjaan yang risikonya besar, maka saya akan....",
+    "image": null,
+    "options": {
+      "A": "Takut dan menolaknya",
+      "B": "Takut namun tetap menerimanya",
+      "C": "Menerimanya dan meminta doanya",
+      "D": "Menerimanya dan yakin saya pasti bisa",
+      "E": "Menerimanya jika atasan tetap bersikeras"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 55,
+    "question": "Agar sesuatu kegiatan berhasil saya laksanakan, saya akan...",
+    "image": null,
+    "options": {
+      "A": "Minta bimbingan guru dalam melaksanakan kegiatan tersebut",
+      "B": "Mempelajari jenis kegiatan tersebut sebelum memulai kegiatan",
+      "C": "Mencontoh orang lain yang terlebih dahulu sukses",
+      "D": "Menyesuaikan dengan kondisi yang ada",
+      "E": "Menggunakan cara yang bisa saya pakai"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 56,
+    "question": "Jika anda sedang memiliki banyak pekerjaan dan atasan anda memberi pekerjaan yang baru lagi padahal pekerjaan yang lama belum selesai, maka anda akan....",
+    "image": null,
+    "options": {
+      "A": "Menerimanya dan mengatakan bahwa pekerjaan sebelumnya belum selesai",
+      "B": "Menerimanya dan meminta rekan kerja anda untuk menyelesaikannya",
+      "C": "Memintanya untuk memberikan pekerjaan tersebut kepada rekan kerja anda yang lain",
+      "D": "Menolaknya karena anda sudah memiliki banyak pekerjaan",
+      "E": "Menolaknya karena anda ingin memberikan pekerjaan juga kepada rekan yang lain"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 57,
+    "question": "Jika sudah tidak memiliki pekerjaan apapun dikantor, maka anda akan...",
+    "image": null,
+    "options": {
+      "A": "Bersantai santai hingga datang pekerjaan selanjutnya",
+      "B": "Tidak mungkin karena pekerjaan saya tidak ada habisnya",
+      "C": "Meminta pekerjaan kepada atasan anda",
+      "D": "Menawarkan diri kepada rekan kerja anda yang kerepotan",
+      "E": "Menikmati keadaan kantor saja sebelum anda sibuk"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 58,
+    "question": "Anda ingin nilai ujian anda...",
+    "image": null,
+    "options": {
+      "A": "Memuaskan",
+      "B": "Melebihi batas kelulusan",
+      "C": "Sempurna",
+      "D": "Bisa dibanggakan",
+      "E": "Biasa saja"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 59,
+    "question": "Anda akan berhenti menuntut ilmu jika....",
+    "image": null,
+    "options": {
+      "A": "Sudah tua",
+      "B": "Sudah menjadi pejabat",
+      "C": "Sudah bukan PNS lagi",
+      "D": "Sudah meninggal",
+      "E": "Sudah merasa cukup"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 60,
+    "question": "Apakah anda menyediakan waktu sebagai pendengar yang baik untuk orang sekitar anda?",
+    "image": null,
+    "options": {
+      "A": "Sangat sering",
+      "B": "Cukup sering",
+      "C": "Jarang",
+      "D": "Tidak pernah",
+      "E": "Hanya beberapa waktu"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 61,
+    "question": "Bagaimana strategi anda membangun loyalitas tim anda......",
+    "image": null,
+    "options": {
+      "A": "Selalu menjamu dengan baik",
+      "B": "Kedekatan personal dan pribadi",
+      "C": "Membiarkan orang lain tahu mereka diinginkan",
+      "D": "Membuat kedekatan seperti keluarga",
+      "E": "Peraturan yang mengikat"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 62,
+    "question": "Dalam keseharian.....",
+    "image": null,
+    "options": {
+      "A": "Saya sering curhat ke orang lain.",
+      "B": "Orang lain sering curhat ke saya",
+      "C": "Tak perlu saya curhat, biarlah masalah itu saya tanggung sendiri",
+      "D": "Saya tidak ingin menjadi tempat curhat orang lain karena hanya membebani",
+      "E": "Mungkin curhat itu diperlukan pikiran saya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 63,
+    "question": "Seorang kawan di kantor sering meminta untuk diajari hal-hal seputar pekerjaan yang belum diketahuinya, maka saya.....",
+    "image": null,
+    "options": {
+      "A": "Mengajarinya cukup sekali saja",
+      "B": "Mengajarinya dan menyarankannya membaca buku yang dapat membantu meningkatkan profesional pekerjaan",
+      "C": "Memintanya agar belajar mandiri",
+      "D": "Mengajari kalau memang saya memiliki waktu yang sangat longgar",
+      "E": "Memintanya dengan tegas agar belajar sendiri, karena itulah inti tanggung jawab"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 64,
+    "question": "Anda mendapati bawahan anda kurang bahkan jauh dari dibawah ekpektasi yang diinginkan. Sikap anda sebagai atasan......",
+    "image": null,
+    "options": {
+      "A": "Membiarkan hal itu terjadi",
+      "B": "Menegur dan menasehatinya dengan baik sembari terus menyemangati",
+      "C": "Memerintahkan pegawai lain untuk menggantikan",
+      "D": "Memarahinya akibat yang diperbuat",
+      "E": "Menghardiknya di depan umum"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 65,
+    "question": "Ayah sahabat anda mengalami serangan jantung dan masuk rumah sakit, maka.....",
+    "image": null,
+    "options": {
+      "A": "Saya percaya dokter RS mampu menangani dengan baik",
+      "B": "Saya akan menjenguknya ketika ada waktu yang benar-benar longgar",
+      "C": "Saya akan menjenguknya",
+      "D": "Saya menanyakan apakah kondisinya memang parah",
+      "E": "Saya berharap semoga lekas sembuh"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 66,
+    "question": "Ada pegawai baru bersikap tidak sopan terhadap anda. Yang akan anda lakukan adalah...",
+    "image": null,
+    "options": {
+      "A": "Ikut bersikap tidak ramah dan memusuhinya",
+      "B": "Melapor pada atasan",
+      "C": "Ingatkan dengan baik dan lebih ramah",
+      "D": "Tidak perlu ikut campur, bukan urusan anda",
+      "E": "Mendoakan yang terbaik untuk pegawai baru tersebut"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 67,
+    "question": "Rekan kerja anda sering meninggalkan pekerjaan di saat jam kerja. Melihat kejadian tersebut, tindakan yang akan anda lakukan adalah......",
+    "image": null,
+    "options": {
+      "A": "Menanyakan alasan setiap rekan saya meninggalkan pekerjaan",
+      "B": "Langsung melaporkan pada atasan",
+      "C": "Menasehati dan bila tidak terjadi perubahan segera melaporkan kejadian tersebut",
+      "D": "Menyindir rekan kerja supaya tidak mengulanginya",
+      "E": "Memusuhinya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 68,
+    "question": "Anda dipercaya untuk mendistribusikan bantuan kepada warga yang kurang mampu. Anda kekurangan tenaga karena karyawan lain harus tetap berada di kantor. Agar pendistribusian bantuan lancar, yang akan anda lakukan adalah....",
+    "image": null,
+    "options": {
+      "A": "Membagikan bantuan sendiri",
+      "B": "Menyerahkan bantuan tersebut kepada ketua RT atau RW",
+      "C": "Meminta bantuan warga",
+      "D": "Menghitung jumlah bantuan yang akan diterima",
+      "E": "Memberikan sejumlah uang agar mudah dan cepat"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 69,
+    "question": "Di kantor anda beberapa peralatan yang tidak berfungsi (rusak), namun hanya anda yang mengetahui. Apa tindakan anda.....",
+    "image": null,
+    "options": {
+      "A": "Anda akan diam saja karena jika anda melaporkan hal ini ke bagian perlengkapan, maka akan dikira anda yang telah merusaknya",
+      "B": "Anda beritahu rekan kerja terdekat anda",
+      "C": "Anda menginvestigasi siapa yang telah merusaknya",
+      "D": "Anda melaporkan kepada bagian perlengkapan agar diambil tindakan seperlunya",
+      "E": "Tugas anda masih banyak, jadi tak ada waktu mengurusi hal tersebut"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 70,
+    "question": "Pernyataan yang sering anda katakan tentang pakaian kerja anda.....",
+    "image": null,
+    "options": {
+      "A": "Rapi dan nyaman",
+      "B": "Rapi dan menarik",
+      "C": "Menarik dan nyaman",
+      "D": "Nyaman",
+      "E": "Apa adanya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 71,
+    "question": "Setelah mendapat penghargaan sebagai pegawai paling berprestasi tahun ini, anda.....",
+    "image": null,
+    "options": {
+      "A": "Puas dengan penghargaan tersebut",
+      "B": "Merasa tidak percaya bila anda mendapatkan penghargaan tersebut",
+      "C": "Memberitahukan kepada seluruh keluarga berita bahagia ini",
+      "D": "Anda bertanya-tanya mungkinkah tahun depan akan mendapatkanya lagi",
+      "E": "Anda senang dan berupaya untuk lebih berprestasi lagi"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 72,
+    "question": "Anda bekerja tekun dan sering lembur untuk mengerjakan suatu pekerjaan karena....",
+    "image": null,
+    "options": {
+      "A": "Atasan anda menjanjikan reward untuk pegawai yang paling tekun",
+      "B": "Pekerjaan anda sangat banyak sehingga anda berusaha menyelesaikanya dalam sehari",
+      "C": "Anda adalah perfeksionis, anda tidak bisa meninggalkan pekerjaan anda begitu saja",
+      "D": "Anda ingin hasil pekerjaan anda diakui oleh kantor",
+      "E": "Anda ingin segera mendapatkan promosi untuk segera naik jabatan"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 73,
+    "question": "Jika bekerja adalah upaya untuk meraih kesuksesan, anda akan.....",
+    "image": null,
+    "options": {
+      "A": "Bekerja dengan disiplin dan selalu berusaha memberikan yang terbaik",
+      "B": "Berusaha menyingkirkan orang-orang yang menghalangi upaya anda",
+      "C": "Bekerja keras membanting tulang",
+      "D": "Bekerja lembur sampai malam",
+      "E": "Bekerja sesuai porsi dan seperlunya saja"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 74,
+    "question": "Anda menyukai fotografi. Suatu ketika kantor anda mengadakan lomba fotografi. Yang anda lakukan adalah.....",
+    "image": null,
+    "options": {
+      "A": "Mengikuti kompetisi tersebut hanya bila yakin menang",
+      "B": "Berusaha mengalahkan pesaing anda dengan tidak sehat",
+      "C": "Tidak mengikutinya karena takut kalah",
+      "D": "Mempelajari teknik terbaru fotografi dan berusaha yang terbaik",
+      "E": "Mempengaruhi rekan yang lain agar tidak mengikuti lomba"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 75,
+    "question": "Kinerja organisasi berjalan cukup efisien, namun pimpinan terkesan mengontrol situasi dengan sangat ketat. Sikap anda adalah.....",
+    "image": null,
+    "options": {
+      "A": "Tidak bertindak apapun, cukup dengan mengikuti jalannya arus",
+      "B": "Mengusahakan keterlibatan pegawai dalam pengambilan keputusan",
+      "C": "Mengabaikan saja",
+      "D": "Melakukan apa saja yang dapat dikerjakan untuk membuat pegawai merasa penting dan dilibatkan",
+      "E": "Mengingatkan pentingnya batas waktu dan tugas kepada atasan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 76,
+    "question": "Tim anda adalah tim terbaik tahun lalu. Tahun ini tim anda menginginkan predikat itu lagi, maka anda...",
+    "image": null,
+    "options": {
+      "A": "Berusaha dengan sungguh-sungguh mengerjakan semua tugas dengan baik",
+      "B": "Mencari kelemahan tim lain",
+      "C": "Mendekati atasan dan meminta dimenangkan lagi",
+      "D": "Mengadakan uji coba melawan tim lain",
+      "E": "Melakukan trial and error untuk menghadapi tim lain"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 77,
+    "question": "Anda ditugaskan di Front office untuk melayani tamu pimpinan. Pada saat pimpinan anda tidak berada di tempat dan ada tamu pimpinan yang memerlukan keputusan segera, sedangkan atasan tidak dapat dihubungi, maka sikap anda....",
+    "image": null,
+    "options": {
+      "A": "Mengambil keputusan meskipun tanpa petunjuk atasan selama tidak bertentangan dengan kebijakan umum pimpinan",
+      "B": "Tidak berani mengambil keputusan tanpa petunjuk atasan anda",
+      "C": "Ragu-ragu dalam mengambil keputusan tanpa petunjuk atasan anda",
+      "D": "Mengambil keputusan tanpa petunjuk atasan karena keadaan sangat mendesak"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4
+    }
+  },
+  {
+    "id": 78,
+    "question": "Organisasi anda sedang mengalami masalah internal, sikap anda....",
+    "image": null,
+    "options": {
+      "A": "Bagaimanapun juga publik berhak tahu, oleh karenanya anda beberkan masalah internal kepada publik",
+      "B": "Anda berusaha memberikan gagasan pemecahan masalah kepada pimpinan, sambil menjaga kerahasiaan masalah internal ini.",
+      "C": "Biarlah pimpinan yang mengambil keputusan",
+      "D": "Anda tentu saja berusaha menjaga keamanan posisi anda agar tidak terusik",
+      "E": "Anda berusaha agar diri anda jangan sampai terkena imbasnya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 79,
+    "question": "Ketika saya mengalami kesalahpahaman dengan teman sejawat, maka saya.....",
+    "image": null,
+    "options": {
+      "A": "Bingung sehingga saya tidak dapat tidur",
+      "B": "Merasa takut akan kehilangan teman",
+      "C": "Berusaha mencari informasi permasalahan yang sebenarnya",
+      "D": "Mengabulkannya hal itu hanya masalah kecil",
+      "E": "Tetap tenang dan yakin menyelesaikannya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 80,
+    "question": "Saya mengerjakan tugas koreksi laporan kantor yang harus selesai besok pagi. Tiba-tiba sahabat datang dengan muka cemberut dan tampaknya ingin curhat (mencurahkan isi hati) kepada saya. Atas kejadian itu saya…",
+    "image": null,
+    "options": {
+      "A": "Mendengarkan ceritanya dengan penuh perhatian",
+      "B": "Dengan menyesal tidak dapat mendengar keluhannya",
+      "C": "Terus mengoreksi laporan sambil sesekali mendengarkan ceritanya",
+      "D": "Menanggapi dan memberi berbagai alternatif penyelesaiannya",
+      "E": "Meneruskan koreksi laporan dan tidak memerdulikan keinginan teman saya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 81,
+    "question": "Salah seorang rekan kerja saya mendapat promosi sedangkan menurut penilaian saya kemampuannya tidak lebih baik dari saya. Respon saya ....",
+    "image": null,
+    "options": {
+      "A": "Menerima keadaan tersebut tetapi tidak akan mengikuti perintah rekan tersebut",
+      "B": "Menggunakan berbagai cara agar dapat menggeserkan posisi rekan tersebut",
+      "C": "Menghadap pimpinan dan memprotes promosi tersebut",
+      "D": "Bekerja lebih giat dan menunjukkan kinerja terbaik saya",
+      "E": "Tetap bekerja seperti biasa"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 82,
+    "question": "Saya ditugaskan untuk memimpin tim kerja dengan batas waktu yang sangat ketat. Anggota tim kerja memperlihatkan sikap tidak peduli dengan tugas yang diemban. Sikap saya …",
+    "image": null,
+    "options": {
+      "A": "Bekerja sendiri yang penting tugas selesai",
+      "B": "Mengancam mengeluarkan anggota yang tidak serius dari tim kerja",
+      "C": "Melaporkan mereka pada pimpinan agar diberi sanksi",
+      "D": "Membagi tugas secara adil dan memotivasi anggota untuk menyelesaikannya",
+      "E": "Menasehati mereka agar sadar akan penyelesaian tugas yang diembannya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 83,
+    "question": "Ketika proyek kerja yang saya pimpin tidak memberikan hasil optimal gara-gara ada satu anak buah saya yang melakukan kesalahan, maka....",
+    "image": null,
+    "options": {
+      "A": "Saya tidak dapat dipersalahkan",
+      "B": "Itu tidak termasuk dalam tanggung jawab saya",
+      "C": "Anak buah itu harus bertanggung jawab atas semuanya",
+      "D": "Bagaimanapun juga, sebagai pimpinan proyek saya pun ikut bertanggung jawab",
+      "E": "Hal itu menjadi kekeliruan anak buah saya semata"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 84,
+    "question": "Hampir semua pegawai dikantor instansi saya meminta uang tanda terimakasih atas pengurusan surat ijin tertentu. Namun menurut peraturan kantor, hal itu tidak diperbolehkan, maka saya…",
+    "image": null,
+    "options": {
+      "A": "Ikut melakukannya karena kawan-kawan kantor juga melakukannya",
+      "B": "Melakukannya hanya jika terpaksa membutuhkan uang tambahan untuk keperluan keluarga, sebab gaji kantor memang kecil",
+      "C": "Terkadang saya melakukan hal tersebut",
+      "D": "Berusaha semampunya untuk tidak melakukannya",
+      "E": "Tidak ingin melakukannya sama sekali"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 85,
+    "question": "Organisasi sedang mengalami permasalahan internal seputar manajemen keuangan. Pendapat saya terhadap kondisi ini …",
+    "image": null,
+    "options": {
+      "A": "Pastikan bahwa kepala keuangan bertanggung jawab penuh terhadap masalah ini",
+      "B": "Perlu membeberkan permasalahan kepada seluruh jajaran organisasi",
+      "C": "Saya akan menjaga kerahasiaan permasalahan yang terjadi dan mencoba memberikan alternatif solusi kepada pimpinan",
+      "D": "Seharusnya pimpinan puncak dapat menindak tegas yang terlibat dalam masalah ini",
+      "E": "Tidak mempersoalkan masalah tersebut karena bukan bagian tugas saya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 86,
+    "question": "Saya berhasil mengatasi tantangan terutama karena …",
+    "image": null,
+    "options": {
+      "A": "Saya mendapat bantuan dari lingkungan",
+      "B": "Saya tidak putus asa menghadapi kegagalan",
+      "C": "Nasib baik ada di tangan saya",
+      "D": "Saya berani mencoba hal-hal yang tidak beresiko",
+      "E": "Saya berani mencoba dengan segala resikonya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 87,
+    "question": "Jarak dari rumah ke tempat kerja 30 menit dengan bus. Tanpa ada pemberitahuan sebelumnya, kendaraan umum melakukan aksi mogok. Dalam kejadian ini saya...",
+    "image": null,
+    "options": {
+      "A": "Saya tetap menunggu siapa tahu seseorang yang akan memberi tumpangan",
+      "B": "Saya berusaha menyetop kendaraan yang lewat untuk mendapat tumpangan",
+      "C": "Saya akan berjalan kaki sedapat mungkin",
+      "D": "Lebih baik pulang dan tidak usah masuk kerja",
+      "E": "Saya akan berjalan kaki sambil berusaha mencari tumpangan"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 88,
+    "question": "Jika ada kesempatan berkompetisi dalam bidang yang saya senangi, maka saya …",
+    "image": null,
+    "options": {
+      "A": "Berusaha keras mengalahkan pesaing dengan mencari kelemahan mereka",
+      "B": "Lebih baik tidak usah ikut karena khawatir akan kalah",
+      "C": "Mengalahkan pesaing dengan meningkatkan diri",
+      "D": "Tidak ikut kompetisi",
+      "E": "Ikut hanya kalau ada kemungkinan menang"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 89,
+    "question": "Kerja keras dan cermat merupakan wujud upaya untuk menjadi pribadi yang bermanfaat bagi organisasi. Berkaitan dengan hal tersebut, saya senang.....",
+    "image": null,
+    "options": {
+      "A": "Pekerjaan yang menantang",
+      "B": "Bekerja tanpa mengenal lelah dan pamrih",
+      "C": "Bekerja dengan standar hasil yang tinggi",
+      "D": "Pekerjaan yang membutuhkan kreativitas baru",
+      "E": "Pekerjaan yang rutin"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 90,
+    "question": "Bagi saya untuk menjadi pegawai negeri sipil yang sukses, saya harus melakukan …",
+    "image": null,
+    "options": {
+      "A": "Menciptakan hubungan back dengan setiap orang, rekan kerja dan pimpinan",
+      "B": "Bekerja sesuai dengan ketentuan yang telah ditetapkan oleh pimpinan",
+      "C": "Mengikuti perintah dan arahan pimpinan secara loyal dan penuh kepatuhan",
+      "D": "Melakukan pekerjaan yang terbaik dengan standar kinerja yang tinggi",
+      "E": "Mengembangkan hal-hal baru yang belum pernah diciptakan sebelumnya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 91,
+    "question": "Menurut saya, bekerja merupakan upaya untuk meraih kesuksesan. Untuk itu upaya saya …",
+    "image": null,
+    "options": {
+      "A": "Bekerja dengan cermat dan berusaha menjadi terbaik dan diakui",
+      "B": "Berusaha menyingkirkan orang yang saya anggap menghalangi upaya saya",
+      "C": "Bekerja sampai larut malam",
+      "D": "Bekerja berdasarkan kontrak kerja",
+      "E": "Bekerja sepenuh hati"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 92,
+    "question": "Saya diutus mengikuti suatu diklat. Oleh panitia penyelenggara saya ditempatkan sekamar dengan orang yang tidak saya kenal yang berasal dari kota lain. Sikap saya …",
+    "image": null,
+    "options": {
+      "A": "Mengajukan keberatan dan minta ditempatkan dengan minimal orang yang dikenal",
+      "B": "Menerima aturan panitia dan berusaha mengenal dan memahami teman sekamar",
+      "C": "Mengajukan keberatan tetapi akhirnya menerima aturan panitia",
+      "D": "Protes keras dan minta ditempatkan sendiri saja",
+      "E": "Menerima aturan panitia"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 93,
+    "question": "Terjadi pergantian pimpinan di unit kerja saya. Sikap saya …",
+    "image": null,
+    "options": {
+      "A": "Berusaha mengenal dan memahami visi dan misi pimpinan baru",
+      "B": "Tidak berusaha mendekati pimpinan baru karena takut dicap penjilat",
+      "C": "Berusaha mengenal pribadi pimpinan baru",
+      "D": "Pergantian pimpinan itu sesuatu yang biasa",
+      "E": "Tidak peduli"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 94,
+    "question": "Saya menggunakan kendaraan dinas tanpa sepengetahuan Kepala Kendaraan pada hari libur. Secara tidak sengaja, saya menabrakkan kendaraan tersebut. Tindakan saya …",
+    "image": null,
+    "options": {
+      "A": "Mencoba memperbaiki sendiri kendaraan tersebut",
+      "B": "Melaporkan kejadian tersebut kepada pimpinan dan siap menerima hukuman/petunjuk dari pimpinan",
+      "C": "Membawa kendaraan tersebut ke bengkel atas biaya pribadi dan mengembalikannya dengan diam-diam",
+      "D": "Diam-diam menyimpan kendaraan tersebut karena tidak seorang pun yang tahu kalau saya menggunakannya",
+      "E": "Membawa kendaraan tersebut ke bengkel, melaporkan kejadian tersebut kepada pimpinan serta menyerahkan segala keputusan kepada pimpinan"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 95,
+    "question": "Agar suatu kegiatan berhasil saya laksanakan, saya akan …",
+    "image": null,
+    "options": {
+      "A": "Mencontoh orang lain yang sukses mengerjakan pekerjaan serupa",
+      "B": "Menyesuaikan dengan kondisi yang sedang berjalan",
+      "C": "Menggunakan cara yang biasa saya pakai",
+      "D": "Minta bimbingan guru dalam melaksanakan kegiatan tersebut",
+      "E": "Mempelajari jenis kegiatan tersebut sebelum memulai kegiatan"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 96,
+    "question": "Setelah bersusah-payah pada akhirnya tim kantor kami berhasil menjuarai kompetisi tahun ini. Agar dapat mempertahankan prestasi ini, kami akan …",
+    "image": null,
+    "options": {
+      "A": "Menambah latihan fisik untuk meningkatkan daya tahan tubuh",
+      "B": "Mempelajari kelemahan tim lawan untuk dapat mengalahkan mereka",
+      "C": "Melakukan pertandingan uji coba meningkatkan kemampuan kami",
+      "D": "Mempelajari teknik-teknik baru untuk persiapan kompetisi tahun depan",
+      "E": "Berlatih secara rutin dan terprogram"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 97,
+    "question": "Pada saat saya menghadiri pernikahan seorang kerabat dari luar kota, bersamaan dengan itu ada tugas kantor. Sedangkan minggu lalu saya sudah membolos, saya …",
+    "image": null,
+    "options": {
+      "A": "Akan meminta izin tidak dapat mengikuti tugas hari ini",
+      "B": "Akan mengerjakan tugas dengan sungguh-sungguh",
+      "C": "Memilih pergi dan berusaha sebaik mungkin pada tugas berikutnya",
+      "D": "Mempersiapkan diri sejak awal dan membicarakannya dengan pimpinan untuk menyelesaikan tugas di hari lain",
+      "E": "Akan melaksanakan tugas sungguh-sungguh dan inilah kesempatan untuk memperbaiki kinerja saya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 98,
+    "question": "Uang saya menipis. Seorang teman dekat mengeluh kehabisan uang. Saya akan …",
+    "image": null,
+    "options": {
+      "A": "Mengajaknya melakukan pekerjaan halal yang menghasilkan",
+      "B": "Menjajaki kemungkinan saudara saya untuk membantu",
+      "C": "Mencarikan pinjaman ke teman lain",
+      "D": "Mengatakan bahwa saya tidak mempunyai uang sama sekali",
+      "E": "Memberikan sebagian dari uang saya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 99,
+    "question": "Kalau saya membeli hadiah untuk teman, sebelum membeli saya akan mempertimbangkan....",
+    "image": null,
+    "options": {
+      "A": "Uang saya dan sedikit kesenangan teman saya",
+      "B": "Mengesampingkan keuangan saya",
+      "C": "Lebih memperhatikan kesenangan teman saya",
+      "D": "Uang yang saya miliki",
+      "E": "Kemampuan saya dan kesenangan teman saya"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 100,
+    "question": "Ketika teman kantor sedang membicarakan satu teman yang bermasalah, saya akan …",
+    "image": null,
+    "options": {
+      "A": "Meyakinkan teman-teman akan diperlukannya untuk dilakukan suatu tindakan",
+      "B": "Mengajukan usulan alternatif tindakan yang tepat",
+      "C": "Menyetujui saja, apa yang akan menjadi keputusan",
+      "D": "Membicarakan dengan teman dekat kemungkinan terbaik",
+      "E": "Mengajak teman-teman mempertimbangkan suatu tindakan tertentu"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 101,
+    "question": "Ketika sedang mengerjakan tugas bersama yang harus selesai pada hari itu, seorang teman akan meninggalkan terlebih dahulu, maka saya …",
+    "image": null,
+    "options": {
+      "A": "Mempersiapkan pergi",
+      "B": "Meminta pertimbangan teman yang lain",
+      "C": "Memintanya untuk mempertimbangkan",
+      "D": "Memaksa untuk tetap tinggal",
+      "E": "Membujuknya untuk menyelesaikan tugas"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 102,
+    "question": "Ketika saya harus menjelaskan sesuatu kepada orang lain hal yang terjadi adalah …",
+    "image": null,
+    "options": {
+      "A": "Orang memahami penjelasan saya",
+      "B": "Orang menjadi antusias atas penjelasan saya",
+      "C": "Tidak ada seorang pun yang memberikan tanggapan",
+      "D": "Kebanyakan orang ingin agar penjelasan tersebut diulang",
+      "E": "Sebagian orang masih meminta penjelasan"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 103,
+    "question": "Pada pertemuan keluarga dalam rangka merayakan hari raya, saya …",
+    "image": null,
+    "options": {
+      "A": "Berusaha memuaskan tamu dengan menjamu tamu sebaik-baiknya",
+      "B": "Menunggu kesempatan untuk mendapatkan tawaran bagi pengembangan masa depan saya",
+      "C": "Menjamu dengan tamah sambil menunjukkan kelemahan saya",
+      "D": "Berusaha menjajaki peluang untuk mendapatkan kesempatan pengembangan masa depan saya",
+      "E": "Mengarahkan pembicaraan pada hal-hal yang memungkinkan orang lain mengetahui kelebihan saya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 104,
+    "question": "Dalam melaksanakan suatu tugas yang dipercayakan kepada saya.....",
+    "image": null,
+    "options": {
+      "A": "Selalu menunggu keputusan pimpinan",
+      "B": "Berani mengambil keputusan karena tugas tersebut telah dipercayakan kepada saya",
+      "C": "Menyadari bahwa keputusan pimpinan diperlukan jika keputusan tersebut di luar wewenang saya",
+      "D": "Selalu mencari alternatif lain agar tidak mengambil keputusan sendiri",
+      "E": "Tidak berani mengambil keputusan sendiri"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 105,
+    "question": "Dalam suatu kepanitiaan di tempat kerja, tugas yang diberikan kepada saya hasilnya mengecewakan. Meskipun saya sudah berusaha, anggota lain menilai saya tidak mampu bekerja, maka saya…",
+    "image": null,
+    "options": {
+      "A": "Menyangkal penilaian tersebut",
+      "B": "Tersinggung merasa dipermalukan",
+      "C": "Berusaha menerima penilaian tersebut",
+      "D": "Sulit mengakui penilaian tersebut",
+      "E": "Menerima penilaian tersebut"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 106,
+    "question": "Saya berselisih pendapat dengan teman saya, sampai kami tidak berbicara beberapa hari, saya....",
+    "image": null,
+    "options": {
+      "A": "Menjadi kesepian dan tidak tahu harus bagaimana",
+      "B": "Memancing pembicaraan kembali",
+      "C": "Mencari gara-gara agar dia mau berbaikan kembali",
+      "D": "Saya minta maaf karena waktu itu saya tidak mendengarkannya",
+      "E": "Mengajaknya berbaikan dan minta maaf atas terjadinya perselisihan tersebut"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 107,
+    "question": "Sahabat ayah saya tiba-tiba masuk rumah sakit karena serangan jantung. Saya akan…",
+    "image": null,
+    "options": {
+      "A": "Berusaha tidak memikirkannya",
+      "B": "Menghibur keluarga semampu saya",
+      "C": "Tidak melanjutkan kegiatan saya",
+      "D": "Menemaninya untuk memberi dukungan",
+      "E": "Ikut bersedih dan terus memikirkannya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 108,
+    "question": "Menurut saya, bekerja merupakan upaya untuk meraih kesuksesan. Untuk itu upaya saya …",
+    "image": null,
+    "options": {
+      "A": "Bekerja sepenuh hati",
+      "B": "Bekerja sampai larut malam",
+      "C": "Bekerja berdasarkan perintah atasan",
+      "D": "Bekerja dengan cermat dan berusaha menjadi terbaik dan diakui",
+      "E": "Berusaha menyingkirkan orang yang saya anggap menghalangi upaya saya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 109,
+    "question": "Bagi saya, untuk menjadi pegawai negeri sipil yang sukses, saya harus......",
+    "image": null,
+    "options": {
+      "A": "Mengembangkan hal-hal baru yang belum pernah diciptakan sebelumnya",
+      "B": "Menciptakan hubungan baik dengan setiap orang, rekan kerja dan pimpinan",
+      "C": "Bekerja sesuai dengan ketentuan yang telah ditetapkan pimpinan",
+      "D": "Mengikuti perintah dan arahan pimpinan secara loyal dan penuh kepatuhan",
+      "E": "Melakukan pekerjaan yang terbaik dengan standar kinerja yang tinggi"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 110,
+    "question": "Dari sekian pegawai di kantor, saya merasa beban tugas terberat ada pada saya dan saya merasa stres karena dikejar-kejar deadline. Respon saya....",
+    "image": null,
+    "options": {
+      "A": "Mengerjakan semua tugas setengah-setengah saja, yang penting sudah dianggap bertanggung jawab",
+      "B": "Mengerjakan semua tugas dengan senang hati dan berusaha memenuhi target deadline",
+      "C": "Hanya mengerjakan tugas yang saya senangi",
+      "D": "Mengkonsumsi obat suplemen agar mendongkrak tenaga saya untuk menyelesaikan semua tugas",
+      "E": "Mengerjakan semua tugas sambil menggerutu dan marah-marah"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 111,
+    "question": "Ketika sedang melakukan presentasi, saya menerima pesan singkat (SMS/WA) yang mengabarkan bahwa anak saya diopname di rumah sakit. Reaksi saya…",
+    "image": null,
+    "options": {
+      "A": "Melanjutkan presentasi",
+      "B": "Menghentikan presentasi dan mencari tahu kondisi anak saya",
+      "C": "Menghentikan presentasi dan langsung menuju rumah sakit",
+      "D": "Mencari tahu kondisi anak saya kemudian memutuskan apakah tetap presentasi atau ke rumah sakit",
+      "E": "Membalas SMS/WA dan melanjutkan presentasi"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 112,
+    "question": "Setiap hari kerja saya masuk kantor paling cepat dibandingkan pegawai lainnya. Yang saya lakukan setelah tiba adalah …",
+    "image": null,
+    "options": {
+      "A": "Santai di luar gedung kantor untuk menikmati udara pagi",
+      "B": "Masuk ke ruangan dan mengobrol dengan rekan sejawat",
+      "C": "Masuk ke ruangan dan membuat rencana kerja",
+      "D": "Masuk ke ruangan dan memulai pekerjaan yang tertunda kemarin",
+      "E": "Masuk ke ruangan dan membaca koran"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 113,
+    "question": "Saya diminta untuk lembur kerja sedangkan saya sudah berjanji kepada anak saya untuk mengantarnya ke pesta ulang tahun sahabatnya. Sikap saya …",
+    "image": null,
+    "options": {
+      "A": "Pulang dengan diam-diam, tanpa sepengetahuan pimpinan",
+      "B": "Meminta izin pimpinan untuk mengantarkan anak saya kemudian kembali lagi ke kantor untuk bekerja lembur",
+      "C": "Berpura-pura sakit agar dapat diizinkan untuk segera pulang",
+      "D": "Menghubungi anak saya, menjelaskan bahwa saya akan sedikit terlambat menemuinya",
+      "E": "Tinggal bekerja lembur"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 114,
+    "question": "Draft laporan yang dibuat oleh tim kerja saya ditolak oleh atasan karena dianggap kurang visibel. Sikap saya adalah …",
+    "image": null,
+    "options": {
+      "A": "Menerima penolakan dan berusaha memperbaiki",
+      "B": "Menerima penolakan tetapi tidak melakukan tindak lanjut",
+      "C": "Berusaha mencari alasan seperti sedikitnya waktu untuk mengerjakannya",
+      "D": "Segera melakukan perbaikan atas draft laporan dan mengajukan kembali",
+      "E": "Menyalahkan rekan sejawat yang sama-sama mengerjakannya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 115,
+    "question": "Tentang perubahan yang terjadi dalam organisasi, pendapat saya....",
+    "image": null,
+    "options": {
+      "A": "Pegawai tidak boleh terlalu kreatif menciptakan perubahan",
+      "B": "Organisasi harus menjadi \"Learning Organization\"",
+      "C": "Setiap individu dalam organisasi harus terbiasa dengan perubahan",
+      "D": "Perubahan adalah sesuatu yang lumrah",
+      "E": "Menjaga stabilitas organisasi dengan sedapat mungkin menghindari perubahan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 116,
+    "question": "Menurut saya, sepuluh tahun setelah saya diangkat sebagai PNS, saya akan menjadi…",
+    "image": null,
+    "options": {
+      "A": "PNS masih sebagai pelaksana di unit yang pertama kali saya diterima",
+      "B": "Belum tahu karena sepenuhnya tergantung pada nasib",
+      "C": "PNS masih sebagai pelaksana di unit lain yang sesuai dengan kompetensi saya",
+      "D": "Pejabat struktural atau tenaga fungsional yang profesional dalam bidangnya",
+      "E": "Bukan PNS lagi"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 117,
+    "question": "Dalam suatu rapat pimpinan, ada sejawat saya yang tidak sependapat dengan usulan saya. Sikap saya ....",
+    "image": null,
+    "options": {
+      "A": "Meninggalkan ruang rapat dan tidak kembali lagi",
+      "B": "Mempertimbangkan pendapat tersebut dengan melihat siapa orangnya",
+      "C": "Tetap beranggapan bahwa perbedaan pendapat adalah hal yang lumrah",
+      "D": "Dengan senang hati mempertimbangkan pendapat orang tersebut",
+      "E": "Bersikeras agar usulan saya yang diterima"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 118,
+    "question": "Saya ditugaskan pimpinan untuk menjadi notulen dalam rapat Badan Pertimbangan Jabatan dan Kepangkatan. Respon saya.....",
+    "image": null,
+    "options": {
+      "A": "Memberitahukan anggota keluarga tentang hasil keputusan rapat",
+      "B": "Memberitahukan sahabat saya di kantor tentang hasil keputusan rapat",
+      "C": "Tidak akan membocorkan hasil keputusan rapat karena bukan wewenang saya",
+      "D": "Berusaha menghindari rekan yang membujuk untuk mengetahui hasil keputusan rapat",
+      "E": "Dengan bangga saya akan menceritakan kepada rekan sejawat saya hasil keputusan rapat"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 119,
+    "question": "Ketika muncul suatu masalah dalam pekerjaan yang kebetulan ada kaitannya dengan hal-hal yang menjadi kewajiban saya, maka saya …",
+    "image": null,
+    "options": {
+      "A": "Membiarkan masalah tetap berlangsung",
+      "B": "Melihat dulu apakah saya sebagai sumber masalah",
+      "C": "Melihat sejauh mana saya terlibat di dalamnya",
+      "D": "Mencari kambing hitam penyebab masalah",
+      "E": "Akan bertanggung jawab"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 120,
+    "question": "Anda adalah seorang karyawan apotek. Seorang pembeli ingin membeli obat-obatan tertentu yang harus menggunakan resep dokter, karena bisa membahayakan kesehatan. Dia tidak mempunyai resep itu. Namun pembeli tersebut memaksa ingin membelinya dan memberikan sejumlah uang kepada Anda agar mau memberikan obat tersebut. Apa yang harus Anda lakukan …",
+    "image": null,
+    "options": {
+      "A": "Saya memberikan obat tersebut kepadanya, toh tidak ada yang tahu",
+      "B": "Saya berkonsultasi kepada rekan sejawat saya dulu",
+      "C": "Saya menolaknya dengan mantap",
+      "D": "Saya menerima uang tersebut dan memberikan obatnya",
+      "E": "Saya ragu-ragu keputusan apa yang saya ambil"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 121,
+    "question": "Saya dipercayakan mengelola kegiatan yang belum dipublikasikan dan masih harus dijaga kerahasiaannya. Ketika saya berada di antara teman-teman dekat di kantor, saya …",
+    "image": null,
+    "options": {
+      "A": "Membatasi pembicaraan agar tidak menyangkut hal-hal tugas baru saya",
+      "B": "Akan merasa gelisah dan kurang senang bila mereka mulai membicarakan tugas baru saya",
+      "C": "Akan mengalihkan ke pembicaraan lain bila mereka sudah mulai menyinggung tugas baru saya",
+      "D": "Suka menerima masukan demi masukan dalam rangka pengembangan tugas baru saya",
+      "E": "Membicarakan hal-hal lain yang tidak ada kaitannya dengan tugas baru saya"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 122,
+    "question": "Saya ditawarkan oleh pimpinan untuk melanjutkan studi di provinsi lain atas biaya kantor. Saat ini saya baru saja dikaruniai bayi kembar yang masih membutuhkan perhatian saya. Keputusan saya …",
+    "image": null,
+    "options": {
+      "A": "Menerima tawaran tersebut dengan permohonan agar keluarga dapat ikut saya dengan tambahan biaya hidup",
+      "B": "Menolak tawaran tersebut namun mohon kebijakan pimpinan jika ada kesempatan lagi saya dapat diikutkan",
+      "C": "Menerima tawaran tersebut dan dengan berat hati meninggalkan keluarga",
+      "D": "Menolak tawaran tersebut",
+      "E": "Menerima tawaran tersebut dengan konsekuensi mengikutkan keluarga merupakan tanggung jawab saya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 123,
+    "question": "Saya baru saja dimutasikan ke unit lain yang sama sekali baru bagi saya. Sikap saya.....",
+    "image": null,
+    "options": {
+      "A": "Berusaha memahami mekanisme kerja unit melalui arsip dan aturan kebijakan",
+      "B": "Duduk-duduk saja sambil menunggu perintah atasan",
+      "C": "Berusaha mempelajari dan memahami mekanisme kerja unit melalui rekan sejawat",
+      "D": "Mengamati proses pekerjaan yang dilakukan rekan sejawat",
+      "E": "Jarang masuk karena belum jelas apa yang harus dikerjakan"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 124,
+    "question": "Sikap saya terhadap perubahan-perubahan, ide-ide baru, dan cara-cara baru dalam melaksanakan suatu pekerjaan adalah ....",
+    "image": null,
+    "options": {
+      "A": "Dengan adanya perubahan, kondisi kerja pasti lebih baik",
+      "B": "Keberhasilan pekerjaan tergantung jenis perubahan, ide, dan cara-cara baru tersebut",
+      "C": "Stabilitas dalam bekerja lebih penting",
+      "D": "Perubahan adalah sesuatu yang pasti",
+      "E": "Perubahan bukan jaminan keberhasilan pekerjaan"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 125,
+    "question": "Saya mendapat teguran langsung dari pimpinan atas kesalahan yang bukan hanya saya seorang diri sebagai pelakunya. Reaksi saya …",
+    "image": null,
+    "options": {
+      "A": "Membantah dan mengadukan pegawai lain yang juga bersalah agar mereka juga bisa belajar dari kejadian ini",
+      "B": "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga tanpa perlu mengadukan pegawai lain yang turut bersalah",
+      "C": "Membantah secara tegas agar pada kesempatan lain pimpinan tidak semena-mena menyalahkan",
+      "D": "Diam saja, karena membantah hanya akan menambah rumit permasalahan",
+      "E": "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga, tetapi tetap mengadukan pegawai lain yang juga bersalah"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 126,
+    "question": "Dalam rapat staf dan pimpinan, pendapat saya dikritik keras oleh peserta rapat lainnya. Respon saya ....",
+    "image": null,
+    "options": {
+      "A": "Mencoba mempelajari kritikan tersebut dan berbalik mengkritik dengan tajam",
+      "B": "Menerima kritikan tersebut sebagai masukan",
+      "C": "Mencoba sekuat tenaga mempertahankan pendapat saya",
+      "D": "Menyerang semua peserta yang mengritik pendapat saya",
+      "E": "Diam saja"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 127,
+    "question": "Saya sedang mengerjakan pekerjaan kantor, yang harus selesai besok pagi. Tiba-tiba teman datang dengan wajah cemberut dan tampak ingin mengeluarkan isi hatinya kepada saya. Atas kejadian itu saya…",
+    "image": null,
+    "options": {
+      "A": "Meninggalkan pekerjaan serta memberi berbagai alternatif penyelesaian",
+      "B": "Tetap mengerjakan sambil mendengar ceritanya",
+      "C": "Meneruskan pekerjaan dan berusaha untuk tidak mempedulikan keinginan teman saya",
+      "D": "Memohon kepadanya untuk tidak mengganggu saya karena sedang sibuk",
+      "E": "Meninggalkan pekerjaan saya dan mendengarkan ceritanya dengan penuh perhatian"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 128,
+    "question": "Jika ada tugas yang kurang menyenangkan ....",
+    "image": null,
+    "options": {
+      "A": "Tetap saya selesaikan karena itu tanggung jawab saya",
+      "B": "Daripada saya stres, lebih baik saya minta orang lain yang mengerjakannya",
+      "C": "Saya berhak memprotes kepada atasan",
+      "D": "Saya selesaikan meskipun terasa berat hati",
+      "E": "Saya meminta tolong rekan kerja untuk menyelesaikannya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 129,
+    "question": "Dion adalah ketua kelompok pecinta alam yang baru. Sebetulnya ia belum lama bergabung tetapi karena ia luwes dan mudah bergaul akhirnya ia terpilih sebagai ketua. Ternyata setelah menjadi ketua, sikapnya berubah. Ia cenderung kaku dan keputusan yang dibuat sulit untuk diubah. Jika anda menjadi anggota pecinta alam tersebut, maka yang anda lakukan adalah.....",
+    "image": null,
+    "options": {
+      "A": "Mengajak teman-teman lain untuk memberikan masukan ke Dion sehingga kelompok yang solid tidak pecah",
+      "B": "Mengajak dialog secara personal",
+      "C": "Meminta Dion untuk tidak otoriter di forum formal sehingga menjadi kesepakatan bersama",
+      "D": "Membentuk kelompok untuk menentang kebijakan yang dibuat Dion agar ia tahu kesalahan yang telah ia buat",
+      "E": "Mencari tahu penyebab mengapa Dion berubah sehingga lebih bisa memahami mengapa ia bertindak seperti itu"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 130,
+    "question": "Dalam kaitannya dengan perubahan, secara umum saya dinilai orang lain sebagai orang yang…",
+    "image": null,
+    "options": {
+      "A": "Mudah menyesuaikan diri dengan lingkungan yang baru",
+      "B": "Butuh waktu untuk bergaul secara akrab dengan orang lain",
+      "C": "Mempunyai keinginan tinggi untuk mengetahui kegiatan orang lain",
+      "D": "Cenderung kurang adaptif terhadap perubahan",
+      "E": "Mempunyai pergaulan yang tidak luas di masyarakat"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 131,
+    "question": "Ketika menghadapi kegagalan, saya.....",
+    "image": null,
+    "options": {
+      "A": "Saya merasa itulah kemampuan maksimal saya",
+      "B": "Saya dapat segera bangkit dan memperbaiki kelemahan saya",
+      "C": "Saya merasa diri saya kurang mampu dan lebih buruk dari orang lain",
+      "D": "Saya membutuhkan waktu lama untuk membangkitkan kembali semangat saya",
+      "E": "Saya dapat bangkit kembali asal teman atau keluarga yang mendukung saya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 132,
+    "question": "Jenis tugas yang paling saya sukai adalah …",
+    "image": null,
+    "options": {
+      "A": "Tugas yang sulit dan menantang",
+      "B": "Tugas yang tidak menyulitkan saya",
+      "C": "Tugas yang sesuai dengan kemampuan saya",
+      "D": "Tugas yang sesuai dengan deskripsi pekerjaan saya",
+      "E": "Tugas yang mudah saya kerjakan agar hasilnya bisa maksimal"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 133,
+    "question": "Terkait dengan orang-orang di sekitar saya, saya dikenal sebagai seorang yang.....",
+    "image": null,
+    "options": {
+      "A": "Mudah tergerak dan turun tangan",
+      "B": "Jarang bergaul karena saya kurang suka diganggu",
+      "C": "Teguh pada kemampuan meskipun orang lain menantang",
+      "D": "Menggerakkan orang lain untuk tidak tergantung kepada sesama",
+      "E": "Menghindari berkegiatan dengan orang yang tidak berkompeten"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 134,
+    "question": "Edo tumbuh dalam keluarga yang cukup sukses. Ayahnya seorang profesor dari salah satu universitas terkenal sementara ibunya menjadi direktur di salah satu bank pemerintah. Kakak Edo merintis di dunia politik dan sudah mulai dikenal. Adiknya pernah menjadi juara olimpiade fisika tingkat nasional. Orang tua mengharapkan Edo memiliki prestasi seperti mereka. Sementara Edo saat ini masih kuliah dan merasa prestasinya biasa-biasa saja.Jika anda Edo tindakan yang akan anda lakukan adalah.....",
+    "image": null,
+    "options": {
+      "A": "Memacu diri agar berprestasi sebaik mungkin agar tidak kalah dengan saudara yang lain",
+      "B": "Tidak akan membuat hal tersebut menjadi beban karena setiap orang diberi kemampuan yang berbeda",
+      "C": "Berusaha semampunya sesuai dengan kapasitas yang saya punyai",
+      "D": "Mencari tentor agar prestasi saya menjadi baik",
+      "E": "Pasrah pada Tuhan karena nasib orang sudah ada yang mengatur"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 135,
+    "question": "Pada hari pertama Sari bekerja sebagai seorang staf pelayanan publik, seorang ibu mengomeli Sari karena ia merasa kurang cekatan dibandingkan staf yang lain. Sehingga pelayanannya menjadi terlalu lama.Menurut anda, apa yang harus dilakukan Sari.....",
+    "image": null,
+    "options": {
+      "A": "Meminta maaf dan mempercepat penyelesaian tugasnya",
+      "B": "Berusaha mengendalikan diri meskipun hatinya terbawa emosi",
+      "C": "Mengabaikan keluhan itu sehingga tidak mengganggu konsentrasi",
+      "D": "Menjelaskan bahwa pelayanan tersebut membutuhkan waktu",
+      "E": "Menjelaskan bahwa hari ini merupakan hari pertama Sari bekerja di sana"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 136,
+    "question": "Sebagai seorang abdi negara, saya akan ...",
+    "image": null,
+    "options": {
+      "A": "Melaksanakan aturan dan prosedur pelayanan publik yang berlaku",
+      "B": "Memilih posisi yang secara langsung berpengaruh terhadap karier saya",
+      "C": "Memberikan pelayanan sesuai dengan standar tuntutan pekerjaan saya",
+      "D": "Mengembangkan bentuk pelayanan yang dapat dimanfaatkan masyarakat",
+      "E": "Berusaha memahami kebutuhan masyarakat dalam memberikan pelayanan"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 137,
+    "question": "Ketika menghadapi suatu keluhan atau komplain dari pelanggan mengenai pelayanan yang diberikan tempat kerja saya, saya akan.....",
+    "image": null,
+    "options": {
+      "A": "Mencatat dan menyampaikan keluhan itu pada atasan saya",
+      "B": "Mencoba membantu pelanggan menyelesaikan persoalannya",
+      "C": "Mengabaikan karena kondisi yang ada memang seperti itu",
+      "D": "Menjelaskan peran saya dalam menangani keluhan pelanggan",
+      "E": "Menjelaskan aturan dan prosedur yang berlaku pada pelanggan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 138,
+    "question": "Selama ini teman dan keluarga saya melihat saya sebagai orang yang.....",
+    "image": null,
+    "options": {
+      "A": "Taat pada aturan dan prosedur yang berlaku",
+      "B": "Mampu memahami kebutuhan orang lain",
+      "C": "Mudah menyesuaikan diri dengan situasi baru",
+      "D": "Mudah berkonsentrasi pada penyelesaian tugas",
+      "E": "Mampu mengkomunikasikan ide-ide yang saya miliki"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 139,
+    "question": "Anda akan berangkat mengikuti tes seleksi. Di tengah perjalanan sepeda motor anda mengalami pecah ban. Untuk menambal butuh waktu 10 menit. Padahal waktu tes tinggal 10 menit lagi. Jarak ke tempat tes masih 2 km. Jika anda naik angkot juga membutuhkan waktu sekitar 10 menit. Di sekitar anda tidak ada tukang ojek. Apa yang anda lakukan …",
+    "image": null,
+    "options": {
+      "A": "Saya akan menuntun motor ke bengkel kemudian naik angkot",
+      "B": "Saya akan menitipkan motor ke rumah penduduk terdekat kemudian segera naik angkot",
+      "C": "Saya akan menitipkan motor ke rumah penduduk kemudian menelpon teman untuk menjemput dan mengantar ke tempat tes",
+      "D": "Saya akan menunggu bengkel menambal ban dengan harapan waktu menambal bisa lebih cepat",
+      "E": "Saya akan membatalkan ikut tes karena mempertimbangkan dengan apapun saya akan terlambat sampai di tempat tes dan kemungkinan diperbolehkan ikut tes kecil"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 140,
+    "question": "Jika saya diberi tugas dan hasilnya nanti menentukan besar bonus yang akan saya terima, maka saya akan....",
+    "image": null,
+    "options": {
+      "A": "Berusaha sekuat tenaga agar saya mendapatkan bonus tinggi",
+      "B": "Berusaha keras untuk menyelesaikan tugas dengan arah yang sehat",
+      "C": "Berusaha sebatas kemampuan yang saya miliki",
+      "D": "Berusaha keras sambil meminta bantuan orang lain untuk mencapai penyelesaian tugas",
+      "E": "Bekerja seperti biasanya karena rezeki ada yang mengatur"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 141,
+    "question": "Rekan kerja menjadi sumber keluhan bagi rekan kerja yang lain akibat kerjanya yang lamban. Sebagai temannya, tindakan saya......",
+    "image": null,
+    "options": {
+      "A": "Menawarkan bantuan untuk mempercepat penyelesaian tugasnya",
+      "B": "Menegur cara kerjanya yang lamban karena menghambat kerja orang lain",
+      "C": "Membiarkan apa yang terjadi, karena semua orang memiliki keunikan cara kerja sendiri",
+      "D": "Menghindari agar tidak berada satu tim dengannya karena berpotensi menyulitkan",
+      "E": "Mengingatkannya akan pola kerjanya dan menawarkan bantuan jika dibutuhkan"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 142,
+    "question": "Penilaian orang lain terhadap saya ketika ada yang membutuhkan adalah …",
+    "image": null,
+    "options": {
+      "A": "Penuh pertimbangan dalam memberikan bantuan",
+      "B": "Menghindar saat diminta untuk membantu orang lain",
+      "C": "Individualis, berorientasi pada kepentingan sendiri",
+      "D": "Ringan tangan, membantu siapapun yang membutuhkan",
+      "E": "Loyal terhadap kelompok, enggan membantu di luar kelompok"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 143,
+    "question": "Salah satu perilaku berikut sesuai dengan diri saya.....",
+    "image": null,
+    "options": {
+      "A": "Mudah tersenyum kepada teman dekat saya",
+      "B": "Tidak duduk di tempat orang yang berkebutuhan khusus",
+      "C": "Tidak bergaul dengan orang yang berbeda derajat dengan saya",
+      "D": "Menghindari kerja sama orang yang membenci perilaku saya",
+      "E": "Memberikan tempat duduk kepada seorang ibu di dalam bis yang penuh"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 144,
+    "question": "Salah satu pernyataan berikut yang mencerminkan perilaku saya …",
+    "image": null,
+    "options": {
+      "A": "Membalas kebaikan orang lain",
+      "B": "Membantu untuk mendapatkan balasan di kemudian hari",
+      "C": "Memberi bantuan untuk orang yang tidak mampu sesuai kebutuhannya",
+      "D": "Tidak menanggapi suatu permintaan kalau tidak merasa nyaman",
+      "E": "Tidak membantu individu berkebutuhan khusus karena saya merasa tidak mampu"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 145,
+    "question": "Dalam situasi terjadi perdebatan karena perbedaan pendapat, biasanya saya …",
+    "image": null,
+    "options": {
+      "A": "Meninggalkan ruangan karena saya tidak tahan mendengar perdebatan",
+      "B": "Berusaha menghindar agar perbedaan tidak berkepanjangan",
+      "C": "Berusaha memahami kedua belah pihak hingga mencapai titik tengah",
+      "D": "Memihak orang yang menurut saya paling benar",
+      "E": "Diam dan mengikuti proses perdebatan sampai selesai"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 146,
+    "question": "Saya dipindahkan secara mendadak ke unit kerja sistem informasi yang belum pernah saya tekuni selama ini. Yang saya pikirkan adalah …",
+    "image": null,
+    "options": {
+      "A": "Mengapa saya harus bekerja di tempat baru ini",
+      "B": "Apakah terdapat alasan politis di balik perpindahan ini",
+      "C": "Mungkinkah saya bernegosiasi untuk kembali ke unit lama",
+      "D": "Apa harus saya lakukan di tempat kerja yang baru",
+      "E": "Bagaimana saya bisa memahami bidang kerja saya yang baru secara cepat"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 147,
+    "question": "Sebagai bagian dari penerapan sistem informasi yang baru, setiap pegawai kantor saya diminta untuk melakukan update data pribadi secara online. Tindakan saya adalah.....",
+    "image": null,
+    "options": {
+      "A": "Meminta bantuan pendampingan karena keterbatasan saya di bidang teknologi",
+      "B": "Menunggu rekan kerja yang lain untuk melakukan update dan mengikuti cara mereka",
+      "C": "Melakukan update sesegera mungkin dengan meminta bantuan dari tim sistem informasi",
+      "D": "Mengabaikan pekerjaan tersebut dengan harapan sistem tersebut masih dalam percobaan",
+      "E": "Mempelajari cara melakukan update dan data apa yang harus dimasukan dalam sistem"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 148,
+    "question": "Secara umum orang mengatakan saya orang yang dapat dipercaya karena…",
+    "image": null,
+    "options": {
+      "A": "Saya orang yang ramah dan mau mendengar keluhan orang lain",
+      "B": "Saya orang yang terbuka",
+      "C": "Saya melakukan apa yang saya katakan (konsisten)",
+      "D": "Saya siap membantu tanpa memikirkan imbalan yang akan saya terima",
+      "E": "Saya bersifat sabar dan penuh perhatian terhadap orang lain"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 149,
+    "question": "Pilihlah salah satu yang paling sesuai dengan apa yang Anda lakukan saat bekerja.",
+    "image": null,
+    "options": {
+      "A": "Saya bekerja sesuai dengan apa yang ditargetkan kepada saya",
+      "B": "Saya bekerja datang dan pulang tepat waktu sesuai jam kerja",
+      "C": "Saya bersemangat justru ketika menghadapi kesulitan dalam bekerja",
+      "D": "Saya menjadi kurang produktif apabila menghadapi hambatan dalam bekerja",
+      "E": "Saya melakukan negosiasi apabila mendapatkan target yang saya rasa terlalu tinggi"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 150,
+    "question": "Pilih salah satu pernyataan yang menurut Anda paling bisa menggambarkan diri Anda.",
+    "image": null,
+    "options": {
+      "A": "Saya bekerja sesuai kebiasaan rekan-rekan saya bekerja",
+      "B": "Saya sering lembur untuk menyelesaikan tugas-tugas saya",
+      "C": "Saya tetap berusaha sesulit apa pun tugas yang diberikan kepada saya",
+      "D": "Saya keberatan melakukan tugas yang sekiranya saya tidak mampu",
+      "E": "Saya bekerja dengan cara dan prosedur yang umum telah dilakukan"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 151,
+    "question": "Dalam bekerja, rekan-rekan kerja saya menilai saya sebagai karyawan yang ...",
+    "image": null,
+    "options": {
+      "A": "Selalu ceria dalam bekerja",
+      "B": "Menyukai target yang menantang",
+      "C": "Rasional dalam menetapkan target",
+      "D": "Semangat dalam menjalankan tugas",
+      "E": "Serius namun tetap santai dalam bekerja"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 152,
+    "question": "Saya saat ini bekerja menangani suatu project dari klien. Saya sudah merasa jenuh mengerjakan project ini yang seharusnya sudah selesai bulan kemarin, tetapi masih diperpanjang sampai sekarang karena ada beberapa masalah. Herannya, masalah ini tidak selesai sebab sikap Project Manager yang kurang tegas ke pihak klien, sehingga yang merasa kerepotan adalah kami. Dari awal sebenarnya saya sudah menolak dimasukkan dalam project ini, karena saya diberi tugas mengerjakan sesuatu yang sebenarnya bukan kapasitas dan keahlian saya. Akan tetapi, atasan saya di kantor malah mendukung project ini dan saya terseret, sehingga dari awal saya sudah setengah hati berada di project ini. Saya sudah yakin ke belakangnya pasti ada masalah dan ternyata dugaan saya benar. Masalah di project ini seolah tidak ada habisnya dan saya merasa tidak tenang. Teman satu tim yang lain juga sudah tidak sabar agar project ini cepat selesai. Tapi kenyataannya, jangankan selesai malah masalahnya selalu ada terus, sehingga kami mulai jenuh. Perlahan-lahan mulai banyak yang bolos ke kantor dengan berbagai alasan. Hal yang lebih parah lagi adalah usaha dan kerja keras kami di sini seolah tidak setara dengan apa yang kami dapat. Uang bonus project yang dari dulu selalu dijanjikan sampai saat ini belum juga diberikan. Sikap saya selanjutnya adalah...",
+    "image": null,
+    "options": {
+      "A": "Saya menyatakan mundur dari penugasan project tersebut karena sudah tidak tahu kapan batas akhir penyelesaiannya",
+      "B": "Saya bersama rekan saya yang lain akan membicarakan masalah project ini pada Project Manager agar segera dituntaskan",
+      "C": "Saya bersama rekan saya yang lain akan membicarakan masalah project ini pada Project Manager agar segera dihentikan",
+      "D": "Saya bersama rekan saya yang lain akan membicarakan masalah bonus project ini pada Project Manager yang belum dibayar",
+      "E": "Saya tetap melanjutkan project ini meski saya harus menelan pahitnya mengerjakan project tersebut"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 153,
+    "question": "Ridwan diminta menyimpan dokumen penilaian kinerja seluruh karyawan PT Maju Lancar oleh manajer SDM karena mendadak harus pergi, dengan pesan jangan dibuka karena datanya bersifat rahasia. Tidak ada seseorang pun yang tahu bahwa Anda kepercayaan tersebut. Dalam dokumen tersebut memuat data-data tentang pegawai-pegawai yang akan dipromosikan. Ridwan adalah salah satu pegawai yang akan dipromosikan tersebut. Jika Anda sebagai Ridwan, tindakan yang Anda lakukan adalah…",
+    "image": null,
+    "options": {
+      "A": "Melihat dokumen tersebut khusus dokumen yang berkaitan dengan diri Anda",
+      "B": "Melihat seluruh dokumen pegawai yang dicalonkan untuk promosi sekadar untuk mengetahui saja tanpa memberi tahu orang lain",
+      "C": "Tidak membuka dokumen karena sudah pesan untuk tidak membukanya (menjaga rahasia)",
+      "D": "Mengajak satu teman yang Anda percaya untuk membuka sekadar untuk melihat data Anda tanpa membocorkan kepada orang lain",
+      "E": "Menanyakan langsung secara pribadi kepada manajer SDM tentang kesempatan Anda untuk dipromosikan"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 154,
+    "question": "Ketika atasan saya memberikan tugas yang sulit, yang saya lakukan adalah …",
+    "image": null,
+    "options": {
+      "A": "Saya berusaha menyelesaikan sesuai dengan perintah atasan",
+      "B": "Saya berusaha menyelesaikan tugas sesuai kemampuan saya",
+      "C": "Saya berusaha menyelesaikan tugas yang mudah agar hasilnya maksimal",
+      "D": "Saya berusaha menyelesaikan, namun jika belum berhasil maka saya tahu batas kemampuan saya",
+      "E": "Saya mengerahkan segenap kemampuan yang saya miliki, jika belum berhasil saya akan mencoba lagi"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 155,
+    "question": "Ketika atasan saya memberikan tugas yang sulit.....",
+    "image": null,
+    "options": {
+      "A": "Saya menganggap tugas tersebut sebagai dorongan untuk menjadi lebih baik",
+      "B": "Seharusnya atasan saya mempertimbangkan kemampuan bawahannya ketika memberikan tugas",
+      "C": "Sebaiknya tugas tersebut disertai dengan bimbingan dari yang lebih berpengalaman",
+      "D": "Saya menganggap tugas tersebut perlu dipertimbangkan kembali agar tidak menurunkan motivasi bawahan karena tugas tersebut di luar kemampuan",
+      "E": "Saya menganggap tugas sulit tersebut sebagai hal yang biasa dihadapi dalam bekerja"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 156,
+    "question": "Jika saya menjadi anggota yang melanggar pakta integritas, maka ketika mendapat teguran biasanya saya…",
+    "image": null,
+    "options": {
+      "A": "Memberi alasan yang dapat diterima mengapa saya melanggar pakta integritas",
+      "B": "Saya akan menerima teguran tersebut karena memang salah meskipun menghadapi konsekuensi juga akan disalahkan oleh anggota yang lain",
+      "C": "Menunggu dipanggil dan mempersiapkan jawaban-jawaban yang akan saya berikan",
+      "D": "Pasrah pada nasib yang saya terima"
+    },
+    "weights": {
+      "A": 4,
+      "B": 10,
+      "C": 8,
+      "D": 6
+    }
+  },
+  {
+    "id": 157,
+    "question": "Anda bekerja sebagai seorang petugas keamanan KRL Jabodetabek. Seorang penumpang mendatangi Anda karena merasa barang bawaannya tertinggal dalam rangkaian kereta. Maka yang akan Anda lakukan adalah …",
+    "image": null,
+    "options": {
+      "A": "Memintanya untuk duduk menunggu terlebih dahulu di stasiun sampai barangnya ditemukan",
+      "B": "Meminta nomor HP-nya dan akan menghubunginya apabila barangnya sudah ditemukan",
+      "C": "Menyatakan bahwa pihak KRL Jabodetabek tidak bertanggung jawab atas barang bawaan yang tertinggal karena kelalaian penumpang",
+      "D": "Menuliskan nama, nomor HP, dan gerbong kereta yang dinaiki, serta akan menghubunginya apabila barangnya sudah ditemukan",
+      "E": "Menyatakan bahwa perbuatannya salah karena penumpang seharusnya bertanggung jawab dengan barang bawaannya"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 158,
+    "question": "Menurut saya orang tua saya sukses dalam bekerja dan berkarya karena …",
+    "image": null,
+    "options": {
+      "A": "Mereka menempuh berbagai rintangan untuk mencapai kesuksesan",
+      "B": "Mereka berusaha keras dalam hidupnya untuk sukses",
+      "C": "Mereka mendapatkan kesempatan dan fasilitas sehingga bisa sukses",
+      "D": "Mereka adalah pribadi yang patut dicontoh",
+      "E": "Mereka orang yang sangat beruntung dan membuat anaknya bangga"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 159,
+    "question": "Program yang diusung oleh tim saya sering tidak berjalan dengan baik, saya sebaiknya....",
+    "image": null,
+    "options": {
+      "A": "Memberi kritik dan tetap berusaha memberi semangat tim saya sekuat tenaga",
+      "B": "Tetap berpikir positif walau hanya dengan berdiam diri saja",
+      "C": "Pura-pura tidak paham masalahnya",
+      "D": "Menyarankan agar melakukan evaluasi dan segera melakukan perbaikan",
+      "E": "Menyarankan agar beberapa rekan tim diganti saja karena selalu tidak beres"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 160,
+    "question": "Anda bertugas mengelola bagian input database pusat. Rekan Anda seringkali terlambat memasukkan datanya sehingga Anda sering ditegur atasan karena mencapai waktu deadline, maka Anda akan.....",
+    "image": null,
+    "options": {
+      "A": "Menunggu saja",
+      "B": "Mengambil alih pekerjaan pada bagiannya itu",
+      "C": "Memintanya untuk lebih cepat dalam bekerjai",
+      "D": "Melaporkannya kepada atasan",
+      "E": "Bertanya apa kesulitannya dan membantu sebisa Anda"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 161,
+    "question": "Slogan menarik yang akan Anda kenakan pada produk baru Anda adalah.....",
+    "image": null,
+    "options": {
+      "A": "Cepat dan tidak bikin ribet",
+      "B": "Murah dan berkualitas",
+      "C": "Ramah, cepat, dan tanggap",
+      "D": "Mudah dan cepat",
+      "E": "Lengkap dan murah"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 162,
+    "question": "Sebagai karyawan baru, saya merasa beban tugas cukup berat ditambah lagi dengan adanya deadline. Sikap saya...",
+    "image": null,
+    "options": {
+      "A": "Mengerjakan semua tugas sambil menggerutu dan merasa kesal",
+      "B": "Mengerjakan semua tugas setengah-setengah saja yang penting sudah dianggap bertanggung jawab",
+      "C": "Hanya mengerjakan pekerjaan yang saya senangi",
+      "D": "Mengonsumsi obat suplemen untuk mendongkrak tenaga saya dalam menyelesaikan semua tugas",
+      "E": "Mengerjakan semua tugas dengan senang hati dan berusaha memenuhi target"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 163,
+    "question": "Teman saya menanyakan hasil pembicaraan saya dengan atasan, sikap saya...",
+    "image": null,
+    "options": {
+      "A": "Tidak membahasnya, karena pekerjaan saya biarlah hanya saya dan atasan yang tahu",
+      "B": "Mengatakan bahwa semua berjalan dengan baik",
+      "C": "Mengatakan apa adanya dan meminta saran kepada teman Anda bila diperlukan",
+      "D": "Mengatakan bahwa Anda dapat menyelesaikannya sendiri",
+      "E": "Tidak membahasnya dan mengalihkan topik agar teman saya tidak sakit hati"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 164,
+    "question": "Ketika Anda mulai belajar di sekolah Anda yang baru, maka Anda akan …",
+    "image": null,
+    "options": {
+      "A": "Mengakrabkan diri dengan teman",
+      "B": "Mengamati cara belajar di tempat belajar tersebut",
+      "C": "Menunggu perintah kerja dari guru",
+      "D": "Mencari tahu apa yang harus saya pelajari",
+      "E": "Mempelajari sistem pengajaran di tempat tersebut dari peraturan"
+    },
+    "weights": {
+      "A": 6,
+      "B": 4,
+      "C": 2,
+      "D": 10,
+      "E": 8
+    }
+  },
+  {
+    "id": 165,
+    "question": "Beberapa minggu yang lalu atasan Anda pernah memberitahu bahwa dia mempunyai jadwal untuk menandatangani kontrak dengan beberapa klien baru, namun tampaknya atasan Anda lupa karena terlalu sibuk. Sebagai seorang asisten yang akan Anda lakukan adalah...",
+    "image": null,
+    "options": {
+      "A": "Mengingatkan atasan bahwa punya rencana untuk bertemu klien",
+      "B": "Membuat rencana pertemuan dan memberitahu atasan untuk disetujui",
+      "C": "Membuat rencana pertemuan dengan klien atasan dan memberitahukannya",
+      "D": "Memberitahu atasan bahwa dia harus bertemu klien untuk urusan bisnis dalam waktu dekat",
+      "E": "Menunggu atasan membicarakannya lagi, lalu baru melakukan persiapan pertemuan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 166,
+    "question": "Anda ditugaskan di loket pengaduan konsumen yang terletak di lantai satu. Pada suatu hari ada seorang difabel menghampiri dan meminta bantuan Anda untuk membantu dalam proses pengurusan administrasi. Loket pengurusan administrasi pengurusan tersebut terletak di lantai dua. Pada saat itu di loket Anda sedang ada antrian panjang sehingga Anda tentu sangat sibuk. Sikap Anda adalah...",
+    "image": null,
+    "options": {
+      "A": "Menyarankan kepada orang tersebut untuk meminta bantuan kepada satpam karena satpam lebih mudah untuk dimintai bantuan. Jelaskan juga bahwa saya tidak bisa membantunya ke lantai kedua karena banyak antrian yang akan mengajukan pengaduan.",
+      "B": "Memberi tahu orang tersebut untuk menuju ke loket bagian pengurusan administrasi karena semuanya harus sesuai dengan aturan dan prosedur yang telah ditetapkan. Semua pegawai punya pekerjaan masing-masing sehingga tidak bisa melakukan pekerjaan di luar tanggung jawab dan kewajiban masing-masing.",
+      "C": "Memberi tahu orang tersebut untuk menuju ke loket lainnya di lantai satu yang sedang tidak sibuk melayani pengaduan sehingga bisa membantu dan mengarahkan ke loket bagian pengaduan. Memintanya untuk memahami bahwa saya sedang ada antrian panjang di loket pengaduan.",
+      "D": "Menyarankan kepada orang tersebut untuk mengajak sanak keluarga atau saudaranya yang bisa membantu dalam proses pengurusan administrasi tersebut. Menginformasikan kepadanya bahwa pegawai semuanya sibuk dengan pekerjaannya masing-masing.",
+      "E": "Meminta rekan kerja yang lain untuk menjaga loket saya sementara waktu, kemudian saya membantu orang tersebut menuju lantai dua untuk mengurus administrasi di lantai dua. Saya menitip pesan kepada rekan kerja di loket tersebut untuk membantu orang tersebut turun kembali ke lantai satu setelah urusannya selesai."
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 167,
+    "question": "Siang ini semua karyawan dikumpulkan oleh atasan anda untuk membicarakan permasalahan kantor. Kemudian pada saat anda diminta atasan anda untuk memberikan tanggapan terhadap sebuah permasalahan yang ada di kantor anda tersebut, tiba-tiba rekan kerja anda menyanggah penjelasan anda pada saat anda berbicara, menurut anda...",
+    "image": null,
+    "options": {
+      "A": "Wajar saja, karena dalam diskusi komunikasi harus berlangsung dua arah",
+      "B": "Mungkin apa yang saya jelaskan barusan tidak sesuai dengan gagasannya, namun ini adalah hal yang wajar di dalam sebuah diskusi",
+      "C": "Harusnya dia mendengarkan saya dulu, lalu baru berbicara.",
+      "D": "Seharusnya rekan saya bisa angkat tangan jika ingin menyampaikan gagasannya dalam diskusi",
+      "E": "Teman saya ingin menyampaikan gagasannya juga pada saat saya berbicara"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 168,
+    "question": "Agar suatu pekerjaan berhasil saya selesaikan dengan hasil yang memuaskan, maka saya akan...",
+    "image": null,
+    "options": {
+      "A": "Minta petunjuk guru pribadi saya dalam melaksanakan pekerjaan tersebut",
+      "B": "Mempelajari berbagai hal mengenai pekerjaan tersebut sebelum memulai pekerjaan",
+      "C": "Mencontoh orang lain yang telah sukses terlebih dahulu dalam mengerjakan pekerjaan serupa",
+      "D": "Menyesuaikan dengan kondisi yang sedang terjadi sekarang",
+      "E": "Menggunakan cara-cara yang sudah biasa saya pakai"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 169,
+    "question": "Dalam suatu rapat, salah satu teman anda melakukan kecurangan absensi kehadiran dengan cara mengisi data yang tidak sesuai dengan kehadiran. Yang anda lakukan adalah....",
+    "image": null,
+    "options": {
+      "A": "Membiarkan saja",
+      "B": "Melaporkan kepada pimpinan rapat",
+      "C": "Memberi tahu kepada teman yang terdekat",
+      "D": "Diam saja atau pura-pura tidak melihatnya",
+      "E": "Ikut-ikutan melakukannya kemudian bolos dari rapat"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 170,
+    "question": "Pada saat melaksanakan suatu tugas yang dipercayakan kepada saya, maka saya....",
+    "image": null,
+    "options": {
+      "A": "Menyadari bahwa keputusan pimpinan diperlukan diluar wewenang saya sebagai bawahan",
+      "B": "Harus melaksanakan tugas sesuai dengan kemampuan yang saya miliki",
+      "C": "Wajib mendahulukan kepentingan pimpinan saya",
+      "D": "Harus menyelesaikan secepat mungkin",
+      "E": "Berusaha membuat terobosan baru dalam penyelesaian tugas saya"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 171,
+    "question": "Instansi/lembaga tempat saya mengabdi sedang mengalami permasalahan internal seputar manajemen keuangan, pendapat saya terhadap kondisi yang sedang terjadi adalah....",
+    "image": null,
+    "options": {
+      "A": "Perlu membeberkan permasalahan kepada seluruh jajaran organisasi agar bisa memahami kondisi yang ada",
+      "B": "Saya akan menjaga kerahasiaan tentang permasalahan yang terjadi dan cobal memberikan alternatif solusi kepada pimpinan",
+      "C": "Seharusnya pimpinan puncak dapat menindak tegas yang terlibat dalam masalah ini",
+      "D": "Tidak mempersoalkan masalah ini karena bukan bagian dari tugas saya",
+      "E": "Pastikan bahwa kepala keuangan bertanggung jawab penuh terhadap masalah ini"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 172,
+    "question": "Apabila saya diminta oleh Kepala Departemen tempat saya bekerja untuk menjadi ketua sekaligus penanggung jawab sebuah tim kerja di kantor saya, padahal saya merasa belum pantas untuk menerimanya sebab masih ada atasan saya yang saya anggap mampu, maka saya....",
+    "image": null,
+    "options": {
+      "A": "Menolak permintaan kepala departemen tersebut",
+      "B": "Mempertimbangkan permintaan Tersebut dan meminta saran serta masukan dari atasan saya yang saya anggap lebih mampu",
+      "C": "Menerima permintaan tersebut dengan senang hati",
+      "D": "Menolak permintaan tersebut dan mengusulkan atasan yang pantas menerima tugas tersebut",
+      "E": "Menerima tawaran tersebut agar saya bisa segera naik jabatan sejajar dengan atasan saya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 173,
+    "question": "Teman-teman saya merasa nyaman untuk menceritakan masalah pribadi mereka kepada saya, karena menurut mereka saya..",
+    "image": null,
+    "options": {
+      "A": "Mampu menumbuhkan semangat mereka",
+      "B": "Mampu menjaga rahasia",
+      "C": "Memberikan solusi terbaik",
+      "D": "Pendengar yang baik",
+      "E": "Bisa melihat masalah dari segala sudut pandang"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 174,
+    "question": "Saat mengerjakan tugas yang diberikan kepada tim kerja saya, saya berharap teman-teman dalam tim kerja saya...",
+    "image": null,
+    "options": {
+      "A": "Tidak semua anggota mau mengerjakan tugas.",
+      "B": "Akan bekerja bila ada salah satu anggota tim memulai terlebih dahulu.",
+      "C": "Saling mengharapkan teman yang lain untuk menyelesaikan tugas tersebut",
+      "D": "Semua bekerja untuk menyelesaikan tugas tersebut",
+      "E": "Semoga semua anggota tim aktif terlibat untuk mencapai hasil yang baik"
+    },
+    "weights": {
+      "A": 8,
+      "B": 6,
+      "C": 4,
+      "D": 2,
+      "E": 10
+    }
+  },
+  {
+    "id": 175,
+    "question": "Setelah mempersiapkan presentasi produk baru untuk esok hari, maka ...",
+    "image": null,
+    "options": {
+      "A": "Saya yakin besok presentasi saya berjalan dengan baik, namun saya tetap mempersiapkan dengan maksimal",
+      "B": "Meski begitu saya cemas kalau ternyata besok presentasi saya kurang lancar",
+      "C": "Saya pasrah jika ada kendala",
+      "D": "Tak mungkin persentasi saya tidak lancar",
+      "E": "Tapi mungkin saja persentasi saya terganggu hal lain"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 176,
+    "question": "Hari ini saya melihat tetangga saya menunggu bus di halte. Kendaraan yang biasa ia gunakan ke kantor hilang kemarin siang. Sikap saya ...",
+    "image": null,
+    "options": {
+      "A": "Saya akan menasehatinya untuk lain kali mencari kendaraan baru",
+      "B": "Saya menganjurkannya untuk membeli kendaraan baru dengan sistem kredit",
+      "C": "Saya memberinya bantuan tumpangan semampu saya",
+      "D": "Saya mengkoordinir tetangga saya yang lain untuk turut membantu",
+      "E": "Saya pura - pura tidak melihat"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 177,
+    "question": "Menurut saya, kegagalan suatu tim kerja dalam mencapai target karena mereka....",
+    "image": null,
+    "options": {
+      "A": "Bertahan pada cara yang telah berjalan",
+      "B": "Menunggu bantuan pihak lain",
+      "C": "Pikiran bercabang pada usaha lain",
+      "D": "Menunda ketika melihat risikonya",
+      "E": "Mundur, begitu melihat risikonya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 178,
+    "question": "Sebuah keputusan yang saya ambil ternyata merugikan orang sekitar saya, maka saya...",
+    "image": null,
+    "options": {
+      "A": "Menerima penuh segala akibatnya",
+      "B": "Menyesali secara berkepanjangan keputusan yang telah saya buat",
+      "C": "Menerima akibatnya dengan setengah menyesal",
+      "D": "Menyalahkan orang lain yang telah mendorong saya",
+      "E": "Menyalahkan orang lain karena tidak mengingatkan saya"
+    },
+    "weights": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 4,
+      "E": 2
+    }
+  },
+  {
+    "id": 179,
+    "question": "Dalam rapat tim, atasan memberikan tugas mendadak dengan tenggat waktu yang sangat singkat. Sementara Anda sedang menyelesaikan pekerjaan lain yang juga penting. Apa yang akan Anda lakukan.....",
+    "image": null,
+    "options": {
+      "A": "Menolak tugas baru karena pekerjaan lama belum selesai",
+      "B": "Meminta atasan menunjuk orang lain yang lebih senggang",
+      "C": "Mencoba mengatur waktu agar kedua tugas dapat diselesaikan tepat waktu",
+      "D": "Menyelesaikan tugas lama saja karena sudah menjadi prioritas",
+      "E": "Menyerahkan kedua tugas kepada rekan lain"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 180,
+    "question": "Anda melihat rekan kerja yang tampak mengalami tekanan berat dan kinerjanya menurun. Sebagai rekan satu tim, Anda akan...",
+    "image": null,
+    "options": {
+      "A": "Membiarkannya karena bukan urusan saya",
+      "B": "Melapor ke atasan tanpa berbicara langsung kepadanya",
+      "C": "Mengajaknya bicara secara pribadi dan menawarkan bantuan",
+      "D": "Menggunakannya sebagai alasan agar beban kerja Anda dikurangi",
+      "E": "Mengeluh karena pekerjaan tim jadi lambat"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 181,
+    "question": "Anda telah menyelesaikan proyek dengan baik, namun atasan tidak memberikan apresiasi. Bagaimana respons Anda …",
+    "image": null,
+    "options": {
+      "A": "Merasa kecewa dan enggan bekerja keras lagi",
+      "B": "Tetap bekerja dengan baik karena hasil kerja adalah tanggung jawab",
+      "C": "Mengeluh pada rekan lain tentang sikap atasan",
+      "D": "Menuntut pengakuan atas kerja keras Anda",
+      "E": "Membiarkan proyek berikutnya tanpa semangat"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 182,
+    "question": "Dalam tim, Anda berbeda pendapat dengan rekan yang lebih senior mengenai cara penyelesaian tugas. Apa yang Anda lakukan.....",
+    "image": null,
+    "options": {
+      "A": "Mengalah karena tidak enak dengan senior",
+      "B": "Menyampaikan pendapat dengan sopan dan mendukung dengan data",
+      "C": "Memaksakan pendapat Anda agar diikuti",
+      "D": "Membicarakannya di belakang dengan rekan lain",
+      "E": "Diam saja agar tidak terjadi konflik"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 183,
+    "question": "Anda mengetahui bahwa seorang rekan sering datang terlambat tetapi tetap mendapat nilai kinerja baik karena kedekatannya dengan atasan. Apa yang Anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Membiarkan karena tidak ingin terlibat masalah",
+      "B": "Mengadukannya langsung ke atasan",
+      "C": "Fokus pada peningkatan kinerja diri sendiri",
+      "D": "Ikut datang terlambat agar dianggap adil",
+      "E": "Membicarakan hal itu dengan rekan lain"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 184,
+    "question": "Ketika rencana kerja yang Anda susun ditolak oleh pimpinan tanpa alasan yang jelas, Anda akan...",
+    "image": null,
+    "options": {
+      "A": "Merasa kecewa dan malas membuat rencana lain",
+      "B": "Meminta penjelasan dengan sopan agar tahu letak kekurangannya",
+      "C": "Mengabaikan dan membiarkan begitu saja",
+      "D": "Mengeluh ke rekan kerja mengenai sikap pimpinan",
+      "E": "Mengulang rencana yang sama agar dipertimbangkan lagi"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 185,
+    "question": "Anda baru bergabung di kantor dan melihat rekan kerja lama sering menolak ide-ide baru. Bagaimana Anda menyikapinya ....",
+    "image": null,
+    "options": {
+      "A": "Mengikuti kebiasaan mereka agar mudah diterima",
+      "B": "Tetap mengusulkan ide baru dengan cara yang sopan dan argumentatif",
+      "C": "Menyimpan ide sendiri untuk digunakan nanti",
+      "D": "Mengkritik rekan lama karena tidak mau berubah",
+      "E": "Menghindari terlibat dalam kegiatan tim"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 186,
+    "question": "Saat terjadi kesalahan dalam laporan tim, atasan meminta penjelasan. Anda tahu kesalahan itu berasal dari Anda. Apa yang Anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Diam agar tidak disalahkan",
+      "B": "Menyalahkan sistem yang kurang jelas",
+      "C": "Mengakui kesalahan dan menawarkan solusi perbaikan",
+      "D": "Menghindar dari tanggung jawab",
+      "E": "Mencari kambing hitam"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 187,
+    "question": "Rekan Anda meminta bantuan menyelesaikan tugasnya karena ia harus pulang lebih awal. Padahal Anda juga sedang sibuk. Sikap Anda....",
+    "image": null,
+    "options": {
+      "A": "Menolak dengan kasar karena Anda juga sibuk",
+      "B": "Menyanggupi tanpa berpikir akibatnya",
+      "C": "Menolak dengan sopan dan menawarkan membantu di waktu lain",
+      "D": "Mengabaikan permintaan tersebut",
+      "E": "Menyerahkan keputusan kepada atasan"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 188,
+    "question": "Anda diminta menjadi ketua panitia kegiatan kantor yang diadakan dalam waktu singkat. Apa yang Anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Menolak karena takut gagal",
+      "B": "Menerima dan segera menyusun rencana kerja bersama tim",
+      "C": "Menyerahkan tanggung jawab ke orang lain",
+      "D": "Menunggu instruksi detail dari atasan",
+      "E": "Mengeluh karena waktunya terlalu sedikit"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 189,
+    "question": "Seorang rekan mendapat pujian dari atasan atas hasil kerja yang sebenarnya Anda bantu banyak. Reaksi Anda adalah...",
+    "image": null,
+    "options": {
+      "A": "Marah dan menuntut pengakuan",
+      "B": "Ikhlas, karena hasil tim adalah yang utama",
+      "C": "Menyindir rekan tersebut di depan orang lain",
+      "D": "Melaporkan hal ini ke atasan",
+      "E": "Enggan membantu lagi di masa depan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 190,
+    "question": "Anda menemukan kesalahan kecil pada data penting yang hampir dikirim ke klien, tetapi waktu pengiriman sudah mendesak. Sikap Anda …",
+    "image": null,
+    "options": {
+      "A": "Mengirimkan saja karena kesalahannya kecil",
+      "B": "Menunda pengiriman dan memperbaiki kesalahan",
+      "C": "Melapor ke atasan untuk mendapat keputusan",
+      "D": "Membiarkan agar tidak disalahkan",
+      "E": "Menghapus bagian yang salah tanpa pemberitahuan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 191,
+    "question": "Anda bekerja dalam tim dengan anggota yang memiliki gaya kerja sangat berbeda. Bagaimana Anda menghadapinya.....",
+    "image": null,
+    "options": {
+      "A": "Memaksa mereka mengikuti cara Anda",
+      "B": "Menyesuaikan diri dan mencari cara agar kerja tim tetap efektif",
+      "C": "Menghindari kerja tim",
+      "D": "Mengeluh karena tidak cocok",
+      "E": "Membiarkan saja tanpa koordinasi"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 192,
+    "question": "Saat rapat, Anda punya ide penting namun semua orang sibuk berbicara. Apa yang Anda lakukan.....",
+    "image": null,
+    "options": {
+      "A": "Diam saja karena tidak ingin disalahpahami",
+      "B": "Menyela pembicaraan dengan keras agar didengar",
+      "C": "Menunggu waktu yang tepat untuk menyampaikan dengan sopan",
+      "D": "Meninggalkan rapat karena tidak dihargai",
+      "E": "Mengirim pesan pribadi ke atasan saja"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 193,
+    "question": "Atasan memberikan tugas di luar bidang keahlian Anda. Bagaimana Anda merespons .....",
+    "image": null,
+    "options": {
+      "A": "Menolak karena tidak sesuai kemampuan",
+      "B": "Menerima dan berusaha mempelajari hal baru",
+      "C": "Mengeluh karena merasa diperlakukan tidak adil",
+      "D": "Menyerahkan kepada rekan yang lebih ahli",
+      "E": "Melakukan asal-asalan agar cepat selesai"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 194,
+    "question": "Anda bekerja di lingkungan dengan aturan yang sering berubah. Apa sikap Anda ....",
+    "image": null,
+    "options": {
+      "A": "Mengabaikan aturan baru karena membingungkan",
+      "B": "Mempelajari dan menyesuaikan diri dengan aturan terbaru",
+      "C": "Mengeluh karena perubahan terlalu sering",
+      "D": "Mengikuti yang lama karena sudah terbiasa",
+      "E": "Menunggu rekan lain menerapkan dulu"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 195,
+    "question": "Saat presentasi, Anda tiba-tiba lupa bagian penting dari materi. Apa yang akan Anda lakukan…",
+    "image": null,
+    "options": {
+      "A": "Panik dan menghentikan presentasi",
+      "B": "Meminta waktu sebentar untuk menenangkan diri dan melanjutkan",
+      "C": "Menyalahkan rekan karena tidak membantu",
+      "D": "Mengakhiri tanpa menjelaskan",
+      "E": "Membacakan catatan seadanya tanpa fokus"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 196,
+    "question": "Anda menemukan bahwa sistem kerja di kantor kurang efisien. Apa langkah Anda.....",
+    "image": null,
+    "options": {
+      "A": "Mengabaikan karena bukan wewenang saya",
+      "B": "Menyampaikan saran perbaikan kepada atasan dengan data pendukung",
+      "C": "Mengkritik sistem di depan rekan kerja",
+      "D": "Mengikuti saja tanpa mencoba memperbaiki",
+      "E": "Mengeluh kepada orang luar kantor"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 197,
+    "question": "Anda diminta menjadi mentor bagi pegawai baru, namun tugas Anda sendiri sedang banyak. Apa yang Anda lakukan.....",
+    "image": null,
+    "options": {
+      "A": "Menolak karena tidak sempat",
+      "B": "Menerima dan mengatur waktu agar keduanya bisa berjalan",
+      "C": "Menyerahkan tugas mentoring ke rekan lain",
+      "D": "Mengabaikan pegawai baru",
+      "E": "Meminta atasan menunda penugasan"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 198,
+    "question": "Ketika tim Anda gagal mencapai target bulanan, sebagian besar rekan menyalahkan faktor luar. Anda akan...",
+    "image": null,
+    "options": {
+      "A": "Ikut menyalahkan keadaan",
+      "B": "Mencari kambing hitam agar tidak disalahkan",
+      "C": "Mengevaluasi proses kerja dan mencari solusi untuk bulan berikutnya",
+      "D": "Tidak peduli karena bukan tanggung jawab pribadi",
+      "E": "Menghindar dari pembahasan"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 199,
+    "question": "Ketika saya diberi tugas baru yang belum pernah saya lakukan, saya akan...",
+    "image": null,
+    "options": {
+      "A": "Menolaknya karena takut hasilnya tidak maksimal",
+      "B": "Meminta rekan lain untuk mengerjakannya",
+      "C": "Mencoba mempelajari dan mencari tahu cara mengerjakannya",
+      "D": "Menunggu instruksi lebih lanjut tanpa berinisiatif",
+      "E": "Mengabaikan karena bukan tanggung jawab utama saya"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 200,
+    "question": "Saat menghadapi tekanan pekerjaan yang tinggi, saya...",
+    "image": null,
+    "options": {
+      "A": "Mengeluh kepada rekan kerja",
+      "B": "Tetap fokus dan mengatur waktu sebaik mungkin",
+      "C": "Menunda pekerjaan hingga suasana tenang",
+      "D": "Meminta tugas dipindahkan ke orang lain",
+      "E": "Bekerja asal-asalan karena sudah lelah"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 201,
+    "question": "Jika rekan kerja melakukan kesalahan yang berdampak pada hasil tim, saya...",
+    "image": null,
+    "options": {
+      "A": "Membiarkannya karena bukan tanggung jawab saya",
+      "B": "Menyalahkannya di depan atasan",
+      "C": "Menegurnya dengan sopan dan membantu memperbaiki",
+      "D": "Mengadu ke rekan lain",
+      "E": "Tidak mau ikut campur"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 202,
+    "question": "Ketika saya gagal mencapai target, saya...",
+    "image": null,
+    "options": {
+      "A": "Menyalahkan keadaan",
+      "B": "Menyalahkan rekan kerja",
+      "C": "Mengevaluasi dan memperbaiki kesalahan",
+      "D": "Merasa tidak berguna",
+      "E": "Menyerah untuk mencoba lagi"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 203,
+    "question": "Jika ada perbedaan pendapat dalam tim, saya...",
+    "image": null,
+    "options": {
+      "A": "Memaksakan pendapat sendiri",
+      "B": "Mendengarkan pendapat orang lain sebelum memutuskan",
+      "C": "Diam saja agar tidak terjadi konflik",
+      "D": "Mengikuti pendapat mayoritas meski salah",
+      "E": "Meninggalkan diskusi"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 204,
+    "question": "Saat melihat teman melanggar aturan kecil di kantor, saya...",
+    "image": null,
+    "options": {
+      "A": "Tidak peduli karena bukan urusan saya",
+      "B": "Menegurnya dengan baik agar tidak terulang",
+      "C": "Langsung melapor ke atasan tanpa bicara dengannya dulu",
+      "D": "Ikut melakukannya agar dianggap kompak",
+      "E": "Membicarakannya dengan rekan lain"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 205,
+    "question": "Dalam bekerja, saya lebih termotivasi oleh...",
+    "image": null,
+    "options": {
+      "A": "Pujian dari rekan kerja",
+      "B": "Gaji dan bonus besar",
+      "C": "Kesempatan untuk belajar dan berkembang",
+      "D": "Perintah dari atasan",
+      "E": "Takut dimarahi kalau tidak bekerja"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 206,
+    "question": "Jika saya mendapat kritik dari atasan, saya...",
+    "image": null,
+    "options": {
+      "A": "Tersinggung dan membela diri",
+      "B": "Mengabaikannya",
+      "C": "Mendengarkan dan memperbaiki kekurangan",
+      "D": "Membicarakan balik kekurangan atasan",
+      "E": "Menurunkan semangat kerja"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  },
+  {
+    "id": 207,
+    "question": "Ketika rekan kerja sedang kesulitan menyelesaikan tugas, saya...",
+    "image": null,
+    "options": {
+      "A": "Membiarkan karena itu bukan tugas saya",
+      "B": "Menawarkan bantuan bila saya mampu",
+      "C": "Menunggu dia meminta bantuan",
+      "D": "Mengkritiknya karena lambat bekerja",
+      "E": "Mengambil alih seluruh tugasnya"
+    },
+    "weights": {
+      "A": 2,
+      "B": 10,
+      "C": 8,
+      "D": 6,
+      "E": 4
+    }
+  },
+  {
+    "id": 208,
+    "question": "Jika saya memiliki waktu luang di tempat kerja, saya...",
+    "image": null,
+    "options": {
+      "A": "Mengobrol dengan rekan kerja",
+      "B": "Bermain ponsel untuk mengisi waktu",
+      "C": "Mencari pekerjaan tambahan yang bermanfaat",
+      "D": "Menunggu instruksi dari atasan",
+      "E": "Pulang lebih awal diam-diam"
+    },
+    "weights": {
+      "A": 4,
+      "B": 2,
+      "C": 10,
+      "D": 8,
+      "E": 6
+    }
+  }
+]

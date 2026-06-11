@@ -1,0 +1,4022 @@
+[
+  {
+    "id": 1,
+    "question": "Kakak Tua : Merpati = ... : ...",
+    "image": null,
+    "options": {
+      "A": "Anjing : Herder",
+      "B": "Gurita : Hiu",
+      "C": "Singa : Harimau",
+      "D": "Gajah : Semut"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Tentukan kelanjutan dari deret angka berikut: 2, 4, 8, 16, 32, ...",
+    "image": null,
+    "options": {
+      "A": "48",
+      "B": "64",
+      "C": "128",
+      "D": "96"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Semua polisi berbadan tegap. Sebagian polisi berambut lurus. Maka kesimpulannya adalah...",
+    "image": null,
+    "options": {
+      "A": "Semua orang berbadan tegap berambut lurus",
+      "B": "Sebagian polisi berbadan tegap dan berambut lurus",
+      "C": "Semua yang berambut lurus adalah polisi",
+      "D": "Sebagian orang berambut lurus bukan polisi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Mobil : Bensin = Pelari : ...",
+    "image": null,
+    "options": {
+      "A": "Lintasan",
+      "B": "Sepatu",
+      "C": "Makanan",
+      "D": "Air"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Tentukan huruf berikutnya dari deret berikut: C, F, I, L, O, ...",
+    "image": null,
+    "options": {
+      "A": "R",
+      "B": "Q",
+      "C": "P",
+      "D": "S"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Manakah bentuk geometri yang berbeda dari kelompoknya?",
+    "image": null,
+    "options": {
+      "A": "Kubus",
+      "B": "Balok",
+      "C": "Kerucut",
+      "D": "Lingkaran"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Lanjutkan deret angka berikut: 15, 12, 19, 16, 23, 20, ...",
+    "image": null,
+    "options": {
+      "A": "27",
+      "B": "25",
+      "C": "24",
+      "D": "28"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Domba : Rumput = Harimau : ...",
+    "image": null,
+    "options": {
+      "A": "Singa",
+      "B": "Daging",
+      "C": "Hutan",
+      "D": "Taring"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Jika hari ini hujan, maka jalanan basah. Hari ini jalanan basah. Kesimpulannya adalah...",
+    "image": null,
+    "options": {
+      "A": "Hari ini hujan",
+      "B": "Hari ini tidak hujan",
+      "C": "Tidak dapat disimpulkan secara mutlak",
+      "D": "Hari ini pasti mendung"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Lanjutkan deret angka berikut: 1, 3, 6, 10, 15, ...",
+    "image": null,
+    "options": {
+      "A": "18",
+      "B": "20",
+      "C": "21",
+      "D": "25"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S1-1-1-300x183.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S2-1-1-210x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S3-1-1-300x254.jpg",
+    "options": {
+      "A": "A",
+      "B": "D",
+      "C": "B",
+      "D": "C",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S4-1-1-226x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S5-1-1-232x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S6-1-2-300x250.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S7-1-2-217x300.jpg",
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Kelompokkan gambar yang diberikkan menjadi tiga kelas dengan menggunakan setiap gambar hanya sekali!",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S8-1-1-213x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Sinonim dari GALAT= ...?",
+    "image": null,
+    "options": {
+      "A": "Kemurkaan",
+      "B": "Keliru",
+      "C": "Pendengaran",
+      "D": "Keretakan",
+      "E": "Kebersamaan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Sinonim dari BIBLIOGRAFI= ...?",
+    "image": null,
+    "options": {
+      "A": "Kata Pengantar",
+      "B": "Naskah",
+      "C": "Sejarah",
+      "D": "Daftar Pustaka",
+      "E": "Dagtar Isi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 21,
+    "question": "Sinonim dari KISI-KISI= ...?",
+    "image": null,
+    "options": {
+      "A": "Tabel",
+      "B": "Terali",
+      "C": "Gambaran",
+      "D": "Perhitungan",
+      "E": "Pola Kerja"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Sinonim dari DONASI= ...?",
+    "image": null,
+    "options": {
+      "A": "Kontribusi",
+      "B": "Dana",
+      "C": "Dedikasi",
+      "D": "Kekuasaan",
+      "E": "Lemah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Sinonim dari BOGA= ...?",
+    "image": null,
+    "options": {
+      "A": "Tepung",
+      "B": "Memasak",
+      "C": "Obat",
+      "D": "Makanan Enak",
+      "E": "adonan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Sinonim dari RAMA= ...?",
+    "image": null,
+    "options": {
+      "A": "Bos",
+      "B": "Ayah",
+      "C": "Ketua",
+      "D": "Pemimpin",
+      "E": "Direktur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Sinonim dari IMUN= ...?",
+    "image": null,
+    "options": {
+      "A": "Kebal",
+      "B": "Obat",
+      "C": "Infus",
+      "D": "Makan",
+      "E": "Program"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Sinonim dari IDENTITAS= ...?",
+    "image": null,
+    "options": {
+      "A": "Watak",
+      "B": "Kebiasaan",
+      "C": "Raga",
+      "D": "Ciri-ciri",
+      "E": "Fisik"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Sinonim dari KHAYALAN= ...?",
+    "image": null,
+    "options": {
+      "A": "Nyata",
+      "B": "Maya",
+      "C": "Impian",
+      "D": "Mimpi",
+      "E": "Melamun"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Sinonim dari SAINS= ....?",
+    "image": null,
+    "options": {
+      "A": "Ilmu",
+      "B": "Pustaka",
+      "C": "Alam",
+      "D": "Hipotesis",
+      "E": "Penelitian"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Sinonim dari WARAS= ...?",
+    "image": null,
+    "options": {
+      "A": "Kotor",
+      "B": "Bingung",
+      "C": "Ramah",
+      "D": "Sehat",
+      "E": "Tempat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 30,
+    "question": "Sinonim dari LANCUNG= ...?",
+    "image": null,
+    "options": {
+      "A": "Lucu",
+      "B": "Marah",
+      "C": "Licik",
+      "D": "Murung",
+      "E": "Lapar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Diantara gambar (A), (B), (C), dan (D) pilih gambar yang jika ditempatkan titik-titik maka memenuhi kondisi yang sama penempatan titik-titik seperti pada gambar (X= SOAL)",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S1-4-300x65.jpg",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "A",
+      "D": "E",
+      "E": "B"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Diantara gambar (A), (B), (C), dan (D) pilih gambar yang jika ditempatkan titik-titik maka memenuhi kondisi yang sama penempatan titik-titik seperti pada gambar (X= SOAL)",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S2-4-300x73.jpg",
+    "options": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Diantara gambar (A), (B), (C), dan (D) pilih gambar yang jika ditempatkan titik-titik maka memenuhi kondisi yang sama penempatan titik-titik seperti pada gambar (X= SOAL)",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S3-4-300x66.jpg",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Diantara gambar (A), (B), (C), dan (D) pilih gambar yang jika ditempatkan titik-titik maka memenuhi kondisi yang sama penempatan titik-titik seperti pada gambar (X= SOAL)",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S4-4-300x78.jpg",
+    "options": {
+      "A": "D",
+      "B": "B",
+      "C": "A",
+      "D": "C",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Diantara gambar (A), (B), (C), dan (D) pilih gambar yang jika ditempatkan titik-titik maka memenuhi kondisi yang sama penempatan titik-titik seperti pada gambar (X= SOAL)",
+    "image": "https://app.suksescat.com/wp-content/uploads/2024/04/S5-4-300x73.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Sinonim dari BAIAT= ...?",
+    "image": null,
+    "options": {
+      "A": "Upacara",
+      "B": "Melantik",
+      "C": "Melangkah",
+      "D": "Memuja",
+      "E": "Melepas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Sinonim dari GAMANG= ...?",
+    "image": null,
+    "options": {
+      "A": "Cemas",
+      "B": "Senang",
+      "C": "Terpukau",
+      "D": "Lupa",
+      "E": "Sulit Makan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Antonim dari DIALOG = ...?",
+    "image": null,
+    "options": {
+      "A": "Sunyi",
+      "B": "Prolog",
+      "C": "Bicara",
+      "D": "Monolog",
+      "E": "Adegan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 39,
+    "question": "Antonim dari BONGAK = ...?",
+    "image": null,
+    "options": {
+      "A": "Bengah",
+      "B": "Angkuh",
+      "C": "Langguk",
+      "D": "Rendah hati",
+      "E": "Gesit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Antonim dari IFTITAH = ...?",
+    "image": null,
+    "options": {
+      "A": "Epilog",
+      "B": "Prolog",
+      "C": "Awal",
+      "D": "Isi",
+      "E": "Kesimpulan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Antonim dari FRIKSI = ...?",
+    "image": null,
+    "options": {
+      "A": "Musuh",
+      "B": "Damai",
+      "C": "Kontra",
+      "D": "Seri",
+      "E": "Bentrok"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Antonim dari LATIF = ...?",
+    "image": null,
+    "options": {
+      "A": "Elok",
+      "B": "Uli",
+      "C": "Buruk",
+      "D": "Gelap",
+      "E": "Tenang"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 43,
+    "question": "Antonim dari NIRMALA = ...?",
+    "image": null,
+    "options": {
+      "A": "Bersih",
+      "B": "Suci",
+      "C": "Kelang",
+      "D": "Bernoda",
+      "E": "Jelek"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 44,
+    "question": "Antonim dari TOLERAN = ...?",
+    "image": null,
+    "options": {
+      "A": "Liberal",
+      "B": "Permisif",
+      "C": "Tertutup",
+      "D": "Radikal",
+      "E": "Komunal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 45,
+    "question": "Antonim dari DEFISIEN = ...?",
+    "image": null,
+    "options": {
+      "A": "Lebih",
+      "B": "Kurang",
+      "C": "Kondisi",
+      "D": "Berkembang",
+      "E": "Tenaga"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 46,
+    "question": "Antonim dari DARMA = ...?",
+    "image": null,
+    "options": {
+      "A": "Kekuasaan",
+      "B": "Kewajiban",
+      "C": "Tugas",
+      "D": "Pensiun",
+      "E": "Kepentingan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "question": "Antonim dari PEJAL = ...?",
+    "image": null,
+    "options": {
+      "A": "Berongga",
+      "B": "Mampat",
+      "C": "Potongan",
+      "D": "Padat",
+      "E": "Utuh"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 48,
+    "question": "Antonim dari BAGAS = ...?",
+    "image": null,
+    "options": {
+      "A": "Lambat",
+      "B": "Laju",
+      "C": "Rapat",
+      "D": "Cepat",
+      "E": "Keras"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Antonim dari BAIN = ...?",
+    "image": null,
+    "options": {
+      "A": "Salah",
+      "B": "Riil",
+      "C": "Abstrak",
+      "D": "Penting",
+      "E": "Benar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 50,
+    "question": "Antonim dari BARBAR = ...?",
+    "image": null,
+    "options": {
+      "A": "Hewan",
+      "B": "Liar",
+      "C": "Jahat",
+      "D": "Beradab",
+      "E": "Pintar"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "question": "Antonim dari HARMONI = ...?",
+    "image": null,
+    "options": {
+      "A": "Selaras",
+      "B": "Bising",
+      "C": "Keras",
+      "D": "Sinkron",
+      "E": "Merdu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "question": "Antonim dari ROMBAK = ...?",
+    "image": null,
+    "options": {
+      "A": "Pasang",
+      "B": "Bongkar",
+      "C": "Pecah",
+      "D": "Buka",
+      "E": "Ambil"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 53,
+    "question": "Antonim dari KONTAN = ...?",
+    "image": null,
+    "options": {
+      "A": "Bayar",
+      "B": "Uang",
+      "C": "Tunai",
+      "D": "Cicil",
+      "E": "Rugi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 54,
+    "question": "Antonim dari SERONG = ...?",
+    "image": null,
+    "options": {
+      "A": "Lurus",
+      "B": "Menyimpang",
+      "C": "Miring",
+      "D": "Selingkuh",
+      "E": "Pas"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "question": "Antonim dari TUMUS = ...?",
+    "image": null,
+    "options": {
+      "A": "Jatuh",
+      "B": "Bangkit",
+      "C": "Murung",
+      "D": "Hambatan",
+      "E": "Tidur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 56,
+    "question": "Antonim dari DEKADEN = ...?",
+    "image": null,
+    "options": {
+      "A": "Lampau",
+      "B": "Mundur",
+      "C": "Turun",
+      "D": "Kemajuan",
+      "E": "Abad"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 57,
+    "question": "Antonim dari BUNCIT = ...?",
+    "image": null,
+    "options": {
+      "A": "Lebar",
+      "B": "Bulat",
+      "C": "Mengembang",
+      "D": "Kempis",
+      "E": "Hamil"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 58,
+    "question": "Antonim dari GUYUB = ...?",
+    "image": null,
+    "options": {
+      "A": "Desa",
+      "B": "Mesra",
+      "C": "Rusuh",
+      "D": "Rukun",
+      "E": "Rapat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "question": "Antonim dari CALAK = ...?",
+    "image": null,
+    "options": {
+      "A": "Pendiam",
+      "B": "Lama",
+      "C": "Cerewet",
+      "D": "Berisik",
+      "E": "Marah"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 60,
+    "question": "Antonim dari AKURAT = ...?",
+    "image": null,
+    "options": {
+      "A": "Sesuai",
+      "B": "Ceroboh",
+      "C": "Tepat",
+      "D": "Arah",
+      "E": "Panah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 61,
+    "question": "Semua tanaman di kebun pak Subur adalah tanaman obat. Sebagian tanaman di kebun pak Subur adalah tanaman sayur.",
+    "image": null,
+    "options": {
+      "A": "Semua tanaman sayur yang bukan tanaman di kebun pak Subur adalah tanaman obat.",
+      "B": "Semua tanaman di kebun pak Subur yang bukan tanaman obat adalah tanaman sayur.",
+      "C": "Semua tanaman sayur di kebun pak Subur adalah tanaman obat.",
+      "D": "Semua tanaman obat yang bukan tanaman dikebun pak Subur adalah tanaman sayur.",
+      "E": "Semua tanaman di kebun pa subur yang bukan tanaman sayur, bukan tanaman obat."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Pak Arman tinggal di R. Andi. Suatu pagi, ia ingin pergi ke Gedung Serbaguna untuk mengambil pesanan. Setelah itu, ia berencana mampir ke R. Ahmad untuk mengobrol sebentar, lalu pulang kembali ke R. Andi.\nBagaimana urutan arah perjalanan yang paling tepat yang harus dilalui Pak Arman untuk mencapai Gedung Serbaguna dari R. Andi, lalu ke R. Ahmad, dan kembali ke R. Andi?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/07/denah-pa-arman-300x174.jpeg",
+    "options": {
+      "A": "Dari R. Andi ke Barat di Jl. Kusuma Raya, lalu ke Utara; Dari Gedung Serbaguna ke Timur; Dari R. Ahmad ke Timur.",
+      "B": "Dari R. Andi ke Barat di Jl. Kusuma Raya, lalu ke Selatan; Dari Gedung Serbaguna ke Timur; Dari R. Ahmad ke Barat.",
+      "C": "Dari R. Andi ke Selatan di Jl. Madukara, lalu ke Barat; Dari Gedung Serbaguna ke Timur; Dari R. Ahmad ke Timur.",
+      "D": "Dari R. Andi ke Barat di Jl. Kusuma Raya; Dari Gedung Serbaguna ke Timur; Dari R. Ahmad ke Timur.",
+      "E": "Dari R. Andi ke Timur di Jl. Kusuma Raya; Dari Gedung Serbaguna ke Barat; Dari R. Ahmad ke Barat."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Pengurus koperasi seharusnya berjiwa sosial. Sebagian ketua RT pernah menjadi pengurus koperasi. Jadi...",
+    "image": null,
+    "options": {
+      "A": "Ketua RT itu selalu berjiwa sosial.",
+      "B": "Semua orang yang pernah menjadi ketua RT adalah pengurus koperasi.",
+      "C": "Sebagian pengurus koperasi ingin menjadi ketua RT.",
+      "D": "Semua pengurus koperasi berjiwa sosial.",
+      "E": "Sebagian ketua RT seharusnya berjiwa sosial."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 64,
+    "question": "GASAL = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Unik",
+      "B": "Aneh",
+      "C": "Gabah",
+      "D": "Genap",
+      "E": "Ganjil"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 65,
+    "question": "BULAT = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Bola",
+      "B": "Lingkaran",
+      "C": "Bundar",
+      "D": "Lonjong",
+      "E": "Oval"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 66,
+    "question": "ALTERNATIF = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Cara lain",
+      "B": "Prosedur pemecahan",
+      "C": "Prinsip dasar",
+      "D": "Main stream",
+      "E": "Pedoman"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 67,
+    "question": "BONANZA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Peternakan",
+      "B": "Perayaan",
+      "C": "Judul sinetron",
+      "D": "Daerah subur",
+      "E": "Sumber kesenangan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 68,
+    "question": "ZENIT = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Bintang",
+      "B": "Langit",
+      "C": "Puncak",
+      "D": "Jenis batu",
+      "E": "Batu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Deret: C, G, L, R, ...",
+    "image": null,
+    "options": {
+      "A": "W",
+      "B": "X",
+      "C": "Y",
+      "D": "Z",
+      "E": "C"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 70,
+    "question": "Deret: Z, X, U, Q, L, ..., ...",
+    "image": null,
+    "options": {
+      "A": "F – Y",
+      "B": "D – W",
+      "C": "A – U",
+      "D": "B – V",
+      "E": "C – T"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Jika album itu dirilis hari ini, maka penjualan akan memperoleh hasil yang maksimum. Jika penjualan mencapai maksimum, maka bonus akan turun lebih cepat. Kesimpulan yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Jika bonus tertunda, maka album tidak dirilis hari ini.",
+      "B": "Jika penjualan tidak maksimum, maka bonus tidak turun lebih cepat.",
+      "C": "Jika album dirilis hari ini, maka bonus tidak akan turun lebih cepat.",
+      "D": "Jika album itu tidak dirilis hari ini, maka penjualan tidak akan maksimum.",
+      "E": "Penjualan mencapai maksimum dan bonus akan turun lebih cepat."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 72,
+    "question": "Deret: F, J, O, U, ..., ...",
+    "image": null,
+    "options": {
+      "A": "A – I",
+      "B": "C – J",
+      "C": "A – H",
+      "D": "D – K",
+      "E": "E – L"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "question": "G H I M N J K L M N …",
+    "image": null,
+    "options": {
+      "A": "M N O",
+      "B": "K P L",
+      "C": "A B C",
+      "D": "J K L",
+      "E": "O P Q"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Tujuh orang anak yaitu Mono, Nini, Odi, Pani, Qori, Rani, dan Suni sedang naik roller coaster yang terdiri dari beberapa kereta yang saling terkait.\nMereka menaiki 3 kereta terdepan, dan muatan maksimal 1 kereta adalah 4 orang. Karena telah diisi orang lain, kereta pertama hanya dapat diisi 2 orang dari mereka, kereta kedua dapat diisi 3 orang dari mereka, dan kereta ketiga dapat diisi 2 orang dari mereka.\nAturannya adalah:\nMono di kereta yang sama dengan Rani.\nSuni tidak satu kereta dengan Pani atau Qori.\nNini tidak satu kereta dengan Qori atau Pani.\nBila Odi berada di kereta ketiga, maka pernyataan yang tidak mungkin benar adalah ...",
+    "image": null,
+    "options": {
+      "A": "Mono berada di kereta pertama",
+      "B": "Qori berada di kereta ketiga",
+      "C": "Rani berada di kereta kedua",
+      "D": "Nini berada di kereta kedua",
+      "E": "Suni berada di kereta ketiga"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 75,
+    "question": "ABADI &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Abad",
+      "B": "Fana",
+      "C": "Dunia",
+      "D": "Kecewa",
+      "E": "Kehancuran"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "question": "AMAL &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Mal",
+      "B": "Kebaikan",
+      "C": "Manusia",
+      "D": "Janji",
+      "E": "Perbuatan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "question": "BUKIT &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Sungai",
+      "B": "Jurang",
+      "C": "Lembah",
+      "D": "Tebing",
+      "E": "Ngarai"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 78,
+    "question": "TERKATUNG &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Melayang",
+      "B": "Pasti",
+      "C": "Ombak",
+      "D": "Terperosok",
+      "E": "Terbenam"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 79,
+    "question": "KONVEKS &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Lensa",
+      "B": "Optik",
+      "C": "Kerucut",
+      "D": "Cekung",
+      "E": "Cembung"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 80,
+    "question": "Deret: 11, 25, 55, 125, 275, 625, ...",
+    "image": null,
+    "options": {
+      "A": "3.125",
+      "B": "3.025",
+      "C": "1.425",
+      "D": "1.375",
+      "E": "1.225"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 81,
+    "question": "Empat siswa: Ali, Budi, Citra, Deni akan mengerjakan tugas dengan aturan:\nAli harus mengerjakan tugas sebelum Citra.\nBudi tidak boleh mengerjakan tugas terakhir.\nDeni hanya boleh mengerjakan tugas jika Ali sudah mengerjakan.\n Jika Deni mengerjakan tugas pertama, siapa yang pasti tidak mengerjakan tugas pertama?",
+    "image": null,
+    "options": {
+      "A": "Ali",
+      "B": "Budi",
+      "C": "Citra",
+      "D": "Deni",
+      "E": "Tidak bisa ditentukan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Lima anak: Fajar, Gita, Hana, Ika, Joni duduk berbaris dengan aturan:\nFajar tidak boleh di sebelah Gita.\nJoni harus duduk di ujung.\nHana harus di sebelah Ika.\nJika Joni duduk di ujung kiri, posisi yang mungkin untuk Hana adalah ...",
+    "image": null,
+    "options": {
+      "A": "Paling kiri",
+      "B": "Di sebelah Ika",
+      "C": "Di sebelah Joni",
+      "D": "Di tengah",
+      "E": "Tidak bisa ditentukan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "question": "Tiga chef: Lani, Mira, Niko mengikuti lomba dengan aturan:\nLani harus memasak setelah Mira.\nNiko tidak boleh memasak terakhir.\nMira tidak boleh memasak pertama.\nJika Niko memasak pertama, urutan yang mungkin adalah ...",
+    "image": null,
+    "options": {
+      "A": "Niko → Mira → Lani",
+      "B": "Mira → Niko → Lani",
+      "C": "Lani → Mira → Niko",
+      "D": "Niko → Lani → Mira",
+      "E": "Tidak bisa ditentukan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "question": "PEDAS : CABAI = MANIS : …",
+    "image": null,
+    "options": {
+      "A": "Kecap",
+      "B": "Sakarin",
+      "C": "Teh Botol",
+      "D": "Manisan",
+      "E": "Gadis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "question": "RAMALAN : ASTROLOGI = BANGSA : …",
+    "image": null,
+    "options": {
+      "A": "Etnologi",
+      "B": "Psikologi",
+      "C": "Demografi",
+      "D": "Antropologi",
+      "E": "Sosiologi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 86,
+    "question": "LAMPU : GELAP = MAKANAN : …",
+    "image": null,
+    "options": {
+      "A": "Lapar",
+      "B": "Mulas",
+      "C": "Gizi",
+      "D": "Penuh",
+      "E": "Kenyang"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "BUNGA : BUKET = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Pigmen : Mata",
+      "B": "Balon : Udara",
+      "C": "Pintu : Kunci",
+      "D": "Tubuh : Kulit",
+      "E": "Kertas : Buku"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 88,
+    "question": "RUMPUT : LAPANGAN = BINTANG : …",
+    "image": null,
+    "options": {
+      "A": "Antariksa",
+      "B": "Malam",
+      "C": "Angkasa",
+      "D": "Langit",
+      "E": "Nebula"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 89,
+    "question": "Deret: 5, 25, 32, 45, 59, 65, ...",
+    "image": null,
+    "options": {
+      "A": "82",
+      "B": "83",
+      "C": "84",
+      "D": "85",
+      "E": "86"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 90,
+    "question": "Deret: 215, 321, 207, 314, 199, 307, ...",
+    "image": null,
+    "options": {
+      "A": "191",
+      "B": "192",
+      "C": "299",
+      "D": "300",
+      "E": "319"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 91,
+    "question": "2, 5, 10, 17, 26 ......",
+    "image": null,
+    "options": {
+      "A": "28, 17",
+      "B": "37, 50",
+      "C": "24, 81",
+      "D": "23, 15",
+      "E": "34, 42"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Berapakah nilai dari 15% dari 240?",
+    "image": null,
+    "options": {
+      "A": "32",
+      "B": "34",
+      "C": "36",
+      "D": "38",
+      "E": "40"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 93,
+    "question": "Jika sebuah mobil menempuh jarak 180 km dalam 3 jam, berapa kecepatan rata-rata mobil tersebut?",
+    "image": null,
+    "options": {
+      "A": "50 km/jam",
+      "B": "55 km/jam",
+      "C": "60 km/jam",
+      "D": "65 km/jam",
+      "E": "70 km/jam"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "question": "Sebuah toko menjual sebuah barang dengan diskon 20%, kemudian memberikan diskon tambahan 10% dari harga setelah diskon pertama. Jika harga awal barang adalah Rp500.000, berapa harga akhirnya?",
+    "image": null,
+    "options": {
+      "A": "Rp350.000",
+      "B": "Rp360.000",
+      "C": "Rp365.000",
+      "D": "Rp370.000",
+      "E": "Rp375.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Diketahui pola bilangan berikut:\n2, 6, 12, 20, 30, ...Angka selanjutnya dalam pola tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "36",
+      "B": "40",
+      "C": "42",
+      "D": "44",
+      "E": "46"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "question": "Perhatikan bilangan-bilangan dibawah ini dan tentukan nilai atau angka untuk mengisi bagian yang kosong pada gambar tersebut.",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/06/1.tif",
+    "options": {
+      "A": "10",
+      "B": "13",
+      "C": "16",
+      "D": "17",
+      "E": "21"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 97,
+    "question": "C, F, I, L, O .....",
+    "image": null,
+    "options": {
+      "A": "Q",
+      "B": "T",
+      "C": "S",
+      "D": "P",
+      "E": "R"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 98,
+    "question": "Suku ke-5 dari deret 3, 7, 11, 15, ... adalah...",
+    "image": null,
+    "options": {
+      "A": "17",
+      "B": "19",
+      "C": "21",
+      "D": "23",
+      "E": "25"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "question": "Jika suku ke-1 adalah 10 dan beda setiap suku adalah -3, maka suku ke-8 adalah...",
+    "image": null,
+    "options": {
+      "A": "-10",
+      "B": "-11",
+      "C": "-12",
+      "D": "-13",
+      "E": "-14"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 100,
+    "question": "Diketahui suatu deret aritmetika dengan suku pertama\na=7a = 7\na=7 dan beda\nb=5b = 5\nb=5.Berapakah suku ke-12 dari deret tersebut?",
+    "image": null,
+    "options": {
+      "A": "57",
+      "B": "60",
+      "C": "62",
+      "D": "67",
+      "E": "70"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "question": "Perbandingan komik milik Egi dan Firman adalah 5: 4. Apabila selisih komik mereka berdua adalah 21, jumlah komik Egi dan Firman adalah ...",
+    "image": null,
+    "options": {
+      "A": "59",
+      "B": "89",
+      "C": "119",
+      "D": "159",
+      "E": "189"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 102,
+    "question": "Perbandingan gaji Dimas dan Evan adalah 3: 5. Apabila jumlah gaji keduanya adalah Rp16.000.000,00. Maka selisih gaji keduanya adalah ...",
+    "image": null,
+    "options": {
+      "A": "Rp4.000.000,00",
+      "B": "Rp4.500.000,00",
+      "C": "Rp5.000.000,00",
+      "D": "Rp5.500.000,00",
+      "E": "Rp6.000.000,00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v1-300x113.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v2-300x114.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 105,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v3-300x112.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Sebuah mobil menempuh jarak dari kota P ke kota Q dalam waktu 1,2 jam dengan kecepatan 80 km/jam. Agar jarak tersebut dapat ditempuh dalam waktu 60 menit maka kecepatan mobil yang harus dicapai adalah ...",
+    "image": null,
+    "options": {
+      "A": "62 km/jam",
+      "B": "8 km/jam",
+      "C": "84 km/jam",
+      "D": "96 km/jam",
+      "E": "104 km/jam"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 107,
+    "question": "Diketahui selisih panjang dan lebar suatu persegi panjang adalah 6 m dan keliling persegi panjang adalah 56 m, luas persegi panjang tersebut adalah ... m².",
+    "image": null,
+    "options": {
+      "A": "187",
+      "B": "227",
+      "C": "277",
+      "D": "317",
+      "E": "347"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 108,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v4-300x115.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 109,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v5-300x115.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 110,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/v6-300x113.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Semua wanita memiliki perasaan. Semua pria juga memiliki perasaan. Jadi ...",
+    "image": null,
+    "options": {
+      "A": "Pria dan wanita sama-sama memiliki perasaan.",
+      "B": "Waria tidak mempunyai perasaan.",
+      "C": "Wanita sama saja dengan pria.",
+      "D": "Pria sama saja dengan wanita.",
+      "E": "Tidak dapat disimpulkan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "question": "Ani berada di Lapangan dan ingin mengunjungi rumah R. Sinta. Setelah dari rumah R. Sinta, ia ingin melanjutkan perjalanan ke Kantor Polisi.\nJalur perjalanan manakah yang paling efisien dan deskripsi arah mata angin yang paling tepat untuk Ani dari Lapangan ke R. Sinta, lalu ke Kantor Polisi?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-24-at-10.45.22_43c33f8b-300x174.jpg",
+    "options": {
+      "A": "Dari Lapangan berjalan ke Utara di Jl. Pemuda, lalu belok kanan ke Jl. Kusuma Raya, dan R. Sinta di Utara jalan. Dari R. Sinta berjalan ke Barat di Jl. Kusuma Raya, lalu belok kanan ke Jl. Rambutan, Kantor Polisi di Selatan jalan.",
+      "B": "Dari Lapangan berjalan ke Utara di Jl. Pemuda, lalu belok kiri ke Jl. Kusuma Raya, dan R. Sinta di Utara jalan. Dari R. Sinta berjalan ke Barat di Jl. Kusuma Raya, lalu belok kiri ke Jl. Rambutan, Kantor Polisi di Selatan jalan.",
+      "C": "Dari Lapangan berjalan ke Barat di Jl. Kusuma Raya, dan R. Sinta di Utara jalan. Dari R. Sinta berjalan ke Barat di Jl. Kusuma Raya, lalu Kantor Polisi di Utara jalan.",
+      "D": "Dari Lapangan berjalan ke Utara di Jl. Pemuda, lalu belok kiri ke Jl. Kusuma Raya, dan R. Sinta di Utara jalan. Dari R. Sinta berjalan ke Barat di Jl. Kusuma Raya, Kantor Polisi di sisi Utara Jl. Kusuma Raya.",
+      "E": "Dari Lapangan berjalan ke Selatan di Jl. Pemuda, lalu belok kanan ke Jl. Kusuma Raya, dan R. Sinta di Selatan jalan. Dari R. Sinta berjalan ke Timur di Jl. Kusuma Raya, lalu belok kanan ke Jl. Madukara, Kantor Polisi di Utara jalan."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 113,
+    "question": "Jika pernyataan &#8220;Semua Dokter adalah laki-laki&#8221; salah, maka:",
+    "image": null,
+    "options": {
+      "A": "Sementara dokter adalah laki-laki.",
+      "B": "Sementara laki-laki adalah bukan dokter.",
+      "C": "Sementara dokter adalah bukan laki-laki.",
+      "D": "Tidak ada dokter yang bukan laki-laki.",
+      "E": "Tidak ada kesimpulan yang benar."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "question": "GAJI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Honor",
+      "B": "Bonus",
+      "C": "Tunjangan",
+      "D": "Pekerjaan",
+      "E": "Pencaharian"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 115,
+    "question": "REGISTRASI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Jadwal ulang",
+      "B": "Pengaturan",
+      "C": "Register",
+      "D": "Pendaftaran Kembali",
+      "E": "Pendaftaran"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 116,
+    "question": "BOGA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Makanan nikmat",
+      "B": "Resep",
+      "C": "Menu",
+      "D": "Pakaian pengantin",
+      "E": "Pakaian kebesaran"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 117,
+    "question": "EKLIPS = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Gerhana",
+      "B": "Penjepit buku",
+      "C": "Garis khatulistiwa",
+      "D": "Gaya gravitasi",
+      "E": "Lonjong"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 118,
+    "question": "MUKJIZAT = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Takjub",
+      "B": "Barakah",
+      "C": "Karamah",
+      "D": "Safaat",
+      "E": "Ashifa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 119,
+    "question": "Terdapat tiang bendera dengan tinggi 30 meter yang membentuk bayangan dengan panjang 20 meter. Pada saat yang sama sebuah pohon dengan tinggi 120 meter akan mempunyai bayangan sepanjang ...",
+    "image": null,
+    "options": {
+      "A": "40 meter",
+      "B": "60 meter",
+      "C": "80 meter",
+      "D": "90 meter",
+      "E": "100 meter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 120,
+    "question": "Perbandingan umur Ayah dan Ibu adalah 9: 8. Selisih umur Ayah dan Ibu adalah 5 tahun. Umur Ayah sebenarnya adalah ...",
+    "image": null,
+    "options": {
+      "A": "40 tahun",
+      "B": "45 tahun",
+      "C": "50 tahun",
+      "D": "55 tahun",
+      "E": "60 tahun"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Jika pesawat sampai tepat waktu, maka paket akan sampai pukul 12 hari ini. Jika paket sampai pukul 12 hari ini, maka pelanggan puas.\nKesimpulan yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Jika pesawat terlambat, maka pelanggan tidak puas.",
+      "B": "Jika paket sampai pukul 11 hari ini, maka pelanggan puas.",
+      "C": "Jika pesawat tidak sampai tepat waktu, maka pelanggan puas.",
+      "D": "Jika pelanggan tidak puas, maka pesawat mengalami keterlambatan.",
+      "E": "Jika paket sampai pukul 12 esok hari, maka pesawat mengalami keterlambatan."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 122,
+    "question": "Jika harga BBM naik, maka harga bahan pokok naik.\nJika harga bahan pokok naik, maka UMR naik. Kesimpulan yang tepat adalah....",
+    "image": null,
+    "options": {
+      "A": "Jika harga BBM naik, maka UMR naik.",
+      "B": "Harga BBM naik, maka harga bahan pokok tetap.",
+      "C": "Harga bahan pokok naik, maka UMR turun.",
+      "D": "Harga BBM tidak naik, maka UMR turun.",
+      "E": "Harga bahan pokok turun, maka UMR naik."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 123,
+    "question": "Dalam suatu acara perlombaan diketahui urutan nilai yang dimiliki oleh masing-masing peserta sebagai berikut:\nNilai tim W lebih tinggi dari tim Q.\nNilai tim S sama dengan nilai tim Y.\nNilai tim T lebih tinggi dari tim G.\nHanya ada dua tim yang memiliki skor sama.\nJika skor tim Q lebih tinggi daripada skor tim T, maka ...",
+    "image": null,
+    "options": {
+      "A": "Nilai tim W lebih tinggi dari tim G",
+      "B": "Nilai tim T lebih tinggi dari tim W",
+      "C": "Nilai tim G lebih tinggi dari tim Q",
+      "D": "Nilai tim S lebih tinggi dari tim T",
+      "E": "Nilai tim W sama dengan nilai tim T"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Dalam suatu acara perlombaan diketahui urutan nilai yang dimiliki oleh masing-masing peserta sebagai berikut:\nNilai tim W lebih tinggi dari tim Q.\nNilai tim S sama dengan nilai tim Y.\nNilai tim T lebih tinggi dari tim G.\nHanya ada dua tim yang memiliki skor sama.\nJika skor tim S lebih tinggi daripada skor tim W, maka ...",
+    "image": null,
+    "options": {
+      "A": "Nilai tim G sama dengan nilai tim W",
+      "B": "Nilai tim W lebih rendah dari tim T",
+      "C": "Nilai tim Y lebih tinggi dari tim S",
+      "D": "Nilai tim Q lebih rendah dari tim Y",
+      "E": "Nilai tim T tidak lebih tinggi dari tim S"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 125,
+    "question": "LEGISLATIF &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Yudikatif",
+      "B": "Eksekutif",
+      "C": "Eksekusi",
+      "D": "Permusyawaratan",
+      "E": "Implementatif"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 126,
+    "question": "KEBIJAKAN &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Kebajikan",
+      "B": "Keputusan",
+      "C": "Kekacauan",
+      "D": "Kerancauan",
+      "E": "Kecerobohan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 127,
+    "question": "KONKLUSIF &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Eksklusif",
+      "B": "Persepsi",
+      "C": "Proposisi",
+      "D": "Elusif",
+      "E": "Kolusi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "question": "MAKAR &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Boleh",
+      "B": "Menutupi",
+      "C": "Mengeluh",
+      "D": "Jujur",
+      "E": "Muslihat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 129,
+    "question": "CURANG &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Licik",
+      "B": "Cerdik",
+      "C": "Cendikia",
+      "D": "Sportif",
+      "E": "Masif"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 130,
+    "question": "Sebuah mobil menghabiskan bahan bakar sebanyak 12 liter untuk menempuh jarak sejauh 240 km. Apabila mobil tersebut menghabiskan bakar sebanyak 8 liter, jarak yang ditempuh mobil tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "120 km",
+      "B": "140 km",
+      "C": "160 km",
+      "D": "180 km",
+      "E": "200 km"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Dalam suatu acara perlombaan diketahui urutan nilai yang dimiliki oleh masing-masing peserta sebagai berikut:\nNilai tim W lebih tinggi dari tim Q.\nNilai tim S sama dengan nilai tim Y.\nNilai tim T lebih tinggi dari tim G.\nHanya ada dua tim yang memiliki skor sama.\nPernyataan yang pasti salah adalah ...",
+    "image": null,
+    "options": {
+      "A": "Nilai tim Q lebih tinggi dari tim G",
+      "B": "Nilai tim G lebih rendah dari tim W",
+      "C": "Nilai tim Q lebih tinggi dari tim T",
+      "D": "Nilai tim W lebih rendah dari tim T",
+      "E": "Nilai tim S sama dengan nilai tim G"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 132,
+    "question": "Tujuh orang anak yaitu Mono, Nini, Odi, Pani, Qori, Rani, dan Suni sedang naik roller coaster yang terdiri dari beberapa kereta yang saling terkait.\nMereka menaiki 3 kereta terdepan, dan muatan maksimal 1 kereta adalah 4 orang. Karena telah diisi orang lain, kereta pertama hanya dapat diisi 2 orang dari mereka, kereta kedua dapat diisi 3 orang dari mereka, dan kereta ketiga dapat diisi 2 orang dari mereka.\nAturannya adalah:\nMono di kereta yang sama dengan Rani.\nSuni tidak satu kereta dengan Pani atau Qori.\nNini tidak satu kereta dengan Qori atau Pani.\nBila Mono berada di kereta kedua, maka pernyataan yang benar adalah ...",
+    "image": null,
+    "options": {
+      "A": "Qori di kereta pertama dan Pani di kereta ketiga",
+      "B": "Nini di kereta pertama dan Suni di kereta ketiga",
+      "C": "Suni dan Nini di kereta ketiga",
+      "D": "Nini dan Pani di kereta pertama",
+      "E": "Nini di kereta ketiga dan Suni di kereta pertama"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "question": "Tujuh orang anak yaitu Mono, Nini, Odi, Pani, Qori, Rani, dan Suni sedang naik roller coaster yang terdiri dari beberapa kereta yang saling terkait.\nMereka menaiki 3 kereta terdepan, dan muatan maksimal 1 kereta adalah 4 orang. Karena telah diisi orang lain, kereta pertama hanya dapat diisi 2 orang dari mereka, kereta kedua dapat diisi 3 orang dari mereka, dan kereta ketiga dapat diisi 2 orang dari mereka.\nAturannya adalah:\nMono di kereta yang sama dengan Rani.\nSuni tidak satu kereta dengan Pani atau Qori.\nNini tidak satu kereta dengan Qori atau Pani.\nBila Rani berada di kereta pertama, maka pernyataan yang mungkin benar adalah ...",
+    "image": null,
+    "options": {
+      "A": "Odi berada di kereta pertama",
+      "B": "Pani berada di kereta yang sama dengan Mono",
+      "C": "Nini dan Qori berada di kereta yang sama",
+      "D": "Qori berada di kereta kedua",
+      "E": "Odi berada di kereta ketiga"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 134,
+    "question": "BANGSA : ETHNOLOGI = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Demonstrasi : Demografi",
+      "B": "Bumi : Geografi",
+      "C": "Planet : Astronomi",
+      "D": "Penyakit : Patologi",
+      "E": "Alam : Biologi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 135,
+    "question": "SEMINAR : SARJANA = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Perpustakaan : Peneliti",
+      "B": "Koneurvator : Seniman",
+      "C": "Ruang Pengadilan : Saksi",
+      "D": "Rumah Sakit : Pasien",
+      "E": "Akademi : Taruna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 136,
+    "question": "LABA : PENJUALAN = KEBERANIAN : …",
+    "image": null,
+    "options": {
+      "A": "Toleransi",
+      "B": "Kebenaran",
+      "C": "Pendekar",
+      "D": "Kemenangan",
+      "E": "Pembelaan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 137,
+    "question": "TIANG : KOKOH = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Dinding : Fondasi",
+      "B": "Teras : Hiasan",
+      "C": "Lantai : Marmer",
+      "D": "Atap : Terlindung",
+      "E": "Genting : Tanah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 138,
+    "question": "MERAH : MAWAR = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Hijau : Jati",
+      "B": "Kuning : Apel",
+      "C": "Putih : Melati",
+      "D": "Hitam : Tebu",
+      "E": "Salmon : Ikan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 139,
+    "question": "TAJAM : TUMPUL = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Muka : Mata",
+      "B": "Palu : Pukul",
+      "C": "Pulsa : Ponsel",
+      "D": "Dekat : Jauh",
+      "E": "Sukar : Sulit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 140,
+    "question": "Jarak dua kota pada peta adalah 30 cm. Apabila peta tersebut mempunyai skala 1: 900.000, jarak kedua kota sebenarnya adalah ...",
+    "image": null,
+    "options": {
+      "A": "2.400 km",
+      "B": "270 km",
+      "C": "27 km",
+      "D": "30 km",
+      "E": "300 km"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "question": "Deret: 3, 6, 12, 24, 48, ...\nPertanyaan: Unsur ke-7?",
+    "image": null,
+    "options": {
+      "A": "96",
+      "B": "192",
+      "C": "128",
+      "D": "256",
+      "E": "512"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "question": "Deret: 5, 10, 20, 40, 80, ...\nPertanyaan: Unsur ke-9?",
+    "image": null,
+    "options": {
+      "A": "320",
+      "B": "640",
+      "C": "1280",
+      "D": "2560",
+      "E": "5120"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "question": "Deret: 1, 4, 9, 16, 25, 36, ...\nPertanyaan: Unsur ke-10?",
+    "image": null,
+    "options": {
+      "A": "81",
+      "B": "90",
+      "C": "100",
+      "D": "110",
+      "E": "121"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "question": "ABCCDDEFEGHFIJ .....",
+    "image": null,
+    "options": {
+      "A": "I I",
+      "B": "I J",
+      "C": "G K",
+      "D": "K K",
+      "E": "J J"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 145,
+    "question": "ABCCDDEFEGHFIJ .....",
+    "image": null,
+    "options": {
+      "A": "EB",
+      "B": "BM",
+      "C": "CD",
+      "D": "DE",
+      "E": "ZF"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "question": "Barisan huruf:c, d, e, i, j, f, g, h, k, l, i, ...\nUnsur berikutnya pada barisan tersebut adalah:",
+    "image": null,
+    "options": {
+      "A": "J, K",
+      "B": "K, L",
+      "C": "M, N",
+      "D": "N, O",
+      "E": "O, P"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 147,
+    "question": "G, H, I, L, M, N, Q, R, S .....",
+    "image": null,
+    "options": {
+      "A": "U dan V",
+      "B": "V dan X",
+      "C": "T dan V",
+      "D": "T dan U",
+      "E": "V dan W"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 148,
+    "question": "G, J, M, P, S .....",
+    "image": null,
+    "options": {
+      "A": "W",
+      "B": "V",
+      "C": "S",
+      "D": "U",
+      "E": "T"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "question": "231, ..... , 453, 564",
+    "image": null,
+    "options": {
+      "A": "321",
+      "B": "342",
+      "C": "421",
+      "D": "241",
+      "E": "325"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 150,
+    "question": "4, 8, ..... , 64, 128",
+    "image": null,
+    "options": {
+      "A": "28, 24",
+      "B": "16, 32",
+      "C": "26, 14",
+      "D": "13, 29",
+      "E": "22, 14"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 151,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G1-1-300x109.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 152,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G2-1-300x107.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 153,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G3-300x112.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 154,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G4-300x110.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G5-300x108.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G6-300x116.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 157,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G7-300x110.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 158,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G8-300x116.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 159,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G9-300x108.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/G10-300x114.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Setiap hari matahari terbit dari timur. Bulan juga terbit dari timur. Jadi ...",
+    "image": null,
+    "options": {
+      "A": "Bulan adalah bintang.",
+      "B": "Matahari adalah satelit bumi.",
+      "C": "Ada hari dimana matahari tidak terbit dari timur.",
+      "D": "Bulan selalu terbit di pagi hari.",
+      "E": "Tidak dapat ditarik kesimpulan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 162,
+    "question": "Dalam permainan mencari jejak, Rizka mendapat petunjuk: &#8221;Mulai dari pohon besar, berjalanlah 500 meter ke arah barat, lalu belok ke utara sejauh 300 meter. Terakhir, bergerak ke arah timur sejauh 200 meter.&#8221;\nPertanyaannya: Ke arah mana posisi akhir Rizka dari titik awal?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/06/pngtree-8-directions-of-the-compass-png-image_8908732-300x300.png",
+    "options": {
+      "A": "Barat Laut",
+      "B": "Timur Laut",
+      "C": "Tenggara",
+      "D": "Barat Daya",
+      "E": "Utara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "question": "Semua penyanyi adalah artis. Sementara penyanyi adalah bintang film. Jadi...",
+    "image": null,
+    "options": {
+      "A": "Sementara bintang film adalah artis.",
+      "B": "Sementara artis adalah bukan penyanyi.",
+      "C": "Semua bintang film adalah artis.",
+      "D": "Sementara penyanyi bukan bintang film.",
+      "E": "Sementara penyanyi bukan artis."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 164,
+    "question": "KONVENSI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Kebijakan",
+      "B": "Kesamaan",
+      "C": "Kesimpulan",
+      "D": "Kesepakatan",
+      "E": "Keputusan Pembahasan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 165,
+    "question": "APORISMA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Apriori",
+      "B": "Maksimal",
+      "C": "Bentuk",
+      "D": "Pendekatan",
+      "E": "Prima Pembahasan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 166,
+    "question": "DEHIDRASI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Deliberasi",
+      "B": "Proses penyusutan air",
+      "C": "Kehilangan cairan tubuh",
+      "D": "Dekapitalisasi",
+      "E": "Proses penyaringan Pembahasan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 167,
+    "question": "PORTO = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Segel",
+      "B": "Materai",
+      "C": "Perangko",
+      "D": "Biaya",
+      "E": "Dana Pembahasan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 168,
+    "question": "SEREBRUM = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Otak besar",
+      "B": "Otak kecil",
+      "C": "Selebritis",
+      "D": "Balneum",
+      "E": "Upacara Pembahasan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 169,
+    "question": "Ibu Yuni membagikan nasi kotak kepada 36 orang teman-teman anaknya karena hari ini anaknya ulang tahun. Masing-masing anak mendapatkan 5 potong kue. Jika kue itu di- bagikan kepada 18 anak, berapa banyak kue yang diterima masing-masing anak?",
+    "image": null,
+    "options": {
+      "A": "6 potong",
+      "B": "8 potong",
+      "C": "10 potong",
+      "D": "12 potong",
+      "E": "14 potong"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "question": "Deret: 28, 84, ..., ..., 63, 189, 94,5",
+    "image": null,
+    "options": {
+      "A": "41 – 82",
+      "B": "42 – 126",
+      "C": "43 – 86",
+      "D": "44 – 132",
+      "E": "45 – 90"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 171,
+    "question": "Saat harga saham naik, keuntungan ikut naik. Saat keuntungan naik, para karyawan akan mendapat bonus tambahan. Kesimpulan yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Harga saham naik, keuntungan ikut naik.",
+      "B": "Harga saham naik, maka para karyawan akan mendapat bonus tambahan.",
+      "C": "Keuntungan naik, sebagian karyawan mendapat bonus tambahan.",
+      "D": "Sebagian karyawan tidak mendapat bonus tambahan meskipun keuntungan naik.",
+      "E": "Keuntungan naik dan karyawan mendapat bonus tambahan."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Peserta seleksi semakin bertambah setiap tahunnya, maka panitia membuat soal yang semakin sulit. Jika soal semakin sulit, maka peserta yang lolos tes semakin berkualitas.\nKesimpulan yang tepat adalah.....",
+    "image": null,
+    "options": {
+      "A": "Peserta seleksi semakin bertambah dan peserta yang lolos semakin berkualitas.",
+      "B": "Peserta seleksi semakin bertambah dan panitia membuat soal yang semakin sulit.",
+      "C": "Jika soal semakin sulit, maka semua peserta semakin berkualitas.",
+      "D": "Jika peserta yang lolos tes semakin berkualitas, maka peserta seleksi semakin bertambah.",
+      "E": "Peserta seleksi semakin bertambah setiap tahunnya, maka peserta yang lolos tes semakin berkualitas."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 173,
+    "question": "Lima batang kayu memiliki panjang berbeda: A, B, C, D, dan E.\nBatang A lebih pendek dari B dan D.\nBatang C lebih panjang dari E tapi lebih pendek dari D.\nBatang B bukan yang terpanjang.\nBatang yang memiliki panjang ketiga adalah...",
+    "image": null,
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Empat pelari: Rani, Sari, Tika, dan Wulan.\nRani lebih cepat dari Tika.\nWulan lebih lambat dari Sari.\nTika tidak paling lambat.\nPelari yang memiliki kecepatan kedua tercepat adalah...",
+    "image": null,
+    "options": {
+      "A": "Rani",
+      "B": "Sari",
+      "C": "Tika",
+      "D": "Wulan",
+      "E": "Tidak bisa ditentukan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "KHAS &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Khusus",
+      "B": "Wabul Khusus",
+      "C": "Inklusif",
+      "D": "Ekslusif",
+      "E": "Umum"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 176,
+    "question": "IBU &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Anak",
+      "B": "Putri",
+      "C": "Nenek",
+      "D": "Kakek",
+      "E": "Cucu"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 177,
+    "question": "MUSKIL &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Mustahil",
+      "B": "Mungkin",
+      "C": "Jahil",
+      "D": "Hal",
+      "E": "Andil"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 178,
+    "question": "VOKAL &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Patuh",
+      "B": "Oval",
+      "C": "Pendiam",
+      "D": "Konsonan",
+      "E": "Fokus"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 179,
+    "question": "SPORADIS &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Jarang",
+      "B": "Kerap",
+      "C": "Laten",
+      "D": "Seperti",
+      "E": "Berhenti"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 180,
+    "question": "Deret: 4, 6, 7, 7,5, ...",
+    "image": null,
+    "options": {
+      "A": "7,75",
+      "B": "7,87",
+      "C": "7,78",
+      "D": "7,85",
+      "E": "7,86"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "question": "P adalah anak dari pasangan X dan Y. Q adalah anak dari X dan Z. R adalah anak dari Y dan W.\nHubungan P dengan R adalah...",
+    "image": null,
+    "options": {
+      "A": "Saudara kandung",
+      "B": "Saudara tiri",
+      "C": "Saudara sepupu",
+      "D": "Saudara ipar",
+      "E": "Tidak ada hubungan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 182,
+    "question": "Lima orang duduk berurutan: Ani, Budi, Citra, Dedi, Evi.\nAni tidak duduk di tepi.\nBudi duduk di sebelah Citra.\nEvi tidak duduk di sebelah Dedi.\nSiapa yang duduk di posisi paling kiri?",
+    "image": null,
+    "options": {
+      "A": "Ani",
+      "B": "Budi",
+      "C": "Citra",
+      "D": "Dedi",
+      "E": "Evi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 183,
+    "question": "Nilai lima siswa: F, G, H, I, J.\nNilai F lebih tinggi dari H dan G.\nNilai I lebih rendah dari H.\nNilai J lebih tinggi dari G tetapi lebih rendah dari F.\nSiswa dengan nilai tertinggi adalah...",
+    "image": null,
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "H",
+      "D": "I",
+      "E": "J"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "question": "JANJI : BUKTI = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Ucapan : Tindakan",
+      "B": "Maling : Penjara",
+      "C": "Materi : Soal",
+      "D": "Harta : Kendaraan",
+      "E": "Tuan : Tuhan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 185,
+    "question": "SUNGAI : JEMBATAN = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Markah : Jalan",
+      "B": "Rintangan : Godaan",
+      "C": "Janji : Tepati",
+      "D": "Kayu : Terbakar",
+      "E": "Masalah : Jalan Keluar"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 186,
+    "question": "MATAHARI : TERANG = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Mendidih : Air",
+      "B": "Membeku : Dingin",
+      "C": "Lampu : Sinar",
+      "D": "Air : Hujan",
+      "E": "Api : Panas"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 187,
+    "question": "UMUM : LAZIM = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Kurus : Gemuk",
+      "B": "Langsing: Ramping",
+      "C": "Lapar : Haus",
+      "D": "Garam : Asin",
+      "E": "Cinta : Tinta"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 188,
+    "question": "SISWA : BELAJAR = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Santri : Garam",
+      "B": "Ayah : Ibu",
+      "C": "Ilmuwan: Meneliti",
+      "D": "Guru : Murid",
+      "E": "Karyawan: Bekerja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 189,
+    "question": "33, 34, 38, 45, 55, 68, ...",
+    "image": null,
+    "options": {
+      "A": "76",
+      "B": "78",
+      "C": "81",
+      "D": "84",
+      "E": "68"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 190,
+    "question": "1, 2, 1, 3, 6, 3, 9, 18, ..., 27, ..., 27",
+    "image": null,
+    "options": {
+      "A": "8 – 32",
+      "B": "9 – 54",
+      "C": "12 – 48",
+      "D": "13 – 52",
+      "E": "8 – 52"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 191,
+    "question": "19x + 19 = 17x – 63.Nilai x yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "-32",
+      "B": "-28",
+      "C": "-20",
+      "D": "41",
+      "E": "-41"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 192,
+    "question": "4x – 9 = 2x + 7.Nilai x yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 193,
+    "question": "5x + 3 = 3x + 11Nilai x yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 194,
+    "question": "2(x – 3) + 4 = x + 1Nilai x yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "-5",
+      "B": "-3",
+      "C": "-1",
+      "D": "1",
+      "E": "3"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 195,
+    "question": "A, C, G, C, D, I, E, E, K, ..., ..., ...",
+    "image": null,
+    "options": {
+      "A": "F, G, H",
+      "B": "G, F, M",
+      "C": "F, H, L",
+      "D": "G, G, M",
+      "E": "F, D, N"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "question": "OOABMMCDPPEFNNGH ..., ...",
+    "image": null,
+    "options": {
+      "A": "OOJI",
+      "B": "PPIJ",
+      "C": "QQJI",
+      "D": "RRIJ",
+      "E": "SSIJ"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 197,
+    "question": "ABDBBDCBDDBD .....",
+    "image": null,
+    "options": {
+      "A": "BM",
+      "B": "EB",
+      "C": "CD",
+      "D": "DE",
+      "E": "ZF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 198,
+    "question": "suatu deret : b – m – n – d – o – p – f – q – r ..... ..... ..... tiga huruf berikutnya adalah .....",
+    "image": null,
+    "options": {
+      "A": "h, t, s",
+      "B": "h, s, t",
+      "C": "d, r, s",
+      "D": "g, s, t",
+      "E": "s, h, t"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 199,
+    "question": "suatu deret : a – f – b – b – f – c – c – f – d – d ..... deret selanjutnya adalah .....",
+    "image": null,
+    "options": {
+      "A": "d",
+      "B": "e",
+      "C": "g",
+      "D": "h",
+      "E": "f"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 200,
+    "question": "81, 64, 72, 56, ..... , ..... , 54, 40, 45, 32, 36",
+    "image": null,
+    "options": {
+      "A": "66, 38",
+      "B": "61, 42",
+      "C": "32, 39",
+      "D": "63, 48",
+      "E": "30, 32"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 201,
+    "question": "Di suatu sekolah diketahui perbandingan siswa perempuan dan laki-laki adalah 7: 5. Apabila selisih banyak siswa perempuan dan laki-laki adalah 40. Maka jumlah siswa perempuan dan laki-laki di sekolah tersebut adalah ... anak.",
+    "image": null,
+    "options": {
+      "A": "180",
+      "B": "200",
+      "C": "220",
+      "D": "240",
+      "E": "300"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 202,
+    "question": "Pilihlah satu jawaban sehingga pasangan kedua mempunyai pola yang sama..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-2-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Pilihlah satu jawaban sehingga pasangan kedua mempunyai pola yang sama..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-3-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 204,
+    "question": "Pilihlah satu jawaban sehingga pasangan kedua mempunyai pola yang sama..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-4-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 205,
+    "question": "Pilihlah satu jawaban sehingga pasangan kedua mempunyai pola yang sama..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-5-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 206,
+    "question": "Perbandingan boneka milik Ani : Besti dan Carli adalah 4: 5: 7. Jika jumlah boneka Ani dan Besti adalah 18, jumlah boneka dari ketiga anak tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "28 buah",
+      "B": "32 buah",
+      "C": "36 buah",
+      "D": "40 buah",
+      "E": "44 buah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 207,
+    "question": "Perbandingan kelereng Beni dan Ahmad adalah 11: 7, sedangkan selisih kelereng keduanya adalah 28. Jumlah kelereng yang dimiliki Ahmad adalah ...",
+    "image": null,
+    "options": {
+      "A": "49",
+      "B": "55",
+      "C": "63",
+      "D": "71",
+      "E": "89"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 208,
+    "question": "",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-8-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 209,
+    "question": "",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-9-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 210,
+    "question": "",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-10-300x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 211,
+    "question": "Jika pernyataan &#8220;Semua manusia akan masuk surga jika ia berbuat baik&#8221; adalah benar, maka pernyataan yang salah adalah ...",
+    "image": null,
+    "options": {
+      "A": "Beberapa manusia berbuat baik dan ia masuk surga.",
+      "B": "Jika Anton berbuat baik, maka ia akan masuk surga.",
+      "C": "Seseorang tidak masuk surga karena tidak berbuat baik.",
+      "D": "Beberapa manusia berbuat baik tapi tidak masuk surga.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 212,
+    "question": "Saat liburan sekolah, Aldi mengunjungi rumah pamannya. Dari rumahnya, ia berjalan ke arah utara sejauh 3 km, lalu berbelok ke timur sejauh 4 km. Setelah itu, ia berbelok ke selatan sejauh 1 km dan berhenti untuk istirahat di sebuah taman.\nPertanyaannya: Dari titik awal, ke arah mana posisi Aldi berada sekarang?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/06/pngtree-8-directions-of-the-compass-png-image_8908732-300x300.png",
+    "options": {
+      "A": "Timur Laut",
+      "B": "Tenggara",
+      "C": "Barat Laut",
+      "D": "Barat Daya",
+      "E": "Timur"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 213,
+    "question": "Merpati terbang ke utara. Merpati adalah burung. Jadi...",
+    "image": null,
+    "options": {
+      "A": "Beberapa burung terbang ke utara.",
+      "B": "Semua burung adalah merpati.",
+      "C": "Tidak setiap merpati yang terbang ke utara adalah burung.",
+      "D": "Burung bukan merpati.",
+      "E": "Tidak semua burung merpati terbang ke utara."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 214,
+    "question": "KLEPTOFOBIA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Takut kecurian",
+      "B": "Penyakit suka mencuri",
+      "C": "Tergila-gila",
+      "D": "Terbayang",
+      "E": "Berlebih-lebihan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 215,
+    "question": "KOLUSI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Suap",
+      "B": "Manipulasi",
+      "C": "Kongkalikong",
+      "D": "Korupsi",
+      "E": "Sembunyi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 216,
+    "question": "EKAMATRA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Estimasi ukuran",
+      "B": "Suku tunggal",
+      "C": "Fisika",
+      "D": "Metafisika",
+      "E": "Gradien"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "question": "PROTEKSI = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Pengawalan",
+      "B": "Perlindungan",
+      "C": "Pengawasan",
+      "D": "Pengamanan",
+      "E": "Penjagaan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 218,
+    "question": "BAGAK = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Bergaya",
+      "B": "Nama burung",
+      "C": "Penakut",
+      "D": "Seperti",
+      "E": "Pemberani"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 219,
+    "question": "Diketahui dosis pemberian suatu obat sebanding dengan berat badan pasien. Apabila dosis untuk pasien dengan berat badan 50 kg adalah 15 mg obat, dosis yang harus diberikan kepada pasien dengan berat badan 40 kg adalah ...",
+    "image": null,
+    "options": {
+      "A": "14 mg",
+      "B": "12 mg",
+      "C": "10 mg",
+      "D": "8 mg",
+      "E": "6 mg"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Dinding seluas 80 m² selesai dicat selama 6 jam oleh 12 orang pekerja. Berapakah waktu yang diperlukan untuk mengecat dinding seluas 60 m² oleh 8 orang pekerja...",
+    "image": null,
+    "options": {
+      "A": "4 jam 20 menit",
+      "B": "4 jam 40 menit",
+      "C": "5 jam 30 menit",
+      "D": "6 jam 45 menit",
+      "E": "7 jam 40 menit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 221,
+    "question": "Jika semangka dipotong menjadi 9, maka setiap anak mendapat bagian. Jika setiap anak mendapat bagian buah semangka, maka mereka tidak menangis.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "Jika semangka dipotong kurang dari sembilan, maka setiap anak mendapat bagian.",
+      "B": "Jika setiap anak mendapat bagian buah semangka, maka mereka akan menangis.",
+      "C": "Jika setiap semangka dipotong menjadi 9, maka mereka akan menangis.",
+      "D": "Jika anak-anak menangis, maka semangka tidak dipotong menjadi 9 bagian.",
+      "E": "Jika setiap anak mendapat bagian, maka mereka tidak akan menangis."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 222,
+    "question": "Jika perampok berhasil ditangkap, maka warga kompleks tidak akan khawatir lagi. Jika warga kompleks tidak khawatir, maka lingkungan kompleks terasa aman. Kesimpulan yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Jika perampok ditangkap, maka warga kompleks akan merasa khawatir.",
+      "B": "Jika warga tidak merasa khawatir, maka perampok berhasil di tangkap.",
+      "C": "Jika warga merasa aman berarti warga tidak khawatir.",
+      "D": "Perampok berhasil ditangkap dan warga merasa aman.",
+      "E": "Jika lingkungan kompleks tidak terasa aman, maka perampok belum berhasil ditangkap."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 223,
+    "question": "Sebuah rombongan wisata sekolah dasar berencana akan melakukan study tour ke enam tempat wisata di Malang, yaitu:Jatim Park, Museum Angkut, Museum Brawijaya, Pantai Bengkung, Masjid Tiban, dan Air Terjun Coban Rondo dengan aturan kunjungan sebagai berikut:\nMuseum Brawijaya harus dikunjungi sebelum Pantai Bengkung dan Masjid Tiban.\nAir Terjun Coban Rondo hanya boleh dikunjungi jika Pantai Bengkung sudah dikunjungi.\nJatim Park harus dikunjungi setelah Museum Brawijaya namun sebelum Museum Angkut.\nJika Museum Angkut dikunjungi sebelum Air Terjun Coban Rondo, dan Jatim Park dikunjungi setelah Masjid Tiban, maka urutan kelima tempat yang dikunjungi oleh rombongan wisata tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Jatim Park",
+      "B": "Museum Angkut",
+      "C": "Masjid Tiban",
+      "D": "Air Terjun Coban Rondo",
+      "E": "Pantai Bengkung"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 224,
+    "question": "Sebuah rombongan wisata sekolah dasar berencana akan melakukan study tour ke enam tempat wisata di Malang, yaitu:Jatim Park, Museum Angkut, Museum Brawijaya, Pantai Bengkung, Masjid Tiban, dan Air Terjun Coban Rondo dengan aturan kunjungan sebagai berikut:\nMuseum Brawijaya harus dikunjungi sebelum Pantai Bengkung dan Masjid Tiban.\nAir Terjun Coban Rondo hanya boleh dikunjungi jika Pantai Bengkung sudah dikunjungi.\nJatim Park harus dikunjungi setelah Museum Brawijaya namun sebelum Museum Angkut.\nJika Jatim Park harus dikunjungi tepat sebelum Pantai Bengkung, Air Terjun Coban Rondo tidak boleh dikunjungi terakhir, maka ...",
+    "image": null,
+    "options": {
+      "A": "Yang dikunjungi kedua adalah Pantai Bengkung",
+      "B": "Yang terakhir dikunjungi adalah Pantai Bengkung",
+      "C": "Museum Angkut dikunjungi setelah Pantai Bengkung",
+      "D": "Yang ketiga dikunjungi adalah Museum Angkut",
+      "E": "Yang pertama dikunjungi adalah Jatim Park"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 225,
+    "question": "ABSURD &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Omong kosong",
+      "B": "Kekecualian",
+      "C": "Tak terpakai",
+      "D": "Masuk akal",
+      "E": "Mustahil"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 226,
+    "question": "ANGGARA &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Kasih",
+      "B": "Gembira",
+      "C": "Jinak",
+      "D": "Sengsara",
+      "E": "Lunak"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 227,
+    "question": "PROMINEN &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Biasa",
+      "B": "Konsisten",
+      "C": "Tak setuju",
+      "D": "Perintis",
+      "E": "Konsekuen"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 228,
+    "question": "CANGGIH &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Moderen",
+      "B": "Terlambat",
+      "C": "Diam",
+      "D": "Kuno",
+      "E": "Sederhana"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 229,
+    "question": "KONKAF &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Konveks",
+      "B": "Optik",
+      "C": "Lensa",
+      "D": "Cekung",
+      "E": "Konveksi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 230,
+    "question": "A, B, dan C masing-masing bisa melakukan sebuah pekerjaan sendirian dalam waktu 20, 30, dan 60 hari. Waktu yang dibutuhkan oleh ketiga anak tersebut untuk menyelesaikan sebuah pekerjaan jika dikerjakan bersama- sama adalah ...",
+    "image": null,
+    "options": {
+      "A": "10 hari",
+      "B": "12 hari",
+      "C": "15 hari",
+      "D": "18 hari",
+      "E": "20 hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Sebuah rombongan wisata sekolah dasar berencana akan melakukan study tour ke enam tempat wisata di Malang, yaitu:Jatim Park, Museum Angkut, Museum Brawijaya, Pantai Bengkung, Masjid Tiban, dan Air Terjun Coban Rondo dengan aturan kunjungan sebagai berikut:\nMuseum Brawijaya harus dikunjungi sebelum Pantai Bengkung dan Masjid Tiban.\nAir Terjun Coban Rondo hanya boleh dikunjungi jika Pantai Bengkung sudah dikunjungi.\nJatim Park harus dikunjungi setelah Museum Brawijaya namun sebelum Museum Angkut.\nTempat yang tidak mungkin dikunjungi setelah Museum Angkut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pantai Bengkung",
+      "B": "Masjid Tiban",
+      "C": "Jatim Park",
+      "D": "Air Terjun Coban Rondo",
+      "E": "Museum Brawijaya"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 232,
+    "question": "Lima peserta lomba memasak yaitu Nunung, Zizah, Ratna, Sari, dan Mirna.Hasil masakan mereka dinilai oleh tiga juri dengan tiga kategori.\nHasil penilaiannya adalah:\nKelezatan dan sajian masakan Nunung mengalahkan lima peserta lainnya meski paling lambat menyelesaikan masakannya.\nDalam hal kecepatan, Mirna unggul dari lima peserta, tetapi kelezatan masakannya masih kalah dibanding Ratna dan Sari; sajian masakannya kurang menarik dibandingkan Zizah dan Sari.\nMasakan Zizah kalah lezat dari Mirna tetapi sajian masakannya berada di urutan kedua.\nKelezatan masakan Sari mengalahkan Ratna; dan lebih lambat daripada Zizah.\nRatna lebih cepat menyelesaikan masakannya daripada Nunung.\nBerdasarkan penilaian juri tersebut, maka yang menempati peringkat terakhir dalam kategori sajian makanan adalah ...",
+    "image": null,
+    "options": {
+      "A": "Nunung",
+      "B": "Zizah",
+      "C": "Sari",
+      "D": "Ratna",
+      "E": "Mirna"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 233,
+    "question": "Lima peserta lomba memasak yaitu Nunung, Zizah, Ratna, Sari, dan Mirna.Hasil masakan mereka dinilai oleh tiga juri dengan tiga kategori.\nHasil penilaiannya adalah:\nKelezatan dan sajian masakan Nunung mengalahkan lima peserta lainnya meski paling lambat menyelesaikan masakannya.\nDalam hal kecepatan, Mirna unggul dari lima peserta, tetapi kelezatan masakannya masih kalah dibanding Ratna dan Sari; sajian masakannya kurang menarik dibandingkan Zizah dan Sari.\nMasakan Zizah kalah lezat dari Mirna tetapi sajian masakannya berada di urutan kedua.\nKelezatan masakan Sari mengalahkan Ratna; dan lebih lambat daripada Zizah.\nRatna lebih cepat menyelesaikan masakannya daripada Nunung.\nManakah pernyataan berikut yang benar mengenai Ratna?",
+    "image": null,
+    "options": {
+      "A": "Lebih lambat menyelesaikan masakan dibanding Zizah.",
+      "B": "Masakannya lebih lezat dibanding Sari.",
+      "C": "Sajian masakan lebih menarik dari Zizah.",
+      "D": "Masakannya tidak kalah lezat dibanding Nunung.",
+      "E": "Salah semua."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 234,
+    "question": "KOSONG : HAMPA = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Ubi : Akar",
+      "B": "Ribut : Serak",
+      "C": "Penuh : Sesak",
+      "D": "Siang : Malam",
+      "E": "Cair : Encer"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 235,
+    "question": "SUAP : POLITIK = .... : .....",
+    "image": null,
+    "options": {
+      "A": "Menteri : Presiden",
+      "B": "Cabai : Pedas",
+      "C": "Generik : Paten",
+      "D": "Contek : Ujian",
+      "E": "Pemilu : Legislatif"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 236,
+    "question": "SARUNG TANGAN : PETINJU = MIKROSKOP : .....",
+    "image": null,
+    "options": {
+      "A": "Analis",
+      "B": "Dokter",
+      "C": "Optalmolog",
+      "D": "Bakteriolog",
+      "E": "Apoteker"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 237,
+    "question": "MATAHARI : BUMI = BUMI : …",
+    "image": null,
+    "options": {
+      "A": "Gravitasi",
+      "B": "Bulan",
+      "C": "Planet",
+      "D": "Matahari",
+      "E": "Bintang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 238,
+    "question": "SERUT : KAYU = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Karyawan : Perusahaan",
+      "B": "Cangkul : Kebun",
+      "C": "Cek : Batal",
+      "D": "Swasta : Industri E",
+      "E": "Ladang : Sawah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 239,
+    "question": "AIR : HAUS = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Angin : Panas",
+      "B": "Makanan: Lapar",
+      "C": "Rumput : Kambing",
+      "D": "Gelap : Lampu",
+      "E": "Minyak : Api"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 240,
+    "question": "A, B, dan C masing-masing bisa menyelesaikan sebuah pekerjaan sendirian dalam waktu 20, 30, dan 60 hari. Jika B dan C membantu A setiap hari, berapa lama pekerjaan tersebut akan selesai...",
+    "image": null,
+    "options": {
+      "A": "15 hari",
+      "B": "10 hari",
+      "C": "13 hari",
+      "D": "14 hari",
+      "E": "17 hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 241,
+    "question": "A, C, F, J, ...",
+    "image": null,
+    "options": {
+      "A": "K",
+      "B": "L",
+      "C": "O",
+      "D": "P",
+      "E": "Q"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 242,
+    "question": "Z, X, U, Q, ...",
+    "image": null,
+    "options": {
+      "A": "M",
+      "B": "N",
+      "C": "O",
+      "D": "P",
+      "E": "L"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 243,
+    "question": "Deret: B, E, H, K, …",
+    "image": null,
+    "options": {
+      "A": "H",
+      "B": "I",
+      "C": "J",
+      "D": "K",
+      "E": "M"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 244,
+    "question": "Deret: A, D, G, J, …",
+    "image": null,
+    "options": {
+      "A": "M",
+      "B": "V",
+      "C": "Z",
+      "D": "Y",
+      "E": "W"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 245,
+    "question": "5, 10, 20, 40, ...",
+    "image": null,
+    "options": {
+      "A": "60",
+      "B": "70",
+      "C": "80",
+      "D": "90",
+      "E": "100"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 246,
+    "question": "2, 4, 8, 16, ...",
+    "image": null,
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "30",
+      "D": "32",
+      "E": "36"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 247,
+    "question": "10, 30, 32, 16, 48, 50, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "18, 36",
+      "B": "98, 60",
+      "C": "58, 48",
+      "D": "25, 75",
+      "E": "32, 64"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 248,
+    "question": "2, 4, 6, 9, 11, 13, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "98",
+      "B": "22, 26",
+      "C": "18, 22",
+      "D": "14, 17",
+      "E": "16, 18"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 249,
+    "question": "GHIMNJKLMN .....",
+    "image": null,
+    "options": {
+      "A": "MN",
+      "B": "NM",
+      "C": "OP",
+      "D": "PO",
+      "E": "PQ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 250,
+    "question": "94, 88, 82, 76, 70, 64, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "52, 60",
+      "B": "58, 52",
+      "C": "56, 50",
+      "D": "70, 68",
+      "E": "60, 54"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 251,
+    "question": "Perhatikan jaring-jaring kubus berikut ini dan tentukan kubus yang sesuai dengan jaring-jaring...!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-11-B-236x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 252,
+    "question": "Perhatikan jaring-jaring kubus berikut ini dan tentukan kubus yang sesuai dengan jaring-jaring..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-12-B-238x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 253,
+    "question": "Perhatikan jaring-jaring kubus berikut ini dan tentukan kubus yang sesuai dengan jaring-jaring..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-13B-232x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 254,
+    "question": "Perhatikan jaring-jaring kubus berikut ini dan tentukan kubus yang sesuai dengan jaring-jaring..!!",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-14B-226x300.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 255,
+    "question": "Perhatikan jaring-jaring kubus berikut ini dan tentukan kubus yang sesuai dengan jaring-jaring..!!\nTentukan Gambar berikutnya...",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-15-300x168.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 256,
+    "question": "Tentukan gambar berikutnya...",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-16-300x160.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 257,
+    "question": "Tentukan gambar berikutnya.....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-17-300x172.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 258,
+    "question": "Tentukan gambar berikutnya....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-18-300x155.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 259,
+    "question": "Tentukan gambar berikutnya....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-19-300x224.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 260,
+    "question": "Tentukan gambar berikutnya .....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/10/GBR-20-300x164.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 261,
+    "question": "Semua guru dapat ditiru. Ada guru yang memiliki kebiasaan buruk. Jadi ...",
+    "image": null,
+    "options": {
+      "A": "Ada kebiasaan guru yang dapat ditiru.",
+      "B": "Semua kebiasaan buruk guru dapat ditiru.",
+      "C": "Semua kebiasaan guru tidak ditiru.",
+      "D": "Ada kebiasaan guru yang tidak dapat ditiru.",
+      "E": "Tidak dapat ditarik kesimpulan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 262,
+    "question": "Keluarga Bima berencana pergi ke Masjid dari SD Brlian Jaya untuk salat berjamaah. Setelah itu, mereka ingin mengunjungi R. Bagas untuk silaturahmi.\nBagaimana urutan arah mata angin yang paling tepat untuk perjalanan dari SD Brlian Jaya ke Masjid, lalu ke R. Bagas?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/denah-bima-300x174.jpg",
+    "options": {
+      "A": "Dari SD Brlian Jaya ke Barat di Jl. Kusuma Raya, lalu ke Selatan di Jl. Merdeka. Dari Masjid ke Selatan di Jl. Sentosa, dan R. Bagas di Barat jalan.",
+      "B": "Dari SD Brlian Jaya ke Barat di Jl. Kusuma Raya, lalu ke Utara di Jl. Merdeka. Dari Masjid ke Timur di Jl. Sentosa, dan R. Bagas di Utara jalan.",
+      "C": "Dari SD Brlian Jaya ke Barat di Jl. Kusuma Raya, lalu ke Selatan di Jl. Merdeka. Dari Masjid ke Timur di Jl. Sentosa, dan R. Bagas di Selatan jalan.",
+      "D": "Dari SD Brlian Jaya ke Timur di Jl. Kusuma Raya, lalu ke Selatan di Jl. Merdeka. Dari Masjid ke Barat di Jl. Sentosa, dan R. Bagas di Utara jalan.",
+      "E": "Dari SD Brlian Jaya ke Selatan di Jl. Majapahit, lalu ke Barat di Jl. Kusuma Raya. Dari Masjid ke Utara di Jl. Merdeka, dan R. Bagas di Timur jalan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 263,
+    "question": "Beberapa mobil berwarna hitam. Semua mobil mempunyai roda. Jadi...",
+    "image": null,
+    "options": {
+      "A": "Mobil yang mempunyai roda berwarna hitam.",
+      "B": "Roda mobil berwarna hitam.",
+      "C": "Ada mobil berwarna hitam yang mempunyai roda.",
+      "D": "Semua mobil berwarna hitam dan mempunyai roda.",
+      "E": "Beberapa mobil berwarna hitam dan mempunyai roda."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 264,
+    "question": "HUKUMAN = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Aturan",
+      "B": "Penjara",
+      "C": "Denda",
+      "D": "Delik aduan",
+      "E": "Larangan Pembahasan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 265,
+    "question": "HIBRIDA = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Cepat berbuah",
+      "B": "Tanaman rendah",
+      "C": "Cangkokan",
+      "D": "Antar tanaman",
+      "E": "Bibit unggul"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 266,
+    "question": "RESIDU = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Reduksi",
+      "B": "Remisi",
+      "C": "Sisa",
+      "D": "Ampas",
+      "E": "Hasil"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 267,
+    "question": "AKURAT = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "Ralat",
+      "B": "Saksama",
+      "C": "Selidik",
+      "D": "Limit",
+      "E": "Aproksimasi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 268,
+    "question": "CLASS = . . . . . . . .",
+    "image": null,
+    "options": {
+      "A": "State",
+      "B": "Kamar",
+      "C": "Ruangan",
+      "D": "Tingkatan",
+      "E": "Group"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 269,
+    "question": "Deret: B, E, I, N, T, ..., ...",
+    "image": null,
+    "options": {
+      "A": "A – I",
+      "B": "Y – F",
+      "C": "Z – H",
+      "D": "W – E",
+      "E": "V – D"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 270,
+    "question": "Deret: A, D, H, M, S, ...",
+    "image": null,
+    "options": {
+      "A": "Z",
+      "B": "Y",
+      "C": "F",
+      "D": "C",
+      "E": "B"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 271,
+    "question": "Jika Andi membeli mobil sport, maka Budi membeli motor sport. Jika Budi membeli motor sport, maka Ciko membeli sepeda gunung.\nKesimpulan yang tepat adalah.....",
+    "image": null,
+    "options": {
+      "A": "Jika Ciko tidak membeli sepeda gunung, maka Andi tidak membeli mobil sport.",
+      "B": "Jika Budi membeli mobil sport, maka Ciko juga membeli mobil sport.",
+      "C": "Jika Andi tidak membeli mobil sport, maka Budi juga tidak membeli motor sport.",
+      "D": "Jika Ciko membeli sepeda gunung, maka Andi membeli mobil sport.",
+      "E": "Jika Andi membeli sepeda gunung, maka Ciko membeli mobil sport."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 272,
+    "question": "Jika pekerjaan selesai sesuai tenggat, maka bonus akan dicairkan. Jika bonus dicairkan, maka pendapatan bertambah.\nKesimpulan yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Jika pekerjaan itu tidak selesai sesuai tenggat waktu, maka bonus tidak dicairkan.",
+      "B": "Jika pendapatan tidak bertambah, maka pekerjaan tidak selesai sesuai tenggat.",
+      "C": "Jika pendapatan bertambah, maka pekerjaan itu diselesaikan sesuai tenggat waktu.",
+      "D": "Jika bonus dicairkan, maka pendapatan tidak akan bertambah.",
+      "E": "Jika pendapatan tidak bertambah, maka bonus tidak dicairkan."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 273,
+    "question": "Lima peserta lomba memasak yaitu Nunung, Zizah, Ratna, Sari, dan Mirna.Hasil masakan mereka dinilai oleh tiga juri dengan tiga kategori.\nHasil penilaiannya adalah:\nKelezatan dan sajian masakan Nunung mengalahkan lima peserta lainnya meski paling lambat menyelesaikan masakannya.\nDalam hal kecepatan, Mirna unggul dari lima peserta, tetapi kelezatan masakannya masih kalah dibanding Ratna dan Sari; sajian masakannya kurang menarik dibandingkan Zizah dan Sari.\nMasakan Zizah kalah lezat dari Mirna tetapi sajian masakannya berada di urutan kedua.\nKelezatan masakan Sari mengalahkan Ratna; dan lebih lambat daripada Zizah.\nRatna lebih cepat menyelesaikan masakannya daripada Nunung.\nNunung dan Sari lebih unggul daripada Zizah dalam kategori ...",
+    "image": null,
+    "options": {
+      "A": "Kelezatan",
+      "B": "Kecepatan",
+      "C": "Sajian",
+      "D": "Kelezatan dan kecepatan",
+      "E": "Kelezatan dan sajian"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 274,
+    "question": "Seorang mahasiswa X harus mengerjakan sebuah essai dengan aturan sebagai berikut:\nSoal 2 hanya boleh dikerjakan bersama soal 3.\nSoal 1 hanya boleh dikerjakan jika soal 5 tidak dikerjakan.\nSoal 2 tidak boleh dikerjakan jika soal 4 dikerjakan.\nSoal 5 hanya boleh dikerjakan jika soal 6 tidak dikerjakan.\nJika mahasiswa tersebut wajib mengerjakan soal 6, maka ...",
+    "image": null,
+    "options": {
+      "A": "Mahasiswa tersebut mengerjakan soal 1.",
+      "B": "Mahasiswa tersebut mungkin mengerjakan soal 5.",
+      "C": "Mahasiswa tersebut pasti tidak mengerjakan soal 2.",
+      "D": "Mahasiswa tersebut pasti mengerjakan soal 4.",
+      "E": "Mahasiswa tersebut pasti tidak mengerjakan soal 3."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 275,
+    "question": "TETIRAN &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Petir",
+      "B": "Asli",
+      "C": "Amatiran",
+      "D": "Imitasi",
+      "E": "Palsu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 276,
+    "question": "EKSPRESI &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Kuasai",
+      "B": "Cepat",
+      "C": "Lambat",
+      "D": "Impresi",
+      "E": "Reaksi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 277,
+    "question": "TEKS &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Naskah",
+      "B": "Konteks",
+      "C": "Tekstil",
+      "D": "Tekstur",
+      "E": "Lateks"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 278,
+    "question": "TAKZIM &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Lazim",
+      "B": "Yakin",
+      "C": "Patuh",
+      "D": "Hormat",
+      "E": "Acuh"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 279,
+    "question": "APRIORI &gt;&lt; . . . . .",
+    "image": null,
+    "options": {
+      "A": "Unggulan",
+      "B": "Tidak istimewa",
+      "C": "Proporsi",
+      "D": "Aposteriori",
+      "E": "Prioritas"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 280,
+    "question": "Deret: Z, W, S, N, H, ..., ...",
+    "image": null,
+    "options": {
+      "A": "B, S",
+      "B": "A, S",
+      "C": "A, T",
+      "D": "D, U",
+      "E": "E, V"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 281,
+    "question": "Seorang mahasiswa X harus mengerjakan sebuah essai dengan aturan sebagai berikut:\nSoal 2 hanya boleh dikerjakan bersama soal 3.\nSoal 1 hanya boleh dikerjakan jika soal 5 tidak dikerjakan.\nSoal 2 tidak boleh dikerjakan jika soal 4 dikerjakan.\nSoal 5 hanya boleh dikerjakan jika soal 6 tidak dikerjakan.\nJika soal 1 dan 4 dikerjakan, maka yang pasti tidak dikerjakan adalah soal ...",
+    "image": null,
+    "options": {
+      "A": "2 dan 3",
+      "B": "2 dan 5",
+      "C": "3 dan 4",
+      "D": "3 dan 6",
+      "E": "4 dan 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 282,
+    "question": "Seorang mahasiswa X harus mengerjakan sebuah essai dengan aturan sebagai berikut:\nSoal 2 hanya boleh dikerjakan bersama soal 3.\nSoal 1 hanya boleh dikerjakan jika soal 5 tidak dikerjakan.\nSoal 2 tidak boleh dikerjakan jika soal 4 dikerjakan.\nSoal 5 hanya boleh dikerjakan jika soal 6 tidak dikerjakan.\nJika mahasiswa tersebut harus memilih 3 soal dan tidak boleh mengerjakan soal 4, maka dia hanya boleh mengerjakan soal ...",
+    "image": null,
+    "options": {
+      "A": "1, 2, dan 3",
+      "B": "1, 5, dan 6",
+      "C": "1, 3, dan 5",
+      "D": "2, 5, dan 6",
+      "E": "3, 5, dan 6"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 283,
+    "question": "Seorang mahasiswa X harus mengerjakan sebuah essai dengan aturan sebagai berikut:\nSoal 2 hanya boleh dikerjakan bersama soal 3.\nSoal 1 hanya boleh dikerjakan jika soal 5 tidak dikerjakan.\nSoal 2 tidak boleh dikerjakan jika soal 4 dikerjakan.\nSoal 5 hanya boleh dikerjakan jika soal 6 tidak dikerjakan.\nJika mahasiswa tersebut sudah mengerjakan soal 5 dan soal 3, maka ...",
+    "image": null,
+    "options": {
+      "A": "Soal nomor 1 dan 4 tidak dikerjakan",
+      "B": "Soal nomor 1 dan 4 dikerjakan",
+      "C": "Soal nomor 2 dan 6 mungkin tidak dikerjakan",
+      "D": "Soal nomor 2 dan 6 pasti dikerjakan",
+      "E": "Soal nomor 1 dan 6 pasti tidak dikerjakan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 284,
+    "question": "BUSUR : GARIS = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Terbenam : Terbit",
+      "B": "Tangkap : Lempar",
+      "C": "Tombak : Busur",
+      "D": "Busur : Panah",
+      "E": "Relatif : Absolut"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 285,
+    "question": "TEMBAKAU : ROKOK : ISAP = ..... : ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Gandum: Roti : Makan",
+      "B": "Kulit : Sepatu : Kaki",
+      "C": "Plastik : Sisir : Rambut",
+      "D": "Beras : Nasi : Jemur",
+      "E": "Teh : Susu : Minum"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 286,
+    "question": "MULUT : MONYONG = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Leher : Jenjang",
+      "B": "Mata : Hitam",
+      "C": "Dahi : Muka",
+      "D": "Hidung : Pesek",
+      "E": "Pipi : Merah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 287,
+    "question": "PENGHORMATAN : JASA = INTENSIF : …",
+    "image": null,
+    "options": {
+      "A": "Piagam",
+      "B": "Pensiun",
+      "C": "Hadiah",
+      "D": "Prestasi",
+      "E": "Lembur"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 288,
+    "question": "TUBUH : PAKAIAN = ..... : .....",
+    "image": null,
+    "options": {
+      "A": "Kurva : Alam",
+      "B": "Lidi : Sapu",
+      "C": "Meja : Kotak",
+      "D": "Buku : Sampul",
+      "E": "Jalan : Garis"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 289,
+    "question": "Deret: C, G, L, R, ...",
+    "image": null,
+    "options": {
+      "A": "W",
+      "B": "X",
+      "C": "Y",
+      "D": "Z",
+      "E": "V"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 290,
+    "question": "Deret: C, E, G, __, K, M",
+    "image": null,
+    "options": {
+      "A": "N",
+      "B": "H",
+      "C": "I",
+      "D": "D",
+      "E": "J"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 291,
+    "question": "235 + 48 = 77 + C\nNilai C yang tepat adalah .....",
+    "image": null,
+    "options": {
+      "A": "142",
+      "B": "206",
+      "C": "265",
+      "D": "300",
+      "E": "356"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 292,
+    "question": "394 x 5 + y = 5193\nNilai y yang benar adalah .....",
+    "image": null,
+    "options": {
+      "A": "3179",
+      "B": "3115",
+      "C": "3112",
+      "D": "3216",
+      "E": "3223"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 293,
+    "question": "15Q + 10 = 13Q – 36\nNilai Q yang benar adalah .....",
+    "image": null,
+    "options": {
+      "A": "-23",
+      "B": "-26",
+      "C": "-19",
+      "D": "20",
+      "E": "22"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 294,
+    "question": "61 x 14 + 72 : 4 = .....",
+    "image": null,
+    "options": {
+      "A": "812",
+      "B": "872",
+      "C": "798",
+      "D": "835",
+      "E": "824"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 295,
+    "question": "426 : 3 : 8 = .....",
+    "image": null,
+    "options": {
+      "A": "17,70",
+      "B": "17,75",
+      "C": "20,25",
+      "D": "19,33",
+      "E": "18,67"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 296,
+    "question": "3, 2, 6, 6, 12, 18, ...",
+    "image": null,
+    "options": {
+      "A": "24, 54",
+      "B": "26, 54",
+      "C": "30, 36",
+      "D": "36, 48",
+      "E": "48, 54"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 297,
+    "question": "5, 8, 16, 19, 38, 41 ..... , .....",
+    "image": null,
+    "options": {
+      "A": "43, 45",
+      "B": "44, 47",
+      "C": "48, 70",
+      "D": "82, 85",
+      "E": "44, 88"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 298,
+    "question": "2, 3, 6, 7, 14, 15, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "14, 6",
+      "B": "28, 29",
+      "C": "9, 3",
+      "D": "30, 31",
+      "E": "16, 32"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 299,
+    "question": "1, 2, 3, 9, 10, 11, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "12, 13",
+      "B": "20, 17",
+      "C": "33, 36",
+      "D": "121, 122",
+      "E": "17, 16"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 300,
+    "question": "15, 10, 5, 20, 15, 10, ..... , .....",
+    "image": null,
+    "options": {
+      "A": "5, 10",
+      "B": "40, 35",
+      "C": "5, 15",
+      "D": "20, 25",
+      "E": "100, 50"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 301,
+    "question": "Untuk membuat 75 pasang pakaian seorang penjahit memerlukan waktu selama 18 hari. Jika penjahit tersebut bekerja selama 30 hari, berapa pasangan pakaian yang dapat dibuat ...",
+    "image": null,
+    "options": {
+      "A": "315 pasang",
+      "B": "245 pasang",
+      "C": "185 pasang",
+      "D": "155 pasang",
+      "E": "125 pasang"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 302,
+    "question": "Perbandingan jumlah kelereng Alan, David, dan Tony adalah 4: 5: 7. Apabila jumlah kelereng Alan dan David adalah 81 butir, jumlah kelereng ketiganya adalah ...",
+    "image": null,
+    "options": {
+      "A": "144 butir",
+      "B": "160 butir",
+      "C": "182 butir",
+      "D": "226 butir",
+      "E": "298 butir"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 303,
+    "question": "Silahkan pilih gambar berikutnya .....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-29-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 304,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-30-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 305,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-31-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 306,
+    "question": "Sebuah mobil mampu menempuh jarak 60 km per jam. Sedangkan sepeda motor mampu menempuh jarak 12.000 meter per jam. Perbandingan kecepatan mobil dan motor adalah ...",
+    "image": null,
+    "options": {
+      "A": "6:1",
+      "B": "5:1",
+      "C": "4:1",
+      "D": "3:1",
+      "E": "2:1"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 307,
+    "question": "Perbandingan permen Adam, Barkley, dan Charli adalah 6:5: 3. Sementara jumlah permen Adam dan Barkley adalah 121. Selisih antara permen Adam dan Charli adalah ...",
+    "image": null,
+    "options": {
+      "A": "18",
+      "B": "33",
+      "C": "23",
+      "D": "46",
+      "E": "50"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 308,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-32-1-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 309,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-33-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 310,
+    "question": "Silahkan pilih gambar berikutnya …..",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/GBR-34-300x143.jpg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  }
+]
