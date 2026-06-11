@@ -12,7 +12,7 @@ export default function Home() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
-  const [statusMessage, setStatusMessage] = useState("");
+
 
   useEffect(() => {
     // Check local auth state
@@ -21,11 +21,7 @@ export default function Home() {
       router.push("/dashboard");
     }
 
-    if (!isFirebaseConfigured) {
-      setStatusMessage("Menjalankan Mode Offline (Simulasi Lokal)");
-    } else {
-      setStatusMessage("Menjalankan Mode Firebase");
-    }
+
   }, [router]);
 
   const handleAuth = async (e) => {
@@ -159,20 +155,7 @@ export default function Home() {
                 />
               </div>
 
-              {statusMessage && (
-                <div style={{
-                  color: "var(--color-text-white)",
-                  fontSize: "11px",
-                  fontWeight: "700",
-                  textAlign: "center",
-                  opacity: 0.85,
-                  marginBottom: "14px",
-                  textTransform: "uppercase",
-                  letterSpacing: "0.5px"
-                }}>
-                  {statusMessage}
-                </div>
-              )}
+
 
               {error && (
                 <div style={{
