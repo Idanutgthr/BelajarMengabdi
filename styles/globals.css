@@ -756,3 +756,12 @@ a {
   background-color: var(--bg-button-active);
   color: white;
 }
+
+/* Sembunyikan scrollbar tapi tetap bisa scroll */
+.hide-scrollbar {
+  scrollbar-width: none;       /* Firefox */
+  -ms-overflow-style: none;    /* IE/Edge */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;               /* Chrome/Safari */
+}
