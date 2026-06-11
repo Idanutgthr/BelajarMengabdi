@@ -122,7 +122,7 @@ export default function Dashboard() {
           <div className="bottom-action-btn">
             <Link href="/information">
               <button className="btn btn-secondary" style={{ padding: "16px", fontWeight: "700" }}>
-                INFORMATION
+                ABOUT US
               </button>
             </Link>
           </div>

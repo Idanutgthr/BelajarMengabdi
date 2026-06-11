@@ -146,15 +146,15 @@ export default function Home() {
             <div className="form-container-box">
               <div className="mascot-container">
                 <Image
-                  src="/police_salute.png"
-                  alt="Maskot Polisi BelajarMengabdi"
-                  width={150}
-                  height={150}
+                  src="/JadiAbdiPolisi.png"
+                  alt="Logo Belajar Mengabdi"
+                  width={180}
+                  height={180}
                   className="mascot-image"
                   priority
+                  style={{ borderRadius: "16px", objectFit: "contain" }}
                 />
               </div>
-
 
 
               {error && (
