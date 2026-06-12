@@ -1,6 +1,3217 @@
 [
   {
     "id": 1,
+    "question": "Sebuah artikel di majalah pendidikan membahas pentingnya literasi digital di kalangan siswa. Penulis menekankan bahwa maraknya hoaks di media sosial sering membuat pelajar kebingungan membedakan fakta dan opini. Oleh karena itu, kemampuan memilah informasi kredibel dari sumber tepercaya menjadi kunci agar generasi muda tidak mudah terpengaruh isu menyesatkan yang dapat merusak pola pikir dan perilaku mereka.\nBerdasarkan paragraf tersebut, ide pokok yang paling tepat adalah...",
+    "image": null,
+    "options": {
+      "A": "Literasi digital membantu siswa memilah informasi kredibel.",
+      "B": "Banyak pelajar bingung membedakan fakta dan opini.",
+      "C": "Artikel membahas dampak negatif media sosial terhadap siswa.",
+      "D": "Pentingnya meningkatkan keterampilan membaca cepat di sekolah.",
+      "E": "Hoaks menyebar cepat di kalangan remaja melalui media sosial."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Seorang penulis menyusun teks yang berisi pendapatnya tentang bahaya penggunaan plastik sekali pakai. Dalam teks tersebut, ia memulai dengan pernyataan umum bahwa plastik berbahaya bagi lingkungan, lalu menyajikan alasan berupa pencemaran laut, sulit terurai, dan dampak terhadap kesehatan. Di akhir tulisannya, ia menegaskan kembali bahwa masyarakat harus beralih ke bahan ramah lingkungan.\nStruktur teks seperti itu termasuk ke dalam jenis teks ….",
+    "image": null,
+    "options": {
+      "A": "Narasi",
+      "B": "Deskripsi",
+      "C": "Prosedur",
+      "D": "Eksposisi",
+      "E": "Argumentasi"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 3,
+    "question": "Perhatikan kalimat berikut!\n“Bagi siswa yang terlambat masuk kelas maka akan mendapat sanksi dari guru piket.”\nKalimat tersebut dianggap tidak efektif karena terdapat kata yang mubazir dan tidak sesuai dengan kaidah kalimat baku. Jika ingin diperbaiki menjadi kalimat yang efektif tanpa mengubah makna, perbaikan yang tepat adalah …",
+    "image": null,
+    "options": {
+      "A": "Siswa yang terlambat masuk kelas maka akan mendapat sanksi.",
+      "B": "Setiap siswa yang terlambat maka akan mendapat sanksi.",
+      "C": "Siswa yang terlambat masuk kelas akan mendapat sanksi.",
+      "D": "Jika siswa terlambat masuk kelas maka akan mendapat sanksi.",
+      "E": "Siswa yang terlambat maka mendapat sanksi dari guru."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4,
+    "question": "Perhatikan kalimat berikut!\n“Pidato kepala sekolah pada peringatan Hari Pendidikan Nasional sarat dengan retorika yang memukau, sehingga para siswa merasa terinspirasi untuk belajar lebih giat.”\nMakna kata “retorika” yang tepat dalam konteks kalimat di atas adalah ….",
+    "image": null,
+    "options": {
+      "A": "Ucapan yang berlebihan dan tidak masuk akal.",
+      "B": "Cara berbicara yang meyakinkan dan penuh emosi.",
+      "C": "Kritik yang disampaikan secara tersirat melalui bahasa.",
+      "D": "Gaya berbicara yang teratur, indah, dan menarik perhatian.",
+      "E": "Bahasa yang penuh dengan kiasan dan perbandingan."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 5,
+    "question": "Dalam sebuah esai tentang lingkungan, penulis menutup tulisannya dengan kalimat: “Kini saatnya kita berhenti menyalahkan pihak lain dan mulai bertindak nyata menjaga bumi, sekecil apa pun kontribusi yang kita lakukan.”\nKalimat tersebut mencerminkan sikap penulis yang ….",
+    "image": null,
+    "options": {
+      "A": "Pesimis karena kerusakan lingkungan semakin parah.",
+      "B": "Optimis dengan mendorong pembaca untuk ikut berpartisipasi.",
+      "C": "Menyalahkan pemerintah sebagai pihak paling bertanggung jawab.",
+      "D": "Netral tanpa memberikan ajakan kepada pembaca.",
+      "E": "Menganggap masalah lingkungan bukan sesuatu yang mendesak."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Dua teks membahas topik “penggunaan transportasi umum.” Teks pertama menekankan manfaat kesehatan dan mengurangi polusi, sedangkan teks kedua menyoroti efisiensi biaya serta mengurangi kemacetan. Analisis perbandingan kedua teks menunjukkan bahwa ….",
+    "image": null,
+    "options": {
+      "A": "Kedua teks sama-sama menyoroti dampak positif transportasi umum dari perspektif berbeda.",
+      "B": "Kedua teks lebih banyak membahas kelemahan transportasi umum.",
+      "C": "Teks pertama dan kedua hanya fokus pada perbandingan kendaraan pribadi.",
+      "D": "Kedua teks menyimpulkan bahwa transportasi umum tidak efektif.",
+      "E": "Kedua teks menolak keberadaan transportasi umum di kota besar."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Manakah kalimat yang menunjukkan penggunaan kata “produktif” dengan makna yang tepat dalam konteks akademik?",
+    "image": null,
+    "options": {
+      "A": "Siswa itu sangat produktif dalam mengomentari orang lain di media sosial.",
+      "B": "Ia produktif tidur sepanjang hari saat liburan sekolah.",
+      "C": "Andi produktif menunda tugas sehingga nilainya menurun.",
+      "D": "Siswa itu produktif membuang waktu di kantin setiap jam pelajaran.",
+      "E": "Kelompok belajar itu produktif menghasilkan karya tulis ilmiah dalam satu semester"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 8,
+    "question": "Dalam menulis paragraf argumentasi, salah satu ciri utama adalah adanya alasan logis yang mendukung pendapat penulis. Namun, kesalahan umum yang sering terjadi adalah penulis hanya menumpuk fakta tanpa menghubungkannya dengan pendapat. Hal ini mengakibatkan …",
+    "image": null,
+    "options": {
+      "A": "Paragraf menjadi narasi, bukan argumentasi",
+      "B": "Ide pokok sulit ditemukan oleh pembaca",
+      "C": "Kalimat menjadi tidak efektif dan tidak baku",
+      "D": "Paragraf tidak menunjukkan hubungan antara pendapat dan fakta",
+      "E": "Ide minor lebih menonjol daripada ide utama"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Kata “konservasi” memiliki makna yang berbeda dengan “eksploitasi”. Jika seorang siswa menulis: “Konservasi hutan harus dilakukan agar tidak terjadi kerusakan lingkungan”, maka antonim kata konservasi yang paling tepat adalah …",
+    "image": null,
+    "options": {
+      "A": "Eksploitasi",
+      "B": "Restorasi",
+      "C": "Rehabilitasi",
+      "D": "Pelestarian",
+      "E": "Reboisasi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Dalam karya sastra, gaya bahasa hiperbola digunakan untuk …",
+    "image": null,
+    "options": {
+      "A": "Menunjukkan fakta secara objektif",
+      "B": "Menyampaikan pesan dengan lugas",
+      "C": "Menghadirkan makna denotatif",
+      "D": "Memberi kesan logis dan realistis",
+      "E": "Membesar-besarkan suatu keadaan demi penekanan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 11,
+    "question": "Jika sebuah paragraf memiliki ide pokok di awal kalimat, kemudian diikuti oleh kalimat-kalimat penjelas, maka pola pengembangannya adalah …",
+    "image": null,
+    "options": {
+      "A": "Deduktif",
+      "B": "Induktif",
+      "C": "Campuran",
+      "D": "Deskriptif",
+      "E": "Naratif"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Kalimat: “Walaupun harga bahan pokok naik drastis, masyarakat tetap berbondong-bondong ke pasar tradisional untuk berbelanja.”\nHubungan makna antarklausa dalam kalimat tersebut adalah …",
+    "image": null,
+    "options": {
+      "A": "Sebab–akibat",
+      "B": "Penambahan",
+      "C": "Pertentangan",
+      "D": "Perbandingan",
+      "E": "Tujuan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Dalam menulis paragraf deskripsi, penulis berusaha menghadirkan objek secara detail sehingga pembaca seolah-olah dapat melihat, mendengar, atau merasakan langsung apa yang sedang dijelaskan. Misalnya, ketika menggambarkan suasana pantai, penulis tidak hanya menyebutkan adanya laut, tetapi juga warna airnya, suara deburan ombak, dan bau khas laut. Unsur yang paling ditekankan dalam paragraf deskripsi adalah …",
+    "image": null,
+    "options": {
+      "A": "Pancaindra pembaca",
+      "B": "Alur cerita yang jelas",
+      "C": "Hubungan sebab-akibat",
+      "D": "Kehadiran tokoh utama",
+      "E": "Argumen logis yang kuat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Kalimat: “Kebijakan itu dianggap kontroversial karena menimbulkan banyak dampak negatif di masyarakat.” Dalam konteks komunikasi publik, kata “kontroversial” biasanya muncul ketika suatu kebijakan, aturan, atau peristiwa memicu reaksi yang berbeda-beda dari masyarakat sehingga menimbulkan diskusi panjang bahkan pertentangan. Berdasarkan hal tersebut, makna kata “kontroversial” yang paling dekat adalah …",
+    "image": null,
+    "options": {
+      "A": "Disetujui",
+      "B": "Dipuji",
+      "C": "Diperdebatkan",
+      "D": "Diterima",
+      "E": "Dipatuhi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Perhatikan kalimat berikut: “Meskipun fasilitas sekolah terbatas, semangat belajar para siswa tidak pernah padam.” Kalimat ini mencerminkan adanya dua keadaan yang saling bertolak belakang, yaitu keterbatasan sarana dan tingginya motivasi belajar siswa. Hubungan makna antarklausa dalam kalimat tersebut adalah …",
+    "image": null,
+    "options": {
+      "A": "Penambahan",
+      "B": "Tujuan",
+      "C": "Perbandingan",
+      "D": "Pertentangan",
+      "E": "Penjelasan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Sebuah paragraf dikatakan berpola induktif apabila ide pokoknya diletakkan pada akhir paragraf. Artinya, penulis terlebih dahulu menyajikan fakta, data, atau penjelasan yang mendukung, kemudian pada bagian penutup menarik simpulan umum yang menjadi inti paragraf. Dengan demikian, pola induktif berarti …",
+    "image": null,
+    "options": {
+      "A": "Ide pokok berada pada kalimat pertama dan diikuti oleh kalimat penjelas",
+      "B": "Ide pokok berada pada kalimat terakhir setelah didahului kalimat penjelas",
+      "C": "Ide pokok diulang pada awal dan akhir paragraf",
+      "D": "Paragraf diawali dengan kalimat penghubung antar-ide",
+      "E": "Paragraf hanya berisi uraian tanpa kesimpulan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Dalam karya sastra, penulis sering menggunakan majas untuk memperindah bahasa. Salah satu majas yang kerap digunakan adalah personifikasi. Majas ini muncul ketika benda mati atau hewan diberikan sifat-sifat yang biasanya hanya dimiliki manusia, sehingga pembaca seakan-akan melihat benda atau hewan tersebut hidup. Berdasarkan penjelasan tersebut, fungsi majas personifikasi adalah …",
+    "image": null,
+    "options": {
+      "A": "Membandingkan dua hal yang berbeda secara langsung",
+      "B": "Memberi kesan melebih-lebihkan suatu kenyataan",
+      "C": "Mengungkapkan makna dengan kata yang berlawanan",
+      "D": "Memberi penekanan dengan menyamakan sesuatu",
+      "E": "Memberikan sifat-sifat manusia pada benda mati atau hewan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 18,
+    "question": "Teks laporan hasil observasi bertujuan untuk ...",
+    "image": null,
+    "options": {
+      "A": "Menggambarkan objek secara rinci",
+      "B": "Mengemukakan pendapat pribadi",
+      "C": "Memberikan informasi faktual tentang suatu objek",
+      "D": "Menjelaskan prosedur suatu kegiatan",
+      "E": "Menyajikan peristiwa dalam bentuk cerita menarik"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Struktur utama teks laporan hasil observasi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pernyataan umum dan deskripsi bagian",
+      "B": "Orientasi dan peristiwa",
+      "C": "Argumentasi dan simpulan",
+      "D": "Prolog dan epilog",
+      "E": "Tesis dan argumentasi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Berikut ini adalah ciri kebahasaan teks laporan hasil observasi, kecuali ...",
+    "image": null,
+    "options": {
+      "A": "Menggunakan kata baku",
+      "B": "Menggunakan kalimat aktif",
+      "C": "Menggunakan istilah teknis",
+      "D": "Mengandung argumen pribadi",
+      "E": "Menggunakan konjungsi penghubung"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 21,
+    "question": "Teks laporan hasil observasi harus bersifat ...",
+    "image": null,
+    "options": {
+      "A": "Subjektif dan menarik",
+      "B": "Objektif dan faktual",
+      "C": "Imajinatif dan persuasif",
+      "D": "Kompleks dan ambigu",
+      "E": "Naratif dan ekspresif"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Contoh kalimat dalam teks laporan hasil observasi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Saya merasa objek ini sangat menarik.",
+      "B": "Menurut saya, hasil observasi ini cukup akurat.",
+      "C": "Burung elang memiliki paruh yang tajam dan sayap yang kuat.",
+      "D": "Kita harus menjaga kelestarian hewan langka.",
+      "E": "Alangkah indahnya pemandangan di hutan tropis itu."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Bagian yang memuat informasi umum mengenai objek dalam teks laporan hasil observasi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pernyataan umum",
+      "B": "Deskripsi bagian",
+      "C": "Simpulan",
+      "D": "Penutup",
+      "E": "Orientasi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Kata teknis dalam teks laporan hasil observasi digunakan untuk ...",
+    "image": null,
+    "options": {
+      "A": "Mempermudah penjelasan objek",
+      "B": "Membuat laporan lebih menarik",
+      "C": "Mengungkapkan opini penulis",
+      "D": "Memengaruhi pembaca",
+      "E": "Menambah nilai estetika bahasa"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Berikut adalah perbedaan teks laporan dan teks deskripsi, kecuali ...",
+    "image": null,
+    "options": {
+      "A": "Teks laporan bersifat objektif, teks deskripsi bersifat subjektif",
+      "B": "Teks laporan menggunakan fakta, teks deskripsi lebih imajinatif",
+      "C": "Teks laporan berisi data statistik, teks deskripsi berisi argumen",
+      "D": "Teks laporan menjelaskan objek secara umum, teks deskripsi lebih rinci",
+      "E": "Teks laporan bersifat informatif, teks deskripsi bersifat menggambarkan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Salah satu fungsi teks laporan hasil observasi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Mempengaruhi pembaca",
+      "B": "Memberikan informasi untuk penelitian",
+      "C": "Menyampaikan perasaan penulis",
+      "D": "Menghibur pembaca",
+      "E": "Membuat cerita menjadi menarik"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Contoh objek yang cocok untuk teks laporan hasil observasi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Gunung Bromo",
+      "B": "Cerita rakyat Jawa Timur",
+      "C": "Perjalanan wisata",
+      "D": "Opini masyarakat tentang pendidikan",
+      "E": "Film dokumenter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Salah satu ciri kebahasaan pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menggunakan bahasa kiasan",
+      "B": "Menggunakan bahasa santai",
+      "C": "Menggunakan kata ajakan dan motivasi",
+      "D": "Menggunakan istilah ilmiah",
+      "E": "Menggunakan kalimat deskriptif panjang"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Berikut adalah contoh kata yang menunjukkan ajakan dalam pidato persuasif ...",
+    "image": null,
+    "options": {
+      "A": "\"Mari kita tingkatkan kepedulian terhadap lingkungan.\"",
+      "B": "\"Lingkungan kita memang harus dijaga.\"",
+      "C": "\"Saya pikir menjaga lingkungan itu penting.\"",
+      "D": "\"Lingkungan adalah tanggung jawab kita bersama.\"",
+      "E": "\"Menjaga lingkungan adalah kewajiban setiap orang.\""
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Langkah pertama dalam menyusun pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menentukan topik",
+      "B": "Mengumpulkan data",
+      "C": "Membuat penutup yang menarik",
+      "D": "Memikirkan gaya penyampaian",
+      "E": "Menyusun kata ajakan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Fungsi bagian penutup dalam pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menjelaskan data pendukung",
+      "B": "Merangkum isi pidato dan memberikan ajakan",
+      "C": "Memberikan kesan pertama kepada audiens",
+      "D": "Menyampaikan gagasan utama",
+      "E": "Membuka topik baru untuk pembahasan selanjutnya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Pidato persuasif sering digunakan dalam kegiatan berikut, kecuali ...",
+    "image": null,
+    "options": {
+      "A": "Kampanye politik",
+      "B": "Seminar motivasi",
+      "C": "Penyampaian laporan penelitian",
+      "D": "Sosialisasi program pemerintah",
+      "E": "Aksi penggalangan donasi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 33,
+    "question": "Contoh topik yang sesuai untuk pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Cara membuat kerajinan tangan dari barang bekas",
+      "B": "Pentingnya menjaga kebersihan lingkungan",
+      "C": "Proses pembentukan gunung api",
+      "D": "Perjalanan seorang tokoh terkenal",
+      "E": "Sejarah berdirinya kota tertentu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Struktur pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pendahuluan, isi, penutup",
+      "B": "Pernyataan umum, deskripsi bagian, simpulan",
+      "C": "Latar belakang, konflik, resolusi",
+      "D": "Orientasi, komplikasi, resolusi",
+      "E": "Tesis, argumen, kesimpulan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Contoh kalimat penutup pidato persuasif adalah ...",
+    "image": null,
+    "options": {
+      "A": "\"Demikian penjelasan saya tentang topik ini.\"",
+      "B": "\"Saya ucapkan terima kasih atas perhatiannya.\"",
+      "C": "\"Mari bersama-sama kita jaga kebersihan lingkungan mulai dari sekarang!\"",
+      "D": "\"Itu saja yang bisa saya sampaikan pada kesempatan kali ini.\"",
+      "E": "\"Semoga informasi ini bermanfaat bagi kita semua.\""
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Teks yang bertujuan mendeskripsikan, memberikan informasi secara faktual dan biasanya ditulis berdasarkan hasil percobaan merupakan pengertian dari ....",
+    "image": null,
+    "options": {
+      "A": "Teks eksposisi",
+      "B": "Teks eksplanasi",
+      "C": "Teks deskripsi",
+      "D": "Teks laporan",
+      "E": "Teks narasi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "question": "Dalam pidato persuasif, kalimat yang mengajak pendengar untuk melakukan sesuatu disebut ....",
+    "image": null,
+    "options": {
+      "A": "Pernyataan faktual",
+      "B": "Pernyataan opini",
+      "C": "Pernyataan persuasif",
+      "D": "Pernyataan imperatif",
+      "E": "Pernyataan retoris"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Apa ciri utama dari teks cerita pendek ....",
+    "image": null,
+    "options": {
+      "A": "Memiliki alur yang rumit",
+      "B": "Mengandung banyak sudut pandang",
+      "C": "Menggambarkan kejadian dalam jangka waktu yang panjang",
+      "D": "Memiliki fokus pada satu konflik atau peristiwa utama",
+      "E": "Mengandung banyak karakter utama"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 39,
+    "question": "Dalam teks cerita pendek, pengenalan tokoh dan latar biasanya terdapat pada bagian ....",
+    "image": null,
+    "options": {
+      "A": "Klimaks",
+      "B": "Resolusi",
+      "C": "Eksposisi",
+      "D": "Penutup",
+      "E": "Konflik"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Pernyataan berikut ini merupakan ciri-ciri teks pidato persuasif, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Mengandung argumen dan bukti",
+      "B": "Memiliki struktur yang jelas",
+      "C": "Menyajikan informasi secara objektif",
+      "D": "Menggunakan bahasa yang meyakinkan",
+      "E": "Bertujuan mempengaruhi pendengar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Kalimat berikut ini termasuk dalam jenis kalimat persuasif, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "\"Ayo kita daur ulang sampah!\"",
+      "B": "\"Kita harus menjaga kebersihan lingkungan.\"",
+      "C": "\"Saya suka membaca buku.\"",
+      "D": "\"Mari kita tanam pohon bersama.\"",
+      "E": "\"Selalu ingat untuk mencuci tangan sebelum makan.\""
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 42,
+    "question": "Apa yang dimaksud dengan resolusi dalam sebuah cerita?",
+    "image": null,
+    "options": {
+      "A": "Penyelesaian konflik",
+      "B": "Pengenalan tokoh",
+      "C": "Pengembangan karakter",
+      "D": "Penyampaian pesan moral",
+      "E": "Klimaks atau puncak ketegangan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Teks diskusi bertujuan untuk ...",
+    "image": null,
+    "options": {
+      "A": "Menghibur pembaca",
+      "B": "Menyampaikan informasi faktual",
+      "C": "Membahas dua pandangan mengenai suatu isu",
+      "D": "Mempengaruhi pembaca untuk setuju dengan pendapat penulis",
+      "E": "Menyajikan cerita fiksi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 44,
+    "question": "Struktur teks diskusi yang benar adalah ...",
+    "image": null,
+    "options": {
+      "A": "Argumentasi mendukung, argumentasi menentang, simpulan",
+      "B": "Pernyataan umum, argumentasi, dan penutup",
+      "C": "Pendahuluan, isi, dan simpulan",
+      "D": "Latar belakang, konflik, dan resolusi",
+      "E": "Pengenalan tokoh, klimaks, dan penutup"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Dalam teks diskusi, bagian simpulan berisi ...",
+    "image": null,
+    "options": {
+      "A": "Penjelasan tentang masalah",
+      "B": "Argumentasi pendukung",
+      "C": "Pendapat akhir yang mempertimbangkan kedua sisi",
+      "D": "Data pendukung yang relevan",
+      "E": "Pengenalan tokoh dan latar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "question": "Salah satu ciri kebahasaan teks diskusi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Penjelasan tentang masalah",
+      "B": "Argumentasi pendukung",
+      "C": "Pendapat akhir yang mempertimbangkan kedua sisi",
+      "D": "Data pendukung yang relevan",
+      "E": "Saran atau himbauan kepada pembaca"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "question": "Contoh konjungsi yang sering digunakan dalam teks diskusi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Kemudian, lalu, setelah itu",
+      "B": "Namun, sedangkan, di sisi lain",
+      "C": "Oleh sebab itu, sehingga, karena itu",
+      "D": "Di mana, kapan, bagaimana",
+      "E": "Serta, dan, atau"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Salah satu isi dari teks diskusi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pendapat subjektif penulis",
+      "B": "Deskripsi latar tempat",
+      "C": "Argumentasi dari berbagai sudut pandang",
+      "D": "Gambaran detail objek",
+      "E": "Cerita pengalaman pribadi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Contoh pernyataan dalam teks diskusi adalah ...",
+    "image": null,
+    "options": {
+      "A": "\"Teknologi telah memberikan banyak manfaat bagi pendidikan.\"",
+      "B": "\"Sebagian orang berpendapat bahwa teknologi membuat manusia semakin malas.\"",
+      "C": "\"Pendidikan adalah kunci keberhasilan masa depan.\"",
+      "D": "\"Mari kita tingkatkan pemanfaatan teknologi secara bijak.\"",
+      "E": "\"Suasana kelas menjadi lebih menyenangkan ketika guru menggunakan media digital.\""
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "question": "Teks diskusi bersifat objektif karena ...",
+    "image": null,
+    "options": {
+      "A": "Hanya membahas satu sisi dari suatu permasalahan",
+      "B": "Berdasarkan pandangan pribadi penulis",
+      "C": "Memuat pendapat dari berbagai pihak secara berimbang",
+      "D": "Menggunakan bahasa yang santai",
+      "E": "Tidak memerlukan data dan fakta pendukung"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "question": "Topik yang cocok untuk teks diskusi adalah ...",
+    "image": null,
+    "options": {
+      "A": "Cerita rakyat Nusantara",
+      "B": "Pengaruh media sosial terhadap remaja",
+      "C": "Keindahan alam Indonesia",
+      "D": "Pengalaman liburan bersama keluarga",
+      "E": "Cara membuat kue tradisional"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "question": "Teks cerita inspiratif bertujuan untuk ...",
+    "image": null,
+    "options": {
+      "A": "Menghibur pembaca",
+      "B": "Memberikan pengetahuan baru",
+      "C": "Memberikan pelajaran moral atau motivasi",
+      "D": "Membahas suatu permasalahan",
+      "E": "Menjelaskan proses terjadinya suatu peristiwa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Struktur utama teks cerita inspiratif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pernyataan umum, argumentasi, penegasan ulang",
+      "B": "Orientasi, peristiwa, komplikasi, resolusi",
+      "C": "Deskripsi umum, deskripsi bagian, simpulan",
+      "D": "Pendahuluan, isi, penutup",
+      "E": "Abstrak, orientasi, rangkaian peristiwa, reorientasi"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 54,
+    "question": "Salah satu ciri kebahasaan teks cerita inspiratif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menggunakan kata-kata teknis",
+      "B": "Menggunakan kalimat emosional",
+      "C": "Menggunakan istilah ilmiah",
+      "D": "Menggunakan konjungsi kausalitas",
+      "E": "Menggunakan kata tanya dan perintah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Ada secercah harapan. Itulah harapan 54 korban gunung merapi yang memilih jadi transmigran. Mereka tergabung dalam 15 KK itu diberangkatkan ke Kabupaten Kubu kalimantan barat\nDari kalimat itu perbaikan penulisan huruf kapita pada paragraf tersebut:",
+    "image": null,
+    "options": {
+      "A": "Gunung Merapi, Kalimantan Barat",
+      "B": "Kubu raya, Kalimantan Barat",
+      "C": "Gunung Merapi, Transmigran, Kalimantan",
+      "D": "Korban, Gunung Merapi, Kalimantan",
+      "E": "Kalimantan, Kabupaten kubu, Gunung"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 56,
+    "question": "Banyak kalangan menyebut Rudy Hartono sebagai maestro bulu tangkis dunia.\nMakna kata maestro adalah ....",
+    "image": null,
+    "options": {
+      "A": "Orang yang hebat dalam bidang yang digeluti",
+      "B": "Orang yang ahli dan berprestasi di bidang tertentu",
+      "C": "Orang yang mempunyai nama besar karena kesuksesannya",
+      "D": "Orang yang menjuarai suatu pertandingan dan tidak terkalahkan",
+      "E": "Orang pintar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "question": "Ternyata jeruk nipis bermanfaat dalam mengobati batuk. Buah ini memiliki kandungan berupa minyak asiri dan zat yang dapat bermanfaat mengendalikan otot-otot pernapasan sehingga mampu meredakan batuk. Adapun cara penggunaannya yaitu dengan cara meminum air perasan dari jeruk nipis yang dapat dicampur dengan madu, kecap atau gula sehingga rasa asamnya berkurang.\nLalu idde pokok teks tersebut adalah?",
+    "image": null,
+    "options": {
+      "A": "Manfaat jeruk nipis",
+      "B": "Kandungan jeruk nipis",
+      "C": "Campuran jeruk nipis",
+      "D": "Cara penggunaan jeruk nipis",
+      "E": "Obat-obatan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 58,
+    "question": "Cermati ilustrasi berikut!\n“Banjir bandang itu datang tiba-tiba menerjang wilayah Garut dan sekitarnya,” kata Dedi Erawan, salah seorang warga.\nVariasi kalimat yang tepat dari teks tersebut adalah?",
+    "image": null,
+    "options": {
+      "A": "“Banjir bandang menerjang wilayah Garut dan sekitarnya,” kata Dedi Erawan, salah seorang warga yang datang tiba-tiba.",
+      "B": "Kata Dedi Erawan, “Seorang warga wilayah Garut dan sekitarnya menerjang banjir bandang secara tiba-tiba.”",
+      "C": "Kata Dedi Erawan, salah seorang warga, “Wilayah Garut dan sekitarnya diterjang banjir bandang yang datang tiba-tiba.”",
+      "D": "Salah seorang warga, Dedi Erawan, secara tiba-tiba mengatakan wilayah Garut dan sekitarnya diterjang banjir bandang.",
+      "E": "Kata warga, Dewi mengatakan wilayahnya Garut Banjir."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "question": "Tata cara menuliskan kota pengirim dan tanggal tahun pembuatan surat resmi yang benar yaitu…",
+    "image": null,
+    "options": {
+      "A": "Jakarta – 1 Mei 2017",
+      "B": "Jakarta, 1 – Mei 2017",
+      "C": "Jakarta, 1 Mei 2017",
+      "D": "Jakarta 1 Mei 2017",
+      "E": "Jakarta. 1 Mei 2017"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Lembaran yang berisikan data-data pribadi seperti nama, tempat tanggal lahir, pendidikan, nama orang tua, pekerjaan, dan lain-lain dinamakan dengan ….",
+    "image": null,
+    "options": {
+      "A": "Lamaran pekerjaan",
+      "B": "Laporan pengamatan",
+      "C": "Kertas kerja",
+      "D": "Daftar riwayat hidup",
+      "E": "Surat pernyataan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "question": "Ketika hendak menyampaikan sebuah informasi yang sudah kita lihat dari suatu media, maka sebaiknya kita harus menggunakan bahasa yang seperti berikut ini, kecuali ….",
+    "image": null,
+    "options": {
+      "A": "Runtut",
+      "B": "Imajinasi",
+      "C": "Jelas",
+      "D": "Benar",
+      "E": "Mudah dipahami"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 62,
+    "question": "Berikut ini merupakan hal-hal yang biasa dituliskan ketika menulis daftar riwayat hidup, kecuali ….",
+    "image": null,
+    "options": {
+      "A": "Nama lengkap",
+      "B": "Alamat lengkap",
+      "C": "Pendidikan",
+      "D": "Gaya berpakaian",
+      "E": "Pengalaman kerja"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 63,
+    "question": "Pengamatan ini akan dilakukan di kecamatan Gunungpati Kota Semarang.\nBagian dari laporan pengamatan di atas yaitu mengenai ….",
+    "image": null,
+    "options": {
+      "A": "Obyek pengamatan",
+      "B": "Tempat pengamatan",
+      "C": "Waktu pengamatan",
+      "D": "Biaya pengamatan",
+      "E": "Tujuan pengamatan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "question": "Sinta, sebaiknya kamu jangan bermalas-malasan terus. Hal itu sangat tidak baik, sifat pemalas itu nanti malah dapat merugikan kamu. Hal itu akan membuatmu sulit untuk berkembang.Kalimat di atas merupakan bentuk dari …",
+    "image": null,
+    "options": {
+      "A": "Pujian",
+      "B": "Apresiasi",
+      "C": "Kritik",
+      "D": "Kebanggaan",
+      "E": "Saran"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Berilah kiranya yang terbaik bagiku...\nTanah berlumpur dan kerbau pilihan\nPenggalan puisi tersebut jika diparafrasekan menjadi ...",
+    "image": null,
+    "options": {
+      "A": "Petani ingin memiliki kerbau yang baik.",
+      "B": "Seorang petani menyanyi sambil membajak sawah.",
+      "C": "Petani memohon kepada Tuhan agar dikaruniai tanah yang subur dan kerbau yang kuat untuk membajak sawah.",
+      "D": "Petani berharap mempunyai tanah berlumpur dan kerbau pilihan.",
+      "E": "Petani meminta hasil panen yang berlimpah."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Semut merah itu berusaha naik ke atas daun melawan gelombang yang besar. Berkat ketabahannya, ia dapat mencapai permukaan daun itu dan berpegangan kuat-kuat di sana. Cerita di atas mengungkapkan pesan ….",
+    "image": null,
+    "options": {
+      "A": "Mengerjakan sesuatu sebaiknya disertai dengan semangat",
+      "B": "Disertai dengan ketabahan, keberhasilan dapat dicapai",
+      "C": "Mengusahakan sesuatu sebaiknya disertai dengan doa",
+      "D": "Dengan usaha sungguh-sungguh, keberhasilan dapat dicapai",
+      "E": "Tidak mudah menyerah dalam menghadapi rintangan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Dahulu orang belum mengenal tulisan. Pada umumnya orang zaman dahulu masih buta huruf. Mereka menciptakan lambang-lambang untuk berkomunikasi.\nTopik yang tepat untuk laporan di atas adalah ...",
+    "image": null,
+    "options": {
+      "A": "Zaman dahulu orang tidak bisa membaca.",
+      "B": "Orang tidak bisa memahami huruf dan lambang.",
+      "C": "Lambang digunakan sebagai alat komunikasi orang zaman dulu.",
+      "D": "Orang-orang menciptakan lambang-lambang untuk berkomunikasi.",
+      "E": "Orang dahulu sulit memahami arti tulisan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 68,
+    "question": "Banjir kembali melanda Jakarta. Seminggu yang lalu hujan baru saja turun. Akan tetapi, sudah menenggelamkan Kota Jakarta. Peristiwa yang sudah pernah terjadi, tidak dijadikan pelajaran baik bagi warga maupun pemerintah. Setiap tahun mereka harus mengungsi.\nIsi informasi kutipan bacaan tersebut adalah ….",
+    "image": null,
+    "options": {
+      "A": "Penduduk Jakarta mengungsi lagi",
+      "B": "Hujan deras selama seminggu",
+      "C": "Pemerintah tidak bisa menangani banjir",
+      "D": "Banjir melanda Jakarta lagi",
+      "E": "Warga belum sadar akan bahaya banjir"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 69,
+    "question": "Perilaku boros dalam mengkonsumsi listrik harus diakhiri agar laju konsumsi listrik dapat diredam. Sebab, melonjaknya harga energi di pasar global telah membengkakkan subsidi listrik yang harus disediakan negara. Pemborosan listrik termasuk perilaku tidak terpuji.\nInformasi penting dari paragraf tersebut adalah ….",
+    "image": null,
+    "options": {
+      "A": "Subsidi listrik yang harus disediakan negara membengkak",
+      "B": "Perilaku boros dalam mengonsumsi listrik harus diakhiri",
+      "C": "Pemborosan termasuk perilaku tidak terpuji",
+      "D": "Harga energi di pasar global melonjak",
+      "E": "Pemborosan listrik menyebabkan meningkatnya beban negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "question": "Peristiwa itu ayah alami pada waktu berada di pasar. Waktu itu ayah sedang berbelanja bahan bangunan ketika terjadi pencurian. Menurut cerita di atas, peristiwa tersebut terjadi di…",
+    "image": null,
+    "options": {
+      "A": "Pasar",
+      "B": "Masa lalu",
+      "C": "Toko material",
+      "D": "Rumah",
+      "E": "Saat berbelanja"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "question": "Untuk pembuatan laporan, bahasa yang digunakan adalah…",
+    "image": null,
+    "options": {
+      "A": "Bahasa pribadi",
+      "B": "Bahasa daerah",
+      "C": "Bahasa baku",
+      "D": "Bahasa pergaulan",
+      "E": "Bahasa tidak formal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 72,
+    "question": "Dalam menyampaikan pesan atau informasi kepada orang lain secara langsung diperlukan sikap…",
+    "image": null,
+    "options": {
+      "A": "Memaksa",
+      "B": "Terburu-buru",
+      "C": "Santai",
+      "D": "Sopan dan santun",
+      "E": "Acuh tak acuh"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 73,
+    "question": "Rajinlah berolahraga … badan kita sehat.\nKata yang tepat untuk melengkapi kalimat anjuran tersebut adalah…",
+    "image": null,
+    "options": {
+      "A": "Jadi",
+      "B": "Maka",
+      "C": "Agar",
+      "D": "Tetap",
+      "E": "Supaya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 74,
+    "question": "Ayah membaca artikel yang berisi tentang pemanasan global.\nArti kata artikel adalah…",
+    "image": null,
+    "options": {
+      "A": "Tulisan",
+      "B": "Karangan",
+      "C": "Perbincangan",
+      "D": "Pidato",
+      "E": "Cerita"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 75,
+    "question": "Sinonim kata kualitas adalah…",
+    "image": null,
+    "options": {
+      "A": "Mutu",
+      "B": "Jaminan",
+      "C": "Bagus",
+      "D": "Konsisten",
+      "E": "Nilai"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 76,
+    "question": "Antonim kata kualitas adalah…",
+    "image": null,
+    "options": {
+      "A": "Nilai",
+      "B": "Kuantitas",
+      "C": "Peringkat",
+      "D": "Standar",
+      "E": "Mutu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Mana mungkin engkau yang malas bisa masuk sekolah unggulan, hal itu seperti engkau sedang…. Peribahasa yang tepat untuk melengkapi kalimat tersebut adalah…",
+    "image": null,
+    "options": {
+      "A": "Melempar batu sembunyi tangan",
+      "B": "Menggunting dalam lipatan",
+      "C": "Mencabik",
+      "D": "Menegakkan benang basah",
+      "E": "Air beriak tanda tak dalam"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 78,
+    "question": "Rudi…..sepedanya kencang sekali. Kata yang tepat untuk melengkapi kalimat di atas adalah….",
+    "image": null,
+    "options": {
+      "A": "Menunggang",
+      "B": "Membonceng",
+      "C": "Mengendarai",
+      "D": "Menduduki",
+      "E": "Menyopiri"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 79,
+    "question": "Karangan yang tidak terikat bait dan rima disebut ...",
+    "image": null,
+    "options": {
+      "A": "Puisi",
+      "B": "Drama",
+      "C": "Narasi",
+      "D": "Prosa",
+      "E": "Pantun"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 80,
+    "question": "Dion berperan sebagai orang yang suka menolong. Dion berperan sebagai tokoh ...",
+    "image": null,
+    "options": {
+      "A": "Protagonis",
+      "B": "Antagonis",
+      "C": "Figuran",
+      "D": "Utama",
+      "E": "Tritagonis"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 81,
+    "question": "Dongeng adalah salah satu karya sastra yang berbentuk...",
+    "image": null,
+    "options": {
+      "A": "Dialog",
+      "B": "Prosa",
+      "C": "Fiksi",
+      "D": "Nonfiksi",
+      "E": "Puisi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "question": "Tio murid kelas 6 merupakan contoh anak yang patuh kepada orang tuanya. Antonim kata patuh pada kalimat di atas adalah ...",
+    "image": null,
+    "options": {
+      "A": "Berbakti",
+      "B": "Menghormati",
+      "C": "Nakal",
+      "D": "Melanggar",
+      "E": "Membangkang"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 84,
+    "question": "Jalan dari sebuah cerita dinamakan dengan ….",
+    "image": null,
+    "options": {
+      "A": "Alur",
+      "B": "Amanat",
+      "C": "Latar",
+      "D": "Tama",
+      "E": "Tokoh"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 85,
+    "question": "Ir. Soekarno sangat piawai berpidato. Beliau merupakan seorang . . . terkenal di dunia.\nIstilah yang tepat untuk melengkapi kalimat rumpang di atas adalah . . .",
+    "image": null,
+    "options": {
+      "A": "Orator",
+      "B": "Mentor",
+      "C": "Nominator",
+      "D": "Kolektor",
+      "E": "Motivator"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 86,
+    "question": "Ketika mendengar cerita anak itu saya . . . perasaan hingga ikut menangis.\nKata yang tepat untuk melengkapi kalimat rumpang di atas adalah . . .",
+    "image": null,
+    "options": {
+      "A": "Terbawa",
+      "B": "Terhanyut",
+      "C": "Terharu",
+      "D": "Terusik",
+      "E": "Tersentuh"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Diri sendiri yang berbuat salah namun orang lain yang disalahkan atau dikorbankan. Kalimat tersebut merupakan makna dari peribahasa yang berbunyi . . .",
+    "image": null,
+    "options": {
+      "A": "Belum beranak sudah ditimang",
+      "B": "Buruk muka cermin dibelah",
+      "C": "Belum bertaji sudah berkokok",
+      "D": "Bermain api hangus, bermain air basah",
+      "E": "Seperti kacang lupa akan kulitnya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Sandrina adalah seorang penari terkenal. Meski usianya masih muda namun sudah banyak . . . tentang dunia tari yang digelutinya sejak kecil.\nUngkapan yang tepat untuk melengkapi kalimat rumpang di atas adalah . . . .",
+    "image": null,
+    "options": {
+      "A": "Makan asam garam",
+      "B": "Memiliki koleksi tari",
+      "C": "Bergelut dengan tari",
+      "D": "Juara festival lomba",
+      "E": "Pengalaman menari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Kata telekomunikasi dapat diceraikan menurut suku katanya menjadi...",
+    "image": null,
+    "options": {
+      "A": "Te-le-kom-uni-kasi",
+      "B": "Te-le-ko-mu-ni-ka-si",
+      "C": "Tele-ko-mu-ni-ka-si",
+      "D": "Te-le-ko-mu-ni-kasi",
+      "E": "Te-le-kom-mu-ni-ka-si"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 90,
+    "question": "Pengunjung dapat menyaksikan pertunjukan secara gratis. Sinonim menyaksikan adalah...",
+    "image": null,
+    "options": {
+      "A": "Mendengar",
+      "B": "Memerhatikan",
+      "C": "Melihat",
+      "D": "Mengamati",
+      "E": "Menonton"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 91,
+    "question": "Bicaralah dengan keras ... saya dapat mendengar. Kata hubung yang tepat adalah...",
+    "image": null,
+    "options": {
+      "A": "Karena",
+      "B": "Supaya",
+      "C": "Sebab",
+      "D": "Jika",
+      "E": "Agar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Wisnu gemar bermain gitar. Kalimat tanya yang sesuai dengan pernyataan itu adalah...\nKapan Wisnu bermain gitar?",
+    "image": null,
+    "options": {
+      "A": "Apa kegemaran Wisnu?",
+      "B": "Siapa bermain gitar?",
+      "C": "Di mana Wisnu bermain gitar?",
+      "D": "Kenapa Wisnu bermain gitar?",
+      "E": "Kapan Wisnu bermain gitar?"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Sekali merengkuh dayung, dua tiga pulau...",
+    "image": null,
+    "options": {
+      "A": "Terlihat",
+      "B": "Nampak",
+      "C": "Kelihatan",
+      "D": "Terlampaui",
+      "E": "Tersingkap"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 94,
+    "question": "Wah! kau mendapat juara satu, Lam! Kesalahan penggunaan tanda baca dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Penggunaan tanda seru setelah “Lam”",
+      "B": "Pengunaan tanda koma setelah kata “satu”",
+      "C": "Penggunaan tanda seru setelah kata “wah”",
+      "D": "Tidak menggunakan tanda petik dua",
+      "E": "Tidak menggunakan tanda titik setelah kata “wah”"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Namaku adalah Sella Yunia Kartika, S.Pd. Aku adalah seorang guru. Aku lahir di Kediri, 24 Oktober 1998. Sekarang aku tinggal di Jalan Ahmad Dahlan Nomor 3 (Kediri). Aku mengajar di SMP Negeri 1 Gampengrejo.\nKesalahan penggunaan tanda baca terdapat di kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 96,
+    "question": "Aku senang sekali membeli peralatan rumah di supermarket, seperti: kain pel, pengharum ruangan, dan cairan pembersih lantai.\nKesalahan penggunaan tanda baca dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Tanda koma sebelum kata “seperti”",
+      "B": "Tanda titik dua setelah kata “seperti”",
+      "C": "Tanda koma sebelum kata “dan”",
+      "D": "Tanda titik di akhir kalimat",
+      "E": "Tanda koma setelah kata ruangan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Kesalahan penggunaan tanda baca terdapat di kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Namun, mereka selalu semangat dalam menghadapi rintangan.",
+      "B": "Dia ingin makan, tetapi gusinya sakit.",
+      "C": "Tutuplah pintu itu!",
+      "D": "Wah! dia memang sangat hebat.",
+      "E": "Saya ingin membeli baju, tetapi uang saya belum cukup"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 98,
+    "question": "Harga telur ayam sedang naik. Sekarang harganya mencapai Rp28.000,- per kilogram. Sementara itu, harga kebutuhan pokok lain justru harganya turun. Cabai, gula, dan beras adalah contoh barang kebutuhan pokok yang turun harganya. Kenaikan harga bahan makanan ini diperkirakan sampai pekan depan. Kesalahan penggunaan tanda baca terdapat di kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "question": "Yth:\nDrs. Sumarsono, S.Pd\nKesalahan penggunaan tanda baca dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Penggunaan tanda titik dua dan tidak ada tanda titik di akhir gelar belakang nama",
+      "B": "Penggunaan tanda titik dua dan tanda titik setelah gelar di depan nama",
+      "C": "Penggunaan tanda koma setelah nama dan tanda titik di tengah gelar di belakang nama",
+      "D": "Penggunaan tanda koma dan tidak ada tanda titik di akhir gelar belakang nama",
+      "E": "Penggunaan tanda titik dua seharusnya diganti tanda koma"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 100,
+    "question": "Puisi “Bulan” terdapat di buku kumpulan puisi “Pada Malam”.\nKesalahan penggunaan tanda baca dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Tanda petik dua yang mengapit kata “Bulan”",
+      "B": "Tanda petik dua yang mengapit “Pada Malam”",
+      "C": "Tanda titik di akhir kalimat",
+      "D": "Tanda petik dua setelah kata “Malam”",
+      "E": "Tanda koma seharusnya diletakkan setelah kata puisi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "question": "Nomor surat itu bukan seperti yang ditulis sebelumnya, melainkan ini 004/SDN01/ IX-2021.\nKesalahan penggunaan tanda baca dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Koma",
+      "B": "Garis miring",
+      "C": "Tanda hubung",
+      "D": "Titik",
+      "E": "Tanda kurung"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "question": "“Aku tidak tahu mengenai masalah itu,” katanya. Namun, aku tahu sebenarnya ia sedang berbohong. Mungkin dia terpaksa menutupi masalah itu, karena ingin membela saudaranya. Meskipun demikian, sebenarnya ia tidak perlu berbohong kepadaku. Aku lebih senang jika aku tahu yang sebenarnya.\nKesalahan penggunaan terdapat di kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "question": "“Siapa yang mendapat nilai 100, Pak! Tanda baca yang salah dalam kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Tanda petik dua di awal kalimat dan tanda seru",
+      "B": "Tanda petik dua di awal kalimat dan tanda koma",
+      "C": "Tanda koma dan tanda seru",
+      "D": "Tanda seru di akhir kalimat",
+      "E": "Tanda koma"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "question": "Tanda baca digunakan dengan tepat pada ....",
+    "image": null,
+    "options": {
+      "A": "Indonesia memiliki sekitar 13.000 pulau.",
+      "B": "Inevieto, Anjani. 2016. Menuju Indonesia Sehat. Jakarta, Mensana.",
+      "C": "Dia menyelesaikan tes panjang itu dalam waktu 02.18.35.",
+      "D": "Calon pembeli telah menyetorkan uang sebanyak Rp500.000,00.",
+      "E": "Sdr Abdullah, Jalan Kayumanis III/18"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Berikut ini merupakan fungsi tanda baca titik adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Diletakkan pada singkatan atau ungkapan yang sudah umum",
+      "B": "Memisahkan angka, jam, menit, dan detik untuk menunjukkan waktu",
+      "C": "Mengakhiri kalimat yang bukan pertanyaan atau seruan",
+      "D": "Diletakkan pada akhir singkatan nama atau gelar",
+      "E": "Memisahkan anak kalimat yang mendahului induk kalimat"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 106,
+    "question": "Pemakaian tanda baca yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Ayah dan ibu belum pulang, walaupun sudah malam.",
+      "B": "Karena sedih, aku menangis di kamarku.",
+      "C": "Kakak membeli roti, selai dan minuman botol.",
+      "D": "Ibu, dan kakak sedang sibuk berbelanja di pasar.",
+      "E": "Ban mobil kami pecah, karena itu kami tidak bias datang."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "question": "Kalimat di bawah ini yang menggunakan tanda baca dengan benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Zidan, membawakan buku puisi untuk Sandra.",
+      "B": "M. Nasir adalah siswa yang rajin.",
+      "C": "Candra tidak datang, karena berada di luar kota.",
+      "D": "Temanku Suci masuk rumah sakit di Kota Kediri.",
+      "E": "Siswa itu mendapatkan hukuman, karena tidak memakai atribut lengkap."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 108,
+    "question": "Berikut ini penulisan tanda hubung yang benar, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "se-Jawa Barat",
+      "B": "Tahun 90-an",
+      "C": "Anak-anak",
+      "D": "memPHK-kan",
+      "E": "5-08-2021"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 109,
+    "question": "(1) Ibu bertanya: “siapa yang datang?”.\n(2) Rok “canda” sudah tidak popular lagi di Indonesia.\n(3) Marco tinggal di Jalan Pasaribuan, Medan.\n(4) Rate of inflation, ‘laju inflasi’, di\nIndonesia mulai menurun.\n(5) Rama menjuarai kejuaraan karate itu, karena rajin berlatih.\nPemakaian tanda baca yang tepat terdapat pada kalimat ....",
+    "image": null,
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)",
+      "E": "(5)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "question": "Berikut contoh penulisan tanda koma yang tepat, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Oleh karena itu, Yusi harus berhati- hati.",
+      "B": "Jadi, kita pergi menggunakan bus.",
+      "C": "Meskipun begitu, kamu harus meminta maaf",
+      "D": "Reno tidak menyukaimu, karena sifatmu yang cuek.",
+      "E": "Akan tetapi, tidak semua orang menyetujuinya."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 111,
+    "question": "(1) Keluarga Ervina sangat menggemari makanan laut. (2) Hari Minggu, Ervina menemani ibunya ke pasar. (3) Mereka membeli udang, kepiting, cumi-cumi dan ikan.\nPenggunaan tanda baca pada kalimat ketiga teks tersebut salah karena ....",
+    "image": null,
+    "options": {
+      "A": "Tanda baca hubung (-) tidak diperlukan",
+      "B": "Terdapat tanda baca koma (,) setelah kepiting",
+      "C": "Seharusnya terdapat tanda baca koma (,) setelah cumi-cumi",
+      "D": "Seharusnya terdapat tanda baca titik dua (:) setelah membeli",
+      "E": "Seharusnya tanda baca koma setelah kata Minggu dihapus"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 112,
+    "question": "Buah yang dijuluki “Raja” semua buah ini mungkin tidak banyak disukai karena baunya yang sangat tajam.\nPenggunaan tanda kutip pada kalimat di atas berfungsi untuk ....",
+    "image": null,
+    "options": {
+      "A": "Menandakan kata tersebut mempunyai arti khusus",
+      "B": "Menandakan kata tersebut adalah arti dari sebuah kata",
+      "C": "Menandakan bawah kata tersebut adalah kata yang penting diingat",
+      "D": "Menandakan kata tersebut adalah kata yang diserap dari bahasa asing",
+      "E": "Menandakan sebuah istilah ilmiah yang belum dikenal oleh masyarakat umum"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 113,
+    "question": "Perhatikan beberapa kalimat di bawah ini!\n(1) Namun, siapa sangka jika di dalam daging buah durian terkandung asam amino langka.\n(2) Buah ini dikenal karena ukurannya yang besar, dengan kulit tajam dan aromanya yang dianggap seperti campuran belerang dan bawang.\n(3) Bau durian, menurut peneliti, merupakan gabungan beberapa zat kesuburan dengan dominasi sulfur atau belerang yang sangat menyengat.\n(4) “Kami telah menunjukkan, bau dari buah ini ternyata disebabkan oleh ethanethiol dan turunannya,” ujar penulis penelitian Dr. Nadine Fischer dan Dr. Martin Steinhaus.\n(5) Kendati demikian, keduanya masih mencari tahu dan belum dapat menjelaskan jalur biokimia saat tanaman ini menghasilkan ethanethiol tersebut.\nPenggunaan tanda koma yang tidak tepat ditemukan pada ....",
+    "image": null,
+    "options": {
+      "A": "Kalimat (1)",
+      "B": "Kalimat (2)",
+      "C": "Kalimat (3)",
+      "D": "Kalimat (4)",
+      "E": "Kalimat (5)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 114,
+    "question": "Pada prinsipnya tanah longsor terjadi bila gaya pendorong pada lereng lebih besar daripada gaya penahan. Gaya penahan umumnya dipengaruhi oleh kekuatan batuan dan kepadatan tanah. Sedangkan gaya pendorong dipengaruhi oleh besarnya sudut lereng, air, beban serta berat jenis tanah batuan. Lemahnya gaya penahan dan kuatnya gaya pendorong akan menimbulkan terjadinya tanah longsor. Ancaman tanah longsor biasanya terjadi pada musim penghujan karena intensitas curah hujan meningkat. Perbaikan penggunaan tanda baca pada kalimat dalam paragraf tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "Pada prinsipnya tanah longsor terjadi, bila gaya pendorong pada lereng lebih besar daripada gaya penahan.",
+      "B": "Gaya penahan umumnya, dipengaruhi oleh kekuatan batuan dan kepadatan tanah.",
+      "C": "Sedangkan, gayapendorongdipengaruhi oleh besarnya sudut lereng, air, beban serta berat jenis tanah batuan.",
+      "D": "Lemahnya gaya penahan, dan kuatnya gaya pendorong, akan menimbulkan terjadinya tanah longsor.",
+      "E": "Ancaman tanah longsor biasanya terjadi pada musim penghujan, karena intensitas curah hujan meningkat."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 115,
+    "question": "Kalimat di bawah ini menggunakan kaidah penggunaan tanda baca yang salah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Buswisata tersebut akanmengantarkan para peziarah Wali Songo dari mulai Kota Cirebon—Tuban Jawa Timur",
+      "B": "Penembak jitu tersebut sedang membidik babi hutan yang merusak perkebunan warga: Tiba-tiba hewan perusak tersebut hilang dan berlari ke arah semak-semak.",
+      "C": "Sayur-mayur yang dihasilkan petani kebun di daerah Lembang dan Pangalengan rata-rata organik dan berkualitas tinggi.",
+      "D": "Bang Jufri membeli sejumlah peralatan elektronik; televisi, DVD, dan kulkas dua pintu.",
+      "E": "Ikatan Dokter Indonesia akan mengadakan penyuluhan tentang penggunaan antibiotik yang benar bagi warga se-Kabupaten Subang."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 116,
+    "question": "Siswa-siswa pemilik Kartu Indonesia Pintar (KIP) – kartu prasyarat untuk mendapatkan beasiswa dari pemerintah – harus mengumpulkan beberapa berkas sebelum mengajukan beasiswa; fotokopi kartu pelajar, fotokopi Kartu Keluarga, dan surat keterangan dari RT atau RW. Perbaikan Penggunaan tanda baca di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Penulisan tanda titik koma diganti titik dua.",
+      "B": "Penulisan kata siswa-siswa diganti menjadi siswa – siswa.",
+      "C": "Penulisan tanda pisah bercetak tebal di atas diganti dengan tanda koma karena menyatakan keterangan tambahan.",
+      "D": "Penggunaan tanda baca koma sebelum konjungsi dan dihilangkan.",
+      "E": "Penulisan huruf kapital pada penulisan Kartu Indonesia Pintar diganti menjadi kartu Indonesia pintar."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 117,
+    "question": "Kalimat di bawah ini yang menerapkan kaidah penggunaan tanda baca yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Sarifa-anak pertama Pak Pratama- telah berhasil menempuh Pendidikan doktorat di Australia.",
+      "B": "Parasetamol biasanya digunakan untuk mengobati penyakit-penyakit di bawah ini: sakit kepala, demam, dan influenza.",
+      "C": "DVD - ku dan sejumlah barang berharga dicuri oleh orang yang tak dikenal ketika aku terlelap dan lupa menutup pintu depan.",
+      "D": "Sejumlah uang 10.000 an akan kuberikan kepada para pengemis jalanan itu supaya mereka bias makan.",
+      "E": "Ide konstruktif ini akan disampaikan ketika rapat terbatas. Permasalahan di lapangan akan mudah diatasi."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "question": "Kalimat di bawah ini yang tidak menggunakan tanda baca secara tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Para siswa harus membawa peralatan- peralatan ini sebelum berkemah: di antaranya, pisau belati, tambang atau tali sepanjang dua meter, dan tikar.",
+      "B": "Pada pukul 13.00—15.00, rapat koordinasi antara komite sekolah dan orang tua siswa akan diselenggarakan.",
+      "C": "Aceh – provinsi yang terkenal dengan sebutan Serambi Mekahnya – ternyata memiliki tari paling rumit yang pernah dimainkan, yaitu Tari Saman.",
+      "D": "Jika SIM-mu belum diperpanjang dalam seminggu ini, kamu harus membuat SIM baru lagi di Polres atau Polrestabes.",
+      "E": "Firman membawa kucing liar tersebut ke dalam rumah; Kakak perempuannya yang sedang hamil takut akan penyakit toksoplasma yang dibawa oleh kucing."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 119,
+    "question": "Rapat dewan OSIS hari ini membahas: pemilihan ketua, wakil, sekretaris, seksi pendidikan, seksi kerohanian dan seksi humas.\nPerbaikan penggunaan tanda baca yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Rapat dewan OSIS hari ini membahas: pemilihan ketua, wakil, dan sekretaris, seksi pendidikan, seksi kerohanian dan seksi humas.",
+      "B": "Rapat dewan OSIS hari ini membahas pemilihan ketua, wakil, sekretaris, seksi pendidikan, seksi kerohanian, dan seksi humas.",
+      "C": "Rapat dewan OSIS hari ini membahas; pemilihan ketua, wakil, sekretaris, seksi pendidikan, seksi kerohanian, dan seksi humas.",
+      "D": "Rapat dewan OSIS hari ini membahas; diantaranya pemilihan ketua, wakil, sekretaris, seksi pendidikan, seksi kerohanian, dan seksi humas.",
+      "E": "Rapat dewan OSIS hari ini membahas: diantaranya pemilihan ketua, wakil, sekretaris, seksi pendidikan, seksi kerohanian, dan seksi humas."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "question": "Aku sengaja membeli buah delima, salak dan duku untukmu.\nPerbaikan kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Aku, sengaja membeli buah delima, salak dan duku untukmu.",
+      "B": "Aku sengaja membeli buah delima, salak, dan duku untukmu.",
+      "C": "Aku sengaja membeli buah delima, salak, dan duku untukmu!",
+      "D": "Aku sengaja membeli buah delima, salak dan duku untukmu.",
+      "E": "Aku sengaja, membeli buah delima, salak dan duku untukmu."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Bu Halimah berkata siswa harus dilibatkan dalam proses belajar mengajar.\nPerbaikan penulisan kalimat di atas adalah\n....",
+    "image": null,
+    "options": {
+      "A": "Bu Halimah berkata, ‘siswa harus dilibatkan dalam proses belajar mengajar’.",
+      "B": "Bu Halimah berkata “siswa harus dilibatkan dalam proses belajar mengajar.”",
+      "C": "Bu Halimah berkata. “siswa harus dilibatkan dalam proses belajar mengajar”.",
+      "D": "Bu Halimah berkata, siswa harus dilibatkan dalam proses belajar mengajar.”",
+      "E": "Bu Halimah berkata, “siswa harus dilibatkan dalam proses belajar mengajar.”"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 122,
+    "question": "Syarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi 1. Surat lamaran pekerjaan\n2. CV\n3. Pas foto 3&#215;4\n4. Fotokopi KTP\n5. Dan Fotokopi ijazah terakhir\nPerbaikan perincian di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "A.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi:\n1.\tsurat lamaran pekerjaan,\n2.\tCV,\n3.\tpas foto 3x4,\n4.\tfotokopi ktp,\n5.\tdan fotokopi ijazah terakhir.",
+      "B": "B.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi\n1.\tsurat lamaran pekerjaan.\n2.\tCV.\n3.\tpas foto 3x4.\n4.\tfotokopi ktp. dan\n5.\tfotokopi ijazah terakhir.",
+      "C": "C.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi\n1.\tsurat lamaran pekerjaan,\n2.\tCV,\n3.\tpas foto 3x4,\n4.\tfotokopi ktp, dan\n5.\tfotokopi ijazah terakhir.",
+      "D": "D.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi\n1.\tsurat lamaran pekerjaan;\n2.\tCV;\n3.\tpas foto 3x4;\n4.\tfotokopi ktp; dan\n5.\tfotokopi ijazah terakhir.\nD.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi\n1.\tsurat lamaran pekerjaan;\n2.\tCV;\n3.\tpas foto 3x4;\n4.\tfotokopi ktp; dan\n5.\tfotokopi ijazah terakhir.",
+      "E": "E.\tSyarat berkas yang harus dibawa oleh pelamar pekerjaan meliputi\n1.\tsurat lamaran pekerjaan.\n2.\tCV.\n3.\tpas foto 3x4.\n4.\tfotokopi ktp.\n5.\tdan fotokopi ijazah terakhir."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "question": "Penulisan huruf bercetak miring yang benar terdapat pada kalimat ....",
+    "image": null,
+    "options": {
+      "A": "SMA Negeri 1 Surabaya sedang mengadakan lomba antar kelas.",
+      "B": "Sebagai anak kos tidak heran jika berlangganan penatu",
+      "C": "Selain sebagai komika, Raditya Dika juga dikenal sebagai seorang narablog.",
+      "D": "Update berita mengenai perpanjangan PPKM level 4 sampai pada 2 Agustus 2021.",
+      "E": "Peralatan dan fasilitas yang ada di sekolah sudah modern."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "question": "Kalimat yang mengalami kesalahan penulisan adalah ....",
+    "image": null,
+    "options": {
+      "A": "Mewahnya kehidupan sebagai sultan Andara tidak membuat Raffi Ahmad menjadi pribadi yang sombong.",
+      "B": "Dulu aku senang sekali mandi di sungai bersama teman-teman sekolah.",
+      "C": "Di antara jeruk bali, jeruk lemon, dan jeruk mandarin manakah yang lebih kamu sukai?",
+      "D": "Makanan khas Indonesia yang sering dijadikan oleh-oleh adalah wingko Babat Lamongan dan bika ambon.",
+      "E": "Raffi Ahmad adalah aktor, presenter, dan penyanyi yang menikah dengan Nagita Slavina."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 125,
+    "question": "Penulisan judul artikel ilmiah yang sesuai EYD adalah ....",
+    "image": null,
+    "options": {
+      "A": "Standardisasi Kondisi Fisik Atlet Taekwondo Puslatda Jawa Timur.",
+      "B": "Pengembangan Media Audio Materi Pokok Ceramah Pada Mata Pelajaran Bahasa Indonesia Kelas XI SMKN 1 Jombang.",
+      "C": "Perkembangan Verba Bahasa Indonesia Dalam KBBI III dan KBBI V.",
+      "D": "Pengaruh Waktu Belajar, Intensitas Tugas, dan Motivasi Belajar Terhadap Hasil Belajar Siswa Kelas XI IPS Pada Mata Pelajaran Ekonomi Di SMA Negeri 1 Waru.",
+      "E": "Penggunaan Ejaan Bahasa Indonesia Dalam Surat Keluar di Kecamatan Glagah Kabupaten Lamongan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "question": "Huruf kapital seharusnya dipakai pada kata atau frasa yang tercetak miring dalam ....",
+    "image": null,
+    "options": {
+      "A": "bentuk republik",
+      "B": "beberapa lembaga pemerintah",
+      "C": "bentrok polisi dan pedemo",
+      "D": "ketentuan undang-undang ketenagakerjaan",
+      "E": "menurut undang-undang yang berlaku"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 127,
+    "question": "Penulisan gelar akademik yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Suprihanto, S.S., S.Pd., M.ED.",
+      "B": "Dr. Budiawan, M.HuM.",
+      "C": "Seno Prambudi, A.Md.Stat.",
+      "D": "Bagus Setiaji, S.Tr.t.",
+      "E": "Prof. Dr. Kisyani, S.S., M.HuM."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "question": "Kata di bawah ini yang bukan merupakan diftong adalah ....",
+    "image": null,
+    "options": {
+      "A": "Semai",
+      "B": "Koin",
+      "C": "Parau",
+      "D": "Akhirat",
+      "E": "Seiring"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 129,
+    "question": "(1) Ketua umum dpp PDIP Megawati Soekarnoputri memerintahkan kadernya untuk terus bergotong royong dan turun membantu rakyat di tengah pandemi Covid-19. (2) Mulai dari mendirikan dapur umum hingga menggelar Vaksinasi. (3) Hal itu disampaikan oleh Sekjen PDIP Hasto Kristiyanto dalam acara peluncuran ambulans bagi Badan Penanggunalangan Bencana (Baguna) PDIP yang dilakukan secara virtual. (4) Hasto menyatakan seluruh kader partai baik di Struktur Kepengurusan atau Jabatan Eksekutif dan Legislatif harus turut membantu rakyat. (5) Namun, secara khusus Baguna akan memberikan bantuan kepada pihak-pihak yang terdampak.\nPenulisan kalimat yang sesuai EYD adalah....",
+    "image": null,
+    "options": {
+      "A": "1 dan 2",
+      "B": "1 dan 4",
+      "C": "2 dan 3",
+      "D": "3 dan 5",
+      "E": "4 dan 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Hasil tulisanku dipasang di mading sekolah. aku menulis puisi berjudul antara sajak dan senja dalam wajahmu. tulisanku dipuji oleh bu siti selaku guru bahasa indonesia. meskipun sebenarnya aku sedikit malu karena rita bertanya, “kamu memikirkan siapa saat menulis puisi itu?”\nPenulisan yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Hasil tulisanku dipasang di mading sekolah. Aku menulis puisi berjudul antara Sajak dan Senja dalam Wajahmu. Tulisanku dipuji oleh bu Siti selaku guru Bahasa Indonesia. Meskipun sebenarnya aku sedikit malu karena Rita bertanya, “Kamu memikirkan siapa saat menulis puisi itu?”",
+      "B": "Hasil tulisanku dipasang di mading sekolah. Aku menulis puisi berjudul Antara Sajak Dan Senja Dalam Wajahmu. Tulisanku dipuji oleh Bu Siti selaku guru Bahasa Indonesia. Meskipun sebenarnya aku sedikit malu karena Rita bertanya, “kamu memikirkan siapa saat menulis puisi itu?”",
+      "C": "Hasil tulisanku dipasang di mading sekolah. Aku menulis puisi berjudul Antara sajak dan senja dalam wajahmu. Tulisanku dipuji oleh Bu Siti selaku guru Bahasa Indonesia. Meskipun sebenarnya aku sedikit malu karena Rita bertanya, “Kamu memikirkan siapa saat menulis puisi itu?”",
+      "D": "Hasil tulisanku dipasang di mading sekolah. Aku menulis puisi berjudul Antara Sajak dan Senja dalam Wajahmu. Tulisanku dipuji oleh Bu Siti selaku guru bahasa Indonesia. Meskipun sebenarnya aku sedikit malu karena Rita bertanya, “Kamu memikirkan siapa saat menulis puisi itu?”",
+      "E": "Hasil tulisanku dipasang di mading sekolah. Aku menulis puisi berjudul antara Sajak dan Senja dalam Wajahmu. Tulisanku dipuji oleh Bu Siti selaku guru Bahasa Indonesia. Meskipun sebenarnya aku sedikit malu karena Rita bertanya, “Kamu memikirkan siapa saat menulis puisi itu?”"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 131,
+    "question": "Status gizi adalah ekspresi dari keadaan keseimbangan dalam bentuk variabel tertentu, atau perwujudan dari nutriture dalam bentuk variabel tertentu.\nPerbaikan kalimat di atas agar menjadi kalimat yang benar adalah dengan cara mengubah ....",
+    "image": null,
+    "options": {
+      "A": "variabel",
+      "B": "nutriture",
+      "C": "Status Gizi",
+      "D": "variabel, nutriture",
+      "E": "Nutriture"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 132,
+    "question": "Pernyataan di bawah ini yang benar berdasarkan kaidah ejaan bahasa Indonesia adalah ....",
+    "image": null,
+    "options": {
+      "A": "Penulisan huruf miring digunakan pada penulisan pendahuluan, kajian teori, hasil dan pembahasan, simpulan, saran, dan daftar pustaka pada sebuah karya ilmiah.\nB.",
+      "B": "Penulisan huruf kapital digunakan untuk menuliskan nama geografis termasuk pada penulisan nama jenis. Contohnya; petai Cina, sate Madura, dan kunci Inggris.",
+      "C": "Penulisan huruf kapital digunakan untuk menuliskan julukan kota dan negara. Contohnya; Zamrud Khatulistiwa, Negeri Sakura, dan Kota Gandrung.",
+      "D": "Penulisan huruf kapital pada kalimat berikut ini sesuai kaidah ejaan bahasa Indonesia. Pendaftaran CPNS 2021 sudah dibuka sejak satu Minggu yang lalu.",
+      "E": "Penulisan huruf kapital tidak digunakan pada penlisan kata ganti anda"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 133,
+    "question": "Perhatikan percakapan berikut ini!\nPak Rusli: Apakah surat yang saya minta sudah saudara siapkan?”.\nSekretaris: Sudah, Bapak.\nPak Rusli: Perlihatkan kepada saya dalam bentuk file.\nSekretaris: Baik, Bapak. Ini file beserta surat yang sudah tercetak.\nPerbaikan penulisan percakapan di atas dapat dilakukan dengan cara mengubah\n....",
+    "image": null,
+    "options": {
+      "A": "saudara menjadi Saudara",
+      "B": "Bapak menjadi bapak",
+      "C": "file menjadi file",
+      "D": "saya menjadi Saya",
+      "E": "saudara menjadi anda"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 134,
+    "question": "Hasil penelitian berdasarkan riwayat hipertensi sebelumnya di RSUP Prof. Dr. R.D. Kandou Manada pada 1 Januari 2015—31 Desember 2015 menunjukkan pasien dengan tidak memiliki riwayat hipertensi sebelumnya lebih dominan dengan persentase pada pasien preeklamsia ringan sebanyak 15 orang (25%) dan preeklamsia berat sebanyak 40 orang (66,75%). Paragraf di atas adalah paragraf yang penulisannya ....",
+    "image": null,
+    "options": {
+      "A": "Benar, karena penulisan gelar sudah tepat.",
+      "B": "Benar, karena hasil penelitian yang disajikan sudah menggambarkan tempat penelitian, waktu penelitian, topik penelitian, dan presentasi hasil penelitian.",
+      "C": "Salah, karena setelah kata RSUP seharusnya dijelaskan kepanjangannya.",
+      "D": "Salah, karena penulisan tanggal menjadi 1 Januari sampai 31 Desember 2015",
+      "E": "Salah karena penulisan preeklamsia seharusnya preeklamsia"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 135,
+    "question": "Penulisan di bawah ini yang sesuai dengan aturan pemakaian huruf adalah ....",
+    "image": null,
+    "options": {
+      "A": "Mata pelajaran bahasa Mandarin.",
+      "B": "bahasa Mandarin",
+      "C": "Kita harus menghormati Bapak dan Ibu kita.",
+      "D": "Ramlan, M. 1987. Sintaksis. Yogyakarta: Karyono.",
+      "E": "hidrolis"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 136,
+    "question": "Berikut penggunaan huruf kapital dan huruf miring secara berurutan yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Tahun Hijriah, Perang Dunia, Provinsi Jawa Barat, selfie",
+      "B": "Kitab Weda, online, presiden, Perjanjian Linggarjati",
+      "C": "Selat Sunda, lord Hotman, e-mail, dua Minggu",
+      "D": "Gawai, Danau Toba, suku Dani, hari Lebaran",
+      "E": "Mahkamah Agung, earphone, Undang - undang, Majalah Forbes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 137,
+    "question": "Pernyataan mengenai pemakaian huruf miring yang tidak benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Nama diri yang meliputi nama orang, nama tempat, nama partai, nama lembaga, nama organisasi, nama acara, dan yang lainnya tidak boleh ditulis menggunakan huruf miring",
+      "B": "Huruf miring digunakan untuk menunjukkan bagian penting dalam kalimat atau paragraf",
+      "C": "Penggunaan huruf miring tidak diperbolehkan pada huruf yang sudah ditulis tebal",
+      "D": "Huruf miring digunakan untuk menuliskan kata asing",
+      "E": "Huruf miring digunakan untuk menuliskan bahasa daerah"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 138,
+    "question": "Penulisan judul di bawah ini yang tidak benar, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Badan Meteorologi, Klimatologi, dan Geofisika Mengungkap Penyebab Malam Terasa Lebih Dingin.",
+      "B": "Badan Meteorologi, Klimatologi, Dan Geofisika Mengungkap Penyebab Malam Terasa Lebih Dingin di Pulau Jawa.",
+      "C": "Badan Meteorologi, Klimatologi, Dan Geofisika Mengungkap Penyebab Malam Terasa Lebih Dingin di pulau Jawa",
+      "D": "Badan Meteorologi, Klimatologi, Dan Geofisika Mengungkap penyebab Malam Terasa Lebih Dingin.",
+      "E": "Badan Meteorologi, Klimatologi, dan Geofisika Mengungkap Penyebab Malam terasa Lebih Dingin."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 139,
+    "question": "Berikut kata yang tidak boleh ditulis kapital pada judul, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "menurut, sampai, tanpa, tentang, untuk",
+      "B": "kecuali, demi, akan, pada",
+      "C": "oleh, melalui, di, dalam",
+      "D": "guna, dengan, bagi, atas,",
+      "E": "naik, abai, ubah, pacu"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 140,
+    "question": "Manakah kalimat yang menggunakan huruf kapital dengan tepat?",
+    "image": null,
+    "options": {
+      "A": "Orang Indonesia percaya pada Tuhan yang Maha Kuasa",
+      "B": "Pada saat ini orang tertarik untuk datang ke Indonesia karena keislaman",
+      "C": "Pemerintah Indonesia setiap tahun memberi Beasiswa kepada mahasiswa asing",
+      "D": "Keinginan Bangsa Eropa untuk belajar bahasa Indonesia dimulai dari beberapa abad yang lalu",
+      "E": "Guru bertanya, “Siapa pernah pergi ke negeri sakura?”"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 141,
+    "question": "Manakah penulisan sapaan yang tepat?",
+    "image": null,
+    "options": {
+      "A": "Apa ibu mengizinkan anak ibu untuk mengikuti kemah sekolah?",
+      "B": "Silakan saudara membuat jadwal temu dokter untuk minggu yang akan datang",
+      "C": "Mengapa Bapak tidak datang pada acara kerja bakti tadi siang?",
+      "D": "Bapak-bapak, mohon sampaikan ini kepada anak Anda",
+      "E": "Ibu Sari mendukung Anaknya dalam olimpiade olahraga."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 142,
+    "question": "Pengumuman bagi Siswa SMA Negeri 1 Nganjuk yang mengikuti Olimpiade Sains dan Matematika Sekabupaten Nganjuk minggu depan harus sudah melakukan tes PCR. Hasil tes PCR diserahkan kepada Bapak Mad Basor sebelum 25 Agustus 2020.\nKetidaktepatan pada tulisan tersebut terletak pada penulisan ....",
+    "image": null,
+    "options": {
+      "A": "Siswa",
+      "B": "Olimpiade Sains dan Matematika",
+      "C": "Sekabupaten Nganjuk",
+      "D": "minggu depan",
+      "E": "Bapak Mad Basor"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 143,
+    "question": "Rencananya harga Premium akan turun dari Rp7.300,00 menjadi Rp7.150,00 per liter.\nPenulisan kata bercetak miring di atas adalah salah karena ....",
+    "image": null,
+    "options": {
+      "A": "Bukan nama diri/peristiwa",
+      "B": "Istilah tertentu",
+      "C": "Bukan unsur serapan",
+      "D": "Bukan istilah asing",
+      "E": "Bukan istilah daerah"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 144,
+    "question": "Pertandingan antara persela dan persipura berakhir seri. Pendukung masing-masing klub sepak bola merasa kecewa. Mereka menginginkan idolanya menjadi pemenang Dalam pertandingan tersebut.\nPerbaikan penggunaan huruf kapital pada paragraf tersebut dapat dilakukan dengan menulis sebagai berikut ....",
+    "image": null,
+    "options": {
+      "A": "Persela, Persipura, Klub, Kecewa, Dalam",
+      "B": "Persela, Persipura, seri, kecewa, mereka, dalam",
+      "C": "Persela, persipura, Seri, Kecewa, Klub, Dalam",
+      "D": "Persela, Persipura, Seri, kecewa, Mereka, dalam",
+      "E": "Persela, Persipura, seri, klub, kecewa, dalam"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 145,
+    "question": "(1) Presiden Jokowi memimpin upacara\n(2) detik-detik proklamasi di (3) halaman\n(4) istana merdeka.\nKata yang huruf pertamanya harus ditulis dengan huruf kapital adalah .....",
+    "image": null,
+    "options": {
+      "A": "1, 3, 4",
+      "B": "1, 2, 3",
+      "C": "1, 2, 4",
+      "D": "1 dan 4",
+      "E": "1 dan 2"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 146,
+    "question": "Penulisan kalimat yang salah di bawah ini adalah ....",
+    "image": null,
+    "options": {
+      "A": "Pesawat itu kehilangan kontak di sekitar Teluk Meksiko.",
+      "B": "Para pelamar kerja itu sudah dua jam menunggu Anda di ruang tunggu dan mereka tampak kelelahan.",
+      "C": "Saya berusaha menghubungi Pamanku yang sekarang sedang di rumahnya.",
+      "D": "Peneliti dari Universitas Airlangga berhasil menemukan vaksin Covid-19.",
+      "E": "Artikel yang Dini baca berjudul “Kiat- Kiat Beternak Ayam Kampung selama Pandemi Virus Corona”"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 147,
+    "question": "Selama musim penghujan, Ketua Koperasi Bahagia Sejahtera, Desa Sugih Mukti, mencoba mengefektifkan purna jual dengan membuat cendera mata berupa kain batik cirebon.\nKesalahan penulisan huruf kapital pada kalimat tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "Penulisan Koperasi",
+      "B": "Penulisan cirebon",
+      "C": "Penulisan batik",
+      "D": "Penulisan Ketua",
+      "E": "Penulisan Desa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Penggunaan huruf kapital di bawah ini yang salah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Sebagai seorang Presiden, kamu selayaknya pasih berbicara dalam bahasa Inggris.",
+      "B": "Bulan Januari ini, petani itu akan mengirimkan satu kuintal jeruk Bali.",
+      "C": "Ketika melakukan kunjungan ke Kota Jepara, ibuku membeli lemari dengan ukiran jepangnya yang khas.",
+      "D": "Di Derah Margonda Raya, kecelakaan bus terjadi untuk pertama kalinya.",
+      "E": "Kita menemui haji Komar untuk membicarakan tanah wakaf untuk pendirian pesantren."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "question": "Para pejabat dari Kementrian Sosial sedang melakukan kunjungan ke kota Nganjuk dalam rangka sosialisasi Program Keluarga Berencana Nasional sekaligus meresmikan sentra budidaya jeruk Bali. Perbaikan yang tidak tepat untuk paragraf di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Huruf k pada kata ‘Kementrian’ harusnya ditulis huruf kecil karena tidak menunjukkan nama diri.",
+      "B": "Huruf k pada kata ‘Kota’ ditulis huruf kapital karena menunjukkan unsur kewilayahan yang diikuti nama diri.",
+      "C": "Huruf B pada kata ‘Bali’ ditulis huruf kecil karena menunjukkan nama jenis. D.",
+      "D": "Huruf-huruf awal pada kata ‘Program Keluarga Berencana Nasional’ ditulis huruf kecil karena tidak menunjukkan nama diri.",
+      "E": "Huruf p pada kata ‘pejabat’ ditulis huruf kapital meskipun tidak diikuti oleh nama diri"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "question": "Penulisan kalimat di bawah ini yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Perusahaan tambang itu berada di kawasan Tebet, DKI Jakarta.",
+      "B": "Sinta menyerahkan laporan keuangan pada hari Sabtu, Minggu ini.",
+      "C": "Turis itu sedang berbicara dalam Bahasa Korea",
+      "D": "Dia terdampar disebuah Pulau di Kepulauan Seribu",
+      "E": "Paman paling senang menikmati semangkuk bakso Solo di pasar malam."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 151,
+    "question": "Penulisan huruf bercetak miring dalam kalimat di bawah ini yang benar adalah, kecuali .....",
+    "image": null,
+    "options": {
+      "A": "Subyektifitas pada suatu penilaian yang tinggi akan menimbulkan penilaian yang tidak obyektif.",
+      "B": "Para pengusaha properties pada saat krisis ekonomi ini dihadapkan pada sejumlah problema yang tidak mudah diatasi",
+      "C": "Varietas padi yang baru saja ditemukan sangat diminati masyarakat.",
+      "D": "Pada jaman yang penuh dengan ketidakpastian ini perencanaan suatu kegiatan tidak dapat dirumuskan dengan tegas.",
+      "E": "Di antara persyaratan keilmuan suatu penelitian ilmiah adalah kerja analisa."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 152,
+    "question": "Penulisan menggunakan huruf miring di bawah ini yang kurang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Rini tidak masuk sekolah karena sakit.",
+      "B": "Buku Negarakertagama di buat oleh Empu Prapanca.",
+      "C": "Nama lain buah manggis adalah Carcinia Mangostama.",
+      "D": "Huruf pertama kata abad adalah a",
+      "E": "Bab ini tidak membicaraka penulisan huruf kapital"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 153,
+    "question": "Manakah kalimat dengan pilihan kata yang tidak tepat?",
+    "image": null,
+    "options": {
+      "A": "A.\tCumi-cumi, udang, dan kepiting mengandung protein yang tinggi.",
+      "B": "Pemilik golongan darah A tidak disarankan mengonsumsi cumi-cumi, udang, dan kepiting.",
+      "C": "Kentang dapat dikonsumsi untuk pergantian nasi.",
+      "D": "Karena mengandung karbohidrat, kentang dapat menjadi makanan alternatif pengganti nasi.",
+      "E": "Olahan kentang dapat dikonsumsi sebagai camilan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 154,
+    "question": "Manakah kata yang tepat untuk menggantikan bagian tebal berikut ini?\nPegawai baru mempunyai hak dan kewajiban yang sama banyak dengan pegawai lama.",
+    "image": null,
+    "options": {
+      "A": "Rini tidak masuk sekolah karena sakit.",
+      "B": "Buku Negarakertagama di buat oleh Empu Prapanca.",
+      "C": "Nama lain buah manggis adalah Carcinia Mangostama.",
+      "D": "Huruf pertama kata abad adalah a",
+      "E": "Bab ini tidak membicaraka penulisan huruf kapital."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Manakah kata yang tepat untuk menggantikan kata bercetak tebal berikut? Laporan perjalanan tiga hari yang lalu harus dihaturkan secepatnya ke",
+    "image": null,
+    "options": {
+      "A": "Dikirim-pada",
+      "B": "Diberikan pada",
+      "C": "Dikasih-ke",
+      "D": "Disampaikan-kepada",
+      "E": "Diberi-untuk"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Penulisan di bawah ini yang sesuai dengan kaidah ejaan bahasa Indonesia adalah ....",
+    "image": null,
+    "options": {
+      "A": "Perang dunia ke 2",
+      "B": "Abad dua puluh",
+      "C": "Ulang tahun ke-17",
+      "D": "Nomor urut ke-sepuluh",
+      "E": "Abad ke-XX"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 157,
+    "question": "Penulisan lambang bilangan yang benar dalam kalimat berikut adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Aku membawa sepuluh buah apel.",
+      "B": "35 siswa kelas XI IPA 2 diharapkan berkumpul di aula sekolah pukul 10.00 WIB.",
+      "C": "Perusahaan itu baru saja meminjam uang sebesar 550 milyar rupiah dari bank.",
+      "D": "Bab II, pasal 5, halaman 125",
+      "E": "Tahun 2000-an"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 158,
+    "question": "Berikut ini pernyataan yang benar mengenai gabungan kata adalah ....",
+    "image": null,
+    "options": {
+      "A": "Gabungan kata yang menimbulkan salah pengertian ditulis menggunakan tanda hubung (-). Contoh; anak-istri pejabat",
+      "B": "Gabungan kata ditulis serangkai dengan catatan mendapatkan awalan.",
+      "C": "Gabungan kata ditulis terpisah apabila terdiri dari bentuk terikat dan kata dasar.",
+      "D": "Gabungan kata yang sudah padu tidak perlu ditulis serangkai.",
+      "E": "Gabungan kata yang merupakan istilah lazim atau kata majemuk ditulis serangkai."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 159,
+    "question": "Penulisan partikel dalam kalimat berikut ini yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Murid memasuki ruangan satu persatu",
+      "B": "Apa pun yang dia inginkan selalu terpenuhi.",
+      "C": "Apa kah aku boleh memakan buahmu?",
+      "D": "Ada pun penyebab kemacetan itu belum diketahui.",
+      "E": "Bagaimana pun keputusanmu, aku mendukungmu."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "question": "Penulisan kata di bawah ini yang termasuk akronim adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Kowani",
+      "B": "Puskesmas",
+      "C": "Rapim",
+      "D": "Rudal",
+      "E": "Peluru"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 161,
+    "question": "Pernyataan berikut ini yang menyatakan aturan akronim, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Akronim nama diri yang berupa gabungan huruf awal dari deret kata ditulis seluruhnya dengan huruf kapital tanpa tanda titik.",
+      "B": "Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf paling awal adalah huruf kapital.",
+      "C": "Akronim yang bukan nama diri yang berupa gabungan huruf, suku kata, ataupun huruf dan suku kata dari deret kata ditulis seluruhnya dengan huruf kecil.",
+      "D": "Akronim yang terdiri dari tiga huruf kapital atau lebih diikuti tanda titik.",
+      "E": "Akronim disusun dengan memperhatikan keserasian kombinasi vokal dan konsonan yang tetap sesuai dengan kaidah pembentukan kata Indonesia yang lazim"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 162,
+    "question": "Kalimat berikut yang menggunakan penulisan singkatan dan akronim sesuai EYD adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kakak tertuaku berkuliah di U.N.Y",
+      "B": "Raden Yunus, d.k.k adalah penulis buku berjudul Tips Membuat Membaca menjadi Menyenangkan.",
+      "C": "Nama lengkapku adalah Sari Dwiputri. P",
+      "D": "Aparat dari Polres Nganjuk menindak tegas masyarakat yang tidak patuh pada protokol kesehatan.",
+      "E": "Aku membuka rekening baru an. Shaila Putri"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 163,
+    "question": "Tim public relation sedang ... tempat yang akan dijadikan sebagai sasaran kegiatan. Kata berimbuhan yang tepat untuk mengisi titik-titik di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Mesurvei",
+      "B": "Mensurvei",
+      "C": "Menyurvei",
+      "D": "Memsurvei",
+      "E": "Menyurveikan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "question": "Kata berimbuhan di bawah ini yang penulisannya tepat, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Insfrastuktur, swadaya, pramusaji, paripurna",
+      "B": "Telewicara, pro ASEAN, seniman, gemetar",
+      "C": "Multilateral, proaktif, semiprofesinal, dwi-warna",
+      "D": "Pra-sejarah, biokimia, ekstrakulikuler, mancanegara",
+      "E": "Perbaikan, gerejawi, anti-biotik, bikarnona"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 165,
+    "question": "Temukan jawaban yang tepat antar pasangan imbuhan bentuk terikat dalam tabel berikut!\nNo.\nKata berimbuhan\nPembentukan imbuhan\n1.\ntunakarya\ntuna + karya\n2.\ntelewicara\ntele + wicara\n3.\nniskala\nni + skala\n4.\nhemisfer\nhe + misfer\n5.\nawahama\na + wahama",
+    "image": null,
+    "options": {
+      "A": "4 dan 5",
+      "B": "1 dan 3",
+      "C": "1, 2, dan 3",
+      "D": "2 dan 4",
+      "E": "1 dan 2"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 166,
+    "question": "(1) Dilihat dari video yang diterima, pengendara wanita tersebut tampak tiba-tiba berhenti di tengah jalan. (2) Tidak lama kemudian, pengendara motor Kawasaki ER6N menabrak wanita dari arah belakang. (3) Peristiwa tersebut juga viral di media sosial. (4) Tampak sejumlah foto yang salah satunya menunjukkan moge milik pelaku diangkut oleh mobil patroli.\n(5) Selain itu, di foto lainnya terlihat satu unit kendaraan bermotor Honda Beat berwarna hitam.\nPenulisan kata depan yang sesuai berdasarkan paragraf di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "(1) dan (3)",
+      "B": "(2) dan (4)",
+      "C": "(3) dan (5)",
+      "D": "Semuanya salah",
+      "E": "Semuanya benar"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "question": "Berikut ini kalimat yang menerapkan kaidah penulisan angka yang tidak tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Seperempat gajiku selalu aku tabung untuk membeli rumah",
+      "B": "Harga parkir motor di Pakuwon Mall adalah Rp5.000,-",
+      "C": "Total hadiah yang didapatkan dari lomba karate adalah 10 juta.",
+      "D": "Dua belas rumah rusak akibat tanah longsor yang terjadi di Lombok.",
+      "E": "Pedagang kaki lima sering ditemukan dengat kawasan simpang 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 168,
+    "question": "Pada pukul tigabelas, lonceng sekolah berbunyi dan siswa bergegas pulang. Tetapi 4 orang siswa terlihat sedang duduk di gazebo sambil membuka buku bacaan mereka. Sedangkan di lapangan basket, terlihat sebelas barisan ekstrakulikuler sedang mempersiapkan apel pembukaan. Satu orang sebagai pemimpin upacara, 11 orang pleton bariasan dan sisanya adalah dua ratusan peserta apel pembukaan. Paragraf di atas akan menjadi paragraf dengan penulisan angka sesuai kaidah apabila ....",
+    "image": null,
+    "options": {
+      "A": "Mengganti penulisan 4 orang menjadi empat orang",
+      "B": "Mengganti penulisan pukul tiga belas menjadi pukul 13.00",
+      "C": "Mengganti penulisan 11 orang menjadi sebelas orang",
+      "D": "Mengganti penulisan pukul tiga belas menjadi pukul 01.00 PM",
+      "E": "Mengganti penulisan dua ratusan menjadi 200 an"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 169,
+    "question": "Penduduk Desa Dadapan selalu tolong- menolong saat ada salah satu warga yang terkena musibah. Kata ulang yang memiliki kesamaan bentuk dengan kata ulang di atas ada dalam kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Kami menari-nari kegirangan karena mendapat hadiah dari lomba jalan sehat.",
+      "B": "Sebagai keluarga sederhana, kami makan dengan lauk pauk seadanya.",
+      "C": "Kami membiasakan saling bahu- membahu dalam urusan rumah tangga.",
+      "D": "Rumah-rumah penduduk didatangi petugas sensus penduduk.",
+      "E": "Pada hari besar, kami bertandang ke rumah tetang-tetangga untuk saling bersilaturahmi."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "question": "Penulisan partikel /per/ berikut ini yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Perabot rumah",
+      "B": "Persekian menit",
+      "C": "Perahu nelayan",
+      "D": "Per akaran tumbuhan",
+      "E": "Per satu detik"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 171,
+    "question": "Berikut ini termasuk jenis kata ulang dan contohnya. Tentukan pasangan yang tepat!",
+    "image": null,
+    "options": {
+      "A": "Dwipurwa, contohnya; laki-laki",
+      "B": "Kata ulang berubah bunyi, contohnya; tarik-menarik",
+      "C": "Kata ulang berimbuhan, contohnya; sayur-mayur",
+      "D": "Kata ulang semu, contohnya; kupu- kupu",
+      "E": "Dwilingga, contohnya; dedaunan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Manakah pembentukan kata yang tepat dalam kalimat berikut?",
+    "image": null,
+    "options": {
+      "A": "Penerapan kurikulum baru mempengaruhi kinerja guru",
+      "B": "Tidak ada yang lebih memesona selain keberhasilan siswa",
+      "C": "Kita jangan hanya memerhatikan bagaimana guru bekerja",
+      "D": "Apakah semua kurikulum mampu merubah dunia pendidikan?",
+      "E": "Penggunaan smartphone dapat memermudah manusia dalam berkomunikasi dan berlancar dalam dunia daring."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Manakah kata yang tepat untuk menggantikan kata bercetak tebal berikut?\nAgar menjadi insan mandiri, anak-anak harus mampu menyuci pakaian, memasak makanan sederhana, dan berbenah tanpa bantuan orang lain.",
+    "image": null,
+    "options": {
+      "A": "Mencuci - berbenah",
+      "B": "Mencuci - berbenah-benahan",
+      "C": "Menyuci – berbenah",
+      "D": "Menyucikan – berbenahan",
+      "E": "Menyuci-bebenah"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Pembentukan kata di bawah ini yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Ia tak mau mengubah pendiriannya",
+      "B": "Ia tak mau merubah pendiriannya",
+      "C": "Ia tak mau meubah pendiriannya",
+      "D": "Ia tak mau mengrubah pendiriannya",
+      "E": "Ia tak mau mengubahkan pendiriannya"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "Kata bercetak tebal dalam kalimat berikut yang dapat memakai awalan me- adalah....",
+    "image": null,
+    "options": {
+      "A": "Sekali rengkuh dayung, dua tiga pulau terlampaui",
+      "B": "Sekali-kali ia datang ke rumahku",
+      "C": "Ia teman dengan murid-murid di kelasnya",
+      "D": "Lala nyanyi dengan merdu",
+      "E": "Apa yang kau katakan beda dengan yang dikatakan Sita"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 176,
+    "question": "Imbuhan pe-an dalam kata pemandian memiliki makna ....",
+    "image": null,
+    "options": {
+      "A": "Alat",
+      "B": "Kegiatan",
+      "C": "Keadaan",
+      "D": "Tempat",
+      "E": "Suasana"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 177,
+    "question": "Kata bercetak miring dalam kalimat berikut yang seharusnya diberi imbuhan ke-an adalah ....",
+    "image": null,
+    "options": {
+      "A": "Karena hujan, semalam Doni demam",
+      "B": "Kami akan segera lanjut perjalanan",
+      "C": "Sahabat antara Ima dan Ria sudah retak",
+      "D": "Malam ini langit mandi cahaya bintang",
+      "E": "Aku suka buah yang manis dan sedikit asam"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 178,
+    "question": "Imbuhan ter- yang menyatakan makna “dikenai tindakan secara tak sengaja” terdapat pada kalimat….",
+    "image": null,
+    "options": {
+      "A": "Anak dari Kotabaru itu pandai dan tidak mudah tertipu",
+      "B": "Tulisan Yoyo tidak terbaca olehku",
+      "C": "Dalam kecelakaan itu, Dadang terlempar beberapa meter",
+      "D": "Semua orang tertampung di tenda pengungsian di lapangan.",
+      "E": "Tersangka kasus pembunuhan sudah diserahkan pada polisi."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 179,
+    "question": "Kata ulang dalam kalimat berikut yang bermakna “saling” adalah ....",
+    "image": null,
+    "options": {
+      "A": "Begitu mereka bertemu, langsung mereka bersalam-salaman",
+      "B": "Para siswa dididik bersopan santun",
+      "C": "Angkutan umum banyak mengambil trayek Merak Serang pulang pergi",
+      "D": "Ia pekerjaannya hanya mondar- mandir",
+      "E": "Aku hanya makan sesuap sup di rumah sakit."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "question": "Kata ulang bermakna “paling” terdapat pada kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Mereka berusaha belajar sebaik- baiknya",
+      "B": "Ia hanya membaca buku-buku LKS",
+      "C": "Dia mendengarkan musik sambil tidur- tiduran",
+      "D": "Pemain-pemain sepakbola itu berkumpul di rumahnya.",
+      "E": "Adi menggebu-gebu ingin masuk perwira."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "question": "Batu-batu cadas merintih kesakitan karena ditikam belatinya.\nKalimat yang menggunakan bentuk pengulangan kata sama dengan kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Mentari pagi menyinari dedaunan",
+      "B": "Buku-buku itu berserakan di lantai",
+      "C": "Pagar di lahan pemukiman itu rapi- rapi",
+      "D": "Orang itu duduk-duduk saja di teras",
+      "E": "Hari ini kita makan-makan di rumah Sania"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 182,
+    "question": "Manakah di antara kalimat-kalimat di bawah ini yang memiliki kesalahan penulisan kata?",
+    "image": null,
+    "options": {
+      "A": "Produk musisi telah sampai ke indera pendengaran kita pada umumnya memiliki label masing-masing sebagai alat produksi",
+      "B": "Kebudayaan kapitalisme mengem- bangkan segala sesuatu untuk dilakukan modifikasi, termasuk seni musik",
+      "C": "Tentusaja sedikit susahmembayangkan band-band seperti itu akan dirilis oleh label besar",
+      "D": "Pria bernama asli Herry Ucok Sutresna ini mendirikan Grimloc bersama kawan-kawannya",
+      "E": "Budaya popular, dalam hal ini disebut budaya massa, yaitu budaya yang diproduksi untuk massa yang luas dan mengikuti pola produksi massa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 183,
+    "question": "Hal ini terbukti dalam wawancara bersama Majalah Cobra, Morgue Vanguard cerita alasan dia mendirikan label Grimloc Records. Imbuhan yang tepat untuk kata bercetak tebal pada kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Di-kan",
+      "B": "Ber-",
+      "C": "pe-",
+      "D": "Me-kan",
+      "E": "–kan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 184,
+    "question": "Manakah Konjungsi yang tepat untuk kalimat berikut ....",
+    "image": null,
+    "options": {
+      "A": "Murid kelas 10 akan mementaskan drama tari atau menjadi penonton.",
+      "B": "Baik guru atau murid menjawab pertanyaan dalam kuis itu dengan benar.",
+      "C": "Guru mendampingi para murid serta mengikuti kegiatan Jambore Kebahasaan di Surabaya.",
+      "D": "Mereka datang ke sekolah kami, namun memberi penjelasan tentang pentingnya menjaga kebersihan lingkungan.",
+      "E": "Bapak Ana adalah seorang pendeta, sedangkan Ana suka berbicara kasar."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 185,
+    "question": "Hari Rabu kemarin ... sekelas mendapat teguran dari wali kelas. ditegur\nkarena sering gaduh pada saat mata pelajaran bahasa Indonesia. Kemudian\n... memberikan nasihat bahwa orang yang tidak menghargai orang lain akan diperlakukan sama suatu hari nanti, begitu juga sebaliknya.\nKata ganti yang tepat untuk melengkapi paragraf di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kita, kita, beliau",
+      "B": "Kami, kami, saya",
+      "C": "Saya, saya, beliau",
+      "D": "Kami, kami, beliau",
+      "E": "Kita, kita, saya"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 186,
+    "question": "Kalimat berikut ini yang menggunakan kata ganti orang adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kakak sudah sampai di rumah",
+      "B": "Apakah Reni sudah mengembalikan buku perpustakaan?",
+      "C": "Orang yang suka mencuri disebut panjang tangan",
+      "D": "Berapa liter air yang Anda minum setiap harinya?",
+      "E": "Ibu sudah mengantar adik ke sekolah."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 187,
+    "question": "Pernyataan berikut yang tepat mengenai kata ganti, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Segala kata yang dipakai untuk menggantikan kata benda atau semua yang dibendakan.",
+      "B": "Contoh kata ganti orang kedua tunggal adalah kau.",
+      "C": "Salah satu jenis kata ganti adalah kata ganti penghubung.",
+      "D": "Kalimat “tulisanmu tidak bisa dibaca karena tidak rapi” merupakan contoh kata ganti kepemilikan.",
+      "E": "Kata ganti biasanya terdapat pada posisi subjek dan tidak terdapat pada posisi objek."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 188,
+    "question": "Kita hendaknya saling menghormati sesama manusia.\nKalimat di atas merupakan kriteria contoh kata ganti ....",
+    "image": null,
+    "options": {
+      "A": "Penunjuk",
+      "B": "Tanya",
+      "C": "Orang",
+      "D": "Pemilik",
+      "E": "Tak tentu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 189,
+    "question": "Mereka membawa keperluannya masing- masing.\nKalimat di atas merupakan contoh kata ganti tak tentu bagian keterangan ....",
+    "image": null,
+    "options": {
+      "A": "Menyatakan benda",
+      "B": "Menyatakan kepemilikan",
+      "C": "Menyatakan bagian atau pertiap-tiap",
+      "D": "Menunjukkan barang bawaan",
+      "E": "Menyatakan orang"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 190,
+    "question": "(1) Produk-produk makanan yang disajikan dengan cara digoreng kini sudah menjadi industri besar sehingga siap saji. (2) Tidak ada hal buruk mengenai makanan siap saji itu bahwa dikonsumsi sewajarnya. (3) Bahan dasar kompok santapan ini merupakan pangan bergizi karena berbahan daging ayam atau daging sapi yang disandingkan dengan kentau atau nasi. (4) Ketidakseimbangan gizi muncul karena di dalam porsi pangan hewani terkandung cukup banyak kolestrol. (5) Apalagi, kandungan nabati pada makanan siap saji ini umumnya rendah.\nPenggunaan konjungsi yang tidak tepat pada teks di atas terdapat pada kalimat nomor ....",
+    "image": null,
+    "options": {
+      "A": "1 dan 2",
+      "B": "2 dan 3",
+      "C": "3 dan 4",
+      "D": "4 dan 5",
+      "E": "1 dan 5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 191,
+    "question": "Penjual itu berkata ... ia sudah menaikkan harga kebutuhan pokok ... beberapa kebutuhan bayi sejak seminggu yang lalu. Konjungsi yang tepat untuk melengkapi kaliamat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Sehingga, dengan",
+      "B": "Kalau, dan",
+      "C": "Jika, dan",
+      "D": "Bahwa, dan",
+      "E": "Bahwa, tetapi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 192,
+    "question": "Pemerintah di suatu kota mewajibkan setiap sekolah untuk supaya menerapkan pembelajaran jarak jauh.\nPenggunaan kata hubung dalam kalimat tersebut agar menjadi benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kata untuk bermakna tujuan",
+      "B": "Kata supaya tidak usah digunakan",
+      "C": "Kata supaya bermakna harapan",
+      "D": "Kata untuk bermakna bagian",
+      "E": "Kata untuk tidak usah digunakan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "question": "Perhatikan kalimat berikut!\nSanti rajin mengunjungi adiknya di Surabaya ... adiknya tidak melupakan keluarganya.\nKonjungsi yang tepat untuk mengisi kalimat rumpang di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Bila",
+      "B": "Untuk",
+      "C": "Yang",
+      "D": "Agar",
+      "E": "Jika"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "question": "Perhatikan teks berikut untuk menjawab soal\nPerubahan iklim berpotensi pada hilangnya sepertiga pantai pasir di planet ini. Menurut jurnal Nature Climate Change, pengurangan penggunaan bahan bakar fosil tetap tidak menghilangkan kemungkinan musnahnya sepertiga pantai berpasir di dunia. Hampir 15.000 kilometer garis tepi pantai putih akan tersapu dalam 80 tahun ke depan. Dampak dari hal-hal tersebut adalah ancaman terhadap penghidupan dan infrastruktur di tepi pantai. Skenario terburuk adalah emisi karbon akan terus berlanjut atau bumi akan mulai meningkatkan konsentrasi gas rumah kaca di atmosfer.\nPenulisan kata depan yang tidak tepat terdapat pada kalimat ....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 195,
+    "question": "Perhatikan teks berikut untuk menjawab soal\nPerubahan iklim berpotensi pada hilangnya sepertiga pantai pasir di planet ini. Menurut jurnal Nature Climate Change, pengurangan penggunaan bahan bakar fosil tetap tidak menghilangkan kemungkinan musnahnya sepertiga pantai berpasir di dunia. Hampir 15.000 kilometer garis tepi pantai putih akan tersapu dalam 80 tahun ke depan. Dampak dari hal-hal tersebut adalah ancaman terhadap penghidupan dan infrastruktur di tepi pantai. Skenario terburuk adalah emisi karbon akan terus berlanjut atau bumi akan mulai meningkatkan konsentrasi gas rumah kaca di atmosfer.\nPenulisan kata ganti –nya pada kata bercetak tebal musnahnya mengacu pada....",
+    "image": null,
+    "options": {
+      "A": "pantai berpasir",
+      "B": "Nature Climate Change",
+      "C": "bahan bakar fosil",
+      "D": "perubahan iklim",
+      "E": "garis tepi pantai"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 196,
+    "question": "Perhatikan teks berikut untuk menjawab soal\nPerubahan iklim berpotensi pada hilangnya sepertiga pantai pasir di planet ini. Menurut jurnal Nature Climate Change, pengurangan penggunaan bahan bakar fosil tetap tidak menghilangkan kemungkinan musnahnya sepertiga pantai berpasir di dunia. Hampir 15.000 kilometer garis tepi pantai putih akan tersapu dalam 80 tahun ke depan. Dampak dari hal-hal tersebut adalah ancaman terhadap penghidupan dan infrastruktur di tepi pantai. Skenario terburuk adalah emisi karbon akan terus berlanjut atau bumi akan mulai meningkatkan konsentrasi gas rumah kaca di atmosfer.\nPenulisan kata depan yang tepat pada teks di atas adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Di planet",
+      "B": "Ke depan",
+      "C": "Di dunia",
+      "D": "Di tepi",
+      "E": "Di atmosfer"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 197,
+    "question": "Perhatikan berita berikut untuk menjawab pertanyaan\nKabar kembali datang dari John Wick 4 setelah mulai produksi pada Juni lalu. Kali ini aktor yang menyulih suara Surtur dalam Thor: Ragnarok, Clancy Brown, bergabung dengan John Wick 4. Sutradara Chad Stahelski mengaku senang dengan keterlibatan Brown dalam film yang ia garap. Bahkan ia mengaku sudah menjadi penggemar aktor berusia 62 tahun itu sejak lama. “Kehadirannya sebagai bagian dari proyek ini adalah suatu kehormatan. Dia akan menjadi (pemain) tambahan yang sempurna untuk dunia John Wick,” kata Stahelski sebagaimana di lansir Deadline. Brown menjadi aktor terbaru yang bergabung dengan John Wick 4. Sebelumnya, aktor asal Hong Kong bernama Donnie Yen lebih dulu dipastikan bergabung dengan film bergenre laga itu. John Wick sendiri merupakan waralaba film laga yang dimulai (…) film bertajuk John Wick (2014). Bercerita tentang pembunuh bayaran andal bernama John Wick yang diperankan Keanu Reeves. Film pertama sukses kemudian berlanjut pada John Wick: Chapter 2 (2017) dan John Wick: Parabellum (2 John Wick: Chapter 4 dijadwalkan rilis pada 27 Mei 2022 meskipun tidak ada perubahan akibat pandemi atau hal lain. CEO Lionsgate Jon Feltheimer mengonfirmasi film John Wick 5, bahkan menyatakan rumah produksi yang ia pimpin tengah bersiap untuk syuting John Wick 4 dan 5 secara berurut. Lionsgate juga berencana membuat film lepas bertajuk Ballerina yang disutradarai oleh Len Wiseman. Film ini mengisahkan seorang perempuan yang di besarkan menjadi pembunuh bayaran. Tidak hanya film layar lebar, waralaba John Wick juga diperluas kelayar kaca. Kanal televisi satelit asal Amerika Serikat, Starz, menggarap serial bertajuk The Continental. The Continental akan berlatar waktu sebelum film-film John Wick. Serial ini fokus pada hotel The Continental yang merupakan tempat paling aman bagi pembunuh bayaran, sebab dalam hotel itu tak boleh ada pertikaian satu sama lain.\nPenulisan huruf bercetak tebal pada paragraf pertama merupakan kata ganti yang mengacu pada ....",
+    "image": null,
+    "options": {
+      "A": "John Wick 4",
+      "B": "Chad Stahelski",
+      "C": "Ragnarok",
+      "D": "Clancy Brown",
+      "E": "Surtur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 198,
+    "question": "Perhatikan berita berikut untuk menjawab pertanyaan\nKabar kembali datang dari John Wick 4 setelah mulai produksi pada Juni lalu. Kali ini aktor yang menyulih suara Surtur dalam Thor: Ragnarok, Clancy Brown, bergabung dengan John Wick 4. Sutradara Chad Stahelski mengaku senang dengan keterlibatan Brown dalam film yang ia garap. Bahkan ia mengaku sudah menjadi penggemar aktor berusia 62 tahun itu sejak lama. “Kehadirannya sebagai bagian dari proyek ini adalah suatu kehormatan. Dia akan menjadi (pemain) tambahan yang sempurna untuk dunia John Wick,” kata Stahelski sebagaimana di lansir Deadline. Brown menjadi aktor terbaru yang bergabung dengan John Wick 4. Sebelumnya, aktor asal Hong Kong bernama Donnie Yen lebih dulu dipastikan bergabung dengan film bergenre laga itu. John Wick sendiri merupakan waralaba film laga yang dimulai (…) film bertajuk John Wick (2014). Bercerita tentang pembunuh bayaran andal bernama John Wick yang diperankan Keanu Reeves. Film pertama sukses kemudian berlanjut pada John Wick: Chapter 2 (2017) dan John Wick: Parabellum (2 John Wick: Chapter 4 dijadwalkan rilis pada 27 Mei 2022 meskipun tidak ada perubahan akibat pandemi atau hal lain. CEO Lionsgate Jon Feltheimer mengonfirmasi film John Wick 5, bahkan menyatakan rumah produksi yang ia pimpin tengah bersiap untuk syuting John Wick 4 dan 5 secara berurut. Lionsgate juga berencana membuat film lepas bertajuk Ballerina yang disutradarai oleh Len Wiseman. Film ini mengisahkan seorang perempuan yang di besarkan menjadi pembunuh bayaran. Tidak hanya film layar lebar, waralaba John Wick juga diperluas kelayar kaca. Kanal televisi satelit asal Amerika Serikat, Starz, menggarap serial bertajuk The Continental. The Continental akan berlatar waktu sebelum film-film John Wick. Serial ini fokus pada hotel The Continental yang merupakan tempat paling aman bagi pembunuh bayaran, sebab dalam hotel itu tak boleh ada pertikaian satu sama lain.\nKata ganti itu pada paragraf tiga mengacu pada ....",
+    "image": null,
+    "options": {
+      "A": "John Wick 4",
+      "B": "Donnie Yen",
+      "C": "Stahelski",
+      "D": "Clancy Brown",
+      "E": "Aktor asal Hong Kong"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 199,
+    "question": "Perhatikan berita berikut untuk menjawab pertanyaan\nKabar kembali datang dari John Wick 4 setelah mulai produksi pada Juni lalu. Kali ini aktor yang menyulih suara Surtur dalam Thor: Ragnarok, Clancy Brown, bergabung dengan John Wick 4. Sutradara Chad Stahelski mengaku senang dengan keterlibatan Brown dalam film yang ia garap. Bahkan ia mengaku sudah menjadi penggemar aktor berusia 62 tahun itu sejak lama. “Kehadirannya sebagai bagian dari proyek ini adalah suatu kehormatan. Dia akan menjadi (pemain) tambahan yang sempurna untuk dunia John Wick,” kata Stahelski sebagaimana di lansir Deadline. Brown menjadi aktor terbaru yang bergabung dengan John Wick 4. Sebelumnya, aktor asal Hong Kong bernama Donnie Yen lebih dulu dipastikan bergabung dengan film bergenre laga itu. John Wick sendiri merupakan waralaba film laga yang dimulai (…) film bertajuk John Wick (2014). Bercerita tentang pembunuh bayaran andal bernama John Wick yang diperankan Keanu Reeves. Film pertama sukses kemudian berlanjut pada John Wick: Chapter 2 (2017) dan John Wick: Parabellum (2 John Wick: Chapter 4 dijadwalkan rilis pada 27 Mei 2022 meskipun tidak ada perubahan akibat pandemi atau hal lain. CEO Lionsgate Jon Feltheimer mengonfirmasi film John Wick 5, bahkan menyatakan rumah produksi yang ia pimpin tengah bersiap untuk syuting John Wick 4 dan 5 secara berurut. Lionsgate juga berencana membuat film lepas bertajuk Ballerina yang disutradarai oleh Len Wiseman. Film ini mengisahkan seorang perempuan yang di besarkan menjadi pembunuh bayaran. Tidak hanya film layar lebar, waralaba John Wick juga diperluas kelayar kaca. Kanal televisi satelit asal Amerika Serikat, Starz, menggarap serial bertajuk The Continental. The Continental akan berlatar waktu sebelum film-film John Wick. Serial ini fokus pada hotel The Continental yang merupakan tempat paling aman bagi pembunuh bayaran, sebab dalam hotel itu tak boleh ada pertikaian satu sama lain.\nPenulisan kata depan yang tepat ditemukan pada paragraf, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "1, 2, dan 3",
+      "B": "2, 5, dan 6",
+      "C": "5, 8, dan 9",
+      "D": "3, 4, dan 6",
+      "E": "2, 7, dan 8"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 200,
+    "question": "Berikut ini yang termasuk kata benda ialah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Kekuatan",
+      "B": "Pencucian",
+      "C": "Pencurian",
+      "D": "Ceroboh",
+      "E": "Keagungan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 201,
+    "question": "Perhatikan tabel berikut ini!\n1\nKata benda turunan\nPemanah\n2\nKata benda dasar\nRajin\n3\nKata benda konkret\nBatu\n4\nKata benda abstrak\nKemanusiaan\n5\nKata benda turunan\npertanian\nBerdasarkan tabel di atas, pasangan kata benda dan jenisnya yang tepat, kecuali....",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 202,
+    "question": "“Jihan, apa kamu tidak tahu kalau ... Pencipta adalah Maha Pemaaf?”\nKata sandang yang tepat untuk mengisi kalimat rumpang di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Si",
+      "B": "Yang",
+      "C": "Sang",
+      "D": "Dang",
+      "E": "Sri"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Mengisilah formulir pendaftaran lomba yang ada di link website yang sudah tertera di sana.\nPerbaikan kalimat di atas yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Mengisi formulir pendaftaran lomba yang ada di link website yang sudah tertera di sana.",
+      "B": "Isilah formulir pendaftaran lomba yang ada di link website yang sudah tertera di sana.",
+      "C": "Formulir pendaftaran yang ada di link website yang sudah tertera di sana diisi.",
+      "D": "Mengisikan formulir pendaftaran lomba yang ada di link website yang sudah tertera di sana.",
+      "E": "Formulir pendaftaran yang ada di link website yang sudah tertera di sana diisikan."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 204,
+    "question": "Sampai malam ..., aku akan menunggu kedatanganmu. Partikel yang tepat untuk mengisi kalimat rumpang di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "-pun",
+      "B": "-lah",
+      "C": "-kah",
+      "D": "-tah",
+      "E": "-per"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 205,
+    "question": "Kalimat dengan kata seru yang tepat adalah ....",
+    "image": null,
+    "options": {
+      "A": "Bah, kita liburan ke Bandung!",
+      "B": "Nah, itulah alasanku!",
+      "C": "Aduhai, jorok sekali!",
+      "D": "Idih, ternyata aku ditipu!",
+      "E": "Wah, kita pasti bisa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Mahasiswa berperan dalam menyampaikan aspirasi rakyat.\nKata berperan dalam kalimat di atas masuk ke dalam kelompok kata ....",
+    "image": null,
+    "options": {
+      "A": "Kata kerja",
+      "B": "Kata benda",
+      "C": "Kata sifat",
+      "D": "Kata keterangan",
+      "E": "Kata tugas"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 207,
+    "question": "Berikut ini yang termasuk kata kerja pemajemukan adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Jatuh hati",
+      "B": "Berani mati",
+      "C": "Maju mundur",
+      "D": "Bertiup-tiup",
+      "E": "Kasatmata"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 208,
+    "question": "Kalian dapat memahami proses fotosintesis\n... percobaan Ingenhousz dan Sachs.\nKata penghubung yang tepat untuk melengkapi kalimat rumpang tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "Oleh",
+      "B": "Jika",
+      "C": "Sebagai",
+      "D": "Dari",
+      "E": "Menjadi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 209,
+    "question": "Media pembelajaran dapat digunakan ... sarana pendukung pembelajaran untuk guru maupun siswa.",
+    "image": null,
+    "options": {
+      "A": "Sebagai",
+      "B": "Menjadi",
+      "C": "Karena",
+      "D": "Sehingga",
+      "E": "Dari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 210,
+    "question": "Tanggung jawab petugas apothek adalah memastikan obat yang diberikan pada pasien sesuai dengan permintaan dokter. Dokter pun bisa melibatkan para apoteker-apoteker yang bekerja di sini, untuk menentukan obat dan dosis yang tepat. Apoteker harus memastikan obat yang diberikan pada pasien tidak kedaluarsa maupun rusak.\nPerbaikan huruf tebal di atas agar menjadi paragraf yang efektif adalah ....",
+    "image": null,
+    "options": {
+      "A": "Apotik, apoteker-apoteker, kadaluwarsa",
+      "B": "Apotik, para apoteker, kedaluwarsa",
+      "C": "Apotek, para apoteker, kedaluarsa",
+      "D": "Apotek, para apoteker, kadaluwarsa",
+      "E": "Apotik, para apoteker, kedaluwarsa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 211,
+    "question": "Kalimat di bawah ini yang termasuk kalimat efektif adalah ....",
+    "image": null,
+    "options": {
+      "A": "Karena terjatuh maka adik menangis dengan sangat keras.",
+      "B": "Walaupun hujan turun dengan deras, namun adik tetap semangat berangkat sekolah.",
+      "C": "Jika hari ini hujan maka adik tidak akan berangkat ke sekolah.",
+      "D": "Sehinggasemuamasalahterselesaikan, kita harus berpikir dengan jernih.",
+      "E": "Kita harus menemukan solusi atas masalah yang kompleks dan rumit ini."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 212,
+    "question": "Kalimat berikut yang pembentukannya mengikuti kaidah yang benar adalah ....",
+    "image": null,
+    "options": {
+      "A": "Di Indonesia sekarang ini sedang giat mengadakan pelatihan untuk peningkatan kualitas mutu pembelajaran.",
+      "B": "Berdasarkan uraian di atas menunjukkan pentingnya Pendidikan emosi bagi orang dewasa.",
+      "C": "Dengan penelitian ini dapat meningkatkan kualitas pembelajaran di sekolah terpencil.",
+      "D": "Di Kalimantan terdapat binatang langka yang kehidupannya nyaris punah karena kebakaran.",
+      "E": "Dengan menggunakan pupuk tablet dapat menghemat biaya tanam mencapai 50%."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 213,
+    "question": "Jumlah dana yang dialokasikan untuk pemberdayaan masyarakat di tingkat kelurahan cukup besar sehingga tidak menutup kemungkinan peningkatan kualitas lingkungan yang jauh lebih baik daripada yang dicapai tahun lalu.\nKalimat di atas tidak efektif, sehingga perlu diperbaiki dengan cara ....",
+    "image": null,
+    "options": {
+      "A": "Mengganti kata dialokasikan menjadi dianggarkan",
+      "B": "Mengganti kata untuk menjadi guna",
+      "C": "Mengganti daripada dengan dibandingkan",
+      "D": "Menghilangkan kata cukup dan jauh",
+      "E": "Mengganti kata menutup dengan tertutup"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 214,
+    "question": "Untuk mendapatkan Pegawai Negeri Sipil (PNS) yang berkualitas sebenarnya tidaklah sulit. Hal ini bergantung dari pada komitmen moral dan kemauan politik para pengambil keputusan dan penentu kebijakan karena animo masyarakat untuk menekuni profesi PNS relatif masih tinggi. Pada dasarnya, kualitas pelayanan publik sangat ditentukan dari kualitas para pelayan, dalam hal ini adalah para pegawai yang tergabung dalam Korps Pegawai Republik Indonesia (Korpri). Oleh karena itu, kualitas kinerja dari pelayanan publik merupakan puncak gunung es dari fungsi pemerintahan yang harus dibenahi.\nParagraf di atas tidak baku, perbaikan yang dapat dilakukan adalah, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Menghilangkan kata untuk pada kalimat pertama",
+      "B": "Mengganti kata dari pada kalimat kedua dengan kata pada",
+      "C": "Mengganti kata dari pada kalimat ketiga dengan kata oleh",
+      "D": "Menambah kata yang setelah kata para pelayan dalam kalimat ketiga",
+      "E": "Menghilangkan kata dari setelah kata kinerja dalam kalimat keempat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 215,
+    "question": "Pondok pesantren menjadi ... pilihan yang cukup baik dalam upaya pendidikan bagi anak. Sistem pendidikan agama yang secara khusus ... dengan pendidikan umum menjadi nilai jual yang cukup menjanjikan. Selain itu, para santri juga secara langsung akan terdidik disiplin dengan ... pembelajaran yang ada di pondok pesantren.\nIstilah yang tepat untuk melengkapi kalimat rumpang pada paragraf di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Alternatif, diintegrasikan, pola",
+      "B": "Suprematif, reboisasi, konsep",
+      "C": "Komposisi, perubahan, akulturasi",
+      "D": "Kompetitif, toleransi, pluralis",
+      "E": "Alternatif, digunakan, gaya"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 216,
+    "question": "Obat mujarab ini memiliki berbagai khasiat seperti melancarkan peredaran darah, ... nafsu makan, dan meningkatkan stamina pria. Kata berimbuhan yang tepat untuk mengisi kalimat rumpang di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Menambahkan",
+      "B": "Menambahi",
+      "C": "Menambah",
+      "D": "Ditambahkan",
+      "E": "Ditambah"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Di pulau yang bernama Dresrossa itulah, Luffy dan ... bertemu dengan seorang kriminal besar yang dijuluki sebagai Joker.\nKata yang tepat untuk mengisi kalimat rumpang di ata adalah ....",
+    "image": null,
+    "options": {
+      "A": "Pertemanan-pertemanan",
+      "B": "Teman-temanan",
+      "C": "Temani-temani",
+      "D": "Teman-temannya",
+      "E": "Pertemanan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 218,
+    "question": "Dimanapun kita berada akan tetap terbiasa hidup bersih jika kita telah dibiasakan di rumah.\nKata bercetak tebal pada kalimat di atas sebaiknya diperbaiki dengan kata ....",
+    "image": null,
+    "options": {
+      "A": "Biasa-biasa",
+      "B": "Membiasakannya",
+      "C": "Biasa saja",
+      "D": "Tak biasa",
+      "E": "Membiasakan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 219,
+    "question": "Pekerjaan yang dilakukan dengan sangat profesional sekali akan membuahkan hasil yang begitu maksimal dan sangat bermanfaat bagi seluruh banyak manusia disekitarnya.\nKata yang harus dihilangkan agar kalimat di atas menjadi kalimat efektif adalah ....",
+    "image": null,
+    "options": {
+      "A": "Sekali, yang, sangat, bermanfaat, seluruh",
+      "B": "Sangat, sekali, begitu, seluruh, banyak",
+      "C": "Sangat, sekali, banyak, maksimal, manusia",
+      "D": "Sangat, begitu yang, dan, seluruh",
+      "E": "Sekali, begitu, banyak, manusia, disekitarnya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Kerasnya upaya kami dalam menjuangkan nasib para buruh akhirnya sedikit membuahkan hasil yang signifikan.\nKesalahan penggunaan kata dalam kalimat di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Kerasnya, seharusnya sekerasnya",
+      "B": "Menjuangkan, seharusnya memperjuangkan",
+      "C": "Upaya, seharusnya usaha",
+      "D": "Sedikit, seharusnya cukup",
+      "E": "Menjuangkan, seharusya berjuang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 221,
+    "question": "Perhatikan kalimat-kalimat di bawah ini:\n(1) Pemberian penghargaan dapat mensti- mulasi semangat berkarya pemuda.\n(2) Kurangnya apresiasi dapat mengakibatkan malasnya pemuda dalam berkarya.\n(3) Aris menabung dengan tujuan ingin membeli mobil baru.\n(4) Bu Ina menyeduhkan teh hangat yang sangat manis sekali ke dalam cangkir kami.\n(5) Minuman yang sudah ada di atas meja silakan diminum.\nKalimat tidak efektif ditunjukkan pada kalimat nomor …",
+    "image": null,
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)",
+      "E": "(5)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 222,
+    "question": "Alam menasehati Nazwa agar dirinya belajar mengendarai sepeda motor. Supaya dirinya tak selalu menggantungkan dirinya kepada Alam untuk mengantarnya kemana-mana. Kini Alam telah sibuk bekerja sehingga tak punya banyak waktu untuk mengantar Nazwa pergi ke sekolah. Minggu depan Nazwa sudah mulai aktif bersekolah. Nazwa mendapatkan beasiswa dari sekolah.\nKalimat yang tidak padu dalam paragraf di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Alam menasehati Nazwa agar dirinya belajar mengendarai sepeda motor.",
+      "B": "Supaya dirinya tak selalu menggantungkan dirinya kepada Alam untuk mengantarnya kemana-mana.",
+      "C": "Kini Alam telah sibuk bekerja sehingga tak punya banyak waktu untuk mengantar Nazwa pergi ke sekolah.",
+      "D": "Minggu depan Nazwa sudah mulai aktif bersekolah.",
+      "E": "Nazwa mendapatkan beasiswa dari sekolah."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 223,
+    "question": "Menyikat gigi tak hanya dilakukan setelah sarapan pagi, tetapi juga dilakukan pada saat sebelum memulai tidur di malam hari.\nPada kalimat tersebut terdapat beberapa hal yang tidak tepat, ketidaktepatan tersebut berupa ....",
+    "image": null,
+    "options": {
+      "A": "penulisan menyikat seharusnya mensikat",
+      "B": "Penulisan dilakukan semestinya dipisah",
+      "C": "Di malam hari seharusnya diganti dengan di siang hari",
+      "D": "Sebelum memulai tidur seharusnya diganti dengan sebelum bekerja",
+      "E": "Kata pagi dihilangkan"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 224,
+    "question": "Pemberian dana BLT (Bantuan Langsung Tunai) dinilai sebagai langkah yang tidak\n... bagi masyarakat. Mengingat bantuan ini bersifat ... yang akan cepat habis. Seharusnya pemberian bantuan dilakukan dengan cara pelatihan kerja atau wirausaha serta pembukaan lapangan pekerjaan yang seluas-luasnya agar rakyat bisa lebih\n... dan ....\nIstilah yang tepat untuk mengisi ruang rumpang pada kalimat-kalimat di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Mendidik, Konsumtif, produktif, mandiri",
+      "B": "Pendidikan, konsumsi, produktivitas, kemandirian",
+      "C": "Didiklah, Konsumen, produsen, berdikari",
+      "D": "Didik, mengonsumsi, meproduksi, memandirikan",
+      "E": "Mendidik, konsumsi, kreatif, mandiri"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 225,
+    "question": "Salah satu objek wisata di kabupaten Pesisir Barat adalah pulau Pisang.\nKesalahan penulisan pada kalimat di atas ditunjukkan pada ....",
+    "image": null,
+    "options": {
+      "A": "Objek seharusnya subyek",
+      "B": "penulisan pulau Pisang seharusnya Pulau Pisang",
+      "C": "Penulisan dikabupaten seharusnya dipisah",
+      "D": "Penulisan pesisir barat seharusnya Pesisir barat",
+      "E": "Penulisan salah satu dihilangkan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 226,
+    "question": "Terima kasih banyak telah sudi memberikan tumpangan pada saya, saya sangat merasa tertolong!\nKesalahan penggunaan tanda baca pada kalimat di atas ialah ....",
+    "image": null,
+    "options": {
+      "A": "Pada awalan kalimat dan akhir kalimat seharusnya diberi tanda petik (“)",
+      "B": "Di akhir kalimat seharusnya diberi tanda tanya (?)",
+      "C": "Setelah kata “Terima kasih” seharusnya diberi tanda koma (,)",
+      "D": "Setelah kata “tertolong” seharusnya diberi tanda titik (.) buka tanda seru (!)",
+      "E": "Tanda petik digunakan untuk “saya sangat merasa tertolong”"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 227,
+    "question": "Ibu membuat kue cucur sangat terlalu manis, sehingga tak enak dimakan.\nKalimat tersebut akan menjadi efektif dihilangkan kata ....",
+    "image": null,
+    "options": {
+      "A": "Kue",
+      "B": "Sangat",
+      "C": "Sehingga",
+      "D": "Sangat terlalu",
+      "E": "Tak diganti tidak"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 228,
+    "question": "Setelah sekian lama akhirnya Riyan mampu mempikat hati Putri dan minggu depan ia akan mempersuntingnya gadis cantik itu. Kalimat efektif dari kalimat di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Setelah sekian lama, akhirnya Riyan mampu memikat hati Putri dan minggu depan ia akan mempersuntingnya gadis cantik itu.",
+      "B": "Setelah sekian lama akhirnya Riyan mampu mempikat hati Putri dan minggu depan ia akan mempersuntingnya gadis itu.",
+      "C": "Setelah sekian lama akhirnya, Riyan mampu mempikat hati Putri dan minggu depan ia akan mempersuntingnya gadis cantik itu.",
+      "D": "Setelah sekian lama akhirnya Riyan mampu memikat hati Putri dan minggu depan ia akan mempersuntingnya gadis cantik itu.",
+      "E": "Setelah sekian lama, akhirnya Riyan mampu memikat hati Putri dan minggu depan ia akan mempersunting gadis cantik itu."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 229,
+    "question": "Kalimat efektif dapat diketahui dengan memperhatikan beberapa hal di bawah ini, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Kesepadanan struktur",
+      "B": "Kesamaan bentuk",
+      "C": "Ketegasan makna",
+      "D": "Maknanya sama",
+      "E": "Kejelasan kedudukan kata"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 230,
+    "question": "Para peserta diskusi disilakan masuk.\nPada kalimat tersebut subjek terdapat pada kata ....",
+    "image": null,
+    "options": {
+      "A": "Tidak bersubjek",
+      "B": "Kepada",
+      "C": "Para peserta",
+      "D": "Para peserta diskusi",
+      "E": "Peserta"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 231,
+    "question": "Kesepadanan struktur ditunjukkan dengan kejelasan ....",
+    "image": null,
+    "options": {
+      "A": "Subjek dan predikat",
+      "B": "Keparalelan bentuk",
+      "C": "Awal kalimat",
+      "D": "Pengulangan subjek",
+      "E": "Subjek"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 232,
+    "question": "Kehematan kata bisa dilakukan dengan menghindari ....",
+    "image": null,
+    "options": {
+      "A": "Subjek dan predikat",
+      "B": "Keparalelan bentuk",
+      "C": "Awal kalimat",
+      "D": "Pengulangan subjek",
+      "E": "Penulisan fungsi objek"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 233,
+    "question": "Berikut contoh kalimat yang efektif adalah",
+    "image": null,
+    "options": {
+      "A": "Andi membelikan pulsa adiknya",
+      "B": "Andi membeli pulsa untuk adiknya",
+      "C": "Setiap kali bertemu mereka saling pandang memandang",
+      "D": "Ia sedang menginventarisir perabot- perabot kantor",
+      "E": "Penyusunan laporan itu saya dibantu oleh dosen"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 235,
+    "question": "Berikut contoh kalimat yang efektif adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kami membedah tentang buku itu",
+      "B": "Mereka menyetujui daripada keputusan itu",
+      "C": "Film itu saya sudah tonton",
+      "D": "Mereka menyetujui keputusan itu",
+      "E": "Bagi semua mahasiswa perguruan tinggi ini harus membayar uang kuliah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 236,
+    "question": "Perhatikan!\n1) Para hadirin semua yang sangat terhormat, kami ucapkan terima kasih atas partisipasi yang telah diberikan.\n2) Semoga amal budi para ibu/bapak mendapat imbalan dari Tuhan.\nAgar kalimat (1) dan (2) menjadi kalimat efektif, kata yang harus dihilangkan adalah ....",
+    "image": null,
+    "options": {
+      "A": "Hadirin, sangat, dan yang",
+      "B": "Para, semua, dan sangat",
+      "C": "Hadirin, yang, dan sangat",
+      "D": "Para, sangat, dan terhormat",
+      "E": "Para, hadirin, dan yang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 237,
+    "question": "Perhatikan!\n(1) Kepada semua siswa peserta lomba, agar segera masuk ke dalam ruang seleksi.\n(2) Pelaksanaan lomba akan segera dimulai.\nAgar kalimat tersebut efektif, kata yang dihilangkan adalah ...",
+    "image": null,
+    "options": {
+      "A": "Semua, lomba, masuk",
+      "B": "Kepada, siswa, segera",
+      "C": "Semua, peserta, agar",
+      "D": "Kepada, semua, lomba",
+      "E": "Siswa, peserta lomba, akan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Cermatilah kalimat berikut!\nBadu harus bertalian orang yang bersangkutan jika ingin mengetahui perdebatannya lebih jelas lagi.\nPerbaikan kata tepat untuk mengganti kata bercetak miring pada kalimat tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "Menghampiri, perselisihannya",
+      "B": "Berkaitan, pembahasannya",
+      "C": "Bersambung, perbincangannya",
+      "D": "Menghubungi, persoalannya",
+      "E": "Berikatan dengan, permasalahannya."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 239,
+    "question": "Perhatikan kalimat berikut dengan saksama!\n(1) Kemarin siang telah\n(2) terjadi kecelakaan beruntun\n(3) di mana melibatkan lima kendaraan\n(4) berakibat dua orang penumpang\n(5) mengalami luka berat\nPenggunan kata yang tidak tepat pada kalimat tersebut ditandai nomor ....",
+    "image": null,
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)",
+      "E": "(5)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 240,
+    "question": "Perhatikan bacaan berikut ini untuk menjawab soal\nSabana di Laju Pemali yang merupakan salah satu kawasan di Taman Nasional Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), dikabarkan terbakar pada Sabtu (7/8/2021) sore. Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali. Ia mengaku, belum mengetahui penyebab kebakaran tersebut. Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo. “Untuk lokasi Laju Pemali dipastikan tidak terdapat hewan komodo, kecuali di lokasi Loh Wencinya,” ungkap dia. Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut. Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi. Menurutnya, cuaca di lokasi kebakaran cukup panas pada siang hari. Judul yang tepat untuk bacaan di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Sabana di Kawasan Taman Nasional Komodo Terbakar",
+      "B": "Sabana Taman Nasional Komodo dikabarkan terbakar",
+      "C": "Kebakaran Sabana kawasan Taman Nasional Komodo di Laju Pemali",
+      "D": "Kebakaran di Taman Nasional Komodo yang tidak diketahui penyebabnya",
+      "E": "Kebakaran Sabana di Laju Pemali, Nusa Tenggara Timur"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 241,
+    "question": "Perhatikan bacaan berikut ini untuk menjawab soal\nSabana di Laju Pemali yang merupakan salah satu kawasan di Taman Nasional Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), dikabarkan terbakar pada Sabtu (7/8/2021) sore. Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali. Ia mengaku, belum mengetahui penyebab kebakaran tersebut. Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo. “Untuk lokasi Laju Pemali dipastikan tidak terdapat hewan komodo, kecuali di lokasi Loh Wencinya,” ungkap dia. Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut. Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi. Menurutnya, cuaca di lokasi kebakaran cukup panas pada siang hari. Pernyataan yang tidak sesuai dengan bacaan di atas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Kebakaran tidak terjadi di lokasi perkembangbiakan komodo",
+      "B": "Lukita Awang adalah narasumber yang menjelaskan tragedi kebakaran di Taman Nasional Komodo",
+      "C": "Penyebab kebakaran di Taman Nasional Komodo belum dapat dipastikan",
+      "D": "Laju Pemali adalah bagian dari Taman Nasional Komodo",
+      "E": "Di lokasi Loh Wenci tidak terdapat komodo"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 242,
+    "question": "Perhatikan bacaan berikut ini untuk menjawab soal\nSabana di Laju Pemali yang merupakan salah satu kawasan di Taman Nasional Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), dikabarkan terbakar pada Sabtu (7/8/2021) sore. Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali. Ia mengaku, belum mengetahui penyebab kebakaran tersebut. Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo. “Untuk lokasi Laju Pemali dipastikan tidak terdapat hewan komodo, kecuali di lokasi Loh Wencinya,” ungkap dia. Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut. Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi. Menurutnya, cuaca di lokasi kebakaran cukup panas pada siang hari.\nKalimat di atas yang termasuk opini adalah....",
+    "image": null,
+    "options": {
+      "A": "Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali",
+      "B": "Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo",
+      "C": "Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut",
+      "D": "Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi",
+      "E": "Menurutnya, cuaca di lokasi kebakaran cupkup panas di siang hari"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 243,
+    "question": "Perhatikan bacaan berikut ini untuk menjawab soal\nSabana di Laju Pemali yang merupakan salah satu kawasan di Taman Nasional Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), dikabarkan terbakar pada Sabtu (7/8/2021) sore. Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali. Ia mengaku, belum mengetahui penyebab kebakaran tersebut. Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo. “Untuk lokasi Laju Pemali dipastikan tidak terdapat hewan komodo, kecuali di lokasi Loh Wencinya,” ungkap dia. Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut. Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi. Menurutnya, cuaca di lokasi kebakaran cukup panas pada siang hari.\nApa peran Lukita Awan bagi Taman Nasional Komodo?",
+    "image": null,
+    "options": {
+      "A": "Narasumber berita",
+      "B": "Kepala Balai Taman Nasional Komodo",
+      "C": "Penggerak ranger Balai Taman Nasional Komodo ke lokasi",
+      "D": "Orang yang diwawancarai",
+      "E": "Juru bicara Taman Nasional Komodo"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 244,
+    "question": "Perhatikan bacaan berikut ini untuk menjawab soal\nSabana di Laju Pemali yang merupakan salah satu kawasan di Taman Nasional Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), dikabarkan terbakar pada Sabtu (7/8/2021) sore. Kepala Balai Taman Nasional Komodo Lukita Awang menjelaskan, kebakaran terjadi di bagian barat Pulau Komodo, tepatnya sekitar Laju Pemali. Ia mengaku, belum mengetahui penyebab kebakaran tersebut. Awang menegaskan, lokasi kebakaran itu bukan tempat berkembang biaknya komodo. “Untuk lokasi Laju Pemali dipastikan tidak terdapat hewan komodo, kecuali di lokasi Loh Wencinya,” ungkap dia. Untuk memadamkan api, Awang menurunkan puluhan personel ke lokasi kebakaran tersebut. Sementara itu, dikutip dari Antara, Lukita Awang mengaku menerjunkan 41 ranger Balai Taman Nasional Komodo ke lokasi. Menurutnya, cuaca di lokasi kebakaran cukup panas pada siang hari.",
+    "image": null,
+    "options": {
+      "A": "Upaya penanganan kebakaran di Taman Nasional Komodo",
+      "B": "Tidak ada komodo di Laju Pemali",
+      "C": "Penurunan puluhan personel ke lokasi kebakaran",
+      "D": "Penerjunan 41 ranger Balai Taman Nasional Komodo ke lokasi kebakaran",
+      "E": "Cuaca di lokasi kebakaran pada siang hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 245,
+    "question": "Perhatikan wacana berikut ini untuk menjawab soal\nSaat hari masih gelap sejumlah turis telah berjalan menuju ke puncak Gunung Kelimutu, Ende, Nusa Tenggara Timur untuk menyaksikan suasana matahari terbit. Kabut putih tampak menyelimuti puncak gunung. Untuk menuju puncak Gunung Kelimutu, para wisatawan harus menyusuri jalan setapak. Beberapa saat kemudian, semburat sinar merah muncul dari arah timur. Saat sinar itu makin terang, tampaklah Danau Kelimutu yang berupa kawah di antara puncak gunung. Para wisatawan pun beramai-ramai mengambil gambar danau tersebut. Danau Kelimutu berada di ketinggian 1.640 meter di atas permukaan laut. Danau ini terletak 54.000 meter di sebelah timur kota Ende. Keunikan danau ini terletak pada ketiga danau di dalam satu kawasan itu. Ketiga danau yang dikenal sebagai danau tiga warna itu dihasilkan melalui proses vulkanis gunung api. Danau tersebut berwarna adalah merah, biru, dan putih. Warna itu berubah- ubah dalam jangka waktu tertentu. Warna- warni yang muncul dari danau-danau itu diduga terjadi karena aktivitas gunung api, pe sbiasan cahaya matahari, mikrobiota air, zat kimia terlarut, ganggang, dan pantulan warna dinding dan dasar danau, serta proses geokimia di dasar danau yang menghasilkan kandungan zat kimia tertentu di dalam air. Danau-danau yang berwarna-warni itu diberi nama lokal sesuai dengan keyakinan masyarakat setempat. Danau yang paling dalam, sekitar 127 meter dengan luas 5,5 ha, dinamai “Tiwu Nua Muri Koo Fai” yang bermakna ‘danau pemuda dan gadis’. Di bagian tenggara, danau sedalam 64 meter dengan luas 4 ha dinamai “Tiwu Ata Polo” yang bermakna ‘danau yang memesona’. Sekitar 500 meter dari puncak, terdapat “Tiwu Ata Mbupu” yang bermakna ‘danau orang tua’ dengan luas 4,5 ha dan kedalaman 67 meter.\nDanau Kelimutu terletak di sebelah ....",
+    "image": null,
+    "options": {
+      "A": "Timur kota Ende",
+      "B": "Selatan kota Ende",
+      "C": "Pusat kota Ende",
+      "D": "Barat kota Ende",
+      "E": "Utara kota Ende"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Perhatikan wacana berikut ini untuk menjawab soal\nSaat hari masih gelap sejumlah turis telah berjalan menuju ke puncak Gunung Kelimutu, Ende, Nusa Tenggara Timur untuk menyaksikan suasana matahari terbit. Kabut putih tampak menyelimuti puncak gunung. Untuk menuju puncak Gunung Kelimutu, para wisatawan harus menyusuri jalan setapak. Beberapa saat kemudian, semburat sinar merah muncul dari arah timur. Saat sinar itu makin terang, tampaklah Danau Kelimutu yang berupa kawah di antara puncak gunung. Para wisatawan pun beramai-ramai mengambil gambar danau tersebut. Danau Kelimutu berada di ketinggian 1.640 meter di atas permukaan laut. Danau ini terletak 54.000 meter di sebelah timur kota Ende. Keunikan danau ini terletak pada ketiga danau di dalam satu kawasan itu. Ketiga danau yang dikenal sebagai danau tiga warna itu dihasilkan melalui proses vulkanis gunung api. Danau tersebut berwarna adalah merah, biru, dan putih. Warna itu berubah- ubah dalam jangka waktu tertentu. Warna- warni yang muncul dari danau-danau itu diduga terjadi karena aktivitas gunung api, pe sbiasan cahaya matahari, mikrobiota air, zat kimia terlarut, ganggang, dan pantulan warna dinding dan dasar danau, serta proses geokimia di dasar danau yang menghasilkan kandungan zat kimia tertentu di dalam air. Danau-danau yang berwarna-warni itu diberi nama lokal sesuai dengan keyakinan masyarakat setempat. Danau yang paling dalam, sekitar 127 meter dengan luas 5,5 ha, dinamai “Tiwu Nua Muri Koo Fai” yang bermakna ‘danau pemuda dan gadis’. Di bagian tenggara, danau sedalam 64 meter dengan luas 4 ha dinamai “Tiwu Ata Polo” yang bermakna ‘danau yang memesona’. Sekitar 500 meter dari puncak, terdapat “Tiwu Ata Mbupu” yang bermakna ‘danau orang tua’ dengan luas 4,5 ha dan kedalaman 67 meter.\nDanau Kelimutu berada di ketinggian ... meter.",
+    "image": null,
+    "options": {
+      "A": "64",
+      "B": "127",
+      "C": "500",
+      "D": "1.640",
+      "E": "54.000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 247,
+    "question": "Perhatikan wacana berikut ini untuk menjawab soal\nSaat hari masih gelap sejumlah turis telah berjalan menuju ke puncak Gunung Kelimutu, Ende, Nusa Tenggara Timur untuk menyaksikan suasana matahari terbit. Kabut putih tampak menyelimuti puncak gunung. Untuk menuju puncak Gunung Kelimutu, para wisatawan harus menyusuri jalan setapak. Beberapa saat kemudian, semburat sinar merah muncul dari arah timur. Saat sinar itu makin terang, tampaklah Danau Kelimutu yang berupa kawah di antara puncak gunung. Para wisatawan pun beramai-ramai mengambil gambar danau tersebut. Danau Kelimutu berada di ketinggian 1.640 meter di atas permukaan laut. Danau ini terletak 54.000 meter di sebelah timur kota Ende. Keunikan danau ini terletak pada ketiga danau di dalam satu kawasan itu. Ketiga danau yang dikenal sebagai danau tiga warna itu dihasilkan melalui proses vulkanis gunung api. Danau tersebut berwarna adalah merah, biru, dan putih. Warna itu berubah- ubah dalam jangka waktu tertentu. Warna- warni yang muncul dari danau-danau itu diduga terjadi karena aktivitas gunung api, pe sbiasan cahaya matahari, mikrobiota air, zat kimia terlarut, ganggang, dan pantulan warna dinding dan dasar danau, serta proses geokimia di dasar danau yang menghasilkan kandungan zat kimia tertentu di dalam air. Danau-danau yang berwarna-warni itu diberi nama lokal sesuai dengan keyakinan masyarakat setempat. Danau yang paling dalam, sekitar 127 meter dengan luas 5,5 ha, dinamai “Tiwu Nua Muri Koo Fai” yang bermakna ‘danau pemuda dan gadis’. Di bagian tenggara, danau sedalam 64 meter dengan luas 4 ha dinamai “Tiwu Ata Polo” yang bermakna ‘danau yang memesona’. Sekitar 500 meter dari puncak, terdapat “Tiwu Ata Mbupu” yang bermakna ‘danau orang tua’ dengan luas 4,5 ha dan kedalaman 67 meter.\nDi antara tiga danau di Kelimutu, danau yang paling luas adalah ....",
+    "image": null,
+    "options": {
+      "A": "Tiwu Ata Polo",
+      "B": "Tiwu Nua Muri Koo Fai",
+      "C": "Tiwu AtaKoo Fai",
+      "D": "Tiwu Ata Mbupu",
+      "E": "Tiwu Ata Koo Mbupu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 248,
+    "question": "Perhatikan wacana berikut ini untuk menjawab soal\nSaat hari masih gelap sejumlah turis telah berjalan menuju ke puncak Gunung Kelimutu, Ende, Nusa Tenggara Timur untuk menyaksikan suasana matahari terbit. Kabut putih tampak menyelimuti puncak gunung. Untuk menuju puncak Gunung Kelimutu, para wisatawan harus menyusuri jalan setapak. Beberapa saat kemudian, semburat sinar merah muncul dari arah timur. Saat sinar itu makin terang, tampaklah Danau Kelimutu yang berupa kawah di antara puncak gunung. Para wisatawan pun beramai-ramai mengambil gambar danau tersebut. Danau Kelimutu berada di ketinggian 1.640 meter di atas permukaan laut. Danau ini terletak 54.000 meter di sebelah timur kota Ende. Keunikan danau ini terletak pada ketiga danau di dalam satu kawasan itu. Ketiga danau yang dikenal sebagai danau tiga warna itu dihasilkan melalui proses vulkanis gunung api. Danau tersebut berwarna adalah merah, biru, dan putih. Warna itu berubah- ubah dalam jangka waktu tertentu. Warna- warni yang muncul dari danau-danau itu diduga terjadi karena aktivitas gunung api, pe sbiasan cahaya matahari, mikrobiota air, zat kimia terlarut, ganggang, dan pantulan warna dinding dan dasar danau, serta proses geokimia di dasar danau yang menghasilkan kandungan zat kimia tertentu di dalam air. Danau-danau yang berwarna-warni itu diberi nama lokal sesuai dengan keyakinan masyarakat setempat. Danau yang paling dalam, sekitar 127 meter dengan luas 5,5 ha, dinamai “Tiwu Nua Muri Koo Fai” yang bermakna ‘danau pemuda dan gadis’. Di bagian tenggara, danau sedalam 64 meter dengan luas 4 ha dinamai “Tiwu Ata Polo” yang bermakna ‘danau yang memesona’. Sekitar 500 meter dari puncak, terdapat “Tiwu Ata Mbupu” yang bermakna ‘danau orang tua’ dengan luas 4,5 ha dan kedalaman 67 meter.\nMengapa banyak wisatawan berjalan menuju puncak Gunung Kelimutu pada malam hari?",
+    "image": null,
+    "options": {
+      "A": "Para wisatawan ingin menikmati kabut putih.",
+      "B": "Para wisatawan ingin menikmati udara malam.",
+      "C": "Para wisatawan ingin menyaksikan bintang dari puncak gunung.",
+      "D": "Para wisatawan ingin menyaksikan suasana matahari terbit.",
+      "E": "Para wisatawan ingin menikmati suasana malam di puncak Gunung Kelimutu."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 249,
+    "question": "Perhatikan wacana berikut ini untuk menjawab soal\nSaat hari masih gelap sejumlah turis telah berjalan menuju ke puncak Gunung Kelimutu, Ende, Nusa Tenggara Timur untuk menyaksikan suasana matahari terbit. Kabut putih tampak menyelimuti puncak gunung. Untuk menuju puncak Gunung Kelimutu, para wisatawan harus menyusuri jalan setapak. Beberapa saat kemudian, semburat sinar merah muncul dari arah timur. Saat sinar itu makin terang, tampaklah Danau Kelimutu yang berupa kawah di antara puncak gunung. Para wisatawan pun beramai-ramai mengambil gambar danau tersebut. Danau Kelimutu berada di ketinggian 1.640 meter di atas permukaan laut. Danau ini terletak 54.000 meter di sebelah timur kota Ende. Keunikan danau ini terletak pada ketiga danau di dalam satu kawasan itu. Ketiga danau yang dikenal sebagai danau tiga warna itu dihasilkan melalui proses vulkanis gunung api. Danau tersebut berwarna adalah merah, biru, dan putih. Warna itu berubah- ubah dalam jangka waktu tertentu. Warna- warni yang muncul dari danau-danau itu diduga terjadi karena aktivitas gunung api, pe sbiasan cahaya matahari, mikrobiota air, zat kimia terlarut, ganggang, dan pantulan warna dinding dan dasar danau, serta proses geokimia di dasar danau yang menghasilkan kandungan zat kimia tertentu di dalam air. Danau-danau yang berwarna-warni itu diberi nama lokal sesuai dengan keyakinan masyarakat setempat. Danau yang paling dalam, sekitar 127 meter dengan luas 5,5 ha, dinamai “Tiwu Nua Muri Koo Fai” yang bermakna ‘danau pemuda dan gadis’. Di bagian tenggara, danau sedalam 64 meter dengan luas 4 ha dinamai “Tiwu Ata Polo” yang bermakna ‘danau yang memesona’. Sekitar 500 meter dari puncak, terdapat “Tiwu Ata Mbupu” yang bermakna ‘danau orang tua’ dengan luas 4,5 ha dan kedalaman 67 meter.\nPerubahan warna danau dihasilkan melalui proses vulkanis karena ....",
+    "image": null,
+    "options": {
+      "A": "Danau mengandung biota laut",
+      "B": "Danau diselimuti kabut setiap hari",
+      "C": "Danau berada di antara gunung berapi",
+      "D": "Danau berada di dalam kawah gunung berapi",
+      "E": "Danau berada di antara kawah gunung berapi"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 248,
     "question": "Penulisan kata serapan baku yang benar terdapat dalam kalimat...",
     "options": {
       "A": "Jadwal keberangkatan kereta api sudah disesuaikan.",
@@ -11,7 +3222,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 2,
+    "id": 249,
     "question": "Kalimat yang mengandung kata berimbuhan dengan fungsi membentuk kata benda (nomina) adalah...",
     "options": {
       "A": "Pencuri kendaraan bermotor itu akhirnya ditangkap oleh polisi.",
@@ -22,7 +3233,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 3,
+    "id": 250,
     "question": "Bacalah teks berikut:\n'Polisi merupakan pelindung dan pengayom masyarakat. Dalam menjalankan tugasnya, polisi harus senantiasa bersikap humanis namun tetap tegas dalam menegakkan hukum. Hal ini penting untuk membangun kepercayaan publik.'\nIde pokok paragraf di atas adalah...",
     "options": {
       "A": "Pentingnya sikap tegas kepolisian dalam bertugas",
@@ -33,7 +3244,7 @@
     "correctAnswer": "C"
   },
   {
-    "id": 4,
+    "id": 251,
     "question": "Manakah penulisan kata baku berikut yang tepat sesuai dengan PUEBI/KBBI?",
     "options": {
       "A": "Praktek",
@@ -44,7 +3255,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 5,
+    "id": 252,
     "question": "Tentukan antonim (lawan kata) dari kata: PROGRESIF",
     "options": {
       "A": "Dinamis",

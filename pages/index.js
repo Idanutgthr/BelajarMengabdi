@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
-import { auth, googleProvider, isFirebaseConfigured } from "../lib/firebase";
+import { auth, googleProvider, db, isFirebaseConfigured } from "../lib/firebase";
 import {
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
@@ -11,6 +11,7 @@ import {
   updateProfile,
   signOut
 } from "firebase/auth";
+import { doc, setDoc, serverTimestamp } from "firebase/firestore";
 
 export default function Home() {
   const router = useRouter();
@@ -136,6 +137,16 @@ export default function Home() {
         const userCredential = await createUserWithEmailAndPassword(auth, regEmail, regPassword);
         await updateProfile(userCredential.user, { displayName: regName });
         await sendEmailVerification(userCredential.user);
+
+        // Buat dokumen user di Firestore
+        await setDoc(doc(db, "users", userCredential.user.uid), {
+          nama: regName,
+          email: regEmail,
+          uid: userCredential.user.uid,
+          createdAt: serverTimestamp(),
+          emailVerified: false
+        });
+
         setLastUser(userCredential.user);
         setRegisteredEmail(regEmail);
         await signOut(auth);

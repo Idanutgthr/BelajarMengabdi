@@ -1,6 +1,3230 @@
 [
   {
     "id": 1,
+    "question": "Sebuah organisasi pemuda akan memilih ketua baru. Ada calon yang sangat populer dan disukai banyak orang, namun visi dan misinya belum jelas. Ada juga calon yang kurang dikenal, namun memiliki rencana kerja yang matang dan berpengalaman. Anggota organisasi akhirnya berdiskusi mendalam, membandingkan secara objektif, dan memilih berdasarkan kewibawaan serta rencana kerja yang nyata, bukan sekadar popularitas. Hal ini sesuai dengan makna frasa dalam sila keempat, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Kerakyatan yang dipimpin oleh kekuatan suara terbanyak",
+      "B": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan",
+      "C": "Kerakyatan yang dipimpin oleh kekuasaan pemimpin",
+      "D": "Kerakyatan yang dipimpin oleh kebiasaan lama",
+      "E": "Kerakyatan yang dipimpin oleh keputusan sepihak"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Seorang pengusaha besar memberikan beasiswa kepada anak-anak dari keluarga kurang mampu, namun ia tetap mengingatkan agar penerima beasiswa tersebut belajar dengan rajin dan bertanggung jawab. Ia tidak memberikan bantuan karena rasa kasihan semata, melainkan karena keyakinan bahwa setiap anak berhak mendapatkan kesempatan maju agar hidupnya tidak tertinggal. Tindakan ini paling sesuai dengan makna sila kedua, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Membantu orang lain hanya untuk mendapatkan pujian",
+      "B": "Memberikan bantuan sebagai bentuk belas kasihan yang merendahkan",
+      "C": "Menghargai hak dan potensi orang lain agar bisa setara dan beradab",
+      "D": "Membatasi bantuan hanya kepada orang yang beragama sama",
+      "E": "Membiarkan orang lain sulit karena itu urusan nasib masing-masing"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Andi berpendapat: \"Setelah amandemen, ketentuan tentang kewajiban dan hak warga negara menjadi lebih seimbang. Dulu penekanannya lebih banyak pada kewajiban warga negara kepada negara, sedangkan perlindungan hak-haknya belum terperinci. Sekarang, setiap kewajiban disertai dengan jaminan hak, dan negara wajib menghormati, melindungi, serta memenuhinya.\"\nPernyataan yang menunjukkan hubungan seimbang antara hak dan kewajiban sesuai UUD 1945 hasil amandemen adalah ...",
+    "image": null,
+    "options": {
+      "A": "Warga negara wajib membayar pajak, namun negara tidak wajib menjelaskan penggunaan uang pajak tersebut",
+      "B": "Setiap orang berhak atas pekerjaan dan penghidupan yang layak, sebaliknya setiap warga negara wajib bekerja sesuai keahliannya masing-masing",
+      "C": "Warga negara berhak memiliki kedudukan yang sama di dalam hukum, dan wajib menjunjung hukum dan pemerintahan tanpa terkecuali",
+      "D": "Setiap orang berhak mengeluarkan pendapat, sehingga boleh menyampaikan pendapat dengan cara apa saja termasuk merusak fasilitas umum",
+      "E": "Warga negara wajib bela negara, namun hak untuk mendapatkan perlindungan negara hanya berlaku bagi golongan tertentu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Seorang dosen hukum tata negara menjelaskan: \"Ada hal unik dalam proses amandemen UUD 1945. Meskipun dilakukan empat kali dan mengubah banyak pasal, ada satu aturan yang menyatakan bahwa bentuk negara tidak boleh diubah. Ini adalah kesepakatan mutlak para pihak yang terlibat dalam amandemen agar keutuhan wilayah dan persatuan bangsa tetap terjaga.\"\nBerdasarkan Pasal 37 ayat (5) UUD 1945 hasil amandemen, hal yang dilarang untuk diubah adalah ...",
+    "image": null,
+    "options": {
+      "A": "Susunan pasal-pasal dalam batang tubuh UUD 1945",
+      "B": "Kedudukan lembaga-lembaga negara",
+      "C": "Bentuk Negara Kesatuan Republik Indonesia",
+      "D": "Sistem pemerintahan negara",
+      "E": "Hak dan kewajiban warga negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Setiap warga negara Indonesia di mana pun berada, baik di pulau besar, pulau terpencil, maupun di wilayah perbatasan, memiliki hak dan kewajiban yang sama di mata hukum negara. Negara berkewajiban melindungi setiap warganya tanpa membedakan lokasi tempat tinggal, asal usul, atau status sosial, karena dalam pandangan negara, seluruh rakyat Indonesia adalah satu kesatuan yang memiliki kedudukan setara.\nPrinsip Wawasan Nusantara yang diterapkan dalam hal ini adalah...",
+    "image": null,
+    "options": {
+      "A": "Kesatuan kedudukan, hak, dan kewajiban seluruh warga negara",
+      "B": "Kesatuan persebaran penduduk sesuai wilayah kewilayahan",
+      "C": "Kesatuan pembagian kekuasaan antara rakyat dan pemerintah",
+      "D": "Kesatuan perlakuan hukum hanya bagi warga di pusat pemerintahan",
+      "E": "Kesatuan perbedaan hak antara warga daerah dan warga kota"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Ancaman terhadap keutuhan negara tidak hanya datang dari serangan militer, tetapi juga bisa berupa masuknya ideologi asing yang bertentangan dengan Pancasila, perpecahan akibat isu SARA, maupun ketergantungan ekonomi pada negara lain. Oleh karena itu, pertahanan negara tidak hanya menjadi tugas aparat keamanan, melainkan tanggung jawab seluruh rakyat yang harus dijaga melalui ketahanan ideologi, politik, ekonomi, sosial, dan budaya secara bersamaan.\nKonsep pertahanan keamanan dalam Wawasan Nusantara yang tergambar adalah...",
+    "image": null,
+    "options": {
+      "A": "Pertahanan bersifat militeristik dan hanya berfokus pada senjata",
+      "B": "Pertahanan keamanan bersifat semesta, menyeluruh, dan terpadu",
+      "C": "Pertahanan hanya mengatasi ancaman dari luar wilayah negara",
+      "D": "Pertahanan diserahkan sepenuhnya kepada kerja sama negara asing",
+      "E": "Pertahanan wilayah laut diabaikan karena sulit dijangkau"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Sejarah mencatat bahwa sebelum tahun 1908, perlawanan di Indonesia bersifat kedaerahan dan belum menyadari bahwa musuh dan tujuan perjuangannya sama. Setelah tahun 1908, mulai tumbuh kesadaran bahwa meskipun berbeda daerah, mereka adalah satu bangsa yang bernama Indonesia, memiliki satu tanah air, dan satu tujuan yaitu kemerdekaan. Momen ini disebut sebagai kebangkitan nasional.\nInti perubahan yang terjadi pada masa kebangkitan nasional tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Pergantian pemimpin perjuangan dari raja-raja menjadi kaum intelektual",
+      "B": "Perubahan semangat dari kedaerahan menjadi kesadaran persatuan satu bangsa",
+      "C": "Perubahan cara berjuang dari damai menjadi perang terbuka",
+      "D": "Perubahan tujuan perjuangan dari kemerdekaan menjadi persatuan daerah",
+      "E": "Perubahan strategi mengusir penjajah dengan bantuan negara lain"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Ada dua pandangan mengenai nasionalisme. Pandangan pertama: \"Negara adalah segalanya, individu tidak ada artinya jika terlepas dari negara, sehingga segala kepentingan individu harus dikorbankan demi negara.\" Pandangan kedua: \"Negara dibentuk untuk melindungi hak dan kepentingan seluruh warganya, sehingga cinta negara berarti menjaga kesejahteraan dan hak setiap warga negara.\" Pandangan kedua inilah yang dianut oleh Indonesia.\nPandangan kedua mencerminkan nasionalisme yang bernafaskan...",
+    "image": null,
+    "options": {
+      "A": "Totaliter, negara berkuasa mutlak di atas segalanya",
+      "B": "Humanis, mengutamakan kemanusiaan dan kesejahteraan rakyat",
+      "C": "Individualis, kebebasan individu lebih tinggi dari negara",
+      "D": "Otoriter, kekuasaan pemimpin adalah hukum tertinggi",
+      "E": "Anarkis, negara tidak memiliki wewenang apa-apa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Andi adalah seorang siswa yang aktif mengikuti kegiatan Pramuka, Paskibra, dan Latihan Dasar Kepemimpinan Siswa (LDKS) di sekolahnya. Banyak teman menganggap kegiatan ini hanya kegiatan biasa, padahal kegiatan ini merupakan bagian dari upaya bela negara sejak dini. Tujuan utama pembinaan bela negara di kalangan pelajar melalui kegiatan tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Membentuk fisik yang kuat, mental yang tangguh, dan wawasan yang luas agar siap menjadi pemimpin masa depan",
+      "B": "Menanamkan kesadaran bernegara, cinta tanah air, disiplin, serta rasa tanggung jawab terhadap bangsa dan negara",
+      "C": "Melatih kemampuan baris-berbaris, kepemimpinan organisasi, dan keterampilan bertahan hidup di alam terbuka",
+      "D": "Menyiapkan calon anggota TNI/Polisi, mengenalkan dunia militer, serta mempersiapkan tenaga pertahanan sejak dini",
+      "E": "Memenuhi kewajiban kurikulum sekolah, mendapatkan nilai tambah, serta memperbanyak pengalaman berorganisasi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Ancaman terhadap kedaulatan negara bisa datang dari dalam maupun luar negeri, bersifat militer maupun non-militer. Salah satu bentuk ancaman dari dalam yang sangat berbahaya dan bertujuan mengganti ideologi negara adalah paham radikalisme dan terorisme. Sikap warga negara yang paling tepat sesuai prinsip bela negara untuk menangkal ancaman ini adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menolak segala bentuk ajaran baru, membatasi pergaulan, dan melarang orang lain berpendapat",
+      "B": "Memperdalam pemahaman nilai Pancasila, menjaga kerukunan, melaporkan indikasi ancaman, dan menjauhi tindakan kekerasan",
+      "C": "Mengawasi tetangga sekitar, mencurigai perbedaan cara beribadah, dan melaporkan segala aktivitas ke aparat",
+      "D": "Menuntut hukum yang lebih keras, mendukung tindakan kekerasan balasan, dan menutup akses informasi asing",
+      "E": "Mengabaikan isu tersebut karena itu urusan aparat keamanan, dan tetap menjalani hidup seperti biasa saja"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Salah satu ciri utama NKRI adalah pengakuan terhadap hak asasi manusia dan kesetaraan warga negara. Tidak peduli apa sukunya, agamanya, rasnya, atau asal daerahnya, setiap warga negara memiliki kedudukan, hak, dan kewajiban yang sama di mata hukum dan negara. Perbedaan latar belakang tidak boleh dijadikan alasan untuk membedakan perlakuan.\nPenerapan prinsip tersebut dalam kehidupan bernegara bertujuan untuk...",
+    "image": null,
+    "options": {
+      "A": "Membuat semua orang memiliki budaya dan pendapat yang sama",
+      "B": "Menghilangkan rasa iri antarwarga agar tidak terjadi konflik",
+      "C": "Memperkuat persatuan dengan menumbuhkan rasa saling menghargai dan keadilan",
+      "D": "Membatasi kebebasan warga negara agar tidak berselisih paham",
+      "E": "Menjadikan satu kelompok masyarakat sebagai yang paling berkuasa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Negara Kesatuan Republik Indonesia memiliki lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika. Semboyan ini diambil dari bahasa Jawa Kuno yang berarti \"Berbeda-beda tetapi tetap satu\". Semboyan ini sengaja dipilih karena sangat cocok menggambarkan kondisi bangsa Indonesia yang kaya akan keragaman budaya, namun tetap bersatu dalam satu ikatan negara.\nMakna semboyan Bhinneka Tunggal Ika bagi eksistensi NKRI adalah...",
+    "image": null,
+    "options": {
+      "A": "Perbedaan adalah masalah besar yang harus diselesaikan dengan cara disamakan",
+      "B": "Keberagaman adalah kenyataan dan menjadi kekayaan yang menyatukan bangsa",
+      "C": "Persatuan hanya bisa terjadi jika perbedaan itu tidak diperlihatkan ke luar",
+      "D": "Indonesia sebenarnya tidak beragam, semua sama saja",
+      "E": "Perbedaan budaya tidak ada hubungannya dengan keberadaan negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Ketika ada konflik antarwarga yang dipicu oleh perbedaan latar belakang, tokoh masyarakat datang menengah dan berkata: \"Ingatlah, meski kita berbeda agama dan asal daerah, kita sama-sama anak bangsa Indonesia yang hidup di tanah air yang sama.\" Pernyataan tokoh masyarakat tersebut menegaskan makna Bhineka Tunggal Ika yaitu...",
+    "image": null,
+    "options": {
+      "A": "Perbedaan harus dijadikan alasan untuk bertikai",
+      "B": "Persatuan lebih tinggi dan lebih penting daripada perbedaan yang ada",
+      "C": "Identitas pribadi harus dihilangkan demi persatuan",
+      "D": "Hanya kesamaan pendapat yang boleh ada",
+      "E": "Perbedaan latar belakang adalah kesalahan sejarah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Sejarah mencatat bahwa semboyan Bhineka Tunggal Ika lahir pada masa Kerajaan Majapahit yang luas wilayahnya dan dihuni beragam kelompok masyarakat. Nilai semboyan ini kemudian diambil dan dijadikan semboyan negara Indonesia merdeka. Hal ini menunjukkan bahwa Bhineka Tunggal Ika...",
+    "image": null,
+    "options": {
+      "A": "Hanya cerita sejarah yang tidak berlaku lagi sekarang",
+      "B": "Nilainya abadi dan menjadi dasar persatuan bangsa dari masa ke masa",
+      "C": "Hanya cocok diterapkan di masa kerajaan saja",
+      "D": "Adalah ide baru yang dibuat para pahlawan kemerdekaan",
+      "E": "Digunakan hanya untuk mempercantik lambang negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Sebuah kantor pemerintahan sedang membuka lowongan kerja pegawai baru. Salah satu syarat mutlak yang dicantumkan dalam pengumuman adalah pelamar harus beragama tertentu saja, dan pelamar yang beragama lain tidak akan diterima meskipun memiliki kualifikasi dan kemampuan yang sangat baik. Banyak pelamar merasa kecewa dan diperlakukan tidak adil.\nAturan tersebut melanggar hak azazi manusia, yaitu hak atas...",
+    "image": null,
+    "options": {
+      "A": "Kesempatan yang sama dalam pelayanan dan pekerjaan publik tanpa diskriminasi agama",
+      "B": "Kebebasan beribadah",
+      "C": "Mendapatkan perlindungan jabatan",
+      "D": "Mengembangkan kemampuan diri",
+      "E": "Persamaan kedudukan sosial"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Ibu Ani menderita sakit parah dan memerlukan penanganan medis segera di rumah sakit terdekat. Saat ia dibawa ke rumah sakit, pihak rumah sakit menolak memberikan pelayanan dan pengobatan dengan alasan Ibu Ani belum membayar uang muka biaya pengobatan, padahal kondisi kesehatannya sangat kritis dan nyawanya terancam.\nPerlakuan tersebut melanggar hak azazi manusia, yaitu hak atas...",
+    "image": null,
+    "options": {
+      "A": "Pelayanan kesehatan dan jaminan keselamatan jiwa",
+      "B": "Perlindungan harta benda",
+      "C": "Mendapatkan bantuan hukum",
+      "D": "Kebebasan memilih pengobatan",
+      "E": "Persamaan hak ekonomi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Lahirnya Piagam Jakarta tidak lepas dari peran BPUPKI sebagai badan yang bertugas mempersiapkan hal-hal yang diperlukan bagi pembentukan negara Indonesia merdeka. Panitia Sembilan dibentuk oleh ketua BPUPKI untuk merangkum berbagai pendapat yang berkembang dalam sidang. Hasil kerja panitia ini kemudian diserahkan kembali untuk dibahas lebih lanjut dalam sidang resmi.\nKetua BPUPKI yang menugaskan pembentukan Panitia Sembilan yang melahirkan Piagam Jakarta adalah...",
+    "image": null,
+    "options": {
+      "A": "Ir. Soekarno",
+      "B": "Drs. Moh. Hatta",
+      "C": "Dr. K.R.T. Radjiman Wedyodiningrat",
+      "D": "Mr. Achmad Soebardjo",
+      "E": "Mr. Muhammad Yamin"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Dalam sejarah ketatanegaraan Indonesia, Piagam Jakarta memiliki kedudukan yang sangat istimewa. Ia menjadi jembatan penghubung antara gagasan-gagasan dasar negara yang berkembang di sidang BPUPKI dengan rumusan akhir yang disahkan dalam UUD 1945. Tanpa adanya dokumen ini, proses penyatuan berbagai pandangan kemungkinan akan sulit tercapai.\nIstilah lain yang sering digunakan oleh para ahli sejarah dan hukum untuk menyebut Piagam Jakarta adalah...",
+    "image": null,
+    "options": {
+      "A": "Naskah Proklamasi",
+      "B": "Mukadimah UUD 1945",
+      "C": "Jakarta Charter",
+      "D": "Konstitusi Sementara",
+      "E": "Dekrit Presiden"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Ir. Soekarno dalam pidato 1 Juni 1945 juga menjelaskan tentang makna Sila ke-2: Kemanusiaan yang Adil dan Beradab. Beliau menyatakan bahwa Indonesia harus berdiri di atas kekuatan sendiri, namun tetap masuk ke dalam persekutuan dunia, dan harus menjunjung tinggi nilai-nilai kemanusiaan, tidak boleh bertindak sewenang-wenang, dan menghormati hak orang lain.\nPenalaran yang tepat mengenai makna sila kedua tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Indonesia harus mengisolasi diri dari negara lain agar aman",
+      "B": "Indonesia harus menjunjung tinggi hak asasi manusia dan berperan aktif dalam perdamaian dunia",
+      "C": "Indonesia berhak menjajah negara lain jika diperlukan",
+      "D": "Kemanusiaan hanya berlaku untuk warga negara Indonesia saja",
+      "E": "Indonesia harus mengikuti semua aturan negara maju tanpa kritik"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Dalam sejarah perumusan Pancasila, tercatat bahwa ada perbedaan urutan rumusan sila antara usulan para tokoh (Yamin, Soepomo, Soekarno), naskah Piagam Jakarta, dan rumusan akhir di Pembukaan UUD 1945. Misalnya, Muhammad Yamin menempatkan Peri Kebangsaan di urutan pertama, sedangkan Soekarno dan rumusan sah menempatkan Ketuhanan Yang Maha Esa sebagai sila pertama.\nAlasan utama penetapan Ketuhanan Yang Maha Esa sebagai sila pertama dalam urutan resmi Pancasila adalah ...",
+    "image": null,
+    "options": {
+      "A": "Karena jumlah penduduk Indonesia mayoritas beragama Islam",
+      "B": "Agar negara Indonesia dianggap religius oleh negara lain",
+      "C": "Sebagai landasan moral dan spiritual, serta pengakuan bahwa negara Indonesia didirikan dengan dasar kepercayaan kepada Tuhan Yang Maha Esa",
+      "D": "Karena merupakan usulan tunggal yang tidak ada tandingannya",
+      "E": "Agar satu agama menjadi agama resmi negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Interaksi masyarakat yang berorientasi ke atas, sangat mementingkan hubungan  yang formal dan besifat impersonal. Gambaran tersebut merupakan etos kebudayaan masyarakat ....",
+    "image": null,
+    "options": {
+      "A": "Elite",
+      "B": "Birokrat",
+      "C": "Petani",
+      "D": "Buruh",
+      "E": "Tradisonal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Negara mengatasi segala paham golongan, menghendaki persatuan yang meliputi segenap bangsa Indonesia, merupakan kandungan dalam pembukaan UUD 1945 alinea ke-....",
+    "image": null,
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "Semua salah"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Kandungan yang terdapat dalam pembukaan UUD 1945 alinea ke-3 adalah .....",
+    "image": null,
+    "options": {
+      "A": "Negara persatuan adalah negara yang melindungi bangsa indonesia seluruhnya",
+      "B": "Menunjukan konseksuensi logis bahwa undang-undang dasar harus mengundang isi yang mewajibkan  pemerintah dan lain-lain penyelenggara negara untuk memelihara budi pekerti kemanusiaan yang luhur dan memegang teguh cita-cita moral rakyat yang luhur",
+      "C": "Keadilan sosial yang didasarkan pada kesadaran bahwaa manusia mempunyai hak dan kewajiban yang sama untuk menciptakan keadilan sosial dalam kehidupan masyrakat",
+      "D": "Negara mengatasi segala paham golongan, menghendaki persatuan yang meliputi segenap bangsa Indonesia",
+      "E": "Tentang pengakuan atas berkat rahmat Tuhan Yang Maha Esa dan tekad bangsa Indonesia untuk mempertahankan kemerdekaan."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 24,
+    "question": "Fungsi pembukaan UUD 1945 yang mencantumkan dasar negara yang tersusun secara hierarki dan piramida di Indonesia menjadi ciri dan karakteristik bangsa merupakan fungsi pembukaan UUD 1945 alinea ke- ....",
+    "image": null,
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "Semua salah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Perhatikan pernyataan berikut ini!\n1) Unsur-unsur dalam pancasila belum secara langsung dirumuskan menjadi dasar filsafat negara\n2) Nilai-nilai tersebut terkandung dalam pandangan hidup masyarakat Indonesia sebelum membentuk negara\n3) Asal muda tidak langsung Pancasila hakikatnya berasal dari bangsa Indonesia itu sendiri\nPernyataan diatas merupakan uraian dari ....",
+    "image": null,
+    "options": {
+      "A": "Asal mula tujuan pancasila",
+      "B": "Asal mula bahan",
+      "C": "Asal mula bentuk",
+      "D": "Asal mula tidak langsung",
+      "E": "Asal mula karya"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 26,
+    "question": "Pancasila berasal dari kata panca yang berarti lima dan sila yang berarti sendi, asas, dasar atau peraturan tingkah laku yang penting dan baik. Dengan demikian, pancasila merupakan lima dasar yang berisi pedoman atau aturan tentang tingkah laku yang penting dan baik, merupakan pengertian pancasila yang diungkapkan oleh...",
+    "image": null,
+    "options": {
+      "A": "notonegoro",
+      "B": "moh. yamin",
+      "C": "ir. soekarno",
+      "D": "ki hajar dewantara",
+      "E": "soepomo"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Perhatikan pernyataan berikut ini!\n1) modal pembangunan\n2) satu-satunya asas bagi kehidupan bangsa indonesia\n3) pendorong terciptanya pembangunan di segala sektor\n4) berasal dari rakyat indonesia dan negara serumpun yang lain\n5) pandangan hidup bangsa sebelum bangsa indonesia\n6) cita-cita dan tujuan seluruh bangsa indonesia\nDari pernyataan di atas yang merupakan fungsi dan peranan pancasila dalam kehidupan berbangsa dan bernegara indonesia adalah nomor ....",
+    "image": null,
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4",
+      "C": "3, 4, 5",
+      "D": "4, 5, 6",
+      "E": "1 dan 6"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Pada lambang polisi \"Rastra sewakottama\" terdapat sebuah gambar \"pancaran obor\". Gambar \"pancaran obor\" tersebut bermakna .....",
+    "image": null,
+    "options": {
+      "A": "keteguhan Polri, polri memiliki keteguhan hati, tidak pantang menyerah, dan mengutamakan kepentingan negara dalam mewujudkan perdamaian indonesia",
+      "B": "jiwa polri, selalu berani dan pantang menyerah dalam membela NKRI",
+      "C": "tugas polri, disamping memberi sesuluh atau penerangan juga bermakna penyadaran hati nurani masyarakat agar selalu sadar akan perlunya kondisi kamtibmas yang mantap",
+      "D": "lambang keabadian dan sikap tenang mantao yang bermakna harapan agar polri selalu tidak goyah dalam situasi dan kondisi apapun",
+      "E": "perisai indonesia, yang bermakna pelindung rakyat dan negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Hal-ihwal yang berkaitan dengan fungsi dan lembaga polisi sesuai dengan peraturan perundang-undang disebut sebagai ....",
+    "image": null,
+    "options": {
+      "A": "kepolisian",
+      "B": "anggota kepolisian negara republik indonesia",
+      "C": "pejabat kepolisian negara republik indonesia",
+      "D": "peraturan kepolisian",
+      "E": "disiplin kepolisian"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Upaya pemberantasan KKN harus dilaksanakan secara tegas terhadap siapapun juga, baik pejabat negara, mantan pejabat negara, keluarga dan kroninya maupun pihak swasta/konglomerat adalah isi...",
+    "image": null,
+    "options": {
+      "A": "Ketetapan MPR RI TAP MPR RI No. XXI/1998",
+      "B": "Ketetapan MPR RI Pasal 1 TAP MPR RI No. VI/1998",
+      "C": "Ketetapan MPR RI Pasal 2 TAP MPR RI No. IX/1998",
+      "D": "Ketetapan MPR RI Pasal 3 TAP MPR RI No. XX/1998",
+      "E": "Ketetapan MPR RI Pasal 4 TAP MPR RI No. XI/1998"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 31,
+    "question": "Sejauh gerakan melawan korupsi dijalankan diberbagai belahan dunia, bisa diindentifikasi 4 (empat) pendekatan yang paling banyak diadopsi oleh berbagai kalangan (wijayanto, 2010) yaitu sebagai berikut, kecuali ....",
+    "image": null,
+    "options": {
+      "A": "Pendekatan Pengacara",
+      "B": "Pendekatan Bisnis",
+      "C": "Pendekatan Pasar",
+      "D": "Pendekatan Budaya",
+      "E": "Pendekatan Sosial"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Pegawai negeri atau penyelenggara negara yang pada waktu menjalankan tugas, meminta atau menerima pekerjaan atau penyerahan barang, seolah-olah merupakan utang kepada dirinya, padahal diketahui bahwa hal tersebut bukan merupakan utang, merupakan salah satu bentuk korupsi yang tergolong....",
+    "image": null,
+    "options": {
+      "A": "Kerugian Keuangan Negara",
+      "B": "Suap Menyuap",
+      "C": "Penggelapan dalam Jabatan",
+      "D": "Pemerasan",
+      "E": "Perbuatan curang"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 33,
+    "question": "Tujuan pembangunan nasional adalah mewujudkan suatu masyarakat adil dan makmur yang merata materiil dan spirituil, hal ini berdasarkan...",
+    "image": null,
+    "options": {
+      "A": "Ketuhanan YME",
+      "B": "Pancasila dan UUD 1945",
+      "C": "UUD 1945",
+      "D": "Kemanusiaan yang Adil dan Beradab",
+      "E": "Keadilan Sosial"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Hukum yang ditetapkan oleh negara-negara dalam suatu perjanjian Negara disebut dengan hukum....",
+    "image": null,
+    "options": {
+      "A": "Hukum Doktrin",
+      "B": "Hukum Traktat",
+      "C": "Hukum Undang-undang",
+      "D": "Hukum Yurisprudensi",
+      "E": "Hukum Adat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Perhatikan ciri-ciri masyarakat berikut ini!\n1) Masyarakat industri\n2) Nilai prestasi dan universalisme\n3) Spesialisasi tinggi\n4) Sistem politik demokratis\n5) Birokrasi rasional\nCiri-ciri masyarakat di atas merupakan ciri-ciri masyarakat ....",
+    "image": null,
+    "options": {
+      "A": "Tradisional",
+      "B": "Modern",
+      "C": "Transisi",
+      "D": "Heterogentitas",
+      "E": "Plural"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Agus dan Ira merupakan suami istri warga negara Blus Soli. Mereka tinggal di Negara A yang menganut asas Ius Sanguinis. Lalu Budi, anak mereka, lahir di Negara A.Kewarganegaraan yang dianut oleh Budi yaitu ....",
+    "image": null,
+    "options": {
+      "A": "Apartheid",
+      "B": "Apatride",
+      "C": "Bipatride",
+      "D": "Stelsel",
+      "E": "Ius Sanguinis"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 37,
+    "question": "Sumpah Pemuda sebagai hasil Kongres Pemuda yang diselenggarakan oleh organisasi-organisasi kedaerahan telah memiliki semangat nasionalisme untuk mencapai Indonesia merdeka. Isi sumpah Pemuda butir kedua adalah.....",
+    "image": null,
+    "options": {
+      "A": "Kami Putra Putri Indonesia, mengaku berbahasa satu bangsa Indonesia.",
+      "B": "Kami putra dan putri Indonesia mengaku berbahasa yang satu, bahasa Indonesia",
+      "C": "Kami Putra Putri Indonesia, mengaku bertumpah darah satu tanah air Indonesia.",
+      "D": "Kami putra dan putri Indonesia mengaku berbangsa yang satu, bangsa Indonesia.",
+      "E": "Kami Putra Putri Indonesia, menjunjung tinggi bahasa persatuan bahasa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Apabila masyarakat ikut serta dalam perumusan suatu kebijakan publik, maka akan terbentuk masyarakat madani. Berikut ini yang merupakan salah satu ciri masyarakat madani adalah....",
+    "image": null,
+    "options": {
+      "A": "Terbentuknya merupakan paksaan dari suatu kelompok tertentu.",
+      "B": "Masyarakat bergantung kepada negara, lembaga, atau organisasi tertentu.",
+      "C": "Tidak terikat nilai hukum yang telah ditetapkan.",
+      "D": "Adanya ketergantungan satu sama lain.",
+      "E": "Terbentuk secara sukarela."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 39,
+    "question": "Ketentuan mengenai Majelis Permusyawaratan Rakyat telah diatur dalam bapan khus 1945 khususnya pada bab...",
+    "image": null,
+    "options": {
+      "A": "Bab I",
+      "B": "Bab II",
+      "C": "Bab III",
+      "D": "Bab IV",
+      "E": "Bab VI"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Kemerdekaan yang telah diperjuangkan oleh pahlawan indonesia bukanlah akhir dari perjuangan, namun harus dilakukan dengan mewujudkan negara Indonesia merdeka, bersatu, berdaulat, adil, dan makmur. Hal tersebut sejalan dengan makna pembukaan UUD 1945 khususnya alinea ke....",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "Semua salah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 41,
+    "question": "Hasil perubahan UUD 1945 yang ketiga disahkan pada tanggal 10 November 2001, menambah jumlah pasal dalam pasal 24 tentang kekuasaan kehakiman, yaitu pasal....",
+    "image": null,
+    "options": {
+      "A": "Pasal 248 dan 24C",
+      "B": "Pasal 24C dan 24D",
+      "C": "Pasal 240 dan 24E",
+      "D": "Pasal 24E dan 24F",
+      "E": "Pasal 24F dan 24G"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Pedoman Penghayatan dan Pengamalan Pancasila (disingkat P4) atau Eka Prasetya Pancakarsa adalah sebuah panduan tentang pengamalan Pancasila dalam kehidupan bernegara semasa Orde Baru. Panduan P4 dibentuk dengan dasar...",
+    "image": null,
+    "options": {
+      "A": "Ketetapan MPR no. 1/MPR/1978",
+      "B": "Ketetapan MPR no. II/MPR/1978",
+      "C": "Ketetapan MPR no. III/MPR/1978",
+      "D": "Ketetapan MPR no. IV/MPR/1978",
+      "E": "Ketetapan MPR no. V/MPR/1978"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 43,
+    "question": "Dalam rangka aktualisasi nilai-nilai Pancasila dalam kehidupan berbangsa dan bernegara, pemerintah Republik Indonesia memandang perlu dilakukan pembinaan ideologi Pancasila terhadap seluruh penyelenggara negara yang terencana, sistematis, dan terpadu. Oleh karena itu, Presiden Joko Widodo membentuk Badan Pembinaan ideologi Pancasila pada tanggal...",
+    "image": null,
+    "options": {
+      "A": "28 Februari 2018",
+      "B": "1 Maret 2019",
+      "C": "2 Maret 2018",
+      "D": "3 Maret 2019",
+      "E": "28 Februari 2019"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 44,
+    "question": "Sebagai masyarakat Indonesia yang ber Pancasila kita harus mengakul dan memperlakukan manusia sesuai dengan harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa. Hal tersebut sejalan dengan pengalaman Pancasila, khususnya sila ke ....",
+    "image": null,
+    "options": {
+      "A": "sila ke-1",
+      "B": "sila ke-2",
+      "C": "sila ke-3",
+      "D": "sila ke-4",
+      "E": "sila ke-5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Pelopor pendiri GNB adalah negara-negara yang sedang berkembang, negarawan Afrika yang termasuk sebagai pelopor GNB di antaranya adalah ....",
+    "image": null,
+    "options": {
+      "A": "Nelson Mandela, Tabo Embeki",
+      "B": "Kwame Nkrumah, Ghana",
+      "C": "Anwar Sadat, Gadaf",
+      "D": "Gamal Abdul Nasir, Zambia",
+      "E": "Idi Amin, Yosep Mobuty"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 46,
+    "question": "Kepala Kepolisian Republik Indonesia yang pertama kali menjabat sejak tanggal 29 September 1945 hingga 14 Desember 1959 adalah....",
+    "image": null,
+    "options": {
+      "A": "Raden Said Soekanto Tjokrodiatmodjo",
+      "B": "Soekarno Djojonegoro",
+      "C": "Soetjipto Danoekoesoemo",
+      "D": "Soetjipto Joedodihardjo",
+      "E": "Mohamad Hasan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Kepolisian Republik Indonesia memiliki sebuah lamisang yang di dalamnya tertulis \"Rastra Sewakottama\", yang artinya.....",
+    "image": null,
+    "options": {
+      "A": "Polri adalah pelayan masyarakat Indonesia",
+      "B": "Polri adalah penegak keadilan dan ketertiban hukum",
+      "C": "Polri adalah abdi utama dari pacia nusa dan bangsa",
+      "D": "Polri adalah abdi negara Indonesia",
+      "E": "Polri adalah kesatuan penjaga sepanjang waktu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 48,
+    "question": "Apabila seorang pegawai negeri penyelenggara negara menerima suatu pemberian yang berhubungan dengan jabatannya dan yang berlawanan dengan kewajiban atau tugasnya, maka la wajib lapor kepada KPK paling lambat .... hari kerja terhitung sejak tanggal gratifikasi diterima.",
+    "image": null,
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "25",
+      "E": "30"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Korupsi memiliki berbagai efek penghancuran yang hebat (an enermous destruction effects) terhadap berbagal kwhidupan bangsa dan negara, salah satunya yaitu dampak dibidang ekonomi. Berikut ini merupakan dampak korupsi terhadap bidang ekonomi, kecuali ....\n \nD. pengentasan kemiskinan berjalan lambat",
+    "image": null,
+    "options": {
+      "A": "lesunya pertumbuhan ekonomi dan investasi",
+      "B": "penurunan produktifitas",
+      "C": "rendahnya kualitas barang dan jasa bagi publik",
+      "D": "pengentasan kemiskinan berjalan lambat",
+      "E": "menurunnya pendapatan negara dari sektor pajak"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "question": "Lima dasar negara yang diusulkan oleh Ir.Soekarno secara berurutan adalah ....",
+    "image": null,
+    "options": {
+      "A": "Ketuhanan yang maha esa, kesejahteraan social, mufakat atau demokrasi, internasionalisme atau perikemanusiaan, kebangsaan indonesia.",
+      "B": "Ketuhanan yang maha esa, kebangsaan indonesia, kesejahteraan social, internasionalisme atau perikemanusiaan, mufakat atau demokrasi.",
+      "C": "Ketuhanan yang maha esa, kebangsaan indonesia, kesejahteraan social, mufakat atau demokrasi, internasionalisme atau perikemanusiaan.",
+      "D": "Kebangsaan indonesia, internasionalisme atau perikemanusiaan, mufakat atau demokrasi, kesejahteraan social, dan ketuhanan yang maha esa."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "question": "Pembangunan jembatan di suatu wilayah dirancang agar dapat diakses oleh semua orang, termasuk penyandang disabilitas, lansia, dan warga dari desa terpencil. Biaya pembangunan diambil dari uang negara, dan pengawasannya dilakukan secara ketat agar tidak ada penyimpangan. Tujuannya agar hasil pembangunan tersebut benar-benar dapat dinikmati oleh seluruh rakyat tanpa terkecuali. Hal ini adalah inti dari penerapan sila kelima, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Pembangunan dilakukan hanya di daerah strategis",
+      "B": "Pemerataan dan keadilan dalam menikmati hasil pembangunan",
+      "C": "Mengutamakan pembangunan fisik daripada kesejahteraan sosial",
+      "D": "Warga kaya berhak mendapatkan fasilitas lebih baik",
+      "E": "Pembangunan diserahkan sepenuhnya kepada pihak swasta"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "question": "Di sekolah, siswa diajarkan untuk berdoa sebelum memulai pelajaran menurut agama dan kepercayaannya masing-masing. Guru tidak pernah memaksa siswa untuk mengikuti cara berdoa agama lain, dan siswa pun tidak mengejek cara berdoa temannya. Sekolah juga tidak mengajarkan materi agama tertentu sebagai satu-satunya kebenaran. Hal ini merupakan bentuk pengamalan sila pertama yang bermakna...",
+    "image": null,
+    "options": {
+      "A": "Kebebasan beragama dibatasi oleh aturan sekolah",
+      "B": "Mengakui keberagaman keyakinan dan menjamin hak beribadah",
+      "C": "Semua siswa harus disatukan dalam satu keyakinan",
+      "D": "Agama hanya diajarkan di rumah, tidak di sekolah",
+      "E": "Sekolah berhak menentukan agama siswa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "question": "Dalam sebuah diskusi, disampaikan bahwa salah satu hasil amandemen yang sangat penting adalah pengaturan mengenai penyelesaian sengketa konstitusi. Dulu, jika ada perselisihan makna pasal atau sengketa kewenangan antarlembaga, tidak ada lembaga khusus yang berwenang memutuskannya. Sekarang, sudah ada lembaga yang berhak menjadi penentu akhir atas arti Undang-Undang Dasar.\nWewenang Mahkamah Konstitusi yang tidak tepat menurut UUD 1945 hasil amandemen adalah ...",
+    "image": null,
+    "options": {
+      "A": "Menguji undang-undang terhadap Undang-Undang Dasar",
+      "B": "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD",
+      "C": "Memutus pembubaran partai politik",
+      "D": "Memutus perselisihan tentang hasil pemilihan umum",
+      "E": "Menguji peraturan pemerintah dan peraturan daerah terhadap Undang-Undang Dasar"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 54,
+    "question": "Buku materi konstitusi mencatat: \"Perubahan juga terjadi pada aturan peralihan dan aturan penutup. Dulu, aturan ini sangat sederhana dan membiarkan beberapa lembaga lama tetap berjalan. Setelah diamandemen, aturan ini diperjelas agar transisi dari sistem lama ke sistem baru berjalan tertib, dan menetapkan kapan perubahan itu mulai berlaku sepenuhnya.\"\nKetentuan yang benar mengenai aturan peralihan hasil amandemen UUD 1945 adalah .....",
+    "image": null,
+    "options": {
+      "A": "Segala peraturan yang ada masih berlaku selama belum diubah atau dicabut menurut Undang-Undang Dasar ini",
+      "B": "Lembaga-lembaga negara yang ada tetap menjalankan fungsinya sesuai ketentuan lama sampai habis masa jabatan, meskipun bertentangan dengan amandemen baru",
+      "C": "Mahkamah Konstitusi mulai berwenang secepatnya setelah amandemen disahkan, tanpa menunggu pembentukan undang-undang pendukung",
+      "D": "Anggota MPR hasil pemilihan umum 1999 dianggap sah seumur hidup",
+      "E": "UUD 1945 hasil amandemen baru berlaku setelah 5 tahun diundangkan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "question": "Sejarah mencatat bahwa Nusantara pernah diisi oleh kerajaan-kerajaan besar yang memiliki hubungan dagang dan kekuasaan yang saling berkaitan, sebelum akhirnya bersatu membentuk Indonesia. Semangat Sumpah Pemuda 1928 dan Proklamasi Kemerdekaan 1945 adalah bukti nyata bahwa persatuan lahir dari kesadaran memiliki sejarah perjuangan yang sama, tujuan yang sama, serta tekad hidup bebas dalam satu negara.\nLandasan utama persatuan dalam Wawasan Nusantara berdasarkan narasi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Persatuan dibentuk semata karena paksaan dari kekuatan asing",
+      "B": "Persatuan didasari persamaan sejarah, nasib, dan cita-cita bangsa",
+      "C": "Persatuan terjadi secara kebetulan tanpa ikatan yang kuat",
+      "D": "Persatuan hanya didasarkan pada persamaan ras dan suku bangsa",
+      "E": "Persatuan akan hilang jika tidak ada ancaman dari luar negeri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 56,
+    "question": "Kebijakan transportasi nasional mengatur bahwa pelabuhan dan bandar udara di seluruh Indonesia terhubung dalam satu jaringan pelayaran dan penerbangan nasional. Kapal dan pesawat milik negara beroperasi melayani rute dari pulau besar hingga ke pulau-pulau kecil terluar. Hal ini dilakukan agar tidak ada bagian wilayah yang terputus dari hubungan dengan pusat, serta memastikan bahwa setiap titik wilayah tetap merupakan bagian yang hidup dari tubuh negara Indonesia.\nPenerapan makna laut sebagai penghubung dalam Wawasan Nusantara terlihat pada pernyataan...",
+    "image": null,
+    "options": {
+      "A": "Laut adalah pemisah alami yang membuat hubungan antar pulau sulit terjalin",
+      "B": "Laut dan perairan dijadikan sarana penghubung yang menyatukan seluruh wilayah",
+      "C": "Perairan di antara pulau dibiarkan terbuka tanpa pengelolaan transportasi",
+      "D": "Hubungan antar wilayah hanya mengandalkan jalur darat saja",
+      "E": "Pulau-pulau kecil tidak perlu dihubungkan karena tidak memiliki nilai strategis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "question": "Dalam konsep Bhinneka Tunggal Ika, nasionalisme Indonesia tidak mengharuskan setiap warga negara menghilangkan jati diri daerahnya atau budayanya. Sebaliknya, kekayaan budaya daerah justru dianggap sebagai kekayaan milik seluruh bangsa Indonesia yang harus dibanggakan, dilestarikan, dan dikembangkan bersama demi keutuhan dan kemajuan bangsa.\nHal ini membuktikan bahwa nasionalisme Indonesia bersifat...",
+    "image": null,
+    "options": {
+      "A": "Menyamakan semua budaya agar tidak ada perbedaan lagi",
+      "B": "Mengakui keberagaman dan menjadikannya kekuatan pemersatu bangsa",
+      "C": "Menganggap budaya daerah tidak penting jika dibanding budaya nasional",
+      "D": "Memisahkan budaya daerah dari kehidupan bernegara",
+      "E": "Mengutamakan satu budaya daerah sebagai budaya nasional"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "question": "Ketika terjadi bencana alam di salah satu daerah di Indonesia, tim bantuan, relawan, dan sumbangan datang dari berbagai pelosok negeri tanpa diminta. Masyarakat dari suku, agama, dan budaya yang berbeda serentak bergerak membantu sesama anak bangsa yang sedang tertimpa musibah. Semangat berbagi dan kepedulian ini menjadi bukti nyata ikatan batin sebagai satu bangsa.\nPeristiwa tersebut merupakan manifestasi atau wujud nyata dari nasionalisme yang berarti...",
+    "image": null,
+    "options": {
+      "A": "Rasa senasib sepenanggungan dan rasa persaudaraan antarwarga satu bangsa",
+      "B": "Sikap ingin dipuji dan dikenal karena sering memberikan bantuan",
+      "C": "Kewajiban formal yang diatur undang-undang untuk memberikan sumbangan",
+      "D": "Perasaan kasihan semata tanpa adanya ikatan batin sebagai sesama bangsa",
+      "E": "Upaya pemerintah saja untuk menolong rakyat yang tertimpa musibah"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "question": "Seorang pengusaha bernama Budi bertekad mengembangkan usahanya agar mampu bersaing di pasar internasional, menyerap banyak tenaga kerja lokal, dan membayar pajak dengan tertib. Dalam pandangan bela negara, tindakan Budi tersebut memiliki makna yang sangat penting karena ...",
+    "image": null,
+    "options": {
+      "A": "Membuktikan kehebatan diri sendiri, mendapatkan keuntungan besar, dan dikenal banyak orang",
+      "B": "Meningkatkan pendapatan pribadi, membantu keluarga, dan memajukan lingkungan sekitarnya",
+      "C": "Membangun kekuatan ekonomi nasional, mengurangi pengangguran, serta mendukung pembiayaan pembangunan negara",
+      "D": "Menunjukkan kemampuan bangsa, mengalahkan produk luar negeri, dan menguasai pasar dunia sepenuhnya",
+      "E": "Memenuhi kewajiban warga negara, mengikuti aturan pemerintah, dan menghindari sanksi hukum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Konsep bela negara menekankan bahwa setiap warga negara memiliki kedudukan, hak, dan kewajiban yang sama dalam menjaga negara. Tidak ada perbedaan antara warga negara yang kaya atau miskin, pejabat atau rakyat biasa, yang dibedakan dalam kewajiban bela negara. Hal ini sesuai dengan prinsip ...",
+    "image": null,
+    "options": {
+      "A": "Kesamaan kedudukan dalam hukum dan pemerintahan, serta persamaan hak dan kewajiban warga negara",
+      "B": "Persamaan derajat di hadapan Tuhan, persamaan hak beribadah, dan kebebasan berpendapat",
+      "C": "Kesempatan yang sama dalam pendidikan, pengembangan diri, dan peningkatan kesejahteraan",
+      "D": "Persamaan tanggung jawab dalam keluarga, masyarakat, dan lingkungan tempat tinggal",
+      "E": "Kesetaraan gender, persamaan peran laki-laki dan perempuan, serta keadilan sosial"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 61,
+    "question": "Undang-Undang Dasar 1945 menegaskan bahwa wilayah negara Indonesia adalah satu kesatuan wilayah yang meliputi seluruh wilayah kepulauan Indonesia, termasuk segala kekayaan yang terkandung di dalamnya. Artinya, setiap jengkal tanah, setiap tetes air laut, dan segala sumber daya alam yang ada di dalam batas wilayah adalah milik seluruh bangsa Indonesia dan dikuasai oleh negara.\nPernyataan yang sesuai dengan isi ketentuan tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Kekayaan alam di suatu daerah hanya boleh dinikmati oleh penduduk daerah itu saja",
+      "B": "Sumber daya alam dikelola oleh negara untuk kesejahteraan seluruh rakyat Indonesia",
+      "C": "Negara tidak berhak mengatur pengelolaan kekayaan alam di daerah",
+      "D": "Kekayaan alam laut bebas diambil oleh siapa saja yang mampu",
+      "E": "Wilayah negara terbagi-bagi menjadi milik masing-masing suku bangsa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 62,
+    "question": "Di era kemajuan teknologi dan informasi saat ini, informasi bisa masuk dan menyebar dengan sangat cepat ke seluruh penjuru negeri. Sayangnya, tidak semua informasi itu benar. Banyak berita bohong, ujaran kebencian, atau ajaran yang memecah belah bangsa beredar luas. Hal ini menjadi tantangan baru yang harus dihadapi bersama agar persatuan NKRI tetap terjaga.\nSikap paling tepat yang harus dikembangkan warga negara menghadapi situasi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Langsung mempercayai dan menyebarkan semua informasi yang diterima",
+      "B": "Menutup diri dari segala informasi agar tidak terpengaruh hal buruk",
+      "C": "Bersikap kritis, memeriksa kebenaran informasi, dan menolak berita pemecah belah",
+      "D": "Mengabaikan saja karena hal itu tidak ada hubungannya dengan negara",
+      "E": "Menyebarkan informasi yang bisa menguntungkan kelompoknya sendiri saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Di sekolah, diadakan pameran buku dan cerita rakyat dari berbagai daerah. Siswa diminta mempelajari cerita dari daerah lain selain daerah asalnya. Kegiatan ini bertujuan agar siswa memahami makna Bhineka Tunggal Ika melalui cara...",
+    "image": null,
+    "options": {
+      "A": "Menghafal nama-nama daerah saja",
+      "B": "Mengetahui bahwa budaya orang lain lebih menarik daripada budaya sendiri",
+      "C": "Mengenal dan memahami budaya orang lain untuk menumbuhkan rasa saling menghargai",
+      "D": "Meniru kebiasaan orang lain agar dianggap modern",
+      "E": "Menyamakan semua cerita rakyat menjadi satu versi saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 64,
+    "question": "Ada ungkapan yang berbunyi \"Berat sama dipikul, ringan sama dijinjing\". Ungkapan ini sangat sesuai dengan penerapan nilai Bhineka Tunggal Ika dalam kehidupan bermasyarakat, yang artinya...",
+    "image": null,
+    "options": {
+      "A": "Pekerjaan berat harus diserahkan kepada orang yang kuat saja",
+      "B": "Setiap orang harus bekerja sendiri-sendiri agar cepat selesai",
+      "C": "Segala beban dan kebahagiaan harus ditanggung dan dirasakan bersama sebagai satu kesatuan",
+      "D": "Orang yang berbeda budaya tidak perlu saling membantu",
+      "E": "Persatuan hanya dibutuhkan saat menghadapi masalah berat saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Dua negara sedang bersengketa, dan terjadi peperangan di perbatasan. Akibatnya, banyak warga sipil yang menjadi korban, rumah-rumah mereka dihancurkan, anak-anak terpisah dari orang tua, dan banyak penduduk yang dipaksa mengungsi ke tempat lain tanpa membawa apa pun. Mereka kehilangan tempat tinggal, rasa aman, dan perlindungan keluarga.\nKejadian tersebut merupakan pelanggaran hak azazi manusia, terutama hak atas...",
+    "image": null,
+    "options": {
+      "A": "Rasa aman, perlindungan, dan keutuhan keluarga",
+      "B": "Kemajuan kebudayaan",
+      "C": "Kebebasan berpendapat politik",
+      "D": "Pendidikan damai",
+      "E": "Hak milik pribadi semata"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "question": "Ali adalah penyandang disabilitas fisik yang ingin menggunakan fasilitas umum di taman kota. Namun, di taman tersebut tidak tersedia jalur khusus, akses jalan yang rata, atau fasilitas penunjang lainnya. Pagar dan tangga yang ada justru membuat Ali tidak bisa masuk dan menikmati fasilitas yang sama seperti warga lain. Ia merasa haknya diabaikan karena kondisinya.\nHal ini menunjukkan pelanggaran hak azazi manusia, yaitu hak atas...",
+    "image": null,
+    "options": {
+      "A": "Perlakuan dan akses yang sama dalam fasilitas umum tanpa diskriminasi kondisi fisik",
+      "B": "Bantuan sosial",
+      "C": "Kebebasan bergerak mutlak",
+      "D": "Pendidikan inklusif",
+      "E": "Perlindungan hukum khusus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 67,
+    "question": "Saat perdebatan mengenai perubahan sila pertama berlangsung, banyak pihak yang menekankan bahwa Indonesia adalah negara yang memiliki keberagaman agama dan budaya yang sangat kaya. Oleh karena itu, dasar negara harus mampu menampung seluruh keberagaman tersebut tanpa membedakan satu golongan dengan golongan lain. Perubahan tersebut dilakukan agar tidak ada satu golongan pun yang merasa tersisihkan.\nPrinsip utama yang menjadi landasan perubahan rumusan sila pertama Piagam Jakarta adalah...",
+    "image": null,
+    "options": {
+      "A": "Keunggulan satu golongan di atas golongan lain",
+      "B": "Persatuan, persamaan hak, dan toleransi antarumat beragama",
+      "C": "Pemaksaan kehendak mayoritas terhadap minoritas",
+      "D": "Pemisahan negara dari segala unsur agama",
+      "E": "Pembagian wilayah berdasarkan mayoritas penduduk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "question": "Setelah Piagam Jakarta disepakati pada 22 Juni 1945, dokumen ini kemudian dibahas kembali dalam sidang kedua BPUPKI yang berlangsung pada 10 – 17 Juli 1945. Dalam sidang ini, isi dokumen tersebut dibahas secara mendalam dan menjadi bahan utama penyusunan rancangan Pembukaan UUD 1945. Hasil akhirnya kemudian diserahkan ke badan berikutnya untuk disahkan.\nBadan yang berwenang mengesahkan rancangan yang bersumber dari Piagam Jakarta menjadi Pembukaan UUD 1945 adalah...",
+    "image": null,
+    "options": {
+      "A": "BPUPKI (Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia)",
+      "B": "PPKI (Panitia Persiapan Kemerdekaan Indonesia)",
+      "C": "KNIP (Komite Nasional Indonesia Pusat)",
+      "D": "Dewan Perwakilan Rakyat",
+      "E": "Majelis Permusyawaratan Rakyat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Sila keempat Pancasila berbunyi: \"Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan\". Nilai ini sangat dipengaruhi oleh pemikiran para pendiri bangsa yang melihat tradisi asli kehidupan masyarakat Indonesia sejak dulu, di mana setiap masalah penting selalu diselesaikan melalui cara duduk bersama, berunding, dan mencapai kesepakatan bersama, bukan dengan cara dipaksa atau dikuasai satu pihak.\nHubungan logis antara tradisi musyawarah masyarakat adat dengan rumusan Sila keempat adalah ...",
+    "image": null,
+    "options": {
+      "A": "Sila keempat adalah penolakan terhadap tradisi lama masyarakat",
+      "B": "Sila keempat merupakan kristalisasi dan pengukuhan nilai budaya asli bangsa Indonesia tentang cara bernegara dan memecahkan masalah",
+      "C": "Musyawarah hanya berlaku di desa-desa, tidak cocok untuk pemerintahan negara",
+      "D": "Tradisi musyawarah diambil dari budaya bangsa Barat",
+      "E": "Musyawarah berarti semua orang harus selalu setuju tanpa ada perbedaan pendapat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "question": "Sila kelima Pancasila adalah \"Keadilan Sosial bagi Seluruh Rakyat Indonesia\". Dalam sejarah perumusannya, para tokoh seperti Muhammad Yamin dan Soepomo sudah memasukkan gagasan tentang kesejahteraan dan keadilan bagi seluruh rakyat. Tujuannya agar Indonesia merdeka nanti tidak hanya bebas dari penjajahan, tetapi juga bebas dari kemiskinan, ketertinggalan, dan ketidakadilan.\nMakna yang paling tepat dan lengkap dari Sila kelima tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Keadilan hanya berlaku di bidang hukum saja",
+      "B": "Setiap orang harus memiliki harta kekayaan yang sama persis jumlahnya",
+      "C": "Seluruh rakyat Indonesia berhak mendapatkan perlakuan adil dan kesempatan yang sama dalam berbagai bidang kehidupan: ekonomi, sosial, budaya, dan politik",
+      "D": "Negara bertanggung jawab memenuhi semua keinginan warga negara",
+      "E": "Keadilan sosial baru bisa dicapai jika negara menjadi kaya raya saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Pancasila dijadikan sebagai landasan atau patokan pemersatu bangsa, merupakan fungsi pancasila sebagai...",
+    "image": null,
+    "options": {
+      "A": "Jiwa Bangsa Indonesia",
+      "B": "Kepribadian Bangsa Indonesia",
+      "C": "Cita-cita dan tujuan Bangsa Indonesia",
+      "D": "Sumber dari segala sumber hukum",
+      "E": "Pandangan Hidup Bangsa Indonesia"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 72,
+    "question": "Merupakan bentuk peran dalam menunjukkan adanya kepribadian bangsa Indonesia yang dapat dibedakan dengan bangsa lain , yaitu sikap mental, tingkah laku, dan amal perbuatan bangsa Indonesia merupakan fungsi pancasila....",
+    "image": null,
+    "options": {
+      "A": "Sebagai Jiwa Bangsa lndonesia",
+      "B": "Sebagai dasar negara Bangsa Indonesia",
+      "C": "Sebagai dasar negara Bangsa Indonesia",
+      "D": "Sebagai dasar negara Bangsa Indonesia",
+      "E": "Sebagai cita-cita dan tujuan Bangsa Indonesia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 73,
+    "question": "Hari lahirnya pancasila diperingat setiap tanggal....",
+    "image": null,
+    "options": {
+      "A": "17 Agustus",
+      "B": "1 Juni",
+      "C": "1 Oktober",
+      "D": "30 september",
+      "E": "18 Agustus"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 74,
+    "question": "Siapakah tokoh yang memberikan usulan tentang dasar negara pancasila.....",
+    "image": null,
+    "options": {
+      "A": "Moh. Yamin, Drs. Moh Hatta, dan Mr. Ahmad Soebardjo",
+      "B": "Moh. Yamin, Ir.Soekarno, dan Drs. Moh. Hatta",
+      "C": "Moh Yamin, Prof. Dr. Mr. Soepomo, dan Ir. Soekarno",
+      "D": "Moh. Yamin, Ir. Soekarno, dan Mr. Ahmad Soebardjo",
+      "E": "Ir. Soekarno, Drs. Moh. Hatta, dan Mr. Ahmad Soebardjo"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Lambang Garuda Pancasila ditetapkan sebagai lambang negara berdasarkan....",
+    "image": null,
+    "options": {
+      "A": "Peraturan Pemerintah No. 66 Tahun 1951 tanggal 17 Agustus 1951",
+      "B": "Peraturan Pemerintah No. 66 Tahun 1951 tanggal 17 September 1951",
+      "C": "Peraturan Pemerintah No. 67 Tahun 1951 tanggal 17 Oktober 1951",
+      "D": "Peraturan Pemerintah No. 68 Tahun 1951 tanggal 17 November 1951",
+      "E": "Peraturan Pemerintah No. 64 Tahun 1951 tanggal 17 Desember 1951"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "question": "Sila di dalam Piagam Jakarta yang mengalami perubahan adalah Sida ke....",
+    "image": null,
+    "options": {
+      "A": "III",
+      "B": "IV",
+      "C": "V",
+      "D": "I",
+      "E": "II"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 77,
+    "question": "Wakîl ketua BPUPKI yang merupakan orang Indonesia adalah....",
+    "image": null,
+    "options": {
+      "A": "Moh. Hatta",
+      "B": "Moh. Yamin",
+      "C": "Dr. K. R. T. Radjiman Wedyodiningrat",
+      "D": "Soekarno",
+      "E": "R.P. Soeroso"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Berikut ini merupakan anggota panitia Sembilan, kecuali....",
+    "image": null,
+    "options": {
+      "A": "H. Agus Salim",
+      "B": "Moh. Yamin",
+      "C": "Ir. Soekarno",
+      "D": "Sutardjo Kartohadikusumo",
+      "E": "Drs. Moh. Hatta"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 79,
+    "question": "Nilai-nilai pancasila itu terlekat pada pembawa dan pendukung nilai pancasila itu sendiri, yaitu masyarakat, bangsa, dan negara menunjukkan bahwa pancasila bersifat....",
+    "image": null,
+    "options": {
+      "A": "Idealitas",
+      "B": "Realitas",
+      "C": "Objektif",
+      "D": "Normatif",
+      "E": "Universal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "question": "Pancasila mencerminkan realitas hidup yang ada di masyarakat sehingga pancasila tidak pernah bertentangan dengan tradisi, adat-istiadat, kebudayaan, dan tata hidup keagamaan yang ada dalam masyarakat Indonesia disebut dengan dimensi.....",
+    "image": null,
+    "options": {
+      "A": "Universal",
+      "B": "ldealitas",
+      "C": "Realitas",
+      "D": "Normatif",
+      "E": "Idealis"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 81,
+    "question": "Nilai yang terkandung dalam Pancasila merupakan nilai-nilai asli dan berkembang di Indonesia sejak Indonesia belum merdeka menunjukkan Pancasila sebagai....",
+    "image": null,
+    "options": {
+      "A": "Jati diri Bangsa Indonesia",
+      "B": "Ideołogi Bangsa dan Negara Indonesia",
+      "C": "Sumber dari segala sumber hukum di Indonesia",
+      "D": "Suatu sistem",
+      "E": "Dasar Filsafat negara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Bergotong royong dan saling menjaga kerukunan hidup bermasyarakat adalah salah satu contoh bahwa Pancasila mengandung nilai...",
+    "image": null,
+    "options": {
+      "A": "Pragmatis",
+      "B": "Instrumental",
+      "C": "Dasar",
+      "D": "Dinamis",
+      "E": "Praksis"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 83,
+    "question": "Secara substansi, nilai-nilai pancasila terkandung dalam Pembukaan UUD 1945 alinea ke-4 secara substansional memiliki tingkatan tertentu, Substansi nilai-nilai pancasiÏa dapat dikelompokkan menjadi 3 yaitu....",
+    "image": null,
+    "options": {
+      "A": "Nilai ideal, praksis, dan instrumental",
+      "B": "Nilai ideal, praksis, dan realisme",
+      "C": "Nilai ideal, realisme, dan praktis",
+      "D": "Nilai objektif, subjektif, dan realìtas",
+      "E": "Nilai realitas, objektif, dan subjektif"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Nilai yang mempunyai sifat tetap (tidak berubah) yang dijabarkan bagi menjadi nilai yang lebih fleksibel dalam bentuk aturan atau norma yang berlaku dalam kehidupan merupaka nilai pancasila.....",
+    "image": null,
+    "options": {
+      "A": "Instrumental",
+      "B": "Praksis",
+      "C": "Pragmatis",
+      "D": "Dinamis",
+      "E": "Dasar"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 85,
+    "question": "Nilai yang dijabarkan dari nilai dasar pancasila dan bersifat kontekstual merupakan nilai...",
+    "image": null,
+    "options": {
+      "A": "Dasar",
+      "B": "Instrumental",
+      "C": "Praksis",
+      "D": "Dinamis",
+      "E": "Pragmatis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Pulau Dana adalah pulau terluar Indonesia yang berbatasan dengan negara.....",
+    "image": null,
+    "options": {
+      "A": "Australia",
+      "B": "Malaysia",
+      "C": "Fhilipina",
+      "D": "Thailand",
+      "E": "Singapura"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Indonesia sebagai negara kepulauan yang sudah diatur batas-batasnya dalam undang-undang. Batas Indonesia paling barat adalah.....",
+    "image": null,
+    "options": {
+      "A": "Pulau Weh",
+      "B": "Pulau Nikobar",
+      "C": "Pulau Halmahera",
+      "D": "Pulau Ronde",
+      "E": "Pulau Rote"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "question": "Pada perubahan UUD 1945 yang kedua, Bhinneka Tunggal Ika dikukuhkan sebagai semboyan resmi terdapat dalam Lambang Negara, dan tercantum dalam pasal....",
+    "image": null,
+    "options": {
+      "A": "35 A UUD 1945",
+      "B": "36 A UUD 1945",
+      "C": "37 A UUD 1945",
+      "D": "38 A UUD 1945",
+      "E": "39 A UUD 1945"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 89,
+    "question": "Provinsi yang berbatasan langsung dengan wilayah daratan negara Timor Leste adalah....",
+    "image": null,
+    "options": {
+      "A": "BaIi",
+      "B": "Papua Barat",
+      "C": "Nusa Tenggara Timur",
+      "D": "Kalimantan Selatan",
+      "E": "Banten"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 90,
+    "question": "Sikap yang cenderung merendahkan orang-orang yang bukan gotongannya atau yang dianggap asing disebut....",
+    "image": null,
+    "options": {
+      "A": "Konflik",
+      "B": "Egoisme",
+      "C": "Cultural Lag",
+      "D": "Caufimism",
+      "E": "Etnosentrisme"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 91,
+    "question": "Kalimat “Bhinneka Tunggal Ika“ tertulis dalam Kitab.....",
+    "image": null,
+    "options": {
+      "A": "Sutasoma",
+      "B": "Kutaramanawa Dharmasastra",
+      "C": "Tantular",
+      "D": "Arjuna Wiwaha",
+      "E": "Negarakertagama"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 92,
+    "question": "Pengamalan Bhinneka Tunggal Ika harus kita terapkan dalam....",
+    "image": null,
+    "options": {
+      "A": "Kehidupan bermasyarakat dan bernegara",
+      "B": "Kehidupan antar masyarakat sesama suku",
+      "C": "Kehidupan dengan rekan sejawat",
+      "D": "Hubungan antar rekan kerja",
+      "E": "Hubungan dengan negara Iain"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Empat prinsip penting dalam Bhinneka Tunggal Ika, kecuali....",
+    "image": null,
+    "options": {
+      "A": "Common denominator",
+      "B": "Inklusif",
+      "C": "Universal atau menyeluruh",
+      "D": "Kovergen",
+      "E": "Eksklusif"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 94,
+    "question": "Keberagaman suku, agama, ras dan bahasa seharusnya tidak untuk dibesar-besarkan, melainkan harus dijadikan dasar untuk memupuk rasa persatuan dan kesatuan merupakan sifat bhinneka tunggal ika yaitu....",
+    "image": null,
+    "options": {
+      "A": "Common denominator",
+      "B": "Inklusif",
+      "C": "Universal atau menyeluruh",
+      "D": "Kovergen",
+      "E": "Eksklusif"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 95,
+    "question": "Lambang Bhinneka Tunggal Ika untuk pertama kali dipakai secara resmi pada tanggal...",
+    "image": null,
+    "options": {
+      "A": "11 Februari 1950",
+      "B": "11 Maret 1950",
+      "C": "11 April 1950",
+      "D": "11 Juni 1950",
+      "E": "11 Juli 1950"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Semboyan Bhinneka Tunggal Ika diusulkan oleh...",
+    "image": null,
+    "options": {
+      "A": "Drs. Moh. Hatta",
+      "B": "Mr. Ahmad Soebardjo",
+      "C": "Moh. Yamin",
+      "D": "Sultan Hamid II",
+      "E": "Sukarni"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "question": "Di bawah ini yang merupakan suku yang ada di Papua, kecuali.....",
+    "image": null,
+    "options": {
+      "A": "Suku Anggi",
+      "B": "Suku Arguni",
+      "C": "Suku Bintuni",
+      "D": "Suku Sinesti",
+      "E": "Suku Asmat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 98,
+    "question": "Berıkut suku-suku yang ada di pulau Jawa, kecuali....",
+    "image": null,
+    "options": {
+      "A": "Suku Bajau",
+      "B": "Suku Sunda",
+      "C": "Suku Osing",
+      "D": "Suku Tengger",
+      "E": "Suku Betawi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 99,
+    "question": "Pulau Indonesia yang menjadi batas antara Indonesia, Malaysia dan Fhilipina adalah...",
+    "image": null,
+    "options": {
+      "A": "Pulau Alor",
+      "B": "Pulau Kisar",
+      "C": "Pulau Miangas",
+      "D": "Pulau Berhala",
+      "E": "Pulau Dolangan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 100,
+    "question": "Kalimat “Bhinneka Tunggal Ika” untuk pertama kalinya dikemukakan .....",
+    "image": null,
+    "options": {
+      "A": "Mpu Sendok",
+      "B": "Mpu Gandring",
+      "C": "Mpu Tantular",
+      "D": "Mpu Subandi",
+      "E": "Mpu Sutasoma"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "question": "Warga dari dua desa yang berbeda suku pernah memiliki perselisihan masa lalu. Namun saat negara membutuhkan tenaga untuk menjaga keamanan perbatasan, pemuda dari kedua desa tersebut bergabung bersama, bekerja sama bahu-membahu, dan melupakan perbedaan masa lalu demi menjaga kedaulatan tanah air. Tindakan tersebut merupakan bukti nyata dari makna sila ketiga, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Persatuan dibangun di atas dasar kesamaan suku saja",
+      "B": "Mengutamakan ikatan kesukuan di atas ikatan kebangsaan",
+      "C": "Menyatukan keberagaman dalam satu ikatan persaudaraan bangsaa",
+      "D": "Perbedaan latar belakang menjadi alasan untuk berpisah",
+      "E": "Kerja sama hanya dilakukan jika ada keuntungan pribadi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "question": "Dalam rapat pembahasan rencana kegiatan desa, ketua rapat memberikan kesempatan bicara yang sama kepada semua peserta, baik itu tokoh masyarakat, pemuda, maupun perempuan. Ketua rapat menahan diri untuk tidak memotong pembicaraan orang lain, dan mengingatkan agar keputusan diambil berdasarkan akal sehat serta kepentingan seluruh warga, bukan hanya mengikuti keinginan pihak yang paling berkuasa atau yang paling banyak jumlah pendukungnya. Sikap ketua rapat tersebut paling tepat mencerminkan makna sila keempat, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Kerakyatan yang dipimpin oleh kehendak mayoritas",
+      "B": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan",
+      "C": "Kerakyatan yang dipimpin oleh wewenang pemimpin",
+      "D": "Kerakyatan yang dipimpin oleh kebiasaan yang berlaku",
+      "E": "Kerakyatan yang dipimpin oleh kekuatan pengaruh"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 103,
+    "question": "Seorang guru menyimpulkan: \"Inti dari seluruh perubahan yang dilakukan terhadap UUD 1945 dari tahun 1999 sampai 2002 adalah satu: mewujudkan negara hukum yang demokratis. Semua perubahan, mulai dari pemilihan presiden, pembagian kekuasaan, perlindungan HAM, hingga pengawasan, bermuara pada satu tujuan agar pemerintahan dijalankan berdasarkan hukum dan kehendak rakyat.\"\nPernyataan yang paling tepat mencerminkan ciri negara hukum dan negara demokrasi dalam UUD 1945 hasil amandemen adalah ...",
+    "image": null,
+    "options": {
+      "A": "Negara Indonesia adalah negara yang berdasar atas hukum, di mana kekuasaan pemerintah tertinggi berada di tangan Presiden dan tidak terikat aturan tertulis",
+      "B": "Negara Indonesia adalah negara kesatuan yang berbentuk republik, kedaulatan berada di tangan rakyat dan dilaksanakan sepenuhnya oleh Majelis Permusyawaratan Rakyat, serta negara berdasar atas hukum",
+      "C": "Negara Indonesia adalah negara hukum, kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar, serta segala perbuatan pemerintah dan warga negara harus berlandaskan hukum",
+      "D": "Negara Indonesia menjunjung tinggi hukum dan demokrasi, namun dalam keadaan darurat, hukum dapat dikesampingkan demi kepentingan umum yang ditetapkan pemerintah",
+      "E": "Negara Indonesia adalah negara demokrasi di mana segala keputusan diambil berdasarkan musyawarah, sedangkan kedudukan hukum hanya berlaku bagi warga negara biasa, bukan pejabat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "question": "Dalam kajian ketatanegaraan, dijelaskan bahwa sebelum amandemen, ketentuan mengenai masa jabatan kepala negara sangat longgar, bahkan memungkinkan seseorang menjabat dalam waktu yang sangat lama. Hal ini dianggap bertentangan dengan prinsip demokrasi dan pergantian kepemimpinan secara berkala. Melalui amandemen, ketentuan ini dipertegas secara ketat untuk mencegah penumpukan kekuasaan.\nBerdasarkan Pasal 7 UUD 1945 hasil amandemen, ketentuan masa jabatan Presiden dan Wakil Presiden yang paling tepat dan lengkap adalah ...",
+    "image": null,
+    "options": {
+      "A": "Masa jabatan 5 tahun, dan dapat dipilih kembali dalam jabatan yang sama tanpa batas jumlahnya",
+      "B": "Masa jabatan 6 tahun, dan dapat dipilih kembali paling banyak satu kali saja",
+      "C": "Masa jabatan 5 tahun, dan dapat dipilih kembali paling banyak dua kali berturut-turut",
+      "D": "Masa jabatan 5 tahun, dan dapat dipilih kembali dalam jabatan yang sama paling banyak satu kali saja",
+      "E": "Masa jabatan ditetapkan oleh MPR, dan dapat diperpanjang sesuai kebutuhan negara"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 105,
+    "question": "Dalam menyelesaikan sengketa batas wilayah antar daerah atau pemanfaatan sumber daya alam yang diperebutkan, pemerintah selalu mengedepankan musyawarah untuk mencapai kesepakatan yang adil. Dasar pertimbangannya bukanlah siapa yang lebih kuat atau siapa yang lebih dulu menguasai, melainkan mana solusi yang paling menguntungkan bagi kepentingan bangsa dan negara secara keseluruhan, serta menjaga persatuan antar masyarakat.\nNilai utama yang diterapkan dalam penyelesaian masalah tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Kepentingan golongan atau daerah harus didahulukan",
+      "B": "Kepentingan nasional ditempatkan di atas kepentingan pribadi atau daerah",
+      "C": "Penyelesaian masalah diserahkan sepenuhnya kepada pihak luar negara",
+      "D": "Kekuatan dan kekuasaan adalah penentu kebenaran dalam perselisihan",
+      "E": "Perselisihan dibiarkan saja karena dianggap hal yang wajar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 106,
+    "question": "Pemerintah menetapkan kebijakan bahwa setiap pulau terluar yang berada di perbatasan wilayah kedaulatan Indonesia harus dijaga, dihuni, dan dibangun fasilitas pendukungnya secara layak. Hal ini bukan hanya sekadar menempatkan penduduk, melainkan menegaskan bahwa titik terluar tersebut adalah bagian mutlak dari wilayah negara, dan keberadaannya menentukan luas dan sahnya batas kedaulatan Indonesia di mata dunia. Tanpa penguasaan atas pulau-pulau kecil tersebut, keutuhan wilayah Indonesia secara keseluruhan akan menjadi lemah.\nKonsep Wawasan Nusantara yang paling tepat digambarkan dalam kebijakan tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Wilayah pulau kecil berfungsi hanya sebagai pelengkap wilayah utama saja",
+      "B": "Setiap titik wilayah, besar maupun kecil, merupakan bagian penting dan tak terpisahkan dari kedaulatan negara",
+      "C": "Batas wilayah negara cukup ditetapkan berdasarkan pulau-pulau besar saja",
+      "D": "Pulau terluar dikelola sekadar untuk keperluan pertahanan militer tanpa pembangunan lain",
+      "E": "Keberadaan pulau kecil tidak berpengaruh pada luas kedaulatan wilayah negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "question": "Seorang tokoh bangsa pernah mengingatkan: \"Janganlah kita menjadi nasionalis yang sempit, yang mengira bahwa bangsanya paling hebat dan bangsa lain rendah. Jadilah nasionalis yang besar, yang mencintai tanah airnya dan sekaligus menghormati hak serta kedaulatan bangsa lain, karena kita semua bagian dari keluarga besar umat manusia.\"\nPesan tersebut mengajarkan kita bahwa nasionalisme Indonesia harus selaras dengan nilai...",
+    "image": null,
+    "options": {
+      "A": "Chauvinisme, mengagungkan bangsa sendiri di atas segalanya",
+      "B": "Internasionalisme, persaudaraan antar bangsa tanpa menghilangkan cinta tanah air",
+      "C": "Isolasionisme, menjauhkan diri dari urusan bangsa lain",
+      "D": "Ekspansionisme, memperluas wilayah kekuasaan bangsa sendiri",
+      "E": "Etnosentrisme, menganggap suku atau ras sendiri paling unggul"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 108,
+    "question": "Di sebuah rapat desa, ada usulan untuk mengubah tata cara upacara adat setempat agar disamakan dengan kebiasaan daerah lain, dengan alasan agar terlihat lebih \"nasional\" dan menyatu. Namun, seorang warga bernama Kasan menolak hal tersebut. Ia berpendapat: \"Menjadi bangsa Indonesia tidak berarti kita harus menghapus keunikan adat kita. Justru keberagaman itulah wajah asli bangsa kita. Kita bersatu karena kita berbeda, bukan karena kita sama persis.\"\nPandangan Kasan tentang nasionalisme menunjukkan pemahaman yang benar, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Persatuan bangsa menuntut adanya kesamaan budaya dan kebiasaan di seluruh wilayah",
+      "B": "Keberagaman budaya adalah kekayaan dan ciri khas bangsa yang memperkuat persatuan, bukan penghalang",
+      "C": "Budaya daerah lebih penting daripada kepentingan persatuan bangsa",
+      "D": "Nasionalisme hanya boleh ditunjukkan dengan cara-cara yang seragam dan terstandar",
+      "E": "Perbedaan budaya harus dihilangkan perlahan agar bangsa menjadi lebih kuat dan utuh"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "question": "Pemerintah menyelenggarakan program pendidikan bela negara, pelatihan dasar kemiliteran bagi mahasiswa, serta pembinaan komponen cadangan dan komponen pendukung pertahanan. Tujuan utama diselenggarakannya berbagai program pembinaan bela negara tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Membentuk kekuatan militer tambahan yang siap berperang kapan saja negara membutuhkannya",
+      "B": "Menanamkan kesadaran, sikap, dan kemampuan setiap warga negara untuk ikut serta mempertahankan negara",
+      "C": "Memenuhi syarat keanggotaan organisasi negara, memperoleh sertifikat, dan menambah nilai pendidikan",
+      "D": "Menyiapkan tenaga kerja khusus pertahanan, mengurangi pengangguran, dan meningkatkan kesejahteraan",
+      "E": "Menunjukkan kekuatan negara kepada dunia internasional, serta menakut-nakuti negara lain yang berniat jahat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 110,
+    "question": "Dalam Undang-Undang No. 23 Tahun 2019 dijelaskan bahwa penyelenggaraan bela negara dilakukan melalui pendidikan, pelatihan, pengabdian, serta kerja nyata sesuai bidang dan kemampuan masing-masing warga negara. Hal ini menunjukkan bahwa pelaksanaan bela negara bersifat...",
+    "image": null,
+    "options": {
+      "A": "Wajib dan sama persis bentuknya bagi seluruh warga negara tanpa memandang usia, profesi, maupun kemampuan",
+      "B": "Terbuka dan bebas dilakukan dengan cara apa saja, asalkan niatnya baik dan bertujuan mempertahankan negara",
+      "C": "Beragam dan disesuaikan dengan potensi, profesi, kemampuan, serta kondisi masing-masing warga negara",
+      "D": "Khusus dan hanya boleh dilakukan melalui jalur resmi pemerintah, organisasi negara, atau lembaga yang ditunjuk",
+      "E": "Sementara dan hanya berlaku saat negara menghadapi ancaman nyata, bahaya perang, atau keadaan darurat saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Ketika berbicara tentang NKRI, kita tidak hanya berbicara tentang peta wilayah atau pemerintahan saja. NKRI juga berarti persaudaraan lebih dari 270 juta jiwa yang terikat dalam sejarah, cita-cita, dan nasib yang sama. Kata \"Kesatuan\" di dalamnya mengandung makna bahwa kita hidup, tumbuh, berjuang, dan maju bersama-sama, tidak boleh berjalan sendiri-sendiri atau saling menjatuhkan.\nInti makna Negara Kesatuan dalam narasi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Penyatuan kekuasaan di tangan satu orang pemimpin saja",
+      "B": "Persatuan hati, tekad, dan tujuan seluruh rakyat Indonesia",
+      "C": "Penyatuan seluruh bangsa di dunia menjadi satu negara",
+      "D": "Penghapusan batas wilayah antarnegara di dunia",
+      "E": "Penyatuan seluruh kekayaan alam ke dalam satu gudang penyimpanan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "question": "Dalam UUD 1945 Pasal 30 ayat (1) dinyatakan bahwa \"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara\". Ketentuan ini bermakna bahwa tanggung jawab menjaga kedaulatan dan keutuhan NKRI tidak hanya dibebankan kepada Tentara Nasional Indonesia atau Kepolisian Negara saja, melainkan menjadi kewajiban seluruh rakyat dari berbagai lapisan masyarakat.\nPenerapan nyata dari ketentuan tersebut oleh warga negara adalah...",
+    "image": null,
+    "options": {
+      "A": "Wajib menjadi tentara atau polisi agar bisa menjaga negara",
+      "B": "Menjaga ketertiban lingkungan, melaporkan ancaman keamanan, dan mencintai produk dalam negeri",
+      "C": "Menolak segala bentuk latihan bela negara karena mengganggu waktu kerja",
+      "D": "Membentuk kelompok keamanan sendiri dengan senjata lengkap di setiap daerah",
+      "E": "Menyerahkan sepenuhnya urusan pertahanan kepada pemerintah saja"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 113,
+    "question": "Seorang tokoh pendiri bangsa pernah berkata: \"Bangsa Indonesia adalah bangsa yang beraneka ragam, tetapi satu.\" Pernyataan ini menegaskan bahwa keberagaman di Indonesia adalah...",
+    "image": null,
+    "options": {
+      "A": "Masalah besar yang harus segera diselesaikan",
+      "B": "Ciri khas alami dan kekhasan yang membentuk jati diri bangsa",
+      "C": "Hal yang harus dihilangkan agar negara kuat",
+      "D": "Penyebab utama kesulitan pembangunan negara",
+      "E": "Keadaan sementara yang akan hilang seiring waktu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Di sebuah kantor pemerintahan, bekerja pegawai yang berasal dari berbagai suku, agama, dan latar belakang pendidikan. Saat mengerjakan proyek pelayanan masyarakat, pimpinan selalu menekankan agar semua pegawai bekerja sama, tidak membedakan-bedakan teman kerja, dan mengutamakan kepentingan umum. Sikap pimpinan tersebut merupakan penerapan makna Bhineka Tunggal Ika dalam lingkungan kerja, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Menyamakan cara kerja semua pegawai agar seragam",
+      "B": "Menempatkan pegawai sesuai asal daerahnya saja",
+      "C": "Menyatukan perbedaan untuk mencapai tujuan bersama",
+      "D": "Menganggap latar belakang tidak memiliki arti sama sekali",
+      "E": "Memilih pegawai yang hanya memiliki kesamaan pandangan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 115,
+    "question": "Bambang memiliki pendapat yang berbeda dengan pemimpin daerah mengenai kebijakan pembangunan. Ia menuliskan pendapat dan kritikannya tersebut di media sosial dengan bahasa yang sopan dan bertanggung jawab. Namun, tak lama kemudian aparat menangkap Bambang dan menahannya hanya karena isi tulisannya tersebut, padahal tidak ada unsur penghasutan atau kejahatan.\nTindakan penangkapan tersebut melanggar hak azazi manusia, yaitu hak atas kebebasan...",
+    "image": null,
+    "options": {
+      "A": "Menyampaikan pikiran dan pendapat secara lisan maupun tulisan",
+      "B": "Mendapatkan perlindungan keamanan",
+      "C": "Berserikat politik",
+      "D": "Memilih kedudukan",
+      "E": "Mengembangkan ilmu pengetahuan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 116,
+    "question": "Andi adalah siswa kelas 10 di sebuah sekolah menengah. Suatu hari, ia melihat temannya, Budi, duduk sendirian di sudut kelas dan terlihat sangat sedih. Setelah ditanya, Budi menceritakan bahwa ia sering diejek dan dikucilkan oleh sekelompok siswa lain hanya karena berasal dari suku yang berbeda. Mereka juga sering menyebarkan cerita bohong tentang Budi di media sosial, yang membuat Budi merasa takut untuk datang ke sekolah dan merasa tidak berharga sebagai manusia.\nBerdasarkan kejadian tersebut, tindakan sekelompok siswa tersebut telah melanggar prinsip dasar HAM, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Hak atas perlindungan hukum",
+      "B": "Hak atas persamaan derajat dan perlakuan yang sama",
+      "C": "Hak atas kebebasan mengeluarkan pendapat",
+      "D": "Hak atas pendidikan dan pengajaran",
+      "E": "Hak atas harta benda pribadi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "question": "Nilai-nilai yang terkandung dalam Piagam Jakarta, meskipun ada penyesuaian redaksional, tetap hidup dan dijalani dalam kehidupan berbangsa dan bernegara hingga saat ini. Semangat persatuan, musyawarah, dan kompromi yang ditunjukkan para pendiri bangsa menjadi warisan berharga agar Indonesia tetap utuh dan berdaulat di tengah keberagaman.\nKesimpulan yang paling tepat mengenai relevansi Piagam Jakarta bagi Indonesia masa kini adalah...",
+    "image": null,
+    "options": {
+      "A": "Sudah tidak relevan karena isinya sudah diubah seluruhnya",
+      "B": "Hanya tinggal dokumen sejarah tanpa makna hukum apa pun",
+      "C": "Tetap relevan sebagai landasan filosofis dan roh dari Pembukaan UUD 1945",
+      "D": "Menciptakan ketertiban umum",
+      "E": "Hanya berlaku bagi golongan tertentu saja",
+      "F": "Menjadi pedoman utama mengganti dasar negara saat ini"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Dalam naskah asli Piagam Jakarta, pada butir ketujuh tertulis tentang dasar hukum pemerintahan negara. Rumusan ini menjadi landasan bahwa segala tindakan pemerintahan harus didasarkan pada aturan hukum yang berlaku, bukan kehendak semata. Hal ini menunjukkan bahwa para pendiri bangsa telah menetapkan Indonesia sebagai negara hukum sejak awal perumusannya.\nBerdasarkan isi Piagam Jakarta, dasar hukum pemerintahan negara Indonesia ditetapkan berlandaskan pada...",
+    "image": null,
+    "options": {
+      "A": "Kehendak pemimpin tertinggi",
+      "B": "Hukum tata negara yang berlaku umum",
+      "C": "Peraturan yang ditetapkan penjajah",
+      "D": "Kebiasaan adat istiadat saja",
+      "E": "Kekuatan militer yang berdaulat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "question": "Sejarah mencatat bahwa perumusan dan penetapan Pancasila melibatkan tokoh-tokoh dari berbagai latar belakang: agama, suku, budaya, pendidikan, dan organisasi yang berbeda-beda. Mulai dari golongan Islam, Kristen, Katolik, kebangsaan, hingga perwakilan daerah. Meskipun berbeda pandangan, mereka bersatu hati demi satu tujuan: Indonesia merdeka dan berdaulat.\nKesimpulan penalaran yang paling mendasar dari fakta tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pancasila adalah hasil kesepakatan bersama yang mewakili aspirasi seluruh elemen bangsa Indonesia yang beragam",
+      "B": "Pancasila hanya menguntungkan satu golongan tertentu saja",
+      "C": "Perbedaan latar belakang membuat rumusan Pancasila tidak kuat",
+      "D": "Pancasila dibuat secara sembunyi-sembunyi tanpa melibatkan banyak pihak",
+      "E": "Pancasila sama sekali tidak dipengaruhi oleh pandangan agama"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 120,
+    "question": "Pada masa persidangan BPUPKI, selain membahas dasar negara, para tokoh juga membahas tentang lambang negara. Ir. Soekarno mengusulkan lambang negara berupa Kepala Banteng, namun akhirnya disepakati lambang negara adalah Burung Garuda dengan perisai di dadanya. Kelima lambang yang ada di dalam perisai tersebut masing-masing mewakili satu sila Pancasila. Hal ini menunjukkan adanya keselarasan antara dasar negara dengan identitas visual negara Indonesia.\nPenalaran yang tepat mengenai hubungan lambang negara dengan Pancasila adalah ...",
+    "image": null,
+    "options": {
+      "A": "Lambang negara hanya hiasan saja, tidak ada hubungannya dengan makna Pancasila",
+      "B": "Setiap gambar dalam lambang negara merupakan cerminan nyata dan simbolis dari nilai-nilai yang terkandung dalam setiap sila Pancasila",
+      "C": "Lambang negara dibuat berbeda jauh dari isi Pancasila agar terlihat unik",
+      "D": "Lambang negara menggantikan kedudukan Pancasila sebagai dasar negara",
+      "E": "Lambang negara menggantikan kedudukan Pancasila sebagai dasar negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Gerakan radikal kelompok tertentu yang mengatasnamakan agama, misalnya terorisme pada peristiwa Bom Bali 1 Tahun 2002 yang dianggap sebagai peristiwa terorisme terparah di Indonesia merupakan penyimpangan sila....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Indonesia kerap diancam dengan aksi terror bersenjata seperti peristiwa Bom Bali I dan Bom II yang terjadi di Kawasan Pariwisata. Dalam peristiwa bom Bali I dan II banyak warga Negara asing menjadi korban. Peristiwa tersebut semakin memperkuat kewajiban bangsa Indonesia untuk.....",
+    "image": null,
+    "options": {
+      "A": "Melaksanakan perang",
+      "B": "Melakukan bela Negara",
+      "C": "Melindungi warga Negara asing",
+      "D": "Bersikap waspada kepada bangsa asing",
+      "E": "Menutup diri dari pergaulan internasional"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Pembangunan pertahanan dan keamanan ditunjukan untuk kepentingan nasional. Upaya yang dapat dilakukan untuk membangun pertahanan dan keamanan adalah.....",
+    "image": null,
+    "options": {
+      "A": "Membantu keamanan di negara yang berkonflik",
+      "B": "Mempatroli rutin diwilayah darat, laut dan udara",
+      "C": "Membangun infrastruktur di negara yang mengalami bencana",
+      "D": "Memberikan pelatihan kepada militer negara asing",
+      "E": "Menandatangani kontrak kerjasama dengan negara lain"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 124,
+    "question": "Telah terjadi konflik dalam masyarakat atas dasar perbedaan kebudayaan. Konflik ini terus ber- kembang menjadi konflik antarsuku, Tiap-tiap kepada daerah berupaya meredam konflik. Akan tetapi, masyarakat tidak mengindahkannya. Bahkan, satu orang terluka akibat konflik tersebut. Kondisi tersebut menunjukkan bahwa.....",
+    "image": null,
+    "options": {
+      "A": "Tiap-tiap perlu mempunyai kekuatan seimbang",
+      "B": "Belum ada nilai-nilai sosial yang disepakati antarmasyarakat",
+      "C": "Kepala daerah tidak mampu mencegah terjadinya konflik",
+      "D": "Nilai-nilai sosial tidak berguna bagi masyarakat yang berkonflik",
+      "E": "Konflik merupakan bentuk upaya meningkatkan kehormatan kelompok"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "question": "Keanekaragaman bangsa Indonesia disamping dapat memicu disintegrasi bangsa tetapi juga sebagai modal positif dalam pelaksanaan pembangunan jika segenap elemen bangsa dan Negara dapat mengatur dengan baik. Sikap positif yang harus dikembangkan agar bangsa Indonesia dapat berdiri kokoh adalah.....",
+    "image": null,
+    "options": {
+      "A": "Menjaga keselarasan dalam masyarakat",
+      "B": "Menjaga persatuan dan kesatuan bangsa",
+      "C": "Setiap orang berusaha memperoleh kepuasan bathin",
+      "D": "Setiap warga Negara harus mencari keuntungan bersama",
+      "E": "Memprovokasi agar terjadi kerukunan dan kedamaian hidup"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 126,
+    "question": "Indonesia merupakan Negara kepulauan. Tiap-tiap pulau di Indonesia memiliki adat istiadat. Secara logika masyarakat Indonesia akan sulit disatukan karena beragamnya suku bangsa dan bu daya (multikultur). Akan tetapi, Indonesia telah membuktikan perbedaan bukan ancaman. Perbedaan bagi Negara Indonesia bagaikan lem yang mampu mengikat masyarakat menjadi satu. Hal ini sesuai dengan nilai yang ditanamkan dalam pancasila yaitu sila.....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 127,
+    "question": "Koperasi merupakan salah satu pilar perekonomian Indonesia yang berasaskan kekeluargaan. Pengambilan keputusan dalam koperasi sesuai dengan nilai luhur Pancasila yaitu.....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 128,
+    "question": "Kemajemukan masyarakat indonesia merupakan potensi yang memperkaya budaya nasional, tetapi juga dapat mengancam persatuan nasional karena ......",
+    "image": null,
+    "options": {
+      "A": "wilayah indonesia yang terdiri atas banyak pulau",
+      "B": "semua penduduk memiliki kedudukan sama di mata hukum",
+      "C": "hubungan kerjasama antar kelompok masyarakat berjalan dengan harmonis",
+      "D": "perbedaan etnis tidak membedakan kedudukan warga negara",
+      "E": "masyarakat majemuk terdiri atas berbagai kelompok kultural"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 129,
+    "question": "Pancasila sebagai ideologi terbuka harus Berorientasi pada masa depan dan mampu melihat semua kemungkinan yang dapat terjadi pada masa sekarang. Berikut ini yang merupakan salah satu unsur ideologi terbuka yang dimiliki oleh Pancasila adalah.....",
+    "image": null,
+    "options": {
+      "A": "Dasar yang digunakan adalah keinginan perseorangan",
+      "B": "Nilai dan cita-cita yang ada berasal dari pribadi bangsa itu sendiri",
+      "C": "Isinya bisa langsung dilaksanakan tanpa ada penjelasan lebih dalam",
+      "D": "Merupakan hasil kombinasi dengan kebudayaan lain",
+      "E": "Bersumber dari budaya dan nilai kehidupann suatu daerah/kelompok mayoritas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Adanya unsur pemersatu di antara warga Negara Indonesia dengan semangat rela Berkorban dan menempatkan kepentingan bangsa dan Negara di atas kepentingan pribadi atau golongan adalah contoh...",
+    "image": null,
+    "options": {
+      "A": "Kebhinnekaan di Indonesia",
+      "B": "Hubungan Paricasila yang hirarkis dan piramidal",
+      "C": "Hubungan antarsila dalam Pancasila",
+      "D": "Hubungan keadilan dengan Pancasila",
+      "E": "Hubungan HAM dengan Pancasila"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "question": "Pada masa Orde Lama, kekuasaan presiden sangat besar sehingga Pancasila dan UUD 1945 tidak dapat berjalan dengan semestinya. Hal ini yang merupakan penyimpangan Pancasila pada masa Demokrasi Terpimpin adalah....",
+    "image": null,
+    "options": {
+      "A": "Penyelewengan Pemilu",
+      "B": "Adanya pengekangan terhadap hak demokrasi",
+      "C": "Penggantian sistem pemerintahan dari presidensial menjadi parlementer",
+      "D": "Korupsi kolusi, repotisme merajalela",
+      "E": "Hak budget ndak berjalan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 132,
+    "question": "Berakhirnya perang dingin tidak membuat organisasi gerakan non blok kehilangan makna dan relevansinya karena kerjasama itu tetap diperlukan untuk memperkuat posisi GNB terutama yang berhubungan dengan permasalahan.....",
+    "image": null,
+    "options": {
+      "A": "Memajukan tata ekonomu dunia baru",
+      "B": "Menyelesaikan persengketaan secara damai diseluruh belahan dunia",
+      "C": "Perjuangan rakyat afrika melawan pemerintah otoriter",
+      "D": "Memperjuangkan tata dunia yang lebih demokratis dan adil terutama dalam isu HAM dan lingkungan antara negara maju dan berkembang",
+      "E": "Pengurangan hutang yang dipinjam oleh negara berkembang dari negara maju atau lembaga internasional"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 133,
+    "question": "Poros awal pemberantasan kasus korupsi dilakukan melalui proses rekrutmen birokrasi. Perwu judan proses rekrutmen tersebut di Indonesia saat ini dilakukan dengan cara.....",
+    "image": null,
+    "options": {
+      "A": "Pelimpahan ke daerah otonom",
+      "B": "Memberikan pengkhususan pada putra putri papua",
+      "C": "Sistem Computer Assisted Test (CAT)",
+      "D": "Seleksi berdasarkan kompetensi bidang yang dibutuhkan",
+      "E": "Seleksi nasional yang dilakukan oleh masing masing daerah"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 134,
+    "question": "Fenomena generasi muda yang mengalami kepudaran jiwa nasionalisme disebabkan karena.....",
+    "image": null,
+    "options": {
+      "A": "Drientasi nasionalisme adalah sikap dan buatan",
+      "B": "Labelling yang menjadi stigma bagi generasi muda",
+      "C": "Ukuran nasionalisme dipahami hanya sebatas perjuangan secara fisik",
+      "D": "Kurangnya daya juang terhadap perubahan zaman",
+      "E": "Kurangnya sosok heroism bagi kaum muda"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 135,
+    "question": "Untuk mewujudkan sikap kemandirian yang menyeluruh dan merata pada bangsa Indonesia di perlukan....",
+    "image": null,
+    "options": {
+      "A": "Semangat dan gotong royong pada anggota masyarakat",
+      "B": "Toleransi antar umat beragama",
+      "C": "Semangat kekeluargaan pada semua lapisan masyarakat",
+      "D": "Etos kerja keras pada semua masyarakat Indonesia",
+      "E": "Keanekaragaman budaya bangsa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "question": "Warga Negara indonesia yang kurang mampu mendapatkan perlindungan kesehatan dari negara berupa program Kartu indonesia Sehat (KIS). Hal ini sesuai dengan penerapan Pancasial ke.....",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 137,
+    "question": "Pak Tono adalah orang yang sombong. la selalu menilai orang dari kekayaan dan kedudukannya. Sikap Pak Tono bertentangan dengan sila...",
+    "image": null,
+    "options": {
+      "A": "Ketuhanan yang Maha Esa",
+      "B": "Kemanusiaan yang adil dan beradab",
+      "C": "Persatuan Indonesia",
+      "D": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan dan perwakilan",
+      "E": "Keadilan sosial bagi seluruh rakyat Indonesia"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 138,
+    "question": "Indonesia menganut sistem ekonomi Pancasila sehingga hal-hal berikut tidak diperbolehkan tumbuh di Indonesia kecuali.....",
+    "image": null,
+    "options": {
+      "A": "Monopoli perdangangan",
+      "B": "Persaingan bebas",
+      "C": "Pengembangan kreativitas",
+      "D": "Pengawasan dari pemerintah secara Mutlak",
+      "E": "Ketidak adilan dalam berusaha"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 139,
+    "question": "Berikut ini merupakan hal yang bertentangan dengan sila Persatuan Indonesia adalah.....",
+    "image": null,
+    "options": {
+      "A": "Membuat keputusan sepihak dalam menyelesaikan masalah.",
+      "B": "Mengunggul unggulkan daerah sendiri dan merendahkan daerah lain.",
+      "C": "Menyuap polisi saat terkena razia",
+      "D": "Menghalang-halangi orang lain untuk beribadah.",
+      "E": "Melanggar peraturan yang telah dibuat."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 140,
+    "question": "Dewan Perkawilan Daerah Ri memiliki kekuasaan yang berbeda dengan lembaga DPR RI. Pembatasan fungsi tiap-tiap lembaga Negara diatur dalam peraturan perundang-undangan yang berlaku. Hal tersebut menunjukkan bahwa Indonesia menganut paham konstitusional....",
+    "image": null,
+    "options": {
+      "A": "Satu kamar",
+      "B": "Banyak kamar",
+      "C": "Tiga Kamar",
+      "D": "Dua kamar",
+      "E": "Kamar terintegrasi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 141,
+    "question": "Bukti menangkal ATHG dalam bidang pertumbuhan dan pemerataan ekonomi menjadi kekuatan bangsa. Salah satu sumber ancaman bangsa yang bersifat non militer adalah....",
+    "image": null,
+    "options": {
+      "A": "Mengatasi kekurangan SDA",
+      "B": "Mengurangi kemiskinan",
+      "C": "Memperkecil pengangguran",
+      "D": "Menciptakan lapangan kerja",
+      "E": "Meningkatkan kualitas SDM"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "question": "Semua anggota dalam sidang BPUPKI diberikan kesempatan yang sama untuk menyampaikan pandangan atau gagasannya tanpa memandang perbedaan politik, agama, suku, ras, dan golongan. Hal ini memberikan teladan kepada kita tentang.....",
+    "image": null,
+    "options": {
+      "A": "Pentingnya kesetaraan",
+      "B": "Arti hidup bernegara",
+      "C": "Loyalitas tanpa batas",
+      "D": "Ketaatan pada hukum",
+      "E": "Professionalitas mereka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 143,
+    "question": "Konsepsi Pancasila tentang hubungan antara manusia dan masyarakatnya adalah terciptanya kesetarasan, keserasian, dan keseimbangan yang berarti...",
+    "image": null,
+    "options": {
+      "A": "Mengutamakan kepentingan umum dan mendahulukan kepentingan pribadi dan golongan",
+      "B": "Melepaskan diri demi kepentingan umum dan meletakkan kepentingan pribadi sebagai yang pertama",
+      "C": "Memperlakukan dengan sama antara kepentingan umum dan pribadi",
+      "D": "Meletakkan kepentingan umum di atas kepentingan pihadidan gotongan",
+      "E": "Melepaskan keperangan omuris dan mengutarnakan kepentingan pribadi dan golongan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 144,
+    "question": "Setiap ilmuwan harus memiliki kebebasan untuk mengembangkan IPTEK, tetapi dengan menghormati dan menghargai kebebasan orang lain serta harus terbuka terhadap masukan-masukan dari luar. Hal tersebut merupakan perwujudan dari pembangunan iptek yang berdasar pada pancasila sila...",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 145,
+    "question": "Pendidikan sebagai salah satu elemen dalam masyarakat yang bermuatan positif mampu mem berikan pengaruh untuk membangun sikap kejujuran. Berikut ini perilaku yang mencerminkan ketidakjujuran adalah.....",
+    "image": null,
+    "options": {
+      "A": "Budaya membuang sampah tidak pada tempatnya",
+      "B": "Budaya menyontek",
+      "C": "Budaya membuat kantin kejujuran",
+      "D": "Budaya saling percaya antarsesama warga sekolah",
+      "E": "Budaya tidak percaya pada guru dan kepala sekolah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "question": "Upaya yang dapat dilakukan saat ini untuk melestarikan semangat juang kemerdekaan 1945 dan nasionalisme di era pembangunan adalah......",
+    "image": null,
+    "options": {
+      "A": "Belajar dengan gigih agar mendapatkan kemampuan yang maksimal",
+      "B": "Melatih kemampuan untuk menghadapi musuh",
+      "C": "Menyiapkan rencana dalam menghadapi perubahan di masa mendatang",
+      "D": "Menjaga kesehatan tubuh jika dibutuhkan Negara setiap saat",
+      "E": "Memiliki tabungan yang banyak agar tidak kekurangan di masa mendatang"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 147,
+    "question": "Kesadaran akan nasionalisme terkadang membelenggu dan menghambat rakyat dan pemerintahan sendiri. Hal ini bisa terjadi ketika...",
+    "image": null,
+    "options": {
+      "A": "Nasionalisme dipahami secara mendalam sebagai sebuah ideologi",
+      "B": "Kedudukan nasionalisme semata-mata tidak hanya ideologi",
+      "C": "Sifat universalitas tetap dipegang teguh",
+      "D": "Nasionalisme dijadikan sebagai semangat dan semboyan bangsa",
+      "E": "Jiwa nasionalisme didasarkan pada ideologi bangsa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Perilaku demokratis diharapkan tercipta dalam kehidupan bermasyarakat, berbangsa, dan ber- negara seperti dewasa ini. Pengertian sikap demokratis ini secara sederhana adalah...",
+    "image": null,
+    "options": {
+      "A": "Menerima dan mengajukan pendapat dengan cara manusiawi",
+      "B": "Memutuskan hasil rapat berdasarkan kepentingan pribadi",
+      "C": "Mendengar dan menerima pendapat orang berdasarkan latar belakangnya",
+      "D": "Mendesak orang lain agar menerima pendapat dan keinginannya",
+      "E": "Menerima pendapat orang lain dengan tanpa pertimbangan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 149,
+    "question": "Kemajemukan masyarakat Indonesia secara sosio historis terdiri atas berbagai Suku bangsa yang dilatarbelakangi oleh....",
+    "image": null,
+    "options": {
+      "A": "Kontak sosial dan jumlah penduduk",
+      "B": "Keterbukaan budaya luar dan migrasi penduduk",
+      "C": "Isolasi georafis dan kepulauan",
+      "D": "Keragaman budaya dan potensi alam",
+      "E": "Perdagangan dan kekayaan alam"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "question": "Survei terhadap institusi perlu dilakukan untuk menjamin kinerja pegawai bahkan lembaga ter sebut secara internal maupun eksternal, manfaat lain perlunya survey integritas pegawai adalah.....",
+    "image": null,
+    "options": {
+      "A": "Sebagai control kinerja pegawai dalam institusi",
+      "B": "Sebagai pembentuk karakter yang ingin dicapai oleh institusi terhadap pegawai",
+      "C": "Modal perencanaan pembangunan sumber daya manusia",
+      "D": "Menjadi bahan evaluasi kerja untuk menghindari tindakan korupsi",
+      "E": "Menjadi tanggung jawab institusi untuk menjaga muruah"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 151,
+    "question": "Seorang pengusaha selalu memperlakukan karyawannya dengan baik, memberikan gaji sesuai aturan, serta tidak pernah membeda-bedakan perlakuan antara karyawan yang berpendidikan tinggi dengan yang berpendidikan rendah, atau yang berasal dari daerah tertentu. Ia beranggapan bahwa meskipun jabatan dan tugas berbeda, nilai kemanusiaan dan hak setiap orang itu sama. Sikap ini merupakan pengamalan sila kedua, dengan makna yang paling tepat adalah...",
+    "image": null,
+    "options": {
+      "A": "Semua manusia harus memiliki kedudukan dan kekayaan yang sama persis",
+      "B": "Mengakui persamaan hak, derajat, dan kewajiban antarmanusia",
+      "C": "Kesetaraan hanya berlaku di mata hukum, tidak dalam pergaulan sehari-hari",
+      "D": "Perbedaan kemampuan menjadi alasan pembedaan hak asasi",
+      "E": "Manusia yang lebih berkuasa berhak mendapatkan hak lebih banyak"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 152,
+    "question": "Pemerintah menetapkan aturan bahwa tanah ulayat milik masyarakat adat tidak boleh sembarangan diambil atau dikuasai oleh pihak swasta, meskipun di tanah tersebut terdapat kekayaan alam bernilai tinggi. Aturan ini dibuat agar manfaat dari kekayaan alam tersebut tetap menjadi milik dan dinikmati oleh masyarakat sekitar, serta mencegah terjadinya penguasaan sumber daya yang hanya menguntungkan segelintir orang saja. Kebijakan ini merupakan perwujudan sila kelima, yang maknanya adalah...",
+    "image": null,
+    "options": {
+      "A": "Kekayaan alam dikuasai negara untuk diserahkan sepenuhnya kepada pengusaha",
+      "B": "Sumber daya alam dikelola untuk kemakmuran seluruh rakyat secara adil",
+      "C": "Pengelolaan kekayaan alam diserahkan sepenuhnya kepada masyarakat adat",
+      "D": "Nilai ekonomi kekayaan alam lebih utama daripada kesejahteraan sosial",
+      "E": "Setiap kelompok berhak menguasai sumber daya di wilayahnya tanpa aturan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 153,
+    "question": "Seorang pengamat politik menyatakan: \"Perubahan makna Pasal 1 Ayat (2) adalah salah satu kunci utama perubahan sistem ketatanegaraan kita. Dulu, kalimatnya menyatakan pelaksanaan kedaulatan rakyat dilakukan sepenuhnya oleh satu lembaga, yang membuat lembaga itu berada di atas segalanya. Namun setelah diamandemen, maknanya berubah total, menegaskan bahwa tidak ada kekuasaan di atas hukum dan kedaulatan dijalankan sesuai aturan konstitusi.\"\nBunyi Pasal 1 Ayat (2) UUD 1945 hasil amandemen yang benar adalah ...",
+    "image": null,
+    "options": {
+      "A": "Kedaulatan berada di tangan rakyat dan dilaksanakan sepenuhnya oleh Majelis Permusyawaratan Rakyat",
+      "B": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar",
+      "C": "Kedaulatan berada di tangan rakyat dan dilaksanakan oleh lembaga-lembaga negara",
+      "D": "Kedaulatan berada di tangan rakyat dan dijalankan oleh pemerintah untuk kemakmuran rakyat",
+      "E": "Kedaulatan berada di tangan rakyat dan diserahkan pelaksanaannya kepada Presiden"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "question": "Dalam diskusi kelas, Guru menjelaskan tentang wewenang DPR di bidang legislasi. Ia menekankan adanya perubahan mekanisme penyelesaian Rancangan Undang-Undang. Dulu, jika Presiden tidak mengesahkan RUU yang sudah disepakati bersama, maka RUU itu dianggap batal. Namun setelah diamandemen, aturannya berubah untuk menjamin kedaulatan lembaga perwakilan rakyat.\nKetentuan yang benar mengenai pengesahan Rancangan Undang-Undang sesuai Pasal 20 Ayat (5) hasil amandemen adalah ...",
+    "image": null,
+    "options": {
+      "A": "Rancangan Undang-Undang yang telah disetujui bersama DPR dan Presiden, jika tidak disahkan oleh Presiden dalam waktu 30 hari sejak persetujuan, maka rancangan itu batal dan harus dibahas ulang",
+      "B": "Rancangan Undang-Undang wajib disahkan oleh Presiden, jika tidak disahkan maka DPR berhak membubarkan kabinet",
+      "C": "Rancangan Undang-Undang yang telah disetujui bersama, jika tidak disahkan oleh Presiden dalam waktu 30 hari, maka rancangan itu sah menjadi Undang-Undang",
+      "D": "Presiden berhak menolak mengesahkan RUU tersebut tanpa alasan apa pun, dan DPR wajib menerima keputusan itu",
+      "E": "Jika Presiden tidak mengesahkan dalam 14 hari, RUU tersebut dikembalikan ke DPR untuk diperbaiki"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Dalam merumuskan kebijakan energi nasional, pemerintah mengatur bahwa potensi energi terbarukan seperti panas bumi, tenaga surya, dan angin yang tersebar di berbagai daerah, dikembangkan dalam satu jaringan distribusi nasional. Energi yang dihasilkan di satu wilayah tidak hanya dinikmati oleh warga setempat, tetapi disalurkan ke daerah-daerah lain yang membutuhkan, sehingga ketersediaan energi merata dan mendorong kemajuan seluruh wilayah Indonesia secara bersamaan.\nPenerapan prinsip kesatuan ekonomi dalam hal ini bermakna...",
+    "image": null,
+    "options": {
+      "A": "Setiap daerah harus memenuhi kebutuhan energinya sendiri tanpa bantuan daerah lain",
+      "B": "Potensi ekonomi dan sumber daya di berbagai wilayah saling melengkapi untuk kemajuan bersama",
+      "C": "Pengelolaan sumber daya energi diserahkan sepenuhnya kepada pengusaha daerah masing-masing",
+      "D": "Daerah yang memiliki sumber daya energi berhak menggunakannya sendiri secara bebas",
+      "E": "Pembangunan ekonomi hanya berfokus pada wilayah yang memiliki cadangan energi terbesar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 156,
+    "question": "Meskipun masyarakat Indonesia terdiri dari ratusan suku bangsa dengan bahasa ibu yang berbeda-beda, namun dalam kehidupan berbangsa selalu digunakan Bahasa Indonesia sebagai alat komunikasi utama, baik dalam pemerintahan, pendidikan, maupun pergaulan nasional. Hal ini dilakukan bukan untuk menghapus bahasa daerah, melainkan menjamin terciptanya saling pengertian, persatuan, dan kesatuan pandangan di antara seluruh warga negara yang beragam tersebut.\nMakna utama penggunaan Bahasa Indonesia dalam kerangka Wawasan Nusantara adalah...",
+    "image": null,
+    "options": {
+      "A": "Menggantikan kedudukan dan fungsi seluruh bahasa daerah yang ada di masyarakat",
+      "B": "Menjadi simbol pemersatu dan sarana komunikasi antarunsur bangsa yang beraneka ragam",
+      "C": "Membatasi kebebasan masyarakat dalam menggunakan bahasa ibu masing-masing",
+      "D": "Digunakan hanya untuk keperluan resmi negara saja, tidak dalam kehidupan sehari-hari",
+      "E": "Menyamakan seluruh budaya daerah agar tidak ada lagi perbedaan antarwarga"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "question": "Seorang siswa bernama Galih sering mendengar pendapat: \"Sebagai orang yang berjiwa nasionalis, kita wajib membela negara sampai mati, tapi pembelaan itu hanya berguna saat negara sedang perang atau diserang musuh.\" Mendengar itu, Galih tidak sepenuhnya setuju. Ia beranggapan bahwa membela negara dan semangat nasionalisme justru lebih sering dibutuhkan di masa damai, yaitu dengan menjaga keutuhan, menaati hukum, dan memajukan kesejahteraan bersama.\nPemahaman Galih tentang nasionalisme dan pembelaan negara adalah tepat, karena...",
+    "image": null,
+    "options": {
+      "A": "Nasionalisme dan pembelaan negara hanya relevan dan dibutuhkan pada masa perang atau bahaya saja",
+      "B": "Wujud nasionalisme dan pembelaan negara berlaku setiap saat, baik masa damai maupun masa krisis, melalui tindakan nyata warga negara",
+      "C": "Di masa damai, semangat nasionalisme tidak terlalu penting dan bisa diabaikan sementara waktu",
+      "D": "Membela negara hanya tugas tentara dan aparat keamanan, warga biasa tidak memiliki peran apa-apa",
+      "E": "Nasionalisme di masa damai hanya berupa ucapan dan simbol saja, tidak perlu ada tindakan nyata"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Dalam sebuah diskusi sejarah, disampaikan bahwa lahirnya rasa nasionalisme di Indonesia tidak terjadi secara mendadak, melainkan melalui proses panjang. Hal itu bermula ketika masyarakat mulai sadar bahwa mereka memiliki musuh yang sama, nasib yang sama, serta cita-cita yang sama, meskipun mereka hidup di pulau yang berbeda dan memiliki budaya yang berbeda. Kesadaran inilah yang akhirnya\nUraian tersebut menunjukkan bahwa dasar terbentuknya nasionalisme Indonesia adalah adanya kesamaan dalam hal...",
+    "image": null,
+    "options": {
+      "A": "Ras, warna kulit, dan bentuk fisik yang seragam",
+      "B": "Bahasa daerah, adat istiadat, dan kebiasaan hidup sehari-hari",
+      "C": "Sejarah perjuangan, penderitaan, serta tujuan dan cita-cita bernegara",
+      "D": "Kekayaan alam, kondisi geografis, dan iklim wilayah tempat tinggal",
+      "E": "Agama, kepercayaan, dan pandangan hidup yang dianut oleh seluruh penduduk"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 159,
+    "question": "Indonesia menganut pertahanan yang bersifat semesta, menyeluruh, dan berlandaskan pada kemampuan serta kekuatan sendiri. Jika dilihat dari sifatnya, pertahanan negara Indonesia bersifat...",
+    "image": null,
+    "options": {
+      "A": "Ofensif, artinya selalu siap menyerang duluan ke wilayah musuh untuk menjaga keamanan perbatasan",
+      "B": "Defensif, artinya bertujuan mempertahankan kedaulatan, menangkis serangan, dan tidak bertindak agresif ke luar",
+      "C": "Ekspansif, artinya berusaha memperluas wilayah kekuasaan agar negara semakin kuat dan makmur",
+      "D": "Netral, artinya tidak memiliki kekuatan pertahanan dan menyerahkan keamanan kepada negara lain atau organisasi internasional",
+      "E": "Selektif, artinya hanya mempertahankan wilayah yang dianggap strategis saja dan mengabaikan wilayah terpencil"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "question": "Dalam kehidupan bernegara, terdapat dua komponen besar dalam sistem pertahanan, yaitu Komponen Utama dan Komponen Cadangan. Komponen cadangan adalah warga negara, sumber daya alam, buatan, dan sarana prasarana nasional yang disiapkan untuk memperkuat komponen utama saat diperlukan. Peran warga negara dalam komponen cadangan adalah...",
+    "image": null,
+    "options": {
+      "A": "Siap dikerahkan kapan saja, dilatih secara berkala, dan tetap menjalankan tugas pokoknya masing-masing dalam kehidupan sehari-hari",
+      "B": "Selalu berada dalam siaga tempur, tinggal di pangkalan militer, dan berhenti dari pekerjaan sipil demi negara",
+      "C": "Hanya bergerak jika ada perintah resmi presiden, dan bertindak sebagai pengamat saja selama masa damai",
+      "D": "Menjadi pengganti kekuatan utama sepenuhnya, dan bertanggung jawab penuh menjaga keamanan wilayah",
+      "E": "Berperan hanya memberikan bantuan dana atau logistik, tanpa perlu dilatih atau memiliki kemampuan pertahanan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Pemerintah Indonesia menetapkan Hari Sumpah Pemuda pada tanggal 28 Oktober dan Hari Kebangkitan Nasional pada tanggal 20 Mei sebagai hari besar nasional. Penetapan ini bukan sekadar peringatan sejarah, melainkan pengingat kembali semangat para pendahulu yang bersatu berjuang melawan penjajah. Dulu persatuan dibutuhkan untuk meraih kemerdekaan, kini persatuan tetap dibutuhkan untuk mempertahankan dan memajukan kemerdekaan tersebut.\nKesimpulan yang tepat mengenai relevansi semangat peristiwa tersebut bagi NKRI masa kini adalah...",
+    "image": null,
+    "options": {
+      "A": "Semangat persatuan zaman dulu sudah tidak cocok lagi dengan kondisi saat ini",
+      "B": "Persatuan adalah kebutuhan abadi, baik saat memperjuangkan maupun membangun kemerdekaan",
+      "C": "Hari besar nasional hanya dirayakan sebagai tradisi tanpa makna mendalam",
+      "D": "Kemerdekaan sudah selesai diperjuangkan, jadi tidak perlu lagi bersatu",
+      "E": "Semangat itu hanya berlaku bagi kalangan pemuda saja, bukan untuk seluruh rakyat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 162,
+    "question": "Indonesia merupakan negara kepulauan yang terletak di antara dua samudra dan dua benua. Letak strategis ini memberikan keuntungan besar dalam bidang ekonomi, perdagangan, dan hubungan internasional. Namun, letak ini juga membawa tantangan, di mana wilayah Indonesia menjadi sangat terbuka terhadap masuknya pengaruh asing, baik yang positif maupun yang negatif, yang bisa mempengaruhi keutuhan bangsa.\nSikap paling bijaksana yang harus diambil bangsa Indonesia dalam menyikapi kondisi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Menutup diri sepenuhnya dari dunia luar agar budaya dan kedaulatan tetap terjaga",
+      "B": "Menerima semua pengaruh asing tanpa penyaringan agar negara cepat maju",
+      "C": "Memanfaatkan keuntungan letak strategis sambil memperkuat jati diri dan pertahanan negara",
+      "D": "Menyerahkan pengelolaan wilayah strategis tersebut kepada negara lain agar lebih aman",
+      "E": "Menganggap letak strategis tidak ada gunanya karena hanya membawa masalah saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 163,
+    "question": "Beberapa siswa berdiskusi tentang makna semboyan negara. Siswa A berkata: \"Bhineka Tunggal Ika artinya kita harus menjadi sama persis dalam segala hal.\" Siswa B berpendapat: \"Artinya kita boleh berbeda, tetapi tetap satu dalam ikatan kebangsaan.\" Siswa C beranggapan: \"Artinya kita boleh bersatu jika budayanya sama saja.\" Pendapat yang paling tepat sesuai makna aslinya adalah pendapat...",
+    "image": null,
+    "options": {
+      "A": "Siswa A",
+      "B": "Siswa B",
+      "C": "Siswa C",
+      "D": "Siswa A dan B",
+      "E": "Siswa B dan C"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 164,
+    "question": "Saat bulan puasa, Pak Made menghormati dengan tidak mengundang tamu yang ramai di siang hari. Sebaliknya, saat hari raya Nyepi, Pak Harun mematikan lampu dan tidak membuat kegaduhan di rumahnya. Hubungan bertetangga ini mencerminkan nilai Bhineka Tunggal Ika berupa...",
+    "image": null,
+    "options": {
+      "A": "Menjalankan ibadah secara bergantian",
+      "B": "Mengubah ajaran agama agar saling cocok",
+      "C": "Saling menghormati dan menyesuaikan diri demi kerukunan",
+      "D": "Memisahkan waktu kegiatan agar tidak bertemu",
+      "E": "Menganggap agama tetangga sama dengan agamanya sendiri"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "question": "Pemerintah sebuah daerah merencanakan pembangunan waduk untuk keperluan irigasi pertanian. Namun, lokasi pembangunan tersebut berada di atas tanah adat yang telah dikelola dan dihuni oleh masyarakat adat selama berpuluh-puluh tahun. Tanpa melakukan musyawarah atau memberikan ganti rugi yang layak, pihak berwenang mulai menertibkan warga dan memaksa mereka pindah ke lokasi lain yang jauh dari sumber penghidupan mereka. Warga merasa hak mereka diabaikan dan terancam kehilangan sumber kehidupan.\nPelanggaran HAM yang terjadi dalam kasus ini adalah pelanggaran terhadap hak...",
+    "image": null,
+    "options": {
+      "A": "Atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil",
+      "B": "Atas pekerjaan dan penghidupan yang layak bagi kemanusiaan",
+      "C": "Atas tempat tinggal dan lingkungan hidup yang baik dan sehat",
+      "D": "Semua jawaban di atas benar",
+      "E": "Jawaban A dan B saja yang benar"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 166,
+    "question": "Seorang jurnalis sedang menyusun laporan investigasi mengenai dugaan penyalahgunaan dana di sebuah instansi pemerintah. Dalam proses pengumpulan data, ia berusaha mewawancarai berbagai pihak terkait dan mengungkap fakta yang ditemukannya kepada masyarakat melalui media massa. Namun, sebelum laporan itu dimuat, ia mendapatkan tekanan dan ancaman dari pihak tertentu agar berhenti menulis dan tidak mempublikasikan berita tersebut. Ia juga dilarang menyampaikan pendapatnya secara bebas meskipun apa yang ia sampaikan adalah fakta yang benar.\nHak asasi manusia yang dilanggar dalam kasus tersebut adalah hak...",
+    "image": null,
+    "options": {
+      "A": "Atas kebebasan memeluk agama dan beribadah menurut kepercayaannya",
+      "B": "Atas kebebasan mengeluarkan pikiran dan pendapat secara lisan maupun tulisan",
+      "C": "Atas rasa aman dan perlindungan dari ancaman ketakutan",
+      "D": "Atas pengembangan diri melalui pendidikan",
+      "E": "B dan C benar"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 167,
+    "question": "Peran Panitia Sembilan sangat krusial dalam sejarah kelahiran Piagam Jakarta. Anggota panitia ini dipilih karena mewakili berbagai aliran pemikiran yang ada di masyarakat saat itu, mulai dari nasionalis, Islam, hingga tokoh pergerakan. Kesepakatan yang mereka capai bukanlah kemenangan satu golongan, melainkan hasil pertemuan dan penyatuan berbagai aspirasi tersebut.\nFaktor utama yang memungkinkan Panitia Sembilan berhasil merumuskan Piagam Jakarta adalah...",
+    "image": null,
+    "options": {
+      "A": "Adanya tekanan kuat dari pemerintah pendudukan Jepang",
+      "B": "Semangat kompromi, musyawarah, dan mengutamakan kepentingan bangsa di atas golongan",
+      "C": "Dominasi pandangan satu golongan yang paling kuat",
+      "D": "Adanya perintah resmi dari BPUPKI untuk menyelesaikan cepat",
+      "E": "Keinginan untuk meniru sistem negara lain yang sudah maju"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Sering kali muncul pertanyaan mengapa rumusan sila pertama yang sempat disepakati di Piagam Jakarta akhirnya diubah. Para pendiri bangsa sadar bahwa Indonesia memiliki wilayah yang sangat luas dengan penduduk yang memeluk berbagai agama dan kepercayaan. Perubahan itu dilakukan bukan untuk menghilangkan nilai agama, melainkan untuk memastikan seluruh wilayah dan penduduk Indonesia merasa diakui dan menjadi bagian yang utuh.\nNilai ketuhanan dalam dasar negara Indonesia setelah adanya perubahan dari Piagam Jakarta menjadi...",
+    "image": null,
+    "options": {
+      "A": "Dihapuskan sepenuhnya dari dasar negara",
+      "B": "Hanya berlaku bagi pemeluk agama Islam saja",
+      "C": "Tetap dipertahankan namun bersifat umum dan berlaku bagi seluruh umat beragama",
+      "D": "Menjadi pelengkap saja dan tidak penting lagi",
+      "E": "Diserahkan sepenuhnya kepada masing-masing daerah untuk mengaturnya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 169,
+    "question": "Setelah Indonesia merdeka, Pancasila pernah mengalami masa-masa di mana kedudukannya diuji. Ada upaya-upaya dari berbagai pihak yang ingin mengubah atau mengganti dasar negara Indonesia dengan paham atau ideologi lain. Namun, seluruh rakyat Indonesia dari berbagai lapisan masyarakat bersatu padu mempertahankan Pancasila tetap sebagai satu-satunya dasar negara.\nKesimpulan logis yang dapat diambil dari sejarah pertahanan Pancasila tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pancasila adalah dasar negara yang lemah dan mudah diganti",
+      "B": "Pancasila sudah tidak cocok lagi diterapkan di Indonesia",
+      "C": "Pancasila merupakan kesepakatan mutlak dan menjadi identitas bangsa yang tidak dapat diganti dengan ideologi lain",
+      "D": "Rakyat Indonesia tidak paham dengan ideologi lain sehingga tetap mempertahankan Pancasila",
+      "E": "Pancasila hanya bertahan karena dipaksa oleh kekuasaan pemerintah saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "question": "Dalam perumusan Piagam Jakarta, Panitia Sembilan juga merumuskan bunyi pernyataan kemerdekaan yang kemudian menjadi awal dari Pembukaan UUD 1945. Kalimat \"Kemerdekaan itu ialah hak segala bangsa dan oleh sebab itu, penjajahan di atas dunia harus dihapuskan, karena tidak sesuai dengan perikemanusiaan dan perikeadilan\" merupakan bagian yang tidak terpisahkan dari sejarah perumusan dasar negara. Kalimat ini memiliki kaitan erat dengan nilai luhur bangsa.\nKeterkaitan kalimat tersebut dengan nilai Pancasila terletak terutama pada penerapan sila ke ...",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 171,
+    "question": "Berikut ini ketentuan yang tidak tercantum dalam UUD 1945, yaitu .....",
+    "image": null,
+    "options": {
+      "A": "Pembagian kekuasaan",
+      "B": "Bentuk negara",
+      "C": "Tunjangan pejabat negara",
+      "D": "Sistem pemerintahan",
+      "E": "UUD 1945 merupakan hukum dasar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 172,
+    "question": "Berikut ini yang bukan termasuk pokok sistem pemerintahan dalam UUD 1945 adalah ...",
+    "image": null,
+    "options": {
+      "A": "Indonesia adalah negara hukum",
+      "B": "Sistem konstitusional",
+      "C": "Sistem parlementer",
+      "D": "Kekuasaan kepada negara tidak tak terbatas",
+      "E": "Presiden fidak betanggung jawab kepada DPR"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 173,
+    "question": "Pasal yang menggambarkan keanekaragaman Agama di Indonesia adalah .....",
+    "image": null,
+    "options": {
+      "A": "Pasal 28 ayat 1",
+      "B": "Pasal 29 ayat 2",
+      "C": "Pasal 30 ayat 2",
+      "D": "Pasal 28A ayat 1",
+      "E": "Pasal 28A ayat 2"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 174,
+    "question": "Pasal 18, Pasal 18A, dan Pasal 18 B dalam perubahan UUD 1945 berisi tentang ...",
+    "image": null,
+    "options": {
+      "A": "Hak Asasi Manusia",
+      "B": "Kebebasan Beragama",
+      "C": "Pemerintah daerah",
+      "D": "Demokrasi",
+      "E": "Kedaulatan Wilayah RI"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 175,
+    "question": "Berdasarkan UUD 1945, yang memegang kekuasaan eksekutif adalah ...",
+    "image": null,
+    "options": {
+      "A": "Presiden",
+      "B": "MA",
+      "C": "Presiden dan para menteri (kabinet)",
+      "D": "DPR",
+      "E": "MPR"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 176,
+    "question": "Dalam penjelasan UUD 1945 dinyatakan bahwa “negara lndonesia berdasarkan atas hukum (”rechsstaat”) tidak berdasarkan atas kekuasaan belaka (“machsstaat”). Oleh karena itu, negara dalam menjalankan aktivitasnya harus ....",
+    "image": null,
+    "options": {
+      "A": "Berdasarkan pemerintah",
+      "B": "Berdasarkan hukum",
+      "C": "Mengacu pda kebutuhan",
+      "D": "Merujuk",
+      "E": "Menuruti keinginan penguasa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 177,
+    "question": "Segala Sesuatu permasalahan yang terjadi dan menyangkut pidana harus diselesaikan secara hukum, hal ini sesuai dengan pasal ... UUD 1945.",
+    "image": null,
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "3",
+      "D": "4",
+      "E": "1"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 178,
+    "question": "Keadilan sosial menurut Pancasila seperti termaksud dalam pasal 33 UUD 1945 adalah ....",
+    "image": null,
+    "options": {
+      "A": "Perekonomian disusun atas dasar kekeluargaan",
+      "B": "Setiap orang bebas bersaing",
+      "C": "Fakir miskin mendapat pekerjaan yang layak",
+      "D": "Tidak dibenarkan adanya perusahaan swasta yang monopoli",
+      "E": "Perusahaan asing diprioritaskan dalam perekonomian"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 179,
+    "question": "Perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan. Hal ini tercantum dalam UUD 1945 (amandemen) yaitu ...",
+    "image": null,
+    "options": {
+      "A": "Pasal 31 ayat 1",
+      "B": "Pasal 32 ayat 1",
+      "C": "Pasal 33 ayat 1",
+      "D": "Pasal 34 ayat 1",
+      "E": "Pasal 35 ayat 1"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 180,
+    "question": "Setiap warga negara berhak memperoleh kesempatan yang sama da|am pemerintahan. Hal tersebut tercantum dalam UUD 1945 (amandemen) pasal ...",
+    "image": null,
+    "options": {
+      "A": "27 A ayat 1",
+      "B": "22 C ayat 1",
+      "C": "22 D ayat 1",
+      "D": "28 D ayat 3",
+      "E": "25 A ayat 1"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 181,
+    "question": "Pasal 22 C ayat 3 UUD 1945 amandemen berbunyî ...",
+    "image": null,
+    "options": {
+      "A": "DPR bersidang sedikitnya sekali dalam setahun",
+      "B": "DPR bersidang sedikitnya sekali dalam dua tahun",
+      "C": "DPR bersidang sedikitnya dua kali dalam setahun",
+      "D": "DPR bersidang sedikitnya sekali dalam lima tahun",
+      "E": "DPR bersidang sedikitnya tiga kali dalam setahun"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 182,
+    "question": "Amandemen UUD 1945 tahap kedua dilaksanakan dalam sidang tahunan MPR 2000 tanggal ...",
+    "image": null,
+    "options": {
+      "A": "7 — 18 Agustus 2000",
+      "B": "8 —28 Agustus 2000",
+      "C": "7 — 18 Agustus 2001",
+      "D": "8 — 28 Agustus 2001",
+      "E": "7 — 8 Agustus 2001"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 183,
+    "question": "Sesuai dengan ketentuan UUD 1945, setelah amandemen anggota MPR terdiri atas ...",
+    "image": null,
+    "options": {
+      "A": "Presiden dan keluarga",
+      "B": "Anggota partai politik",
+      "C": "Anggota gotongan karya dan politik",
+      "D": "DPR dan presiden",
+      "E": "DPR dan DPD"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 184,
+    "question": "Menurut Kusnardi dan Ibrahim (1983), UUD merupakan konsfitusi yang ...",
+    "image": null,
+    "options": {
+      "A": "Tidak tertulis",
+      "B": "Tercatat",
+      "C": "Tertulis",
+      "D": "Tidak tercatat",
+      "E": "Mutlak berikan jawaban beserta penjelasannya secara singkat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 185,
+    "question": "Menurut Pasal 1 ayat (1) UUD 1945; negara Indonesia ialah negara kesatuan yang berbentuk ....",
+    "image": null,
+    "options": {
+      "A": "Republik",
+      "B": "Presidensial",
+      "C": "Parlementer",
+      "D": "Demokrasi",
+      "E": "Monarki"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Bentuk negara Indonesia sebagai NKRI diatur pada Pasal ... UUD 1945",
+    "image": null,
+    "options": {
+      "A": "Pasal 1 ayat (1)",
+      "B": "Pasal 1 ayat (2)",
+      "C": "Pasal 1 ayat (3)",
+      "D": "Pasal 2 ayat (1)",
+      "E": "Pasal 2 ayat (2)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "question": "Dalam Pasal 5 ayat (1) UUD 1945, presiden berhak mengajukan rancangan undang-undang kepada ....",
+    "image": null,
+    "options": {
+      "A": "Presiden",
+      "B": "MA",
+      "C": "DPR",
+      "D": "MK",
+      "E": "BPK"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 188,
+    "question": "Undang-Undang Dasar 1945 Pasal 27 ayat (1) berisi tentang....",
+    "image": null,
+    "options": {
+      "A": "DPR berhak menetapkan APBN",
+      "B": "Hak asasi persamaan hukum dan perlakuan adil",
+      "C": "Hak asasi kesejahteraan rakyat",
+      "D": "MPR menetapkan Undang-Undang Dasar",
+      "E": "Kebebasan berserikat dan mengeluarkan pendapat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "question": "Hasil perubahan UUD 1945 yang ketiga dilaksanakan pada tanggal 9 November 2001, menambah jumlah pasal dalam Pasal 24 tentang kekuasaan kehakiman, yaitu pasal....",
+    "image": null,
+    "options": {
+      "A": "Pasal 24B dan 24C",
+      "B": "Pasal 24C dan 24D",
+      "C": "Pasal 24D dan 24E",
+      "D": "Pasal 24E dan 24F",
+      "E": "Pasal 24F dan 24G"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 191,
+    "question": "Kandungan yang terdapat dalam Pembukaan UUD 1945 alinea ke-3 adalah....",
+    "image": null,
+    "options": {
+      "A": "Negara persatuan adalah negara yang melindungi bangsa Indonesia seluruhnya",
+      "B": "Menunjukkan konsekuensi logis bahwa undang-undang dasar harus mengundang isi yang mewajibkan pemerintah dan lain-lain penyelenggara negara untuk memelihara budi pekerti kemanusiaan yang luhur",
+      "C": "Keadilan sosial yang didasarkan pada kesadaran bahwa manusia mempunyai hak dan kewajiban yang sama",
+      "D": "Negara mengatasi segala paham golongan, menghendaki persatuan",
+      "E": "Sistem negara harus berdasarkan kedaulatan rakyat dan permusyawaratan/perwakilan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "question": "Bagian keempat, Pembukaan UUD 1945 mempunyai hubungan yang bersifat kausal organis dengan Batang Tubuh UUD 1945 yang mencakup beberapa segi berikut ini, kecuali....",
+    "image": null,
+    "options": {
+      "A": "Undang-Undang Dasar ditentukan akan ada",
+      "B": "Yang diatur dalam UUD adalah tentang pembentukan pemerintahan negara",
+      "C": "Negara Indonesia ialah berbentuk Republik yang berkedaulatan rakyat",
+      "D": "Ditetapkannya dasar kerokhanian negara (dasar filsafat Negara Pancasila)",
+      "E": "Rangkaian peristiwa dan keadaan yang mendahului terbentuknya NKRI"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 194,
+    "question": "Adapun dasar pemikiran dilakukan perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 antara lain sebagai berikut ini, kecuali....",
+    "image": null,
+    "options": {
+      "A": "Karena kekuasaan tertinggi ada di tangan MPR maka tidak terjadi checks and balances",
+      "B": "Sistem UUD 1945 dominan eksekutif (executive heavy)",
+      "C": "Rumusan UUD 1945 sudah mendukung demokrasi, HAM, otonomi daerah",
+      "D": "UUD 1945 terlalu luwes dan multitafsir",
+      "E": "UUD 1945 terlalu banyak memberi kewenangan ke Presiden"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "question": "Dalam tata aturan perundang-undangan RI, UUD 1945 menempati posisi tertinggi, sedangkan peraturan perundang-undangan yang menempati posisi terbawah adalah....",
+    "image": null,
+    "options": {
+      "A": "Perpu",
+      "B": "Perda",
+      "C": "Perpres",
+      "D": "Peraturan Pemerintah",
+      "E": "Hukum adat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "question": "Segala sesuatu permasalahan yang terjadi dan menyangkut pidana harus diselesaikan secara hukum, hal ini sesuai dengan pasal ... UUD 1945",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 197,
+    "question": "Pembukaan UUD 1945 dalam kaitannya dengan HAM adalah...",
+    "image": null,
+    "options": {
+      "A": "Pedoman pelaksanaan jaminan HAM Indonesia",
+      "B": "Penjelasan pelaksanaan HAM Indonesia",
+      "C": "Piagam HAM Indonesia",
+      "D": "Rumusan pelaksanaan HAM",
+      "E": "Sumber HAM Indonesia"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 198,
+    "question": "UUD hasil amandemen terdiri dari...",
+    "image": null,
+    "options": {
+      "A": "18 bab",
+      "B": "70 pasal",
+      "C": "68 pasal",
+      "D": "73 pasal",
+      "E": "200 ayat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 199,
+    "question": "Pernyataan bahwa setiap bangsa mempunyai hak untuk merdeka, hal ini tertuang dalam Pembukaan UUD 1945 alinea ...",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 200,
+    "question": "Pada masa Demokrasi Terpimpin, Indonesia memiliki konstitusi ...",
+    "image": null,
+    "options": {
+      "A": "UUD 1945 yang diamandemen",
+      "B": "UUD 1945",
+      "C": "UUDS 1950",
+      "D": "UUD RIS",
+      "E": "UUDS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 201,
+    "question": "Di lingkungan tempat tinggal, terdapat warga yang beribadah dengan cara berbeda-beda. Saat salah satu kelompok warga melaksanakan ibadah dengan suara lantang, kelompok lain tidak protes dan justru menghargainya. Sebaliknya, saat kelompok lain membutuhkan ketenangan untuk beribadah, warga lain mengurangi kegaduhan. Tidak ada kelompok yang merasa lebih benar atau berhak mengatur keyakinan kelompok lain. Kondisi ini adalah pengamalan sila pertama, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Kebebasan beragama berarti bebas mengganggu orang lain",
+      "B": "Menghormati kemerdekaan beragama dan menjaga kerukunan hidup",
+      "C": "Setiap agama harus hidup terpisah agar aman dan damai",
+      "D": "Negara hanya mengakui satu jenis agama yang sah",
+      "E": "Toleransi hanya diperlukan jika jumlah penganutnya banyak"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 202,
+    "question": "Saat terjadi bencana alam di daerah lain, para pemuda dari berbagai suku dan latar belakang di suatu kota berinisiatif mengumpulkan bantuan. Mereka tidak mempedulikan apakah korban bencana berasal dari suku yang sama atau berbeda, agama yang sama atau berbeda. Semangat mereka didasari rasa persaudaraan sebagai sesama anak bangsa Indonesia, serta keinginan menjaga keutuhan negara. Tindakan ini merupakan wujud sila ketiga, yang maknanya adalah...",
+    "image": null,
+    "options": {
+      "A": "Persatuan didasarkan pada kesamaan asal usul dan budaya saja",
+      "B": "Mengutamakan kepentingan kelompok di atas kepentingan bangsa",
+      "C": "Menyatukan keberagaman dalam ikatan persaudaraan kebangsaan",
+      "D": "Cinta tanah air berarti menganggap budaya sendiri paling unggul",
+      "E": "Persatuan hanya dibutuhkan saat negara sedang dalam bahaya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Budi sedang mempelajari perubahan pada Bab Pemerintahan Negara. Ia menemukan bahwa sebelum amandemen, ada lembaga penasihat Presiden yang anggotanya ditunjuk sepenuhnya oleh Presiden dan memiliki peran cukup besar. Namun setelah amandemen, lembaga ini dihapus dari UUD 1945 karena dianggap tidak lagi sesuai dengan sistem pemerintahan yang baru, dan perannya diambil oleh lembaga lain atau diatur lewat undang-undang biasa.\nLembaga negara yang dihapus keberadaannya dari UUD 1945 sebagai salah satu hasil amandemen adalah ...",
+    "image": null,
+    "options": {
+      "A": "Badan Pemeriksa Keuangan",
+      "B": "Dewan Pertimbangan Agung",
+      "C": "Dewan Perwakilan Daerah",
+      "D": "Mahkamah Agung",
+      "E": "Kementerian Negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 204,
+    "question": "Seorang dosen hukum tata negara menjelaskan prinsip utama yang disepakati saat amandemen berlangsung. Ia menegaskan bahwa perubahan konstitusi dilakukan dengan semangat menyempurnakan, bukan mengganti dasar negara. Ada kesepakatan keras bahwa bagian tertentu dari UUD 1945 tidak boleh disentuh atau diubah sedikit pun, karena memuat dasar ideologi dan tujuan berdirinya negara Indonesia.\nBagian dari UUD 1945 yang mutlak tidak boleh diubah dalam seluruh proses amandemen 1999–2002 adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pasal-pasal tentang Lembaga Negara",
+      "B": "Aturan Peralihan dan Aturan Penutup",
+      "C": "Pembukaan UUD 1945",
+      "D": "Bab tentang Hak Asasi Manusia",
+      "E": "Susunan batang tubuh secara keseluruhan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 205,
+    "question": "Indonesia adalah negara kepulauan terbesar di dunia, di mana dua pertiga wilayahnya berupa perairan. Dalam pandangan Wawasan Nusantara, ruang laut, dasar laut, dan tanah di bawahnya, serta ruang udara di atasnya, memiliki kedudukan hukum yang sama mutlaknya dengan wilayah daratan. Wilayah laut bukan sekadar batas pemisah atau jalur lintas bebas, melainkan ruang kedaulatan penuh yang dikelola, dijaga, dan dimanfaatkan sepenuhnya oleh negara Indonesia.\nPernyataan yang paling tepat mencerminkan pandangan wilayah tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Wilayah darat merupakan wilayah inti, sedangkan laut hanya wilayah tambahan",
+      "B": "Laut dan segala potensi di dalamnya adalah bagian utuh dan tak terpisahkan dari wilayah negara",
+      "C": "Kedaulatan negara hanya berlaku di atas permukaan air laut, tidak sampai ke dasar laut",
+      "D": "Perairan di antara pulau-pulau Indonesia terbuka bebas untuk dimanfaatkan negara lain",
+      "E": "Batas wilayah negara hanya diukur dari garis pantai pulau-pulau terluar ke arah darat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 206,
+    "question": "Setiap kebijakan yang dibuat pemerintah, baik di tingkat pusat maupun daerah, selalu diuji dampaknya terhadap persatuan bangsa, keutuhan wilayah, serta kesejahteraan seluruh rakyat. Jika suatu kebijakan hanya menguntungkan satu kelompok atau daerah tertentu, namun berpotensi menimbulkan ketimpangan, konflik, atau memisahkan hubungan antarwilayah, maka kebijakan tersebut harus diperbaiki atau dibatalkan. Tujuannya adalah agar seluruh kebijakan senantiasa berlandaskan pada semangat persatuan dan kesatuan bangsa.\nHal ini menunjukkan bahwa Wawasan Nusantara berfungsi sebagai...",
+    "image": null,
+    "options": {
+      "A": "Pedoman berpikir, bertindak, dan kebijakan yang mengutamakan kepentingan nasional",
+      "B": "Pedoman yang memberi kebebasan penuh bagi daerah untuk mengatur dirinya sendiri",
+      "C": "Alat pembatas hak dan kewajiban warga negara di wilayah tertentu saja",
+      "D": "Konsep yang hanya digunakan saat negara menghadapi ancaman atau bahaya saja",
+      "E": "Pandangan yang memisahkan urusan pemerintahan pusat dengan pemerintahan daerah"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 207,
+    "question": "Di era informasi saat ini, budaya asing, gaya hidup, dan pemikiran dari negara lain masuk dengan sangat mudah ke Indonesia. Ada kelompok masyarakat yang berpendapat: \"Agar tetap disebut nasionalis, kita harus menolak semua hal dari luar, tidak boleh meniru apa pun, dan hanya menggunakan segala sesuatu yang asli dari Indonesia.\" Pendapat lain mengatakan: \"Nasionalisme bukan berarti tertutup. Kita boleh mengambil hal baik dari luar, asalkan kita tetap berpegang pada jati diri dan kepentingan bangsa kita sendiri.\"\nPendapat kedua mencerminkan makna nasionalisme yang tepat, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Menyerap semua budaya asing dan meninggalkan budaya sendiri agar maju",
+      "B": "Menutup diri sepenuhnya dari dunia luar agar identitas nation tidak tercampur",
+      "C": "Memilih dan mengambil hal positif dari luar, namun tetap menjaga identitas serta kepentingan bangsa sendiri",
+      "D": "Menganggap budaya bangsa sendiri sudah ketinggalan zaman dibandingkan bangsa lain",
+      "E": "Membiarkan masuknya segala pengaruh luar tanpa ada penyaringan sama sekali"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Pancasila sebagai dasar negara mengandung nilai-nilai yang menjadi jiwa dan pandangan hidup bangsa. Semangat nasionalisme Indonesia tidak boleh bertentangan dengan Pancasila. Artinya, rasa cinta tanah air kita tidak boleh berubah menjadi sikap yang membenci kelompok lain, merendahkan orang lain, atau menganggap golongan sendiri paling benar. Nasionalisme kita harus selalu berlandaskan pada nilai kemanusiaan dan persatuan.\nBerdasarkan narasi tersebut, dapat disimpulkan bahwa nasionalisme Indonesia berbeda dengan nasionalisme sempit karena...",
+    "image": null,
+    "options": {
+      "A": "Mengutamakan kepentingan golongan atau kelompok tertentu di atas kepentingan bersama",
+      "B": "Berlandaskan pada keunggulan kekuatan dan kekayaan bangsa semata",
+      "C": "Bersifat inklusif, menghargai orang lain, dan tetap berpegang pada nilai kemanusiaan serta persatuan",
+      "D": "Menjadikan bangsa Indonesia sebagai bangsa yang paling unggul dan berhak mengatur bangsa lain",
+      "E": "Mengutamakan persamaan pendapat dan pandangan agar tidak ada perbedaan sama sekali"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "question": "Ancaman di bidang sosial budaya sering kali datang berupa masuknya nilai-nilai asing yang tidak sesuai dengan norma bangsa, seperti gaya hidup bebas, individualisme, atau budaya kekerasan yang merusak tatanan masyarakat. Upaya bela negara yang paling tepat dan utama untuk menangkal ancaman ini adalah...",
+    "image": null,
+    "options": {
+      "A": "Menutup semua akses komunikasi luar negeri, melarang budaya asing masuk, dan hidup terisolasi dari dunia luar",
+      "B": "Memperkuat nilai-nilai budaya sendiri, norma agama, dan adat istiadat, serta menyaring pengaruh luar dengan bijak",
+      "C": "Menerima semua budaya asing apa adanya agar tidak dianggap tertinggal, dan mengubah budaya lama menjadi baru",
+      "D": "Membuat aturan yang sangat ketat, menghukum siapa yang mengikuti budaya baru, dan memaksakan budaya daerah",
+      "E": "Membiarkan saja perubahan itu terjadi, karena budaya akan berubah sendiri seiring berjalannya waktu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 210,
+    "question": "Seorang siswa bernama Dedi selalu datang tepat waktu ke sekolah, mengerjakan tugas dengan sungguh-sungguh, menghormati guru dan teman, serta mematuhi semua tata tertib sekolah. Bagi Dedi, hal-hal kecil ini adalah bagian dari bela negara. Alasan yang paling tepat yang mendasari pandangan Dedi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Kewajiban warga negara hanya berlaku di sekolah, sehingga jika sudah lulus tidak perlu lagi berbuat baik",
+      "B": "Bela negara harus selalu berupa tindakan besar, berani mati, atau mengangkat senjata agar dianggap berharga",
+      "C": "Kewajiban bela negara dimulai dari lingkungan terkecil, disiplin, berprestasi, dan menjadi warga negara yang baik",
+      "D": "Di sekolah memang ada aturan, tetapi di masyarakat atau rumah boleh berperilaku sesuka hati sendiri",
+      "E": "Hal-hal kecil tidak ada artinya, jadi sebaiknya Dedi melakukan hal besar saja agar berguna bagi negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 211,
+    "question": "Konsep Wawasan Nusantara dipahami sebagai cara pandang bangsa Indonesia tentang diri dan lingkungannya yang merupakan satu kesatuan ideologi, politik, ekonomi, sosial, budaya, pertahanan, dan keamanan. Konsep ini mengajarkan bahwa setiap permasalahan di satu daerah, baik di ujung barat maupun ujung timur, adalah masalah seluruh bangsa. Kemajuan di satu daerah harus berdampak bagi daerah lain demi kesejahteraan bersama.\nPenerapan konsep Wawasan Nusantara dalam pembangunan NKRI berarti...",
+    "image": null,
+    "options": {
+      "A": "Pembangunan hanya difokuskan di pulau Jawa saja karena pusat pemerintahannya ada di sana",
+      "B": "Setiap daerah membangun dirinya sendiri tanpa perlu peduli dengan daerah lain",
+      "C": "Pembangunan dilakukan secara merata dan saling mendukung demi keutuhan dan kesejahteraan nasional",
+      "D": "Kekayaan alam dari seluruh daerah dikumpulkan dan hanya dinikmati pemerintah pusat",
+      "E": "Daerah yang kaya wajib memberikan seluruh kekayaannya kepada daerah yang miskin tanpa imbalan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 212,
+    "question": "Negara Kesatuan Republik Indonesia didirikan atas persatuan seluruh suku bangsa di Indonesia, bukan atas dominasi satu suku atau kelompok tertentu. Oleh karena itu, dalam kehidupan bernegara tidak boleh ada diskriminasi atau anggapan bahwa satu kelompok lebih unggul atau lebih berhak dibandingkan kelompok lain. Setiap kelompok budaya memiliki kedudukan yang sama dan berhak mengembangkan kebudayaannya masing-masing dalam bingkai persatuan.\nPernyataan yang sesuai dengan prinsip persatuan dalam keberagaman tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Suku bangsa pendiri negara memiliki hak lebih besar dibandingkan suku lainnya",
+      "B": "Keberagaman budaya harus dikurangi agar persatuan bangsa lebih mudah tercapai",
+      "C": "Semua suku bangsa setara, berhak berkembang, dan bersatu di bawah naungan NKRI",
+      "D": "Hanya budaya suku mayoritas yang boleh dikembangkan di wilayah negara",
+      "E": "Suku bangsa kecil sebaiknya meleburkan identitasnya agar tidak terpinggirkan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 213,
+    "question": "Indonesia dikenal sebagai negara kepulauan yang sangat beragam budayanya, namun tetap kokoh sebagai satu negara kesatuan. Hal ini berbeda dengan beberapa negara lain yang memiliki keberagaman serupa namun terpecah belah. Kondisi Indonesia ini membuktikan bahwa Bhineka Tunggal Ika berfungsi sebagai...",
+    "image": null,
+    "options": {
+      "A": "Satu-satunya undang-undang yang mengikat warga negara",
+      "B": "Kekuatan pemersatu yang menjaga keutuhan wilayah dan bangsa",
+      "C": "Alat untuk menaklukkan berbagai budaya yang ada",
+      "D": "Simbol yang hanya berguna saat upacara kenegaraan saja",
+      "E": "Pembeda antara budaya maju dan budaya sederhana"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 214,
+    "question": "Dalam sebuah lomba menciptakan lagu bertema persatuan, siswa Andi membuat lirik: \"Walau kain beda coraknya, tetap satu ikatannya. Walau suara beda nadanya, tetap satu lagunya.\" Lirik ini sangat cocok dengan makna Bhineka Tunggal Ika karena menggambarkan...",
+    "image": null,
+    "options": {
+      "A": "Perbedaan adalah hal yang harus disembunyikan",
+      "B": "Keseragaman corak dan suara adalah tujuan utama",
+      "C": "Keberagaman adalah hiasan saja tanpa makna mendalam",
+      "D": "Perbedaan yang beraneka ragam menyatu menjadi satu keutuhan yang indah",
+      "E": "Semua perbedaan akhirnya akan hilang seiring berjalannya waktu"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 215,
+    "question": "Di sebuah desa terpencil, terdapat anak-anak usia sekolah dasar yang setiap hari harus membantu orang tua mereka bekerja di ladang atau mencari kayu bakar ke hutan. Orang tua mereka beralasan bahwa kondisi ekonomi keluarga sulit, sehingga anak-anak harus bekerja untuk membantu memenuhi kebutuhan hidup. Akibatnya, anak-anak tersebut tidak pernah bersekolah, tidak memiliki keterampilan dasar membaca, menulis, dan berhitung, serta tidak memiliki waktu untuk bermain dan tumbuh kembang dengan layak.\nBerdasarkan prinsip HAM, kondisi tersebut merupakan pelanggaran terhadap hak anak, terutama hak atas...",
+    "image": null,
+    "options": {
+      "A": "Perlindungan dari eksploitasi ekonomi dan hak mendapatkan pendidikan",
+      "B": "Hak atas kebebasan memilih pekerjaan",
+      "C": "Hak atas warisan orang tua",
+      "D": "Hak untuk diakui kepribadiannya di hadapan hukum",
+      "E": "Hak bergaul dan berserikat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 216,
+    "question": "Seorang warga negara bernama Siti ditangkap oleh sekelompok orang yang mengaku sebagai aparat keamanan, tanpa surat perintah penangkapan yang sah dan tanpa menjelaskan kesalahan apa yang telah ia perbuat. Ia kemudian dikurung di sebuah tempat tertutup selama berhari-hari, tidak diizinkan bertemu keluarga atau pengacara, dan bahkan diperlakukan dengan cara yang kasar hingga menimbulkan rasa sakit fisik dan mental. Ia merasa tidak ada yang bisa membela hak-haknya sebagai manusia.\nBerdasarkan ketentuan HAM internasional dan nasional, tindakan penangkapan dan perlakuan tersebut melanggar hak...",
+    "image": null,
+    "options": {
+      "A": "Atas kebebasan dan keamanan pribadi",
+      "B": "Atas pengakuan sebagai subjek hukum",
+      "C": "Atas tidak disiksa atau diperlakukan dengan kejam dan merendahkan martabat",
+      "D": "A dan C benar",
+      "E": "Semua jawaban di atas benar"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 217,
+    "question": "Secara struktur kalimat, Pembukaan UUD 1945 sangat mirip dengan naskah Piagam Jakarta. Bagian awal yang berisi pernyataan kemerdekaan, tujuan negara, hingga rumusan dasar negara, memiliki kesamaan susunan dan makna. Hal ini membuktikan bahwa Piagam Jakarta adalah induk atau naskah sumber yang langsung dijadikan acuan utama penulisan Pembukaan UUD 1945.\nPerbedaan struktur kalimat yang paling terlihat antara Piagam Jakarta dan Pembukaan UUD 1945 terletak pada...",
+    "image": null,
+    "options": {
+      "A": "Penambahan alasan dan latar belakang kemerdekaan pada Pembukaan UUD 1945",
+      "B": "Penghapusan seluruh isi tujuan negara yang ada di Piagam Jakarta",
+      "C": "Perubahan urutan dasar negara menjadi sangat berbeda",
+      "D": "Penghapusan prinsip kedaulatan rakyat",
+      "E": "Penggantian bentuk negara dari Republik menjadi Kerajaan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 218,
+    "question": "Sejarah mencatat bahwa dokumen Piagam Jakarta sempat mengalami perdebatan panjang mengenai kedudukan hukumnya. Ada pendapat yang mengatakan bahwa meski ada perubahan redaksional, jiwa dan isi Piagam Jakarta tetap melekat dalam Pembukaan UUD 1945. Hal ini diperkuat oleh keputusan-keputusan hukum negara yang mengakui keterkaitan tak terpisahkan antara kedua dokumen tersebut.\nKedudukan hukum Piagam Jakarta yang paling tepat diakui dalam ketatanegaraan Indonesia adalah...",
+    "image": null,
+    "options": {
+      "A": "Sebagai dokumen yang sudah tidak berlaku dan tidak ada hubungannya dengan konstitusi",
+      "B": "Sebagai penjelasan resmi dan bagian tak terpisahkan dari Pembukaan UUD 1945",
+      "C": "Sebagai undang-undang tersendiri yang kedudukannya setingkat di bawah UUD 1945",
+      "D": "Sebagai peraturan khusus yang hanya berlaku pada masa perjuangan saja",
+      "E": "Sebagai dokumen sejarah biasa tanpa kekuatan hukum sama sekali"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 219,
+    "question": "Ir. Soekarno dalam berbagai kesempatan menyebutkan bahwa Pancasila adalah Philosofische Grondslag atau landasan filsafat negara. Artinya, Pancasila bukan sekadar daftar asas, melainkan pandangan hidup, cita-cita, dan sumber dari segala sumber hukum di Indonesia. Segala peraturan, kebijakan, dan tindakan negara harus bersumber dan tidak boleh bertentangan dengan nilai-nilai yang ada di dalam Pancasila.\nPenalaran yang paling tepat mengenai makna Pancasila sebagai sumber dari segala sumber hukum adalah ...",
+    "image": null,
+    "options": {
+      "A": "Pancasila sama dengan undang-undang yang bisa diubah sesuka hati",
+      "B": "Semua peraturan perundang-undangan yang berlaku di Indonesia harus berlandaskan dan selaras dengan nilai-nilai Pancasila",
+      "C": "Pancasila hanya menjadi pedoman moral, tidak ada kekuatan hukumnya",
+      "D": "Hanya UUD 1945 yang harus mengacu pada Pancasila, peraturan lain bebas",
+      "E": "Pancasila menggantikan fungsi seluruh peraturan hukum di Indonesia"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Sejarah perumusan Pancasila mengajarkan bahwa kelima sila tersebut disusun secara berurutan dan sistematis. Urutan dari Ketuhanan Yang Maha Esa hingga Keadilan Sosial bagi Seluruh Rakyat Indonesia memiliki makna tingkatan nilai yang harus dilalui dan dilaksanakan secara berurutan. Dimulai dari dasar spiritual, kemudian kemanusiaan, persatuan, cara bernegara, hingga tujuan akhir negara.\nMakna urutan sila Pancasila tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Urutannya bisa diubah-ubah tergantung kebutuhan saat itu",
+      "B": "Sila yang paling atas adalah yang paling penting, sedangkan yang bawah tidak terlalu penting",
+      "C": "Merupakan satu rangkaian kesatuan yang sistematis, di mana sila yang satu menjadi dasar bagi sila berikutnya hingga mencapai tujuan negara",
+      "D": "Urutan tersebut hanya kebetulan saja saat dirumuskan",
+      "E": "Sila pertama hanya berlaku untuk pemeluk agama, sila lain untuk urusan pemerintahan saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 221,
+    "question": "Pada hari Minggu beberapa bulan silam tiga gereja di Jawa Timur mengalami teror. Dalam teror kali ini, pelaku diketahui merupakan satu keluarga.Bom diledakkan di Gereja Santa Maria Tak Bercela, GKI Diponegoro, dan Gereja Pentakosta Jalan Arjuna. Keluarga yang diketahui merupakan anggota dari kelompok JAD itu tewas dalam aksinya. Kasus di atas merupakan penyimpangan terhadap Pancasila sila ke...",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "question": "Dalam aksi teror yang dilakukan di Gereja yang terjadi di Jawa Timur, ada pula kisah heroik seorang warga gereja, Aloysius Bayu, dengan berani menghalangi motor yang digunakan pelaku teror bom untuk memasuki wilayah Gereja Santa Maria Tak Bercela. Akibatnya, bom meledak bersama dua pelaku yang diketahui kakak beradik dan turut menewaskan Bayu. Bayu meninggalkan seorang istri dan dua orang anak yang masih kecil. Aksi Bayu yang berusaha menghalangi pelaku teror merupakan sikap yang terpuji dan sesuai dengan pengamalan sila...",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 223,
+    "question": "Pada pukul 09.00 WIB pagi ini mobil diketahui mendesak masuk ke dalam Mapolda Riau dan dihalangi oleh pihak kepolisian. Empat orang lantas diketahui turun dari mobil dan menyerang dengan menggunakan samurai. Seorang pelaku lagi sempat berusaha kabur dengan membawa mobil. Sampai saat ini diketahui seorang polisi gugur dalam aksi tersebut karena ditabrak oleh pelaku yang kabur dengan mobil. Empat orang pelaku lain tewas tertembak polisi. Dua wartawan dikabarkan turut menjadi korban luka dalam insiden ini. Motif dari peristiwa di atas tidak sejalan dengan sila...",
+    "image": null,
+    "options": {
+      "A": "Keadilan",
+      "B": "Keutuhan",
+      "C": "Kemanusiaan",
+      "D": "Persatuan",
+      "E": "Kerakyatan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 224,
+    "question": "Sejumlah kasus diungkap oleh polisi di Surabaya dan daerah lain di Jawa Timur pada pekan ini. Salah satu yang menyita perhatian adalah kasus surat keterangan hasil rapid test COVID-19 palsu yang dijual kepada calon penumpang kapal. Kasus tersebut melibatkan sindikat pemalsu surat hasil tes cepat COVID-19 yang melibatkan tiga orang antara lain MR (55), BS (35), dan SH (46). Sindikat tersebut membuat surat keterangan hasil rapid test COVID-19 palsu dengan nonreaktif. Surat keterangan itu dijual kepada calon penumpang kapal di Pelabuhan Tanjung Perak Surabaya. Kasus di atas merupakan bentuk penyimpangan terhadap...",
+    "image": null,
+    "options": {
+      "A": "Sila ke-1",
+      "B": "Sila ke-2",
+      "C": "Sila ke-3",
+      "D": "Sila ke-4",
+      "E": "Sila ke-5"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 225,
+    "question": "Setelah proses kemerdekaan Indonesia, akhirnya secara resmi Indonesia menjadi negara yang merdeka, namun demikian ancaman tidak akan berhenti mengancam dan meneror kedaulatan bangsa terutama Belanda yang bernaung di bawah NICA. Dengan kembalinya Belanda bersama NICA, pertempuran terjadi di berbagai wilayah Indonesia. Langkah awal yang dilakukan Inggris untuk menengahi Belanda dan Indonesia adalah melakukan perundingan...",
+    "image": null,
+    "options": {
+      "A": "Renville",
+      "B": "Roem-Royen",
+      "C": "Konferensi Meja Bundar",
+      "D": "Linggarjati",
+      "E": "Jenewa"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 226,
+    "question": "Dalam perundingan Renville terdapat 3 negara yang siap menjadi moderator perselisihan Belanda dan Indonesia. Di antaranya adalah...",
+    "image": null,
+    "options": {
+      "A": "Belanda, Indonesia, AS",
+      "B": "AS, Jepang, Inggris",
+      "C": "Australia, Belgia, AS",
+      "D": "AS, Indonesia, Jepang",
+      "E": "Belanda, AS, Jepang"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Tujuan dari pertemuan antara Muhammad Roem dengan Van Royen adalah untuk...",
+    "image": null,
+    "options": {
+      "A": "Menyelesaikan masalah penyimpangan terhadap perjanjian Linggarjati",
+      "B": "Menyelesaikan beberapa masalah sebelum berlangsungnya KMB",
+      "C": "Menggagalkan status kemerdekaan Indonesia",
+      "D": "Persiapan Konferensi Meja Bundar dan pembebasan Irian Barat",
+      "E": "Melaksanakan perundingan antara Indonesia, Belanda dan PBB"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 228,
+    "question": "Nasionalisme merupakan suatu sikap politik atau pemahaman dari masyarakat suatu bangsa yang memiliki keselarasan kebudayaan dan wilayah. Juga memiliki kesamaan cita-cita dan tujuan sehingga timbul rasa ingin mempertahankan negaranya, baik dari internal maupun eksternal. Tantangan nasionalisme yang dihadapi bangsa Indonesia saat ini adalah...",
+    "image": null,
+    "options": {
+      "A": "Melawan kolonialisme bangsa asing",
+      "B": "Krisis multidimensional terutama di sektor ekonomi",
+      "C": "Kembalinya kolonialisme dan bangsa asing lainnya ke Indonesia",
+      "D": "Kesenjangan kesejahteraan rakyat serta tantangan peningkatan pembangunan",
+      "E": "Bertumbuhnya sifat-sifat individualisme dan kebebasan yang berlebihan pada warga negara"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 229,
+    "question": "Bela negara adalah sebuah konsep yang disusun oleh perangkat perundangan dan petinggi suatu negara tentang patriotisme seseorang, suatu kelompok atau seluruh komponen dari suatu negara dalam kepentingan mempertahankan eksistensi negara tersebut. Keikutsertaan warga negara dalam upaya bela negara diselenggarakan melalui beberapa hal di bawah ini, kecuali...",
+    "image": null,
+    "options": {
+      "A": "Pengabdian sesuai dengan profesi",
+      "B": "Mendaftarkan diri sebagai peserta Sister School Indonesia–Thailand",
+      "C": "Mengikuti kurikulum pendidikan kewarganegaraan",
+      "D": "Pelatihan dasar kemiliteran secara wajib",
+      "E": "Pengabdian sebagai prajurit TNI secara sukarela atau wajib"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 230,
+    "question": "Salah satu upaya yang dapat mengurangi ketegangan antara golongan muda dengan golongan tua adalah...",
+    "image": null,
+    "options": {
+      "A": "Pelaksanaan proklamasi kemerdekaan akan segera dilaksanakan secepatnya",
+      "B": "Keputusan Bung Karno untuk berunding dengan PPKI",
+      "C": "Tempat dan pelaksanaan proklamasi kemerdekaan yang strategis",
+      "D": "Ahmad Subardjo menjadi moderator dalam rapat",
+      "E": "Terlalu banyak anggota Jepang yang bergabung dalam keputusan kemerdekaan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 231,
+    "question": "Dampak negatif dari era keterbukaan, demokrasi, dan kemajuan di berbagai bidang adalah...",
+    "image": null,
+    "options": {
+      "A": "Devisa negara bertambah",
+      "B": "Negara Indonesia menjadi negara berkembang",
+      "C": "Masuknya investor dari negara lain bagi pembangunan perekonomian",
+      "D": "Kurang aktifnya partisipasi rakyat dalam pembangunan nasional",
+      "E": "Masuknya nilai-nilai yang kontradiksi dengan nilai-nilai budaya bangsa"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 232,
+    "question": "Upaya untuk membebaskan Irian Barat dari kekuasaan Belanda ditandai dengan...",
+    "image": null,
+    "options": {
+      "A": "Pidato Presiden Soekarno di depan Majelis Umum PBB",
+      "B": "Pembentukan Angkatan Kelima sesuai dengan usulan PKI",
+      "C": "Tenggelamnya KRI Macan Tutul oleh Angkatan Laut Belanda",
+      "D": "Pencanangan TRIKORA dalam rapat umum di kota Yogyakarta",
+      "E": "Pembentukan Cakrawirawa pasukan sukarelawan yang dinamakan Resimen"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 233,
+    "question": "Berikut yang bukan merupakan contoh wujud integrasi nasional adalah...",
+    "image": null,
+    "options": {
+      "A": "Sikap toleransi dan saling menghormati perbedaan antar umat beragama",
+      "B": "Diadakan pekan olahraga nasional yang diselenggarakan setiap 4 tahun sekali",
+      "C": "Sikap saling menonjolkan budaya daerah dengan merendahkan budaya daerah lain",
+      "D": "Pembangunan Taman Mini Indonesia Indah (TMII) di Jakarta oleh Pemerintah Republik Indonesia",
+      "E": "Sikap menghargai dan merasa ikut memiliki kebudayaan daerah lain, bahkan mau mempelajari budaya daerah lain"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 234,
+    "question": "Proses penyatuan berbagai kelompok budaya dan sosial dalam kesatuan wilayah nasional yang membentuk suatu identitas nasional adalah pengertian integrasi secara...",
+    "image": null,
+    "options": {
+      "A": "Umum",
+      "B": "Politik",
+      "C": "Nasional",
+      "D": "Harafiah",
+      "E": "Religi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 235,
+    "question": "Rendi mendaftar untuk menjadi salah satu relawan PBB yang siap dikirim ke luar negeri untuk misi bantuan kesehatan daerah terdampak konflik. Sikap Rendi merupakan salah satu bentuk pengamalan sila...",
+    "image": null,
+    "options": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat",
+      "E": "Kelima"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Lambang diyakini sebagai salah satu pendorong keberhasilan suatu cita-cita. Padi dan kapas pada burung Garuda melambangkan...",
+    "image": null,
+    "options": {
+      "A": "Ketuhanan Yang Maha Esa",
+      "B": "Kemanusiaan yang adil dan beradab",
+      "C": "Persatuan Indonesia",
+      "D": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan",
+      "E": "Keadilan sosial bagi seluruh rakyat Indonesia"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 237,
+    "question": "Di bawah ini yang merupakan pengamalan Pancasila yang dilambangkan dengan pohon beringin yaitu...",
+    "image": null,
+    "options": {
+      "A": "Menghilangkan politik dinasti",
+      "B": "Memakai perhiasan berlebihan dan barang mewah",
+      "C": "Melakukan pembajakan baik karya tulis maupun karya seni berupa gambar atau musik milik orang lain",
+      "D": "Membangun pabrik yang mana limbah dari pabrik tersebut justru merusak lingkungan masyarakat sekitar",
+      "E": "Memakai baju batik dan ikut menyaksikan acara pelestarian budaya pada kegiatan 17 Agustus"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 238,
+    "question": "Berikut yang sesuai dengan Pancasila sila kelima, yaitu...",
+    "image": null,
+    "options": {
+      "A": "Toleransi",
+      "B": "Musyawarah",
+      "C": "Mufakat",
+      "D": "Hidup hemat",
+      "E": "Hidup rukun"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 239,
+    "question": "Krisis moneter yang dialami Indonesia sejak tahun 1997–1998, ditandai dengan melemahnya nilai tukar rupiah yang sangat drastis. Hal ini disebabkan oleh...",
+    "image": null,
+    "options": {
+      "A": "Kurs Dollar yang fluktuatif",
+      "B": "Fundamental yang lemah",
+      "C": "Faktor internal maupun eksternal",
+      "D": "Gejolak politik negara",
+      "E": "Defisit transaksi negara cenderung membesar per tahun"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 240,
+    "question": "Sistem pertahanan dan keamanan negara Indonesia mengalami perubahan yang substansial, yakni TNI sebagai kekuatan pertahanan negara, sedangkan Polri sebagai kekuatan dengan fungsi...",
+    "image": null,
+    "options": {
+      "A": "Sosial kemasyarakatan",
+      "B": "Keamanan dan ketertiban masyarakat",
+      "C": "Menjaga hukum dan keadilan",
+      "D": "Penyidikan dan keamanan publik",
+      "E": "Pengadilan umum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "question": "Nilai subjektif Pancasila artinya nilai-nilai tersebut adalah hasil pemikiran bangsa Indonesia sendiri sepanjang sejarahnya. Berikut ini yang termasuk dalam nilai subjektif Pancasila yang tepat yaitu....",
+    "image": null,
+    "options": {
+      "A": "Nilai-nilai Pancasila terkait dengan hidup kemanusiaan yang mutlak antara manusia dengan Tuhan, antara manusia dengan manusia lain dan antara manusia dengan lingkungannyaia",
+      "B": "Pancasila dalam Pembukaan UUD Tahun 1945 menurut ilmu hukum memenuhi syarat sebagai kaidah negara yang fundamental, tidak dapat diabaikan oleh setiap orang atau badan kecuali pembentuk negara yaitu PPKI yang sekarang sudah tidak ada",
+      "C": "Pembukaan UUD Tahun 1945 secara hukum tidak dapat diubah oleh siapa pun termasuk MPR hasil pemilihan umum. Mengubah Pembukaan UUD Tahun 1945 artinya membubarkan negara Indonesia",
+      "D": "Nilai-nilai Pancasila mengandung tujuan nilai kerohanian yaitu nilai kebenaran, keadilan, kebaikan, kebijaksanaan, etis, estetis dan religius yang perwujudannya sesuai dengan kepribadian bangsa Indonesia",
+      "E": "Nilai-nilai yang ada dalam Pancasila diakui kebenarannya dan keadilannya oleh bangsa-bangsa lain di dunia"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 242,
+    "question": "Sikap di bawah ini yang paling sesuai dengan Pancasila yang dilambangkan dengan padi dan kapas, yaitu.....",
+    "image": null,
+    "options": {
+      "A": "Tidak bergaya hidup mewah",
+      "B": "Tidak semena-mena terhadap orang lain",
+      "C": "Gemar melakukan kegiatan kemanusiaan",
+      "D": "Tidak memaksakan suatu agama dan kepercayaan kepada orang lain",
+      "E": "Mengembangkan sikap hormat menghormati dan bekerja sama dengan bangsa lain"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 243,
+    "question": "Erza melewatkan deadline untuk proyek yang penting karena dua anggota timnya tidak memberikan pekerjaan yang diharapkan. Alih-alih menyalahkan anggota tim, Erza mengambil tindakan terhadap keterlambatan tersebut dengan memastikan untuk melakukan perbaikan terhadap proses kerja dan pelatihan anggota timnya agar mencegah peristiwa yang sama terulang kembali. Sikap Erza merupakan salah satu bentuk integritas yaitu....",
+    "image": null,
+    "options": {
+      "A": "Disiplin",
+      "B": "Tenggang rasa",
+      "C": "Semangat tinggi",
+      "D": "Tanggung jawab",
+      "E": "Berjiwa kepemimpinan"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 244,
+    "question": "Pemerintah RI dan Belanda sebelumnya pada 17 Agustus 1947 sepakat untuk melakukan gencatan senjata hingga ditandatanganinya persetujuan Renville, tetapi pertempuran terus terjadi antara tentara Belanda dengan berbagai laskar yang tidak termasuk TNI, dan sesekali unit pasukan TNI juga terlibat baku tembak dengan tentara Belanda, seperti yang terjadi antara Karawang dan Bekasi. Wilayah Indonesia yang diakui sesuai perjanjian Renville yaitu....",
+    "image": null,
+    "options": {
+      "A": "Jawa Tengah, Yogyakarta, dan Sumatra",
+      "B": "Jawa Timur, Yogyakarta, dan Bali",
+      "C": "Sumatra, Madura, Jawa Tengah",
+      "D": "Jakarta, Sumatra, dan Madura",
+      "E": "Jawa, Sumatra, Bali"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 245,
+    "question": "Pada masa Orde Baru, kabinet Sukiman dianggap melakukan pengambilan kebijakan politik luar negeri bebas aktif sebab....",
+    "image": null,
+    "options": {
+      "A": "Indonesia memihak blok barat dan menolak blok timur",
+      "B": "Adanya peristiwa 17 Oktober yang didahului unjuk rasa",
+      "C": "Indonesia mendapat bantuan senjata dari Uni Soviet",
+      "D": "Indonesia menjalin hubungan bilateral dengan Singapura",
+      "E": "Ditandatanganinya kerja sama dengan AS atas dasar Mutual Security Act (MSA)"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 246,
+    "question": "Nasionalisme merupakan perwujudan dari rasa cinta tanah air yang mengutamakan semangat kebangsaan yang kuat, misalnya gerakan mencintai produk-produk dalam negeri dengan cara tetap menggunakan produk dalam negeri. Tantangan nasionalisme yang dihadapi oleh bangsa Indonesia pada tahun 1999 hingga saat ini yang tepat adalah.....",
+    "image": null,
+    "options": {
+      "A": "Melawan kolonialisme bangsa asing ke Indonesia",
+      "B": "Mempertahankan kemerdekaan dari kembalinya kolonialisme bangsa asing",
+      "C": "Tumbuhnya sifat individualisme dan liberalisme pada masyarakat",
+      "D": "Krisis multidimensional terutama di sektor ekonomi",
+      "E": "Banyaknya kesenjangan sosial dan tidak meratanya pembangunan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 247,
+    "question": "Sistem pertahanan negara adalah sistem pertahanan yang bersifat semesta (sishankamrata). Makna dari bersifat semesta tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Sistem pertahanan merupakan suatu keadaan yang selalu berkembang dan berubah-ubah, oleh karena itu sistem pertahanan nasional harus dikembangkan dan dibina agar sesuai dengan perkembangan zaman",
+      "B": "Sistem pertahanan merupakan sebuah amanat yang harus diperjuangkan bersama-sama oleh setiap komponen bangsa, sesuai dengan kemampuan dan kapasitas masing-masing",
+      "C": "Sistem pertahanan harus melibatkan seluruh warga negara, wilayah, dan sumber daya nasional lainnya, serta dipersiapkan secara dini oleh pemerintah dan diselenggarakan secara total, terpadu, terarah, dan berlanjut untuk menegakkan kedaulatan negara, keutuhan wilayah, dan keselamatan segenap bangsa dari segala ancaman",
+      "D": "Sistem pertahanan nasional adalah kondisi dinamis bangsa Indonesia yang meliputi segenap aspek kehidupan nasional yang terintegrasi, berisi keuletan dan gangguan baik yang datang dari luar dan dari dalam untuk menjamin identitas, integrasi, kelangsungan hidup bangsa dan negara serta perjuangan mencapai tujuan nasional",
+      "E": "Sistem pertahanan nasional merupakan persyaratan utama bagi bangsa yang maju dan mandiri dengan semangat tidak mengenal menyerah yang akan memberikan dorongan dan rangsangan untuk berbuat dalam mengatasi tantangan, hambatan, dan gangguan yang timbul"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 248,
+    "question": "Berdasarkan UUD 1945 Pasal 1 Ayat 1 menyatakan bahwa Negara Indonesia adalah Negara Kesatuan yang berbentuk Republik. Perbedaan negara kesatuan dengan negara serikat terletak pada.....",
+    "image": null,
+    "options": {
+      "A": "Jabatan kepala negara",
+      "B": "Sistem pemerintahan",
+      "C": "Hak untuk mengatur daerahnya",
+      "D": "Jumlah undang-undang dasar yang dimiliki",
+      "E": "Kedaulatan keluar dipegang oleh pemerintah pusat"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 249,
+    "question": "Pernyataan di bawah ini yang mencerminkan Pancasila sila kemanusiaan yang tepat adalah....",
+    "image": null,
+    "options": {
+      "A": "Keputusan yang diambil harus dapat dipertanggungjawabkan secara moral kepada Tuhan Yang Maha Esa, menjunjung tinggi harkat dan martabat manusia serta nilai-nilai kebenaran dan keadilan",
+      "B": "Hormat menghormati dan bekerja sama antar pemeluk agama dan penganut-penganut kepercayaan yang berbeda-beda sehingga terbina kerukunan hidup",
+      "C": "Bangsa Indonesia merasa dirinya sebagai bagian dari seluruh umat manusia, karena itu dikembangkan sikap hormat-menghormati dan bekerja sama dengan bangsa lain",
+      "D": "Mengembangkan perbuatan-perbuatan yang luhur yang mencerminkan sikap dan suasana kekeluargaan dan gotong-royongkah asli",
+      "E": "Percaya dan takwa kepada Tuhan Yang Maha Esa sesuai dengan agama dan kepercayaan masing-masing menurut dasar kemanusiaan yang adil dan beradab"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 250,
+    "question": "Pandu adalah seorang siswa yang kaya. Orang tuanya adalah pengusaha konveksi sekaligus donatur di sekolahnya. Tidak hanya itu, Pandu juga merupakan siswa yang pintar. Hampir setiap terima rapor, Pandu selalu ranking satu. Akan tetapi, dia hampir tidak memiliki teman akrab karena sikap sombong dan suka meremehkan teman lainnya, khususnya teman yang dia anggap kurang mampu dan bodoh. Perilaku Pandu sebagai seorang siswa yang sombong tidak mencerminkan perilaku sesuai Pancasila sila ke ....",
+    "image": null,
+    "options": {
+      "A": "Lima",
+      "B": "Empat",
+      "C": "Tiga",
+      "D": "Dua",
+      "E": "Satu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 249,
     "question": "Pancasila sebagai dasar negara Indonesia secara legal formal disahkan pada tanggal...",
     "options": {
       "A": "1 Juni 1945",
@@ -11,7 +3235,7 @@
     "correctAnswer": "D"
   },
   {
-    "id": 2,
+    "id": 250,
     "question": "Kekuasaan kehakiman di Indonesia yang bertugas menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah...",
     "options": {
       "A": "Mahkamah Agung",
@@ -22,7 +3246,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 3,
+    "id": 251,
     "question": "Batas wilayah laut teritorial Indonesia berdasarkan Deklarasi Djuanda tahun 1957 adalah sebesar...",
     "options": {
       "A": "3 mil laut",
@@ -33,7 +3257,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 4,
+    "id": 252,
     "question": "Hingga saat ini, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 telah mengalami amandemen sebanyak...",
     "options": {
       "A": "2 kali",
@@ -44,7 +3268,7 @@
     "correctAnswer": "C"
   },
   {
-    "id": 5,
+    "id": 253,
     "question": "Asas kewarganegaraan yang menentukan kewarganegaraan seseorang berdasarkan pertalian darah atau keturunan orang tuanya dinamakan...",
     "options": {
       "A": "Ius Soli",

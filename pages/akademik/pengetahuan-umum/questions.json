@@ -1,6 +1,3257 @@
 [
   {
     "id": 1,
+    "question": "Seorang warga A meminjamkan uang kepada warga B sebesar 50 juta rupiah dengan perjanjian tertulis. Namun B tidak mengembalikan uang sesuai waktu yang disepakati. A kemudian menggugat B ke pengadilan untuk menuntut pengembalian uang beserta ganti rugi. Dalam kasus lain, seseorang melakukan pencurian sepeda motor dan diproses oleh polisi serta jaksa.\nPerbedaan utama kedua kasus tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Keduanya termasuk hukum pidana",
+      "B": "Keduanya termasuk hukum perdata",
+      "C": "Kasus pertama perdata, kasus kedua pidana",
+      "D": "Kasus pertama pidana, kasus kedua perdata",
+      "E": "Keduanya bukan ranah hukum Indonesia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Dalam struktur organisasi Polri, terdapat berbagai fungsi operasional seperti Reserse Kriminal (Reskrim), Intelijen, Lalu Lintas, dan Sabhara. Sabhara sering terlihat melakukan patroli, pengamanan unjuk rasa, serta penjagaan objek vital. Dalam suatu aksi demonstrasi besar di ibu kota, Sabhara dikerahkan untuk mengamankan lokasi agar tidak terjadi kericuhan.\nPeran utama satuan Sabhara adalah….",
+    "image": null,
+    "options": {
+      "A": "Melakukan penyidikan tindak pidana berat",
+      "B": "Melakukan intelijen rahasia negara",
+      "C": "Melakukan pengamanan, patroli, dan pengendalian massa",
+      "D": "Mengadili pelaku kejahatan di pengadilan",
+      "E": "Membuat undang-undang kepolisian"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Kepolisian Indonesia mengalami perkembangan panjang sejak masa penjajahan Belanda, Jepang, hingga kemerdekaan. Setelah Proklamasi 17 Agustus 1945, Polisi Republik Indonesia menjadi bagian penting dalam mempertahankan kemerdekaan. Salah satu momen penting adalah pengangkatan Jenderal Polisi Hoegeng Imam Santoso yang dikenal sebagai sosok bersih dan tegas.\nPeran kepolisian pada awal kemerdekaan paling tepat adalah….",
+    "image": null,
+    "options": {
+      "A": "Menggantikan tentara Jepang",
+      "B": "Menjadi alat kolonial Belanda",
+      "C": "Menjaga keamanan dan mempertahankan kemerdekaan bersama rakyat",
+      "D": "Mengatur ekonomi nasional",
+      "E": "Membentuk konstitusi negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Dalam sistem hukum Indonesia, terdapat asas legalitas yang menyatakan bahwa seseorang hanya dapat dihukum jika perbuatannya telah diatur dalam undang-undang sebelum perbuatan dilakukan. Dalam sebuah kasus, seseorang tidak dapat dihukum karena perbuatannya belum diatur dalam hukum pidana saat itu.\nAsas yang dimaksud adalah….",
+    "image": null,
+    "options": {
+      "A": "Asas praduga tak bersalah",
+      "B": "Asas legalitas",
+      "C": "Asas kebebasan hakim",
+      "D": "Asas ultimum remedium",
+      "E": "Asas persamaan di depan hukum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Pemerintah Indonesia dalam beberapa tahun terakhir gencar melakukan digitalisasi layanan publik, termasuk SIM online, SKCK online, dan pelayanan kepolisian berbasis aplikasi. Tujuannya adalah meningkatkan transparansi dan efisiensi pelayanan kepada masyarakat.\nTujuan utama kebijakan tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Memperbanyak tenaga kerja manual",
+      "B": "Mengurangi transparansi layanan publik",
+      "C": "Meningkatkan efisiensi, transparansi, dan akses masyarakat",
+      "D": "Menghapus fungsi kepolisian",
+      "E": "Mengurangi penggunaan teknologi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Dalam ekonomi global, kebijakan suku bunga oleh bank sentral Amerika Serikat sering berdampak pada negara berkembang, termasuk Indonesia.\n Ketika suku bunga di AS naik, dampak yang paling mungkin terjadi adalah....",
+    "image": null,
+    "options": {
+      "A": "Arus modal masuk ke negara berkembang meningkat",
+      "B": "Nilai tukar mata uang negara berkembang cenderung menguat",
+      "C": "Arus modal keluar dari negara berkembang menuju AS",
+      "D": "Inflasi global langsung menurun drastis",
+      "E": "Ekspor negara berkembang meningkat signifikan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Fenomena disrupsi digital telah mengubah struktur pasar tenaga kerja. Banyak pekerjaan konvensional tergantikan oleh otomatisasi, sementara pekerjaan baru berbasis teknologi bermunculan.\n Dampak jangka panjang yang paling mungkin terjadi adalah....",
+    "image": null,
+    "options": {
+      "A": "Penurunan kebutuhan tenaga kerja secara permanen",
+      "B": "Pergeseran jenis pekerjaan yang membutuhkan keterampilan baru",
+      "C": "Hilangnya seluruh pekerjaan sektor jasa",
+      "D": "Tidak adanya perubahan signifikan dalam struktur ekonomi",
+      "E": "Penurunan produktivitas global"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Dalam hubungan internasional, organisasi multilateral seperti PBB memiliki peran penting dalam menjaga perdamaian dunia. Namun, efektivitasnya sering diperdebatkan karena adanya hak veto di Dewan Keamanan.\n Dampak utama dari sistem veto tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Semua keputusan dapat diambil dengan cepat",
+      "B": "Negara kecil memiliki kekuatan lebih besar",
+      "C": "Keputusan strategis dapat terhambat oleh kepentingan negara besar",
+      "D": "Konflik global dapat diselesaikan secara otomatis",
+      "E": "Tidak ada pengaruh negara besar dalam keputusan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Dalam konteks bonus demografi di Indonesia, jumlah penduduk usia produktif lebih besar dibanding usia nonproduktif. \nAgar kondisi ini menjadi keuntungan ekonomi, hal utama yang harus dilakukan adalah....",
+    "image": null,
+    "options": {
+      "A": "Membatasi jumlah tenaga kerja",
+      "B": "Meningkatkan kualitas pendidikan dan keterampilan",
+      "C": "Mengurangi investasi di sektor industri",
+      "D": "Menambah jumlah impor tenaga kerja",
+      "E": "Mengurangi akses pendidikan tinggi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Perubahan iklim global menyebabkan peningkatan suhu rata-rata bumi. \nSalah satu dampak yang paling kompleks bagi Indonesia sebagai negara agraris adalah...",
+    "image": null,
+    "options": {
+      "A": "Peningkatan hasil panen secara konsisten",
+      "B": "Stabilitas musim tanam sepanjang tahun",
+      "C": "Ketidakpastian pola musim yang memengaruhi produksi pangan",
+      "D": "Penurunan kebutuhan irigasi",
+      "E": "Hilangnya seluruh sektor pertanian"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Suatu negara mengalami peningkatan jumlah uang yang beredar di masyarakat secara drastis dalam waktu singkat. Akibatnya, harga barang dan jasa di pasar naik terus-menerus, nilai mata uang negara tersebut menurun tajam, dan masyarakat mulai kesulitan memenuhi kebutuhan hidup sehari-hari. Fenomena ini menjadi perhatian utama dalam ekonomi makro karena...",
+    "image": null,
+    "options": {
+      "A": "Hanya berdampak pada pedagang besar dan perusahaan multinasional",
+      "B": "Menunjukkan kesehatan perekonomian negara dan memengaruhi kesejahteraan seluruh masyarakat",
+      "C": "Merupakan masalah yang hanya bisa diselesaikan oleh pihak swasta",
+      "D": "Tidak berhubungan dengan kebijakan pemerintah atau bank sentral",
+      "E": "Hanya terjadi di negara yang pendapatannya tergolong rendah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Di daerah pegunungan yang dulu pernah mengalami aktivitas gunung berapi, terlihat adanya cerukan-cerukan panjang yang terbentuk karena aliran air hujan yang terus menerus turun dan mengalir di permukaan lereng. Semakin lama, cerukan tersebut semakin dalam dan lebar karena air membawa butiran tanah serta batuan ke bagian bawah. Akibatnya, lereng gunung menjadi lebih curam dan bentuk permukaannya berubah drastis dibandingkan 20 tahun yang lalu.\nProses perubahan bentuk muka bumi yang terjadi di wilayah tersebut disebut...",
+    "image": null,
+    "options": {
+      "A": "Pelapukan Mekanis",
+      "B": "Erosi Alur",
+      "C": "Sedimentasi Delta",
+      "D": "Tektonisme Vertikal",
+      "E": "Vulkanisme Eksplosif"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Konsep Big Data merujuk pada kumpulan data yang sangat besar, kompleks, dan beragam yang dihasilkan setiap detiknya dari berbagai aktivitas digital. Data ini kemudian diolah untuk menemukan pola dan tren yang berguna. Tujuan utama pengolahan Big Data adalah untuk...",
+    "image": null,
+    "options": {
+      "A": "Menumpuk informasi tanpa tujuan jelas",
+      "B": "Membuat komputer menjadi berat dan lambat",
+      "C": "Mengetahui rahasia pribadi setiap orang",
+      "D": "Mendukung pengambilan keputusan yang lebih akurat dan tepat sasaran",
+      "E": "Menggantikan fungsi manusia dalam berpikir sepenuhnya"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Setelah serangan Amerika Serikat terhadap fasilitas nuklir Iran, banyak pihak yang menilai dampak serangan tersebut terhadap program nuklir Iran. Berdasarkan penilaian dari para ahli dan laporan lembaga internasional, dampak utama serangan tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "Menghancurkan sepenuhnya kemampuan Iran mengembangkan program nuklir",
+      "B": "Menghentikan program nuklir Iran untuk selamanyaLinggarjati",
+      "C": "Menghambat kemajuan program nuklir Iran selama beberapa bulan hingga satu tahun",
+      "D": "Membuat Iran sepenuhnya meninggalkan rencana pengembangan senjata nuklir",
+      "E": "Menyebabkan kerusakan ringan dan tidak memengaruhi kemajuan program nuklir"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Rian baru saja membeli sepeda motor bekas. Ia mendapatkan surat-surat kendaraan dan langsung mengendarainya pulang ke rumahnya yang berjarak sekitar 50 km dari tempat pembelian. Di tengah jalan, ia dicek oleh petugas polisi dan ternyata data nomor polisi pada kendaraan tidak sesuai dengan yang tertera di Surat Tanda Nomor Kendaraan (STNK). Rian mengaku tidak mengetahui hal tersebut karena ia baru saja membelinya. Berdasarkan peraturan yang berlaku, tanggung jawab dalam hal ini adalah...",
+    "image": null,
+    "options": {
+      "A": "Penjual kendaraan yang bertanggung jawab sepenuhnya",
+      "B": "Rian bertanggung jawab karena sebagai pengemudi, ia wajib memastikan kesesuaian antara kendaraan dan surat-suratnya sebelum digunakan di jalan raya",
+      "C": "Polisi salah karena Rian baru saja membeli kendaraan",
+      "D": "Kesalahan ada pada instansi penerbit STNK",
+      "E": "Tidak ada yang bersalah karena ini kesalahan administrasi semata"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Upacara Ngaben adalah ritual pembakaran jenazah atau kremasi yang sangat sakral dan meriah. Tujuan utama dari upacara ini adalah untuk menyucikan roh orang yang meninggal dunia agar dapat kembali ke asalnya dan lepas dari ikatan duniawi. Upacara Ngaben merupakan tradisi khas dari masyarakat...",
+    "image": null,
+    "options": {
+      "A": "Jawa",
+      "B": "Sunda",
+      "C": "Madura",
+      "D": "Bali",
+      "E": "Dayak"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Perlawanan rakyat terhadap penjajah tidak hanya menggunakan senjata tajam, namun juga menggunakan strategi perang gerilya, diplomasi, hingga perlawanan ekonomi. Salah satu tokoh yang memimpin perlawanan melalui jalur diplomasi dan politik serta berhasil memimpin Konferensi Asia Afrika (KAA) tahun 1955 adalah...",
+    "image": null,
+    "options": {
+      "A": "Ir. Soekarno",
+      "B": "Moh. Hatta",
+      "C": "Sutan Syahrir",
+      "D": "Ki Hajar Dewantara",
+      "E": "Gajah Mada"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Pada sistem pencernaan manusia, makanan akan mengalami proses pencernaan secara mekanik dan kimiawi. Organ yang berfungsi mencerna makanan secara mekanik dengan bantuan gigi serta mengubah zat tepung menjadi gula sederhana secara kimiawi adalah...",
+    "image": null,
+    "options": {
+      "A": "Lambung",
+      "B": "Usus halus",
+      "C": "Mulut",
+      "D": "Kerongkongan",
+      "E": "Hati"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Dalam dunia olahraga internasional, terdapat badan tertinggi yang mengatur seluruh aspek kegiatan Olimpiade. Badan inilah yang memiliki wewenang menentukan negara tuan rumah dan cabang olahraga yang dipertandingkan.\nNama badan internasional tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "FIFA",
+      "B": "IOC",
+      "C": "WADA",
+      "D": "UNICEF",
+      "E": "IBF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Permainan bola voli memiliki teknik dasar yang harus dikuasai. Salah satu tekniknya dilakukan dengan kedua tangan dirapatkan dan digunakan untuk menerima servis atau serangan lawan agar bola tidak jatuh.\nTeknik dasar yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Smash",
+      "B": "Passing Bawah",
+      "C": "Passing Atas",
+      "D": "Servis",
+      "E": "Blocking"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Perhatikan konfigurasi elektron berikut: 11Na: 2, 8, 1 dan 17Cl: 2, 8, 7. Agar keduanya mencapai kestabilan, maka atom Natrium akan melepaskan 1 elektron dan atom Klorin akan menerima elektron tersebut. Jenis ikatan kimia yang terbentuk dari serah-terima elektron ini disebut...",
+    "image": null,
+    "options": {
+      "A": "Ikatan Kovalen",
+      "B": "Ikatan Logam",
+      "C": "Ikatan Kovalen Koordinasi",
+      "D": "Ikatan Ion",
+      "E": "Ikatan Hidrogen"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 22,
+    "question": "Sebuah sepeda motor bergerak dengan kecepatan 72 km/jam. Pengendara melihat lampu merah di depannya dan segera mengerem hingga motor berhenti setelah menempuh jarak 10 meter. Besar perlambatan yang dialami oleh sepeda motor tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "10m/s2",
+      "B": "20m/s2",
+      "C": "5m/s2",
+      "D": "7,2m/s2",
+      "E": "2m/s2"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Dalam sebuah acara resmi kenegaraan, kepolisian ditugaskan untuk melakukan pengamanan ketat bagi pejabat tinggi negara dan tamu penting. Berdasarkan Peraturan Kepolisian tentang pengamanan tokoh penting, hal utama yang menjadi sasaran pengamanan tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Mencegah terjadinya gangguan, ancaman, atau bahaya yang dapat membahayakan keselamatan dan keamanan mereka",
+      "B": "Menunjukkan kekuatan dan kelengkapan perlengkapan kepolisian kepada masyarakat luas",
+      "C": "Melarang semua warga masyarakat untuk berada di sekitar lokasi acara selama kegiatan berlangsung",
+      "D": "Memastikan acara berjalan mewah dan mengesankan bagi tamu yang hadir",
+      "E": "Menyeleksi tamu undangan dan memutuskan siapa saja yang layak masuk ke dalam ruangan acara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Seorang saksi mata kasus kejahatan merasa khawatir dan takut memberikan keterangan karena diancam oleh pihak yang terlibat dalam kasus tersebut. Berdasarkan Peraturan Kepolisian tentang perlindungan saksi dan korban, tindakan yang wajib dilakukan oleh kepolisian adalah...",
+    "image": null,
+    "options": {
+      "A": "Menyarankan saksi untuk diam saja agar terhindar dari bahaya",
+      "B": "Memberikan jaminan keamanan dan perlindungan kepada saksi selama proses hukum berlangsung",
+      "C": "Memaksa saksi untuk tetap bersaksi meskipun merasa sangat terancam",
+      "D": "Mengabaikan kekhawatiran saksi karena dianggap sebagai risiko biasa dalam penegakan hukum",
+      "E": "Menyerahkan perlindungan saksi kepada keluarga saksi sendiri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Pemerintah berusaha menanggulangi bencana alam yang melanda suatu wilayah dengan cara mengerahkan tim penolong, mendirikan tempat pengungsian, serta menyalurkan bantuan pangan dan obat-obatan. Seluruh kegiatan ini dilakukan dengan cepat dan tepat sasaran sesuai dengan wewenang yang dimilikinya dalam menjaga keamanan dan kesejahteraan masyarakat, serta tetap berlandaskan peraturan yang berlaku.\nKewenangan yang dijalankan oleh pemerintah dalam kasus di atas adalah fungsi...",
+    "image": null,
+    "options": {
+      "A": "Legislasi, karena membuat aturan penanggulangan bencana",
+      "B": "Pengawasan, karena memantau kondisi korban bencana",
+      "C": "Yudisial, karena menentukan siapa yang berhak mendapat bantuan",
+      "D": "Eksekutif, karena menyelenggarakan pelayanan dan perlindungan masyarakat",
+      "E": "Anggaran, karena mengelola dana bantuan bencana"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 26,
+    "question": "Sebuah peraturan daerah dibuat oleh lembaga perwakilan rakyat daerah bersama kepala daerah untuk mengatur urusan rumah tangga daerahnya sendiri. Peraturan ini dibuat agar sesuai dengan kondisi dan kebutuhan masyarakat setempat, namun pembuatannya tidak boleh bertentangan dengan undang-undang tingkat nasional yang berlaku di seluruh wilayah negara.\nPernyataan yang tepat mengenai pembagian wewenang dalam narasi di atas adalah...",
+    "image": null,
+    "options": {
+      "A": "Lembaga legislatif daerah berwenang membuat aturan bebas tanpa batas",
+      "B": "Lembaga eksekutif daerah satu-satunya yang berwenang membuat aturan",
+      "C": "Peraturan daerah dibuat bersama namun harus tunduk pada aturan yang lebih tinggi",
+      "D": "Lembaga yudikatif daerah yang memegang wewenang utama pembuatan aturan",
+      "E": "Peraturan daerah sama kedudukannya dengan undang-undang nasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Dalam konsep reformasi, hubungan antara Polri dan masyarakat diubah dari pola hubungan penguasa-tertib menjadi pola kemitraan. Artinya, keamanan dan ketertiban tidak lagi dianggap sebagai tanggung jawab kepolisian semata, melainkan menjadi urusan bersama antara kepolisian dan seluruh elemen masyarakat. Konsep kerja sama ini dikenal dengan istilah...",
+    "image": null,
+    "options": {
+      "A": "Kepolisian Otoriter",
+      "B": "Kepolisian Masyarakat",
+      "C": "Kepolisian Terpusat",
+      "D": "Kepolisian Militer",
+      "E": "Kepolisian Independen"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Seorang anggota Polri sedang melakukan patroli malam hari di wilayah yang dikenal rawan terjadi kejahatan. Saat berkeliling, ia melihat sekelompok orang yang terlihat mencurigakan sedang berkumpul di tempat gelap. Anggota Polri tersebut mendekat dengan hati-hati, memperkenalkan diri dan tujuan tugasnya, kemudian meminta identitas serta alasan keberadaan mereka di tempat tersebut dengan nada bicara yang sopan namun tegas. Setelah diyakini bahwa mereka tidak berniat jahat, anggota Polri meminta mereka untuk tidak berlama-lama di lokasi itu demi keamanan bersama.\nPendekatan yang dilakukan oleh anggota Polri tersebut mengutamakan prinsip...",
+    "image": null,
+    "options": {
+      "A": "Kekuatan fisik dan ancaman agar orang takut",
+      "B": "Komunikasi yang baik, kewaspadaan, dan penegasan aturan secara manusiawi",
+      "C": "Mengabaikan warga yang terlihat mencurigakan selama tidak terjadi tindak pidana",
+      "D": "Mematuhi batas kecepatan yang ditetapkan di jalan raya",
+      "E": "Menangkap siapa saja yang berada di tempat sepi tanpa pertanyaan terlebih dahulu",
+      "F": "Menyembunyikan identitas diri agar dapat mengawasi dengan leluasa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "question": "Presiden Republik Indonesia mengeluarkan Peraturan Presiden (Perpres) untuk membentuk Tim Nasional Percepatan Pembangunan Ibu Kota Nusantara. Tim ini beranggotakan pejabat dari berbagai kementerian, ahli tata ruang, dan perwakilan ahli lingkungan. Tugas utamanya adalah merumuskan rencana induk, mengoordinasikan pelaksanaan pembangunan, serta memantau kemajuan proyek pembangunan ibu kota baru. Dalam peraturan tersebut secara tegas disebutkan bahwa tim ini akan dibubarkan secara otomatis setelah pembangunan tahap selesai dan pemerintahan resmi beroperasi sepenuhnya di lokasi baru, tanpa perlu diterbitkan peraturan pembubaran terpisah.\nBerdasarkan narasi di atas, Tim Nasional tersebut dikategorikan sebagai Badan Adhoc Pemerintah Pusat karena alasan utama adalah...",
+    "image": null,
+    "options": {
+      "A": "Dibentuk untuk menjadi struktur organisasi baru yang tetap dan permanen",
+      "B": "Memiliki tugas yang berjalan terus-menerus dan tidak memiliki batas waktu berakhir",
+      "C": "Dibentuk oleh Pemerintah Pusat untuk tugas khusus tertentu dan dibubarkan setelah tugas selesai",
+      "D": "Memiliki wewenang mengeluarkan peraturan yang berlaku secara abadi bagi seluruh rakyat",
+      "E": "Menjadi bagian tetap dari salah satu kementerian yang sudah ada dalam struktur kabinet"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Tumbuhan teh sering dipangkas pucuknya untuk meningkatkan jumlah pertimbangan dan jumlah daun muda yang terbentuk. Proses biologis yang terkait dengan hal tersebut.",
+    "image": null,
+    "options": {
+      "A": "Tidak berpengaruh terhadap pertumbuhan sistem apikal dan sistem lateral.",
+      "B": "Meningkatkan pertumbuhan meristem apikal dan menekan pertumbuhan maristem lateral.",
+      "C": "Menekan pertumbuhan mesistem apikal dan meningkatkan pertumbuhan sistem lateral.",
+      "D": "Menekan pertumbuhan sistem apikal dan meristem lateral.",
+      "E": "Meningkatkan pertumbuhan mereksistem apikal dan sistem lateral."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Pergerakan air melalui filan melibatkan gaya adhesi dan kapilaritas karena salah satu sel penyusun xilem terdiri atas jaringan.....",
+    "image": null,
+    "options": {
+      "A": "Elemen tapis.",
+      "B": "Kolenkim.",
+      "C": "Parenkim.",
+      "D": "Trakeid.",
+      "E": "Sklereid."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 32,
+    "question": "Stroma pada kloropas mengandung.....",
+    "image": null,
+    "options": {
+      "A": "Lemak dan Pati",
+      "B": "Pati dan Protein",
+      "C": "Protein dan Lemak",
+      "D": "Asam amino dan Gliserol",
+      "E": "Asam lemak dan Asam amino"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Sklera pada bagian anterior mata akan tersambung dengan.....",
+    "image": null,
+    "options": {
+      "A": "Binti buta.",
+      "B": "Kunjungtiva.",
+      "C": "Lensa",
+      "D": "Kornea",
+      "E": "Koroid"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 34,
+    "question": "Bagian yang berfungsi sebagai pelarut bahan-bahan kimia dan menyebarkan panas dari organ yang lebih hangat ke organ yang lebih dingin adalah....",
+    "image": null,
+    "options": {
+      "A": "Plasma darah",
+      "B": "Sel darah putih",
+      "C": "Korpuskula",
+      "D": "Sel darah merah",
+      "E": "Trombosit"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Bagian ginjal yang berfungsi tempat penyimpanan urine sementara disebut.....",
+    "image": null,
+    "options": {
+      "A": "Tubulus proksimal",
+      "B": "Lengkung henle",
+      "C": "Pelvis renalis",
+      "D": "Tubulus distal",
+      "E": "Kapsula bowman"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Setelah melakukan aktivitas fisik yang berat, dalam sel otot akan terjadi peningkatan kandungan senyawa berikut, kecuali.....",
+    "image": null,
+    "options": {
+      "A": "Fosfat anorganik",
+      "B": "Adenosin difosfat",
+      "C": "Karbon dioksida",
+      "D": "Glukosa",
+      "E": "Laktat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "question": "Fermentasi merupakan teknik bioteknologi konvensional yang banyak diterapkan dalam kehidupan sehari hari. Berikut yang menjelaskan tentang fermentasi adalah.....",
+    "image": null,
+    "options": {
+      "A": "Terjadi modifikasi DNA substrat.",
+      "B": "Mengurangi senyawa kompleks menjadi sederhana.",
+      "C": "Tidak mengubah fisik substrat.",
+      "D": "Menghasilkan asam sitrat.",
+      "E": "Dibentuk dari asetil KoA di sitoplasma."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Hasil akhir dari reaksi beli glikolosis adalah?",
+    "image": null,
+    "options": {
+      "A": "Asam sitrat",
+      "B": "Asam piruvat",
+      "C": "Asam asetat",
+      "D": "Asam oksaloasetat",
+      "E": "Gliseraldehid 3-fosfat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Jenis planet yang memiliki ciri usus itu tkhusus yaitu terdapat cincin yang melingkar adalah planet.....",
+    "image": null,
+    "options": {
+      "A": "Merkurius",
+      "B": "Jupiter",
+      "C": "Saturnus",
+      "D": "Uranus",
+      "E": "Neptunus"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Rabun jauh disebut dengan.....",
+    "image": null,
+    "options": {
+      "A": "Hipermetropi",
+      "B": "Miopi",
+      "C": "Astigmatisme",
+      "D": "Presbiopi",
+      "E": "Rabun senja"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "question": "Dalam suatu pertandingan sepak bola komponen yang tidak selalu ada adalah",
+    "image": null,
+    "options": {
+      "A": "Wasit",
+      "B": "Penjaga gawang",
+      "C": "Pemain",
+      "D": "Bola",
+      "E": "Penonton"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 42,
+    "question": "Lagu Indonesia Raya diciptakan oleh.....",
+    "image": null,
+    "options": {
+      "A": "Wage Rudolf Supratman",
+      "B": "Ibu Soed",
+      "C": "Gesang",
+      "D": "Soekarno",
+      "E": "Fatmawati"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Rumah adat Sumba adalah.....",
+    "image": null,
+    "options": {
+      "A": "Joglo",
+      "B": "Honai",
+      "C": "Rumah Gadang",
+      "D": "Uma Bokulu",
+      "E": "Rumah Bale"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 44,
+    "question": "Kabupaten Natuna terletak di Provinsi.....",
+    "image": null,
+    "options": {
+      "A": "Kepulauan Riau",
+      "B": "Riau",
+      "C": "Bangka Belitung",
+      "D": "Nusa Tenggara Timur",
+      "E": "Nusa Tenggara Barat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Perubahan nama Irian Jaya menjadi Papua Barat dilakukan pada tahun.....",
+    "image": null,
+    "options": {
+      "A": "1945",
+      "B": "1963",
+      "C": "1982",
+      "D": "1998",
+      "E": "2003"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 46,
+    "question": "Pertempuran Laut Aru dalam rangka mempertahankan kemerdekaan mengakibatkan tenggelamnya kapal ....",
+    "image": null,
+    "options": {
+      "A": "KRI Matjan Tutul",
+      "B": "KRI Matjan Kumbang",
+      "C": "KRI Harimau",
+      "D": "KRI Jaguar",
+      "E": "KRI Neptune"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Perang Diponegoro terjadi pada tahun.....",
+    "image": null,
+    "options": {
+      "A": "1985-1890",
+      "B": "1820-1830",
+      "C": "1925-1930",
+      "D": "1930-1945",
+      "E": "1825-1830"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 48,
+    "question": "Untuk melancarkan penggabungan wilayah Papua bagian barat, Presiden Soekarno mengeluarkan Operasi Trikora yang diumumkan di Alun-Alun Utara Yogyakarta pada tahun.....",
+    "image": null,
+    "options": {
+      "A": "1959",
+      "B": "1962",
+      "C": "1960",
+      "D": "1963",
+      "E": "1961"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 49,
+    "question": "Ibu kota Sulawesi Tenggara adalah.....",
+    "image": null,
+    "options": {
+      "A": "Banjarmasin",
+      "B": "Palu",
+      "C": "Buton",
+      "D": "Makasar",
+      "E": "Kendari"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 50,
+    "question": "Dalam pidato sidang BPUPKI pada tanggal 29 mei 1945 menyatakan, rakyat indonesia mesti mendapat dasar negara yang berasal dari peradaban kebangsaan indonesia orang timur pulang kebudayaan timur.\nPendapat tersebut dikemukakan oleh.....",
+    "image": null,
+    "options": {
+      "A": "soekarno",
+      "B": "notonegoro",
+      "C": "soepomo",
+      "D": "mohammad yamin",
+      "E": "mohammad hatta"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "question": "Indonesia merupakan negara kepulauan dengan lebih dari 17.000 pulau dan berada di antara dua benua serta dua samudra. Posisi ini membuat Indonesia memiliki potensi strategis dalam perdagangan internasional dan rawan bencana alam seperti gempa bumi dan tsunami.\nLetak geografis Indonesia yang tepat adalah….",
+    "image": null,
+    "options": {
+      "A": "Antara Asia dan Afrika",
+      "B": "Antara Eropa dan Australia",
+      "C": "Antara Asia dan Australia serta Samudra Hindia dan Pasifik",
+      "D": "Di Kutub Utara",
+      "E": "Di tengah Samudra Atlantik"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Indonesia menganut sistem pemerintahan presidensial, di mana presiden adalah kepala negara sekaligus kepala pemerintahan. Presiden tidak bertanggung jawab kepada parlemen, tetapi kepada konstitusi dan rakyat.\nCiri utama sistem presidensial adalah….",
+    "image": null,
+    "options": {
+      "A": "Perdana menteri sebagai kepala negara",
+      "B": "Presiden bertanggung jawab kepada DPR",
+      "C": "Kekuasaan eksekutif berada di tangan presiden",
+      "D": "DPR membubarkan presiden",
+      "E": "Tidak ada pemilu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Dalam era digital, Polri juga menghadapi tantangan baru berupa kejahatan siber seperti penipuan online, hacking, dan penyebaran hoaks. Untuk itu dibentuk unit khusus siber yang menangani kejahatan digital.\nJenis kejahatan tersebut disebut….",
+    "image": null,
+    "options": {
+      "A": "Cybercrime",
+      "B": "Street crime",
+      "C": "White collar crime tradisional",
+      "D": "Crime konvensional",
+      "E": "Crime manual"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Dalam beberapa tahun terakhir, isu reformasi Polri menjadi perhatian publik, terutama terkait transparansi, profesionalisme, dan akuntabilitas. Masyarakat menuntut Polri semakin humanis, modern, dan bebas dari penyalahgunaan wewenang.\nTujuan utama reformasi Polri adalah….",
+    "image": null,
+    "options": {
+      "A": "Menghapus Polri dari sistem negara",
+      "B": "Mengembalikan Polri ke sistem militer",
+      "C": "Meningkatkan profesionalisme dan kepercayaan publik",
+      "D": "Mengurangi jumlah personel Polri",
+      "E": "Menghapus fungsi penegakan hukum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Dalam suatu operasi penertiban di wilayah perkotaan, Polri melakukan pemeriksaan kendaraan bermotor yang dicurigai sebagai hasil tindak kejahatan. Petugas juga meminta identitas pengendara dan melakukan pengecekan nomor rangka kendaraan melalui sistem database kepolisian. Tindakan ini dilakukan berdasarkan kewenangan yang diatur dalam UU No. 2 Tahun 2002.\nDasar hukum tindakan tersebut paling tepat berkaitan dengan kewenangan Polri dalam hal….",
+    "image": null,
+    "options": {
+      "A": "Menjatuhkan vonis pidana",
+      "B": "Melakukan penyidikan dan penegakan hukum",
+      "C": "Membuat undang-undang lalu lintas",
+      "D": "Mengatur sistem peradilan",
+      "E": "Menghapus tindak pidana"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 56,
+    "question": "Dalam perdagangan internasional, kebijakan proteksionisme sering diterapkan untuk melindungi industri dalam negeri. Namun, kebijakan ini berpotensi menimbulkan dampak negatif berupa:",
+    "image": null,
+    "options": {
+      "A": "Peningkatan efisiensi industri global",
+      "B": "Penurunan harga barang impor",
+      "C": "Retaliasi dagang dari negara lain",
+      "D": "Meningkatnya kerja sama internasional",
+      "E": "Stabilitas harga global"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 57,
+    "question": "Dalam sistem demokrasi, partisipasi politik masyarakat merupakan indikator penting kualitas demokrasi. \nNamun, meningkatnya apatisme politik dapat berdampak pada....",
+    "image": null,
+    "options": {
+      "A": "Meningkatnya kualitas kebijakan publik",
+      "B": "Berkurangnya legitimasi pemerintah",
+      "C": "Stabilitas politik yang semakin kuat",
+      "D": "Menurunnya konflik sosial",
+      "E": "Meningkatnya transparansi pemerintah"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "question": "Perkembangan teknologi informasi mempermudah akses data, tetapi juga menimbulkan ancaman keamanan siber. Risiko terbesar dari serangan siber terhadap suatu negara adalah:",
+    "image": null,
+    "options": {
+      "A": "Hilangnya seluruh jaringan internet global",
+      "B": "Gangguan pada sistem kritis seperti keuangan dan energi",
+      "C": "Penurunan jumlah pengguna internet",
+      "D": "Hilangnya perangkat keras secara fisik",
+      "E": "Berkurangnya inovasi teknologi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 59,
+    "question": "Dalam konteks globalisasi budaya, masuknya budaya asing ke Indonesia tidak dapat dihindari. Sikap yang paling tepat dalam menghadapi fenomena ini adalah....",
+    "image": null,
+    "options": {
+      "A": "Menolak seluruh budaya asing",
+      "B": "Menerima seluruh budaya tanpa seleksi",
+      "C": "Menyaring budaya asing dan mempertahankan nilai lokal",
+      "D": "Menghapus budaya lokal",
+      "E": "Mengisolasi diri dari dunia internasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Dalam beberapa tahun terakhir, dunia mengalami pergeseran besar dalam rantai pasok global akibat pandemi, konflik geopolitik, dan kebijakan proteksionisme di berbagai negara maju. Banyak perusahaan multinasional mulai menerapkan strategi friend-shoring, yaitu memindahkan rantai produksi ke negara yang dianggap memiliki hubungan politik dan ekonomi yang lebih stabil serta sejalan secara strategis. Indonesia menjadi salah satu negara yang berpotensi menerima relokasi industri ini, terutama di sektor manufaktur dan mineral kritis.\nBerdasarkan kondisi tersebut, tantangan utama bagi Indonesia agar dapat memaksimalkan peluang friend-shoring adalah....",
+    "image": null,
+    "options": {
+      "A": "Menurunkan standar upah tenaga kerja agar menarik investor",
+      "B": "Mengurangi regulasi lingkungan untuk mempercepat industri",
+      "C": "Meningkatkan kualitas infrastruktur dan kepastian regulasi",
+      "D": "Membatasi investasi asing agar industri lokal berkembang",
+      "E": "Menghapus seluruh pajak industri manufaktur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Ketika merencanakan pembangunan jembatan penghubung antarwilayah, pemerintah harus mempertimbangkan bahwa dana yang digunakan untuk proyek tersebut sebenarnya bisa digunakan untuk membangun rumah sakit atau sekolah di daerah lain. Pertimbangan ini sangat penting dalam ilmu ekonomi karena berkaitan dengan prinsip...",
+    "image": null,
+    "options": {
+      "A": "Permintaan efektif",
+      "B": "Skala prioritas",
+      "C": "Biaya peluang",
+      "D": "Keuntungan maksimal",
+      "E": "Efisiensi produksi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Dua wilayah terletak pada garis lintang yang sama, namun memiliki karakteristik iklim yang sangat berbeda. Wilayah pertama berada di dekat pantai memiliki suhu udara yang sejuk dan tidak terlalu berubah sepanjang tahun, serta curah hujan yang cukup tinggi. Sedangkan wilayah kedua terletak jauh di pedalaman benua memiliki suhu yang sangat panas di siang hari dan sangat dingin di malam hari, serta curah hujan yang rendah.\nPerbedaan iklim antara kedua wilayah tersebut terutama dipengaruhi oleh faktor...",
+    "image": null,
+    "options": {
+      "A": "Letak Garis Lintang",
+      "B": "Ketinggian Tempat",
+      "C": "Jarak dengan Lautan",
+      "D": "Arah Angin",
+      "E": "Bentuk Permukaan Bumi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Kendaraan listrik mulai banyak diminati sebagai solusi transportasi masa depan. Berbeda dengan kendaraan konvensional yang menggunakan bahan bakar minyak, kendaraan listrik menggunakan energi yang tersimpan dalam baterai. Salah satu alasan utama pengembangan teknologi ini adalah...",
+    "image": null,
+    "options": {
+      "A": "Harga baterai lebih murah daripada bensin",
+      "B": "Tidak memerlukan perawatan sama sekali",
+      "C": "Upaya mengurangi polusi udara dan ketergantungan pada bahan bakar fosil",
+      "D": "Kecepatannya jauh melebihi kendaraan biasa",
+      "E": "Bisa terbang jika macet"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 64,
+    "question": "Selama konflik berlangsung, organisasi internasional berusaha melakukan peran untuk meredakan ketegangan dan mendorong penyelesaian damai. Salah satu organisasi yang memegang peran penting adalah Perserikatan Bangsa-Bangsa (PBB). PBB mengeluarkan sejumlah pernyataan dan meminta kedua belah pihak untuk menghentikan permusuhan. Badan khusus PBB yang bertugas mengawasi dan memverifikasi aktivitas nuklir di seluruh dunia, termasuk di Iran, adalah ....",
+    "image": null,
+    "options": {
+      "A": "Dewan Keamanan PBB",
+      "B": "Majelis Umum PBB",
+      "C": "Badan Energi Atom Internasional",
+      "D": "Dewan Hak Asasi Manusia PBB",
+      "E": "Organisasi Pangan dan Pertanian"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Pak Slamet adalah pengemudi taksi konvensional. Suatu hari, ia mengantarkan penumpang ke tujuan yang memerlukan perjalanan melewati jalan tol. Penumpang tersebut meminta agar Pak Slamet menurunkan kaca jendela bagian belakang agar udara segar masuk ke dalam kendaraan, meskipun kendaraan sedang melaju dengan kecepatan tinggi di jalan tol. Pak Slamet menolak permintaan tersebut dan menjelaskan bahwa hal itu dilarang. Penumpang merasa kesal dan menganggap Pak Slamet terlalu ketat. Alasan yang benar berdasarkan peraturan adalah...",
+    "image": null,
+    "options": {
+      "A": "Menurunkan kaca jendela di jalan tol dilarang karena dapat mengganggu konsentrasi pengemudi kendaraan lain",
+      "B": "Kendaraan yang bergerak di jalan tol dengan kecepatan tinggi wajib menjaga kondisi aerodinamika dan keselamatan; penurunan kaca dapat meningkatkan risiko benda terlempar keluar atau masuk ke dalam kendaraan",
+      "C": "Alasan Pak Slamet salah karena penumpang berhak mengatur kenyamanan kendaraan",
+      "D": "Hanya kaca jendela bagian depan yang boleh diturunkan di jalan tol",
+      "E": "Larangan tersebut hanya berlaku untuk kendaraan umum berkapasitas besar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 66,
+    "question": "Suku Asmat mendiami wilayah pesisir dan hutan bakau di bagian selatan Pulau Papua. Mereka dikenal sebagai pematung ulung. Bagi masyarakat Asmat, seni ukir bukan sekadar hiasan, melainkan memiliki hubungan spiritual yang kuat dengan leluhur dan dunia roh",
+    "image": null,
+    "options": {
+      "A": "Sumatera",
+      "B": "Jawa",
+      "C": "Kalimantan",
+      "D": "Papua",
+      "E": "Sulawesi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 67,
+    "question": "Pahlawan nasional yang berasal dari Maluku ini sangat gigih mempertahankan kedaulatan Republik Indonesia terhadap upaya pembentukan negara buatan RMS. Beliau dikenal dengan semboyannya \"Saya orang muda, saya cinta tanah air, saya setia pada Republik Indonesia\". Tokoh yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Pattimura",
+      "B": "Martha Christina Tiahahu",
+      "C": "Kapitan Pierre Tendean",
+      "D": "Dr. J. Leimena",
+      "E": "Johannes Abraham Dimara"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 68,
+    "question": "Perhatikan skema peredaran darah kecil: Jantung -> X -> Paru-paru -> Y -> Jantung. Bagian X dan Y yang berturut-turut benar adalah...",
+    "image": null,
+    "options": {
+      "A": "Arteri pulmonalis dan Vena pulmonalis",
+      "B": "Aorta dan Vena cava",
+      "C": "Vena pulmonalis dan Arteri pulmonalis",
+      "D": "Arteri karotis dan Vena jugularis",
+      "E": "Ventrikel kiri dan Atrium kanan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 69,
+    "question": "Setiap negara memiliki bendera atau identitas organisasi olahraganya masing-masing. Di Indonesia, terdapat organisasi tertinggi yang menaungi seluruh cabang olahraga dan bertugas mempersiapkan atlet untuk kejuaraan dunia.\nNama induk organisasi olahraga tertinggi di Indonesia adalah...",
+    "image": null,
+    "options": {
+      "A": "KONI",
+      "B": "PBSI",
+      "C": "PERCASI",
+      "D": "PBVSI",
+      "E": "IPSI"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 70,
+    "question": "Dalam pertandingan tinju, pertandingan dibagi ke dalam beberapa ronde. Jika dalam pertandingan tersebut seorang petinju berhasil menjatuhkan lawannya dan lawan tidak bisa bangkit hingga hitungan ke-10, maka kemenangan disebut...",
+    "image": null,
+    "options": {
+      "A": "Teknikal Knock Out",
+      "B": "Knock Out",
+      "C": "Disqualification",
+      "D": "Points Decision",
+      "E": "Walk Out"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 71,
+    "question": "Di antara zat berikut: Air (H2O), Emas (Au), Gula (C12H22O11), Udara, dan Tembaga (Cu). Manakah yang termasuk kelompok SENYAWA?",
+    "image": null,
+    "options": {
+      "A": "Air, Emas, Gula",
+      "B": "Emas, Tembaga, Udara",
+      "C": "Air dan Gula",
+      "D": "Udara dan Air",
+      "E": "Gula dan Tembaga"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 72,
+    "question": "Terdapat dua buah benda bermuatan listrik, jika kedua benda didekatkan maka terjadi gaya tolak-menolak. Hal ini menunjukkan bahwa kedua benda tersebut memiliki...",
+    "image": null,
+    "options": {
+      "A": "Muatan yang sama",
+      "B": "Muatan yang berlawanan",
+      "C": "Salah satu bermuatan, yang lain netral",
+      "D": "Muatan positif dan negatif",
+      "E": "Muatan negatif dan netral"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Seorang anggota kepolisian mendapatkan hadiah berupa sepeda motor dari seseorang yang baru saja diselesaikan masalah hukumnya oleh anggota tersebut. Hadiah tersebut diberikan sebagai tanda terima kasih. Berdasarkan Peraturan Kepolisian tentang kode etik dan larangan, sikap yang seharusnya diambil oleh anggota tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Menerima hadiah tersebut karena dianggap sebagai penghargaan atas kerja kerasnya",
+      "B": "Menerima hadiah tetapi diam-diam agar tidak diketahui oleh atasan atau rekan lain",
+      "C": "Menolak hadiah tersebut dengan sopan dan menjelaskan bahwa hal itu dilarang oleh aturan",
+      "D": "Menerima hadiah dan menyerahkannya ke kas kantor polisi untuk kepentingan bersama",
+      "E": "Menerima hadiah dan membalasnya dengan memberikan layanan istimewa lainnya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 74,
+    "question": "Sesampainya di sana, ia disambut oleh petugas pelayanan yang terlihat sibuk dan berkata: \"Tunggu dulu, kami sedang banyak pekerjaan, nanti saja kalau sudah santai.\" Sikap petugas tersebut bertentangan dengan Peraturan Kepolisian tentang standar pelayanan, karena...",
+    "image": null,
+    "options": {
+      "A": "Laporan kehilangan kendaraan dianggap masalah yang sepele dan tidak mendesak",
+      "B": "Warga wajib mengerti kesibukan petugas kepolisian dan menunggu dengan sabaran lingkungan.",
+      "C": "Setiap laporan atau permintaan layanan masyarakat wajib diterima dan diproses sesuai prosedur tanpa penundaan yang tidak wajar",
+      "D": "Petugas berhak menentukan sendiri kapan waktu yang tepat untuk melayani warga",
+      "E": "Warga sebaiknya melapor langsung ke pengadilan jika ingin masalahnya cepat diselesaikan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Dalam rangka menjaga keadilan hukum, lembaga peradilan menerima sebuah perkara yang berkaitan dengan sengketa hak milik tanah antara warga dan instansi pemerintah. Dalam prosesnya, hakim memeriksa bukti-bukti, mendengarkan keterangan kedua belah pihak, dan memutuskan perkara tersebut berdasarkan aturan hukum yang berlaku, tanpa dipengaruhi oleh kekuasaan atau jabatan salah satu pihak.\nPrinsip utama yang dijalankan oleh lembaga tersebut dalam menyelesaikan perkara adalah...",
+    "image": null,
+    "options": {
+      "A": "Ketergantungan kepada kebijakan pemerintah",
+      "B": "Kemandirian dan kebebasan dalam memutus perkara",
+      "C": "Kewajiban mengikuti pendapat wakil rakyat",
+      "D": "Keharusan memihak kepada pihak yang lebih lemah",
+      "E": "Kewenangan mengubah aturan yang dianggap tidak adil"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "question": "Lembaga wakil rakyat memiliki hak khusus untuk mengajukan usulan pembuatan undang-undang baru. Usulan ini kemudian dibahas bersama dengan pemerintah. Jika usulan tersebut disetujui dalam pembahasan, maka undang-undang tersebut akan disahkan dan memiliki kekuatan hukum yang sama dengan undang-undang yang diusulkan oleh pemerintah.\nHak khusus yang dimiliki oleh lembaga wakil rakyat dalam narasi di atas disebut hak...",
+    "image": null,
+    "options": {
+      "A": "Anggaran",
+      "B": "Bertanya",
+      "C": "Inisiatif",
+      "D": "Penyelidikan",
+      "E": "Menyatakan pendapat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 77,
+    "question": "Perubahan struktur organisasi juga menjadi bagian dari reformasi Polri untuk menyesuaikan dengan tugas dan fungsinya yang baru. Salah satu langkah yang dilakukan adalah penyederhanaan struktur agar lebih ramping, jelas, dan mudah dalam pengendalian serta pengawasan. Penyederhanaan struktur ini bertujuan agar organisasi Polri menjadi...",
+    "image": null,
+    "options": {
+      "A": "Lebih besar jumlah anggotanya",
+      "B": "Lebih sulit diakses oleh masyarakat",
+      "C": "Lebih luwes, cepat bertindak, dan hemat biaya",
+      "D": "Lebih berkuasa dibandingkan lembaga lain",
+      "E": "Lebih terpusat di tingkat pusat saja"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Seorang warga melaporkan kepada anggota Polri bahwa tetangganya sering mengeluarkan suara bising berlebihan hingga larut malam sehingga mengganggu istirahat warga sekitar. Anggota Polri yang menangani kasus tersebut tidak langsung menindak tetangga tersebut, melainkan mengundang kedua belah pihak untuk bertemu, mendengarkan penjelasan masing-masing, dan menjelaskan peraturan mengenai gangguan ketertiban umum. Akhirnya, tercapai kesepakatan bahwa tetangga tersebut akan menurunkan volume suara dan tidak membuat keributan di jam istirahat.\nPenyelesaian kasus tersebut menunjukkan bahwa Polri memiliki fungsi sebagai...",
+    "image": null,
+    "options": {
+      "A": "Penuntut yang menentukan hukuman bagi pelanggar",
+      "B": "Hakim yang memutuskan siapa yang benar dan siapa yang salah",
+      "C": "Penengah yang memfasilitasi penyelesaian masalah secara damai dan adil",
+      "D": "Penasihat yang hanya memberikan saran tanpa tindakan nyata",
+      "E": "Pengawas yang melarang segala aktivitas warga di lingkungan sekitar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 79,
+    "question": "Pemerintah Pusat menghadapi situasi bencana alam besar yang melanda beberapa provinsi sekaligus. Untuk mempercepat penanganan korban, pendistribusian bantuan, dan pemulihan fasilitas umum, Presiden menetapkan Keputusan Presiden untuk membentuk Satuan Tugas (Satgas) Penanggulangan Bencana Nasional. Satgas ini bekerja sama dengan Badan Nasional Penanggulangan Bencana (BNPB) yang sudah ada, namun tidak menggantikan fungsi dan struktur BNPB. Setelah keadaan dinyatakan aman dan pemulihan selesai, Satgas ini dibubarkan, sedangkan BNPB tetap berjalan melaksanakan tugas rutinnya.\nPerbedaan pokok antara Satgas Penanggulangan Bencana dengan BNPB berdasarkan narasi di atas adalah...",
+    "image": null,
+    "options": {
+      "A": "Satgas adalah lembaga tetap, sedangkan BNPB adalah badan adhoc pemerintah pusat",
+      "B": "Satgas dibentuk untuk tugas sementara dan khusus, sedangkan BNPB merupakan lembaga negara tetap berstruktur permanen",
+      "C": "Satgas memiliki anggaran tahunan rutin, sedangkan BNPB hanya mendapat anggaran saat ada bencana saja",
+      "D": "Satgas diatur dalam Undang-Undang Dasar, sedangkan BNPB hanya diatur dalam Keputusan Presiden",
+      "E": "Satgas berkedudukan lebih tinggi dan berwenang mengawasi BNPB sepanjang masa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "question": "Peristiwa G30S/PKI merupakan salah satu titik balik penting dalam sejarah Indonesia. Interpretasi manakah mengenai peristiwa ini yang paling akurat dan komprehensif, dengan mempertimbangkan berbagai perspektif dan bukti sejarah yang ada?",
+    "image": null,
+    "options": {
+      "A": "Peristiwa G30S/PKI sepenuhnya merupakan dalang dari PKI untuk menggulingkan pemerintahan Soekarno dan mendirikan negara komunis.",
+      "B": "Peristiwa G30S/PKI merupakan konflik internal di tubuh TNI yang dimanfaatkan oleh kekuatan-kekuatan eksternal untuk menggulingkan Soekarno.",
+      "C": "Peristiwa G30S/PKI merupakan hasil dari konspirasi antara PKI, oknum-oknum TNI, dan kekuatan-kekuatan asing yang ingin menggulingkan Soekarno dan mengganti ideologi negara.",
+      "D": "Peristiwa G30S/PKI merupakan kecelakaan sejarah yang disebabkan oleh ketidakstabilan politik dan ekonomi pada masa itu.",
+      "E": "Peristiwa G30S/PKI tidak pernah terjadi dan hanya merupakan propaganda untuk mendiskreditkan PKI."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 81,
+    "question": "Nelson Mandela adalah salah satu tokoh paling berpengaruh dalam abad ke-20. Warisan terpenting apa yang ditinggalkan oleh Mandela bagi dunia, dan bagaimana warisan tersebut terus relevan hingga saat ini?",
+    "image": null,
+    "options": {
+      "A": "Keterampilan Mandela dalam bernegosiasi dengan pemerintah apartheid Afrika Selatan.",
+      "B": "Kemampuan Mandela untuk memaafkan musuh-musuhnya dan mempromosikan rekonsiliasi nasional.",
+      "C": "Komitmen Mandela terhadap kesetaraan rasial dan keadilan sosial.",
+      "D": "Kepemimpinan Mandela dalam gerakan anti-apartheid.",
+      "E": "Semua jawaban di atas benar."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 82,
+    "question": "Supersemar (Surat Perintah Sebelas Maret) merupakan salah satu dokumen paling kontroversial dalam sejarah Indonesia. Apa signifikansi Supersemar dalam transisi dari Orde Lama ke Orde Baru, dan bagaimana interpretasi yang berbeda mengenai dokumen ini memengaruhi pemahaman kita tentang sejarah Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Supersemar memberikan kekuasaan penuh kepada Soeharto untuk mengambil tindakan apa pun yang dianggap perlu untuk memulihkan keamanan dan ketertiban.",
+      "B": "Supersemar memberikan mandat terbatas kepada Soeharto untuk memulihkan keamanan dan ketertiban setelah peristiwa G30S/PKI.",
+      "C": "Supersemar merupakan hasil dari kudeta militer yang dipimpin oleh Soeharto untuk menggulingkan Soekarno.",
+      "D": "Supersemar tidak pernah ada dan hanya merupakan mitos yang diciptakan oleh pendukung Soeharto.",
+      "E": "Supersemar merupakan dokumen yang sah dan konstitusional yang dikeluarkan oleh Soekarno untuk mengatasi krisis politik pada saat itu."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "question": "Mahatma Gandhi adalah pemimpin gerakan kemerdekaan India yang terkenal dengan filosofi ahimsa (tanpa kekerasan). Bagaimana filosofi ahimsa Gandhi memengaruhi gerakan sosial dan politik di seluruh dunia, dan apa relevansinya dalam konteks konflik dan kekerasan kontemporer?",
+    "image": null,
+    "options": {
+      "A": "Filosofi ahimsa Gandhi tidak relevan dalam konteks konflik dan kekerasan kontemporer karena terlalu idealis dan tidak praktis.",
+      "B": "Filosofi ahimsa Gandhi hanya efektif dalam konteks perjuangan melawan penjajahan kolonial.",
+      "C": "Filosofi ahimsa Gandhi memberikan inspirasi bagi gerakan-gerakan sosial dan politik di seluruh dunia yang berjuang untuk keadilan dan perdamaian melalui cara-cara tanpa kekerasan.",
+      "D": "Filosofi ahimsa Gandhi hanya cocok untuk orang-orang yang memiliki keyakinan agama yang kuat.",
+      "E": "Filosofi ahimsa Gandhi mendorong pasivitas dan kepatuhan terhadap penindasan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 84,
+    "question": "Dekrit Presiden 5 Juli 1959 merupakan salah satu momen penting dalam sejarah demokrasi Indonesia. Apa latar belakang dikeluarkannya Dekrit Presiden 5 Juli 1959, dan bagaimana dampaknya terhadap sistem politik dan ketatanegaraan Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Dekrit Presiden 5 Juli 1959 dikeluarkan untuk membubarkan Konstituante yang gagal menyusun undang-undang dasar baru.",
+      "B": "Dekrit Presiden 5 Juli 1959 dikeluarkan untuk mengganti sistem demokrasi liberal dengan sistem demokrasi terpimpin.",
+      "C": "Dekrit Presiden 5 Juli 1959 dikeluarkan untuk memulihkan keamanan dan ketertiban setelah pemberontakan-pemberontakan daerah.",
+      "D": "Dekrit Presiden 5 Juli 1959 dikeluarkan untuk mengembalikan UUD 1945 sebagai undang-undang dasar negara.",
+      "E": "Semua jawaban di atas benar."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 85,
+    "question": "Martin Luther King Jr. adalah pemimpin gerakan hak-hak sipil di Amerika Serikat yang memperjuangkan kesetaraan rasial. Strategi apa yang digunakan oleh King untuk mencapai tujuan-tujuannya, dan bagaimana strategi tersebut memengaruhi gerakan hak-hak sipil dan perjuangan untuk keadilan sosial di seluruh dunia?",
+    "image": null,
+    "options": {
+      "A": "King menggunakan kekerasan dan intimidasi untuk memaksa pemerintah AS untuk memberikan hak-hak sipil kepada orang Afrika-Amerika.",
+      "B": "King menggunakan demonstrasi damai, boikot, dan pembangkangan sipil untuk menentang diskriminasi rasial dan memperjuangkan kesetaraan hak.",
+      "C": "King menggunakan lobi politik dan negosiasi dengan para pemimpin politik untuk mencapai tujuan-tujuannya.",
+      "D": "King menggunakan propaganda dan agitasi untuk memprovokasi kerusuhan dan kekerasan.",
+      "E": "King menggunakan pendekatan agama dan moral untuk meyakinkan orang kulit putih tentang perlunya kesetaraan rasial."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Peran perempuan dalam perjuangan kemerdekaan Indonesia seringkali terlupakan. Siapakah tokoh-tokoh perempuan Indonesia yang berperan penting dalam perjuangan kemerdekaan, dan bagaimana kontribusi mereka memengaruhi jalannya sejarah Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Kartini, Cut Nyak Dien, dan Martha Christina Tiahahu adalah beberapa tokoh perempuan Indonesia yang berperan penting dalam perjuangan kemerdekaan.",
+      "B": "Tokoh-tokoh perempuan Indonesia hanya berperan sebagai pendukung dan tidak memiliki peran yang signifikan dalam perjuangan kemerdekaan.",
+      "C": "Perempuan Indonesia tidak terlibat dalam perjuangan kemerdekaan karena terikat oleh tradisi dan norma-norma sosial.",
+      "D": "Tokoh-tokoh perempuan Indonesia hanya berperan dalam bidang sosial dan budaya dan tidak terlibat dalam bidang politik dan militer.",
+      "E": "Tokoh-tokoh perempuan Indonesia hanya berperan sebagai simbol dan tidak memiliki pengaruh yang nyata dalam perjuangan kemerdekaan."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Bung Hatta adalah salah satu Bapak Proklamator Indonesia yang memiliki peran penting dalam merumuskan dasar negara dan membangun ekonomi Indonesia. Apa gagasan-gagasan utama Bung Hatta tentang ekonomi kerakyatan, dan bagaimana gagasan-gagasan tersebut relevan dalam konteks pembangunan ekonomi Indonesia saat ini?",
+    "image": null,
+    "options": {
+      "A": "Bung Hatta menganjurkan sistem ekonomi kapitalis yang liberal dan terbuka.",
+      "B": "Bung Hatta menganjurkan sistem ekonomi sosialis yang terpusat dan dikendalikan oleh negara.",
+      "C": "Bung Hatta menganjurkan sistem ekonomi campuran yang menggabungkan unsur-unsur kapitalisme dan sosialisme.",
+      "D": "Bung Hatta menganjurkan sistem ekonomi kerakyatan yang berdasarkan pada prinsip-prinsip koperasi dan gotong royong.",
+      "E": "Bung Hatta tidak memiliki gagasan yang jelas tentang ekonomi dan hanya fokus pada masalah-masalah politik."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 88,
+    "question": "Peristiwa Malari (Lima Belas Januari) merupakan salah satu demonstrasi mahasiswa terbesar dalam sejarah Indonesia. Apa latar belakang dan tujuan dari demonstrasi Malari, dan bagaimana peristiwa ini memengaruhi perkembangan politik dan ekonomi Indonesia pada masa Orde Baru?",
+    "image": null,
+    "options": {
+      "A": "Demonstrasi Malari merupakan aksi protes terhadap korupsi, kolusi, dan nepotisme (KKN) yang merajalela pada masa Orde Baru.",
+      "B": "Demonstrasi Malari merupakan aksi protes terhadap dominasi modal asing dalam perekonomian Indonesia.",
+      "C": "Demonstrasi Malari merupakan aksi protes terhadap kebijakan-kebijakan pemerintah Orde Baru yang dianggap tidak adil dan tidak demokratis.",
+      "D": "Demonstrasi Malari merupakan aksi protes terhadap kunjungan Perdana Menteri Jepang ke Indonesia.",
+      "E": "Semua jawaban di atas benar."
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 89,
+    "question": "Nelson Mandela dan Mahatma Gandhi adalah dua tokoh penting yang berjuang melawan ketidakadilan dan penindasan melalui cara-cara tanpa kekerasan. Apa persamaan dan perbedaan antara kedua tokoh ini, dan bagaimana kontribusi mereka memengaruhi perjuangan untuk keadilan sosial di seluruh dunia?",
+    "image": null,
+    "options": {
+      "A": "Mandela dan Gandhi memiliki persamaan dalam komitmen mereka terhadap tanpa kekerasan, tetapi berbeda dalam konteks perjuangan mereka dan strategi yang mereka gunakan.",
+      "B": "Mandela dan Gandhi memiliki perbedaan yang signifikan dalam filosofi dan strategi mereka, sehingga kontribusi mereka terhadap perjuangan untuk keadilan sosial juga berbeda",
+      "C": "Mandela dan Gandhi memiliki persamaan dalam latar belakang sosial dan politik mereka, sehingga perjuangan mereka juga memiliki tujuan yang sama.",
+      "D": "Mandela dan Gandhi memiliki perbedaan dalam kepribadian dan gaya kepemimpinan mereka, tetapi memiliki persamaan dalam komitmen mereka terhadap keadilan sosial.",
+      "E": "Mandela dan Gandhi adalah tokoh-tokoh yang unik dan tidak dapat dibandingkan karena konteks perjuangan mereka yang sangat berbeda."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Kebijakan ekonomi Orde Baru di bawah kepemimpinan Presiden Soeharto berhasil mencapai pertumbuhan ekonomi yang tinggi, tetapi juga menimbulkan ketimpangan sosial dan korupsi yang merajalela. Bagaimana kita dapat mengevaluasi warisan ekonomi Orde Baru secara komprehensif, dengan mempertimbangkan dampak positif dan negatifnya terhadap pembangunan Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Kebijakan ekonomi Orde Baru sepenuhnya berhasil karena berhasil meningkatkan pendapatan per kapita dan mengurangi kemiskinan.",
+      "B": "Kebijakan ekonomi Orde Baru sepenuhnya gagal karena menimbulkan ketimpangan sosial dan korupsi yang merajalela.",
+      "C": "Kebijakan ekonomi Orde Baru memiliki dampak positif dalam meningkatkan pertumbuhan ekonomi dan mengurangi kemiskinan, tetapi juga memiliki dampak negatif dalam meningkatkan ketimpangan sosial dan korupsi.",
+      "D": "Kebijakan ekonomi Orde Baru tidak memiliki dampak yang signifikan terhadap pembangunan Indonesia karena faktor-faktor eksternal lebih berpengaruh.",
+      "E": "Kebijakan ekonomi Orde Baru hanya menguntungkan segelintir orang dan merugikan sebagian besar masyarakat Indonesia."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "question": "Revolusi digital telah mengubah cara kita berkomunikasi, bekerja, dan berinteraksi satu sama lain. Bagaimana tokoh-tokoh seperti Bill Gates, Steve Jobs, dan Mark Zuckerberg telah memengaruhi perkembangan teknologi digital, dan apa tanggung jawab etis mereka dalam menghadapi dampak sosial dan politik dari teknologi yang mereka ciptakan?",
+    "image": null,
+    "options": {
+      "A": "Bill Gates, Steve Jobs, dan Mark Zuckerberg hanya fokus pada inovasi teknologi dan tidak memiliki tanggung jawab etis terhadap dampak sosial dan politik dari teknologi yang mereka ciptakan.",
+      "B": "Bill Gates, Steve Jobs, dan Mark Zuckerberg telah memberikan kontribusi yang besar bagi kemajuan teknologi digital dan telah menunjukkan tanggung jawab etis dalam menghadapi dampak sosial dan politik dari teknologi yang mereka ciptakan.",
+      "C": "Bill Gates, Steve Jobs, dan Mark Zuckerberg telah menyalahgunakan kekuasaan dan pengaruh mereka untuk kepentingan pribadi dan merugikan masyarakat.",
+      "D": "Bill Gates, Steve Jobs, dan Mark Zuckerberg tidak memiliki peran yang signifikan dalam perkembangan teknologi digital karena faktor-faktor lain lebih berpengaruh.",
+      "E": "Bill Gates, Steve Jobs, dan Mark Zuckerberg hanya menciptakan teknologi yang memperburuk ketimpangan sosial dan merusak demokrasi."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Koperasi merupakan salah satu pilar ekonomi kerakyatan yang diamanatkan oleh UUD 1945. Mengapa koperasi kurang berkembang di Indonesia dibandingkan dengan negara-negara lain, dan bagaimana kita dapat memberdayakan koperasi agar dapat berperan lebih besar dalam pembangunan ekonomi Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Koperasi tidak cocok dengan budaya dan karakter masyarakat Indonesia.",
+      "B": "Koperasi tidak mampu bersaing dengan perusahaan-perusahaan besar yang lebih efisien dan inovatif.",
+      "C": "Koperasi kurang berkembang karena kurangnya dukungan dari pemerintah, kurangnya modal, dan kurangnya sumber daya manusia yang berkualitas.",
+      "D": "Koperasi hanya cocok untuk sektor pertanian dan tidak dapat berkembang di sektor-sektor lain.",
+      "E": "Koperasi hanya menjadi alat politik dan tidak memiliki manfaat ekonomi yang nyata."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 93,
+    "question": "Gerakan reformasi 1998 merupakan momentum penting dalam sejarah demokrasi Indonesia. Apa tuntutan utama dari gerakan reformasi, dan bagaimana tokoh-tokoh seperti Soeharto, Abdurrahman Wahid, dan Megawati Soekarnoputri memengaruhi jalannya reformasi?",
+    "image": null,
+    "options": {
+      "A": "Gerakan reformasi hanya menuntut penggulingan Soeharto dan tidak memiliki agenda yang jelas.",
+      "B": "Gerakan reformasi menuntut perubahan total dalam sistem politik dan ekonomi Indonesia.",
+      "C": "Gerakan reformasi menuntut penghapusan KKN, penegakan hukum, dan demokratisasi.",
+      "D": "Gerakan reformasi hanya didukung oleh mahasiswa dan tidak memiliki dukungan dari masyarakat luas.",
+      "E": "Gerakan reformasi gagal mencapai tujuan-tujuannya karena tokoh-tokoh politik saling berebut kekuasaan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "question": "E-commerce telah mengubah cara kita berbelanja dan berbisnis. Bagaimana perusahaan-perusahaan seperti Amazon, Alibaba, dan Tokopedia telah memengaruhi perkembangan e-commerce, dan apa tantangan dan peluang yang dihadapi oleh bisnis-bisnis kecil dan menengah (UKM) dalam era e-commerce",
+    "image": null,
+    "options": {
+      "A": "E-commerce hanya menguntungkan perusahaan-perusahaan besar dan merugikan UKM.",
+      "B": "E-commerce memberikan peluang yang besar bagi UKM untuk memperluas pasar dan meningkatkan penjualan, tetapi juga menghadapi tantangan dalam bersaing dengan perusahaan-perusahaan besar dan beradaptasi dengan teknologi baru.",
+      "C": "E-commerce tidak memiliki dampak yang signifikan terhadap perekonomian karena sebagian besar transaksi masih dilakukan secara offline.",
+      "D": "E-commerce hanya cocok untuk produk-produk tertentu dan tidak dapat diterapkan pada semua jenis bisnis.",
+      "E": "E-commerce hanya memperburuk ketimpangan sosial dan merusak lingkungan."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Peran agama dalam politik Indonesia merupakan isu yang kompleks dan kontroversial. Bagaimana tokoh-tokoh seperti Soekarno, Soeharto, dan Abdurrahman Wahid memandang hubungan antara agama dan negara, dan bagaimana pandangan mereka memengaruhi kebijakan-kebijakan politik di Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Soekarno, Soeharto, dan Abdurrahman Wahid memiliki pandangan yang sama tentang hubungan antara agama dan negara.",
+      "B": "Soekarno, Soeharto, dan Abdurrahman Wahid memiliki pandangan yang berbeda tentang hubungan antara agama dan negara, yang memengaruhi kebijakan-kebijakan politik di Indonesia.",
+      "C": "Agama tidak memiliki peran yang signifikan dalam politik Indonesia karena negara menjamin kebebasan beragama.",
+      "D": "Agama hanya menjadi alat politik bagi kelompok-kelompok tertentu untuk mencapai tujuan-tujuan mereka.",
+      "E": "Agama selalu menjadi sumber konflik dan kekerasan dalam politik Indonesia."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 96,
+    "question": "Kecerdasan buatan (AI) memiliki potensi untuk mengubah berbagai industri dan sektor ekonomi. Bagaimana AI dapat meningkatkan produktivitas, efisiensi, dan inovasi, dan apa risiko dan tantangan yang terkait dengan penggunaan AI, seperti hilangnya pekerjaan dan bias algoritmik?",
+    "image": null,
+    "options": {
+      "A": "AI hanya akan menciptakan masalah dan tidak memiliki manfaat yang nyata bagi perekonomian.",
+      "B": "AI akan menggantikan semua pekerjaan manusia dan menyebabkan pengangguran massal.",
+      "C": "AI memiliki potensi untuk meningkatkan produktivitas, efisiensi, dan inovasi, tetapi juga menimbulkan risiko dan tantangan yang perlu diatasi.",
+      "D": "AI hanya cocok untuk pekerjaan-pekerjaan yang bersifat rutin dan tidak dapat diterapkan pada pekerjaan-pekerjaan yang membutuhkan kreativitas dan intuisi.",
+      "E": "AI hanya akan memperburuk ketimpangan sosial dan merusak lingkungan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "question": "Peran militer dalam politik Indonesia telah menjadi isu yang kontroversial sejak kemerdekaan. Bagaimana tokoh-tokoh seperti Soekarno, Soeharto, dan Susilo Bambang Yudhoyono memandang peran militer dalam politik, dan bagaimana pandangan mereka memengaruhi kebijakan-kebijakan politik di Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Soekarno, Soeharto, dan Susilo Bambang Yudhoyono memiliki pandangan yang sama tentang peran militer dalam politik.",
+      "B": "Soekarno, Soeharto, dan Susilo Bambang Yudhoyono memiliki pandangan yang berbeda tentang peran militer dalam politik, yang memengaruhi kebijakan-kebijakan politik di Indonesia.",
+      "C": "Militer tidak memiliki peran yang signifikan dalam politik Indonesia karena negara menganut sistem demokrasi sipil.",
+      "D": "Militer hanya menjadi alat kekuasaan bagi kelompok-kelompok tertentu untuk mencapai tujuan-tujuan mereka.",
+      "E": "Militer selalu menjadi sumber konflik dan kekerasan dalam politik Indonesia."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 98,
+    "question": "Dalam dunia yang semakin terglobalisasi, kerja sama internasional sangat penting untuk mengatasi tantangan-tantangan global seperti perubahan iklim, pandemi, dan konflik. Bagaimana kita dapat memperkuat kerja sama internasional dan membangun sistem multilateral yang lebih efektif?",
+    "image": null,
+    "options": {
+      "A": "Meninggalkan organisasi-organisasi internasional dan fokus pada kepentingan nasional.",
+      "B": "Mengabaikan pandangan dan kepentingan negara-negara lain.",
+      "C": "Memperkuat organisasi-organisasi internasional, menghormati hukum internasional, dan mempromosikan dialog dan diplomasi.",
+      "D": "Menerapkan sanksi ekonomi terhadap negara-negara yang tidak sejalan.",
+      "E": "Mengutamakan kerja sama bilateral dan mengabaikan forum multilateral"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 99,
+    "question": "Seorang demonstran ditangkap polisi karena dianggap melakukan provokasi saat unjuk rasa. Berdasarkan Undang-Undang Kepolisian, tindakan polisi tersebut dibenarkan jika...",
+    "image": null,
+    "options": {
+      "A": "Demonstran tersebut memiliki catatan kriminal sebelumnya.",
+      "B": "Unjuk rasa dilakukan tanpa izin dari pihak berwenang.",
+      "C": "Polisi merasa terancam oleh kehadiran demonstran.",
+      "D": "Demonstran tersebut secara nyata melakukan tindakan anarkis dan merusak fasilitas umum setelah diberikan peringatan.",
+      "E": "Demonstran tersebut berasal dari kelompok yang berbeda pandangan politik dengan pemerintah."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 100,
+    "question": "Sebuah perusahaan swasta melarang karyawannya untuk menjalankan ibadah sesuai dengan keyakinan masing-masing selama jam kerja. Tindakan perusahaan ini melanggar HAM karena...",
+    "image": null,
+    "options": {
+      "A": "Setiap individu berhak mendapatkan pekerjaan yang layak.",
+      "B": "Perusahaan swasta tidak memiliki hak untuk mengatur kehidupan pribadi karyawan.",
+      "C": "Setiap orang berhak atas kebebasan beragama dan beribadah sesuai dengan keyakinannya.",
+      "D": "Karyawan memiliki hak untuk berserikat dan berkumpul.",
+      "E": "Perusahaan harus memberikan kompensasi atas waktu ibadah yang hilang."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "question": "Seorang pengusaha A membuat kontrak dengan B untuk pengiriman barang dalam jumlah besar dengan batas waktu tertentu. Namun B tidak memenuhi kontrak tersebut tanpa alasan yang sah, sehingga A mengalami kerugian besar. A kemudian menggugat B ke pengadilan untuk meminta ganti rugi.\nIstilah hukum yang tepat untuk kasus tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Delik pidana",
+      "B": "Wanprestasi",
+      "C": "Pembunuhan perdata",
+      "D": "Korupsi",
+      "E": "Pelanggaran administrasi negara"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 102,
+    "question": "Dalam sebuah kasus jaringan narkotika internasional, Polri melakukan penyelidikan mendalam, mengumpulkan informasi rahasia, serta melakukan penyamaran untuk membongkar sindikat. Operasi ini membutuhkan koordinasi antara beberapa unit kepolisian.\nSatuan yang paling tepat menangani operasi tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Sabhara",
+      "B": "Binmas",
+      "C": "Intelkam dan Reskrim",
+      "D": "Lalu lintas",
+      "E": "Brimob saja tanpa unit lain"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "question": "Setelah era reformasi 1998, Polri mengalami pemisahan dari TNI berdasarkan TAP MPR dan peraturan perundang-undangan. Sejak saat itu, Polri menjadi lembaga yang berdiri sendiri di bawah Presiden.\nPerubahan penting pasca reformasi adalah….",
+    "image": null,
+    "options": {
+      "A": "Polri kembali di bawah TNI",
+      "B": "Polri menjadi bagian dari kejaksaan",
+      "C": "Polri dipisahkan dari TNI dan menjadi institusi mandiri",
+      "D": "Polri dihapus dari sistem negara",
+      "E": "Polri berada di bawah DPR"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "question": "Dalam sebuah kasus viral, seseorang langsung dihukum oleh masyarakat di media sosial sebelum ada putusan pengadilan. Padahal proses hukum masih berjalan dan belum ada bukti final yang sah.\nPrinsip hukum yang dilanggar dalam kasus tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Asas legalitas",
+      "B": "Asas praduga tak bersalah",
+      "C": "Asas keadilan restoratif",
+      "D": "Asas ultimum remedium",
+      "E": "Asas retroaktif"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Dalam sistem ketatanegaraan Indonesia, Presiden memiliki kekuasaan eksekutif, DPR sebagai legislatif, dan Mahkamah Agung serta Mahkamah Konstitusi sebagai yudikatif. Masing-masing lembaga memiliki fungsi yang terpisah namun saling mengawasi.\nPrinsip utama sistem ini adalah….",
+    "image": null,
+    "options": {
+      "A": "Sentralisasi kekuasaan",
+      "B": "Diktatorisme",
+      "C": "Pembagian kekuasaan (trias politica)",
+      "D": "Absolutisme",
+      "E": "Monarki parlementer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Perkembangan kecerdasan buatan (AI) dalam sektor pendidikan telah memungkinkan personalisasi pembelajaran, analisis cepat terhadap kemampuan siswa, serta otomatisasi evaluasi. Namun, di sisi lain muncul kekhawatiran bahwa ketergantungan pada AI dapat mengurangi kemampuan berpikir kritis siswa jika tidak diimbangi dengan metode pembelajaran yang tepat.\nSikap paling tepat dalam menghadapi integrasi AI dalam pendidikan adalah....",
+    "image": null,
+    "options": {
+      "A": "Menghapus penggunaan AI di sekolah",
+      "B": "Menggantikan seluruh guru dengan sistem AI",
+      "C": "Mengintegrasikan AI sebagai alat bantu dengan penguatan peran guru",
+      "D": "Membiarkan AI berkembang tanpa aturan",
+      "E": "Membatasi penggunaan teknologi hanya di tingkat universitas"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 107,
+    "question": "Dalam laporan ekonomi global terbaru, inflasi di berbagai negara berkembang dipengaruhi oleh kombinasi faktor eksternal seperti kenaikan harga energi global dan pelemahan nilai tukar mata uang domestik. Indonesia sendiri menghadapi tekanan inflasi yang berdampak pada daya beli masyarakat, terutama kelompok berpendapatan rendah.\nKebijakan yang paling tepat untuk meredam dampak inflasi tersebut dalam jangka pendek adalah....",
+    "image": null,
+    "options": {
+      "A": "Meningkatkan impor barang konsumsi secara besar-besaran",
+      "B": "Menurunkan suku bunga secara agresif",
+      "C": "Menjaga stabilitas harga melalui intervensi pasar dan subsidi terarah",
+      "D": "Menghapus seluruh kontrol harga pasar",
+      "E": "Membiarkan mekanisme pasar berjalan tanpa intervensi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "question": "Konflik di berbagai kawasan dunia, termasuk Eropa Timur dan Timur Tengah, telah memperkuat kembali pentingnya ketahanan energi global. Negara-negara pengimpor energi mulai mencari alternatif sumber energi serta memperkuat cadangan strategis untuk mengurangi ketergantungan pada satu wilayah tertentu.\nBagi Indonesia sebagai negara berkembang, strategi paling tepat dalam menghadapi ketidakpastian energi global adalah....",
+    "image": null,
+    "options": {
+      "A": "Bergantung sepenuhnya pada impor energi murah",
+      "B": "Menghentikan semua investasi energi baru",
+      "C": "Diversifikasi sumber energi dan pengembangan energi domestik",
+      "D": "Mengurangi konsumsi energi nasional secara drastis",
+      "E": "Menutup kerja sama energi internasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Fenomena perubahan iklim global tidak hanya berdampak pada lingkungan, tetapi juga memengaruhi stabilitas ekonomi, terutama di sektor pertanian dan perikanan. Naiknya suhu laut dan perubahan pola curah hujan menyebabkan ketidakpastian produksi pangan di berbagai negara, termasuk Indonesia.\nImplikasi paling logis dari kondisi tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Peningkatan otomatis produksi pangan",
+      "B": "Stabilitas harga pangan global",
+      "C": "Ketidakstabilan pasokan pangan dan risiko krisis pangan",
+      "D": "Hilangnya seluruh sektor pertanian dunia",
+      "E": "Penurunan kebutuhan pangan global"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "question": "Dalam beberapa tahun terakhir, isu keamanan data menjadi perhatian utama dunia digital. Banyak perusahaan teknologi besar mengalami kebocoran data yang berdampak pada jutaan pengguna. Negara-negara kemudian mulai menerapkan regulasi perlindungan data pribadi yang lebih ketat untuk menjaga keamanan warga.\nTujuan utama dari kebijakan perlindungan data tersebut adalah.....",
+    "image": null,
+    "options": {
+      "A": "Membatasi penggunaan internet secara global",
+      "B": "Mengendalikan seluruh aktivitas digital masyarakat",
+      "C": "Melindungi privasi dan keamanan data individu",
+      "D": "Menghambat perkembangan perusahaan teknologi",
+      "E": "Mengurangi jumlah pengguna media sosial"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Akibat terjadinya krisis ekonomi global, banyak negara mengalami penurunan nilai ekspor, kenaikan harga bahan bakar, dan penurunan tingkat pendapatan nasional. Pemerintah di berbagai negara kemudian mengeluarkan berbagai kebijakan untuk menstabilkan kondisi tersebut. Hubungan antargejala ekonomi yang terjadi di atas merupakan objek kajian utama dalam...",
+    "image": null,
+    "options": {
+      "A": "Ekonomi Makro, karena menganalisis variabel ekonomi secara keseluruhan dan hubungan antarkegiatan ekonomi",
+      "B": "Ekonomi Mikro, karena menganalisis dampak krisis terhadap perilaku konsumen",
+      "C": "Ekonomi Sumber Daya Alam, karena berkaitan dengan harga bahan bakar",
+      "D": "Ekonomi Kelembagaan, karena membahas peran lembaga pemerintah",
+      "E": "Ekonomi Regional, karena hanya berdampak pada wilayah tertentu"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "question": "Di sebuah daerah aliran sungai, air hujan yang jatuh ke permukaan tanah sebagian mengalir langsung ke sungai, sebagian lagi meresap ke dalam tanah. Air yang masuk ke dalam tanah kemudian bergerak perlahan melalui celah-celah batuan berpori, dan terperangkap di antara dua lapisan batuan yang kedap air. Setelah berada di sana selama beberapa tahun, air tersebut keluar kembali ke permukaan melalui celah sempit di tebing sungai.\nBagian dari siklus air yang dijelaskan dalam narasi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Limpasan Permukaan dan Penguapan",
+      "B": "Air Tanah Tertekan dan Mata Air",
+      "C": "Pengembunan dan Presipitasi",
+      "D": "Aliran Sungai dan Pengendapan",
+      "E": "Penyerapan Akar dan Transpirasi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 113,
+    "question": "Biotechnology adalah bidang yang menggabungkan biologi dan teknologi untuk memanfaatkan makhluk hidup atau enzimnya dalam menghasilkan produk. Contohnya adalah pembuatan vaksin, pengembangan tanaman tahan hama, hingga terapi gen. Dampak positif teknologi ini bagi kehidupan adalah...",
+    "image": null,
+    "options": {
+      "A": "Merusak keseimbangan alam",
+      "B": "Membantu penemuan obat dan peningkatan kualitas pangan",
+      "C": "Membuat manusia menjadi abadi",
+      "D": "Mengubah struktur alam semesta",
+      "E": "Menghasilkan limbah berbahaya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Salah satu alasan yang sering dikemukakan Iran dalam membenarkan tindakannya adalah dukungan yang diberikan kepada kelompok-kelompok di berbagai negara di kawasan yang juga menentang keberadaan Israel. Kelompok-kelompok ini sering disebut sebagai \"pasukan proksi\" karena bertindak sebagai perpanjangan tangan Iran dalam menghadapi Israel. Berikut ini adalah kelompok yang tidak dianggap sebagai pasukan proksi Iran adalah ....",
+    "image": null,
+    "options": {
+      "A": "Hizbullah di Lebanon",
+      "B": "Hamas di Jalur Gaza",
+      "C": "Jihad Islam Palestina",
+      "D": "Tentara Pembebasan Rakyat Kurdi",
+      "E": "Ansarullah di Yaman"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 115,
+    "question": "Bayu mengendarai sepeda motor dan membawa penumpang anak kecil berusia 5 tahun di depannya, bukan di belakang. Ia beralasan bahwa dengan posisi seperti itu ia dapat lebih mudah mengawasi dan melindungi anak tersebut selama perjalanan. Saat dicek petugas, Bayu dikenakan sanksi dan ia merasa keberatan karena tujuannya adalah melindungi keselamatan anak tersebut. Berdasarkan ketentuan hukum, tindakan Bayu melanggar aturan karena...",
+    "image": null,
+    "options": {
+      "A": "Sepeda motor hanya boleh membawa penumpang dewasaati tidak efektif dalam mencegah peredaran narkoba.",
+      "B": "Mengangkut anak di bawah umur di posisi depan pengemudi dilarang karena dapat menghalangi gerak pengemudi, mengganggu kendali kendaraan, dan meningkatkan risiko cedera parah saat terjadi kecelakaan",
+      "C": "Anak di bawah 7 tahun wajib menggunakan kursi khusus di belakang sepeda motor",
+      "D": "Bayu tidak memiliki izin khusus untuk membawa anak kecil",
+      "E": "Dilarang membawa anak kecil jika tidak ada penumpang pendamping lain di belakang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 116,
+    "question": "Tarian \"Tari Piring\" merupakan tarian yang memadukan kecekatan dan keseimbangan. Para penari membawa piring di kedua tangan dan menggerakkannya dengan cepat, bahkan terkadang melakukan atraksi memutar piring atau menginjak pecahan kaca. Tarian tradisional ini berasal dari daerah...",
+    "image": null,
+    "options": {
+      "A": "Jawa Barat",
+      "B": "Sumatera Barat",
+      "C": "Jawa Tengah",
+      "D": "Sulawesi Utara",
+      "E": "Lampung"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "question": "Kerajaan Sriwijaya dikenal sebagai kerajaan maritim terbesar yang pernah ada di Nusantara. Letak strategisnya di jalur perdagangan internasional membuat kerajaan ini sangat kaya dan berpengaruh. Selain sebagai pusat kekuasaan politik dan ekonomi, Sriwijaya juga terkenal sebagai pusat pembelajaran dan penyebaran agama...",
+    "image": null,
+    "options": {
+      "A": "Hindu",
+      "B": "Islam",
+      "C": "Buddha",
+      "D": "Kristen",
+      "E": "Konghucu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Seorang siswa mengamati gerakan pada tumbuhan putri malu yang daunnya akan menutup ketika disentuh. Gerakan tersebut dipengaruhi oleh rangsangan berupa sentuhan dan tidak tergantung pada arah datangnya rangsangan. Gerakan ini tergolong dalam...",
+    "image": null,
+    "options": {
+      "A": "Tigmotropisme",
+      "B": "Tigmonasti",
+      "C": "Fototropisme",
+      "D": "Niktinasti",
+      "E": "Seismonasti"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 119,
+    "question": "Senam adalah olahraga yang membutuhkan keluwesan, ketangkasan, dan keseimbangan. Ada jenis senam yang dilakukan tanpa menggunakan alat bantu dan hanya mengandalkan kekuatan tubuh sendiri.\nJenis senam yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Senam Irama",
+      "B": "Senam Lantai",
+      "C": "Senam Alat",
+      "D": "Senam Aerobic",
+      "E": "Senam Artistik"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "question": "Dalam permainan bola basket, terdapat cara pergerakan pemain dengan memantulkan bola ke lantai sambil berjalan atau berlari. Gerakan dasar ini merupakan teknik utama untuk membawa bola mendekati ring lawan.\nTeknik dasar permainan bola basket yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Shooting",
+      "B": "Passing",
+      "C": "Dribbling",
+      "D": "Pivot",
+      "E": "Rebound"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 121,
+    "question": "Larutan asam klorida (HCl) memiliki pH 1, sedangkan larutan Natrium Hidroksida (NaOH) memiliki pH 13. Jika kedua larutan dicampurkan akan terjadi reaksi netralisasi. Nilai pH campuran yang dihasilkan jika bereaksi sempurna (ekuivalen) adalah...",
+    "image": null,
+    "options": {
+      "A": "0",
+      "B": "7",
+      "C": "14",
+      "D": "1",
+      "E": "13"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Sebuah kapal laut terbuat dari besi baja yang sangat berat dan padat, namun kapal tersebut tidak tenggelam melainkan dapat mengapung di permukaan air. Hal ini terjadi karena gaya berat kapal lebih kecil daripada gaya ke atas yang didorong oleh air. Prinsip yang menjelaskan fenomena ini adalah hukum...",
+    "image": null,
+    "options": {
+      "A": "Hukum Pascal",
+      "B": "Hukum Bernoulli",
+      "C": "Hukum Archimedes",
+      "D": "Hukum Boyle",
+      "E": "Hukum Newton"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "question": "Seorang anggota kepolisian sedang melakukan pengawasan di perbatasan wilayah hukumnya. Ia menemukan ada kendaraan yang masuk membawa barang-barang yang dicurigai merupakan hasil tindak pidana, namun pemilik kendaraan tidak memiliki dokumen sah untuk barang tersebut. Berdasarkan Peraturan Kepolisian tentang penanganan barang yang dicurigai hasil kejahatan, tindakan yang tepat dilakukan oleh petugas adalah...",
+    "image": null,
+    "options": {
+      "A": "Langsung menyita barang dan kendaraan untuk dijadikan milik dinas kepolisian",
+      "B": "Membebaskan kendaraan dan barangnya setelah pemiliknya membayar sejumlah uang kepada petugas",
+      "C": "Mengamankan kendaraan dan barang, serta melakukan pemeriksaan mendalam dan pencatatan sesuai prosedur hukum",
+      "D": "Hanya menasihati pemilik kendaraan agar tidak mengulangi perbuatannya lalu membiarkannya pergi",
+      "E": "Semua jawaban benar."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "question": "Dalam sebuah diskusi di media sosial, seseorang menyebarkan berita bohong yang menuduh kepolisian melakukan tindakan sewenang-wenang tanpa dasar fakta yang jelas. Berdasarkan Peraturan Kepolisian tentang perlindungan kehormatan dan citra lembaga, langkah awal yang tepat dilakukan oleh kepolisian adalah...",
+    "image": null,
+    "options": {
+      "A": "Melakukan penangkapan sewenang-wenang terhadap orang tersebut tanpa pemberitahuan",
+      "B": "Menyampaikan klarifikasi yang berisi fakta dan data yang akurat kepada masyarakat melalui saluran resmi",
+      "C": "Melarang seluruh warga untuk menggunakan media sosial demi mencegah penyebaran berita serupa",
+      "D": "Menjawab tuduhan dengan ucapan kasar atau ancaman di media sosial yang sama",
+      "E": "Mengabaikan berita tersebut dan berharap berita itu hilang dengan sendirinya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "question": "Pemerintah telah mengeluarkan keputusan untuk mencabut izin usaha sebuah perusahaan karena dianggap melanggar aturan lingkungan hidup. Perusahaan tersebut tidak menerima keputusan itu dan mengajukan keberatan. Lembaga yang berwenang kemudian memeriksa apakah prosedur pencabutan izin tersebut sudah dilakukan sesuai dengan aturan hukum administrasi negara yang berlaku atau tidak.\nLembaga yang berwenang memeriksa kasus tersebut adalah bagian dari lembaga...",
+    "image": null,
+    "options": {
+      "A": "Legislatif, karena membuat aturan lingkungan hidup",
+      "B": "Eksekutif, karena mengurus perizinan usaha",
+      "C": "Yudikatif, khususnya peradilan tata usaha negara",
+      "D": "Legislatif, karena mengawasi pelaksanaan izin usaha",
+      "E": "Eksekutif, khususnya lembaga penyelesaian sengketa internal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "question": "Seorang pejabat tinggi negara telah ditetapkan sebagai tersangka kasus tindak pidana korupsi oleh aparat penegak hukum. Namun, untuk dapat menahan dan memprosesnya lebih lanjut sesuai hukum yang berlaku, aparat tersebut wajib meminta persetujuan terlebih dahulu kepada lembaga wakil rakyat tempat pejabat tersebut berasal. Hal ini diatur agar perlindungan hukum dan kewenangan jabatan dapat berjalan seimbang.\nKewenangan lembaga wakil rakyat dalam kasus tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Memberikan sanksi pidana kepada pejabat yang bersalah",
+      "B": "Menilai apakah tindakan pidana tersebut merugikan negara",
+      "C": "Memberikan persetujuan penyitaan atau penahanan anggotanya",
+      "D": "Menghentikan penyelidikan jika dianggap merugikan lembaga",
+      "E": "Mengganti aparat penegak hukum yang menangani kasus"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 127,
+    "question": "Salah satu upaya nyata untuk mewujudkan Polri yang bersih dan bebas dari korupsi, kolusi, dan nepotisme adalah dengan membuka akses informasi kepada publik. Masyarakat berhak mengetahui berbagai hal terkait kebijakan, kinerja, maupun pengelolaan sumber daya di lingkungan kepolisian. Hal ini merupakan penerapan prinsip...",
+    "image": null,
+    "options": {
+      "A": "Kerahasiaan Negara",
+      "B": "Transparansi dan Akuntabilitas",
+      "C": "Kewenangan Mutlak",
+      "D": "Kebebasan Bertindak",
+      "E": "Keterbatasan Informasi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 128,
+    "question": "Seorang anggota Polri ditugaskan untuk mengamankan sebuah acara umum yang dihadiri oleh banyak orang. Sebelum acara dimulai, ia menyusun rencana keamanan, menentukan titik pengawasan, dan mengatur posisi rekan-rekannya dengan rapi. Selama acara berlangsung, ia terus berkoordinasi, mengawasi situasi dengan cermat, dan segera mengatasi gangguan kecil agar tidak berkembang menjadi masalah besar. Berkat persiapan dan kerja sama yang baik, acara berjalan dengan aman dan tertib.\nKunci keberhasilan tugas yang dilakukan oleh anggota Polri tersebut terletak pada...",
+    "image": null,
+    "options": {
+      "A": "Jumlah petugas yang banyak dan perlengkapan yang lengkap",
+      "B": "Persiapan matang, perencanaan yang jelas, dan kerja sama tim",
+      "C": "Keberuntungan karena tidak terjadi gangguan yang serius",
+      "D": "Kewenangan mutlak untuk melarang siapa saja masuk ke lokasi",
+      "E": "Ketergantungan sepenuhnya pada keamanan yang diselenggarakan panitia"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 129,
+    "question": "Seorang mahasiswa sedang menyusun makalah tentang lembaga negara. Ia mencatat bahwa Badan Adhoc Pemerintah Pusat memiliki karakteristik khusus, yaitu: (1) Dibentuk oleh Presiden atau lembaga eksekutif tingkat pusat; (2) Tidak diatur langsung dalam Undang-Undang Dasar Negara; (3) Tidak memiliki struktur organisasi yang permanen; dan (4) Masa tugasnya dibatasi waktu.\nDi antara lembaga berikut, manakah yang sesuai sepenuhnya dengan karakteristik badan adhoc pemerintah pusat yang dicatat mahasiswa tersebut?",
+    "image": null,
+    "options": {
+      "A": "Kementerian Dalam Negeri",
+      "B": "Mahkamah Konstitusi",
+      "C": "Komite Penanganan COVID-19 dan Pemulihan Ekonomi Nasional",
+      "D": "Badan Pemeriksa Keuangan",
+      "E": "Tentara Nasional Indonesia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 130,
+    "question": "Sistem tanam paksa (cultuurstelsel) yang diterapkan oleh pemerintah kolonial Belanda pada abad ke-19 memiliki dampak yang sangat buruk bagi masyarakat Indonesia. Dampak yang paling signifikan dari sistem tanam paksa adalah...",
+    "image": null,
+    "options": {
+      "A": "Meningkatnya produksi tanaman ekspor di Indonesia.",
+      "B": "Berkembangnya sistem irigasi dan infrastruktur pertanian.",
+      "C": "Terjadinya kelaparan dan kemiskinan yang meluas di kalangan petani.",
+      "D": "Munculnya kelas menengah pribumi yang kaya raya.",
+      "E": "Terciptanya stabilitas politik dan keamanan di wilayah pedesaan."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Peran organisasi Budi Utomo dalam sejarah pergerakan nasional Indonesia sangat penting karena...",
+    "image": null,
+    "options": {
+      "A": "Budi Utomo merupakan organisasi politik pertama di Indonesia yang bertujuan untuk mencapai kemerdekaan.",
+      "B": "Budi Utomo berhasil mempersatukan seluruh organisasi pemuda di Indonesia dalam satu wadah.",
+      "C": "Budi Utomo menjadi pelopor gerakan nasionalisme Indonesia yang modern.",
+      "D": "Budi Utomo berhasil mendirikan sekolah-sekolah yang berkualitas untuk meningkatkan pendidikan masyarakat.",
+      "E": "Budi Utomo berhasil menggulingkan pemerintahan kolonial Belanda."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 132,
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 memiliki peran penting dalam mempercepat proklamasi kemerdekaan Indonesia karena...",
+    "image": null,
+    "options": {
+      "A": "Para pemuda berhasil menculik Soekarno dan Hatta dan memaksa mereka untuk segera memproklamasikan kemerdekaan.",
+      "B": "Para pemuda berhasil merebut kekuasaan dari tangan Jepang dan menyerahkannya kepada Soekarno dan Hatta.",
+      "C": "Para pemuda berhasil meyakinkan Soekarno dan Hatta bahwa Jepang telah menyerah dan Indonesia harus segera memproklamasikan kemerdekaan.",
+      "D": "Para pemuda berhasil menyusun naskah proklamasi kemerdekaan Indonesia.",
+      "E": "Para pemuda berhasil mengamankan Soekarno dan Hatta dari ancaman Jepang."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "question": "Dekrit Presiden 5 Juli 1959 dikeluarkan oleh Presiden Soekarno untuk mengatasi situasi politik dan konstitusi yang terjadi pada masa Demokrasi Liberal. Dampak dari Dekrit Presiden 5 Juli 1959 adalah...",
+    "image": null,
+    "options": {
+      "A": "Berakhirnya masa Demokrasi Liberal dan dimulainya masa Demokrasi Terpimpin.",
+      "B": "Dibubarkannya Konstituante dan diberlakukannya kembali UUD 1945.",
+      "C": "Terbentuknya Majelis Permusyawaratan Rakyat Sementara (MPRS) dan Dewan Pertimbangan Agung Sementara (DPAS).",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 134,
+    "question": "Peran Konferensi Asia Afrika (KAA) tahun 1955 bagi Indonesia sangat penting karena...",
+    "image": null,
+    "options": {
+      "A": "KAA berhasil mempersatukan negara-negara Asia dan Afrika dalam satu wadah melawan kolonialisme dan imperialisme.",
+      "B": "KAA berhasil mempromosikan Indonesia sebagai pemimpin negara-negara non-blok.",
+      "C": "KAA berhasil meningkatkan hubungan diplomatik dan ekonomi antara Indonesia dengan negara-negara Asia dan Afrika.",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 135,
+    "question": "Gerakan 30 September 1965 (G30S) memiliki dampak yang sangat besar bagi sejarah Indonesia. Salah satu dampak yang paling signifikan dari G30S adalah...",
+    "image": null,
+    "options": {
+      "A": "Terjadinya revolusi terhadap anggota dan simpatisan Partai Komunis Indonesia (PKI).",
+      "B": "Berakhirnya kekuasaan Presiden Soekarno dan dimulainya Orde Baru di bawah kepemimpinan Soeharto.",
+      "C": "Terjadinya perubahan sistem politik dan ekonomi Indonesia secara drastis.",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "question": "Kebijakan ekonomi Orde Baru yang dikenal dengan sebutan Trilogi Pembangunan memiliki tujuan utama untuk...",
+    "image": null,
+    "options": {
+      "A": "Menciptakan pertumbuhan ekonomi yang tinggi.",
+      "B": "Meningkatkan pemerataan pendapatan.",
+      "C": "Menciptakan stabilitas nasional.",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 137,
+    "question": "Peristiwa Reformasi 1998 merupakan titik balik penting dalam sejarah Indonesia. Salah satu tuntutan utama dari gerakan Reformasi 1998 adalah...",
+    "image": null,
+    "options": {
+      "A": "Menurunkan harga-harga kebutuhan pokok.",
+      "B": "Memberantas korupsi, kolusi, dan nepotisme (KKN).",
+      "C": "Menegakkan supremasi hukum.",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 138,
+    "question": "Peran Indonesia dalam organisasi ASEAN sangat penting dalam...",
+    "image": null,
+    "options": {
+      "A": "Mempromosikan perdamaian dan stabilitas di kawasan Asia Tenggara.",
+      "B": "Meningkatkan kerjasama ekonomi dan sosial budaya antar negara anggota ASEAN.",
+      "C": "Memperjuangkan kepentingan negara-negara berkembang di forum internasional.",
+      "D": "Semua jawaban benar.",
+      "E": "Tidak ada jawaban yang benar."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 139,
+    "question": "Indonesia memiliki potensi gempa bumi yang tinggi karena berada di pertemuan tiga lempeng besar dunia. Lempeng berikut ini bukan termasuk yang mempengaruhi wilayah Indonesia:",
+    "image": null,
+    "options": {
+      "A": "Lempeng Eurasia",
+      "B": "Lempeng Pasifik",
+      "C": "Lempeng Indo-Australia",
+      "D": "Lempeng Atlantik",
+      "E": "Lempeng Filipina"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 140,
+    "question": "Dalam sejarah Indonesia, peristiwa Sumpah Pemuda tahun 1928 penting karena:",
+    "image": null,
+    "options": {
+      "A": "Mendorong kemerdekaan dari Jepang",
+      "B": "Menyatukan organisasi pemuda dalam satu partai",
+      "C": "Menegaskan identitas nasional melalui bahasa, bangsa, dan tanah air",
+      "D": "Mengakhiri penjajahan Belanda",
+      "E": "Memperkuat solidaritas antar daerah di Indonesia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 141,
+    "question": "Salah satu penyebab krisis ekonomi global tahun 2008 adalah:",
+    "image": null,
+    "options": {
+      "A": "Krisis pangan dunia",
+      "B": "Perang dagang antara Amerika dan Tiongkok",
+      "C": "Gagalnya sektor perbankan akibat kredit subprime mortgage",
+      "D": "Kenaikan harga minyak dunia secara drastis",
+      "E": "Krisis utang di kawasan Eropa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 142,
+    "question": "Negara berikut bukan anggota tetap Dewan Keamanan PBB",
+    "image": null,
+    "options": {
+      "A": "Rusia",
+      "B": "Prancis",
+      "C": "India",
+      "D": "Tiongkok",
+      "E": "Amerika Serikat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "question": "Salah satu fungsi cadangan devisa negara adalah:",
+    "image": null,
+    "options": {
+      "A": "Meningkatkan pendapatan dari pajak",
+      "B": "Membayar utang dalam negeri",
+      "C": "Menstabilkan nilai tukar mata uang",
+      "D": "Mendanai belanja pemerintah daerah",
+      "E": "Membiayai pembangunan infrastruktur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "question": "Borobudur dibangun oleh dinasti:",
+    "image": null,
+    "options": {
+      "A": "Syailendra",
+      "B": "Sanjaya",
+      "C": "Majapahit",
+      "D": "Mataram Islam",
+      "E": "Sailendra"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 145,
+    "question": "Kota yang dilewati oleh garis khatulistiwa dan menjadi ibu kota provinsi di Indonesia adalah:",
+    "image": null,
+    "options": {
+      "A": "Pontianak",
+      "B": "Palembang",
+      "C": "Pekanbaru",
+      "D": "Palu",
+      "E": "Samarinda"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "question": "Perjanjian Bretton Woods tahun 1944 menjadi penting dalam sejarah ekonomi dunia karena:",
+    "image": null,
+    "options": {
+      "A": "Mengakhiri Depresi Besar",
+      "B": "Membentuk sistem ekonomi berbasis emas",
+      "C": "Membentuk lembaga keuangan internasional seperti IMF dan Bank Dunia",
+      "D": "Menghentikan praktik proteksionisme",
+      "E": "Menetapkan mata uang tunggal dunia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 147,
+    "question": "Gunung berikut bukan termasuk dalam Cincin Api Pasifik:",
+    "image": null,
+    "options": {
+      "A": "Gunung Fuji",
+      "B": "Gunung Etna",
+      "C": "Gunung Merapi",
+      "D": "Gunung Tambora",
+      "E": "Gunung Krakatau"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Jika suatu negara memiliki pertumbuhan ekonomi 7% per tahun, maka PDB-nya akan berlipat ganda dalam waktu kira-kira:",
+    "image": null,
+    "options": {
+      "A": "5 tahun",
+      "B": "10 tahun",
+      "C": "14 tahun",
+      "D": "21 tahun",
+      "E": "25 tahun"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 149,
+    "question": "Indonesia dikenal sebagai negara kepulauan terbesar di dunia yang memiliki garis pantai terpanjang kedua setelah Kanada. Keberadaan ribuan pulau ini menjadikan Indonesia sangat rawan terhadap bencana alam, khususnya gempa bumi dan tsunami. Hal ini berkaitan erat dengan posisi geografis Indonesia. Berdasarkan informasi tersebut, apa penyebab utama kerawanan bencana geologis di Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Indonesia memiliki banyak gunung api aktif",
+      "B": "Indonesia terletak di kawasan tropis",
+      "C": "Indonesia berada di pertemuan lempeng-lempeng tektonik besar",
+      "D": "Indonesia memiliki banyak pulau kecil yang tersebar",
+      "E": "Indonesia memiliki curah hujan tinggi sepanjang tahun"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "question": "Pada masa kolonial Belanda, terdapat berbagai perlawanan dari rakyat Indonesia, baik secara terbuka maupun melalui organisasi modern. Salah satu organisasi penting adalah Budi Utomo, yang berdiri pada tahun 1908 dan dianggap sebagai tonggak awal kebangkitan nasional. Berdasarkan fakta sejarah tersebut, apa kontribusi utama Budi Utomo dalam perjuangan kemerdekaan Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Menyusun strategi militer melawan Belanda",
+      "B": "Mengangkat senjata dan mendirikan tentara rakyat",
+      "C": "Membangkitkan kesadaran nasional melalui pendidikan dan organisasi",
+      "D": "Menandatangani perjanjian damai dengan pemerintah kolonial",
+      "E": "Menyebarkan propaganda anti-kolonial melalui media massa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 151,
+    "question": "Pemerintah meluncurkan program pengembangan usaha mikro, kecil, dan menengah (UMKM) dengan memberikan bantuan modal dan pelatihan keterampilan. Analisis menunjukkan bahwa program ini memiliki dampak positif berupa peningkatan pendapatan pelaku usaha, penurunan jumlah pengangguran, dan peningkatan jumlah barang yang diproduksi dalam negeri. Berdasarkan jenisnya, dampak ekonomi yang terjadi dikategorikan sebagai dampak...",
+    "image": null,
+    "options": {
+      "A": "Negatif dan langsung",
+      "B": "Positif dan langsung",
+      "C": "Positif dan tidak langsung",
+      "D": "Netral dan berjangka pendek",
+      "E": "Negatif dan berjangka panjang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 152,
+    "question": "Polri kini menggunakan teknologi berbasis digital seperti e-Tilang, CCTV terintegrasi, serta sistem database kriminal nasional untuk mempercepat penegakan hukum dan meningkatkan transparansi.\nManfaat utama sistem tersebut adalah….",
+    "image": null,
+    "options": {
+      "A": "Memperlambat proses hukum",
+      "B": "Meningkatkan transparansi dan efisiensi penegakan hukum",
+      "C": "Menghapus fungsi polisi lapangan",
+      "D": "Mengurangi data kriminal",
+      "E": "Menghapus teknologi dari kepolisian"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 153,
+    "question": "Pemerintah Indonesia sedang mendorong program “Smart City” di berbagai daerah yang melibatkan integrasi teknologi, keamanan berbasis digital, dan pelayanan publik online. Polri ikut berperan dalam pengawasan keamanan kota berbasis teknologi.\nTujuan utama program ini adalah….",
+    "image": null,
+    "options": {
+      "A": "Mengurangi penggunaan internet",
+      "B": "Meningkatkan keamanan dan pelayanan berbasis teknologi",
+      "C": "Menghapus pemerintahan daerah",
+      "D": "Mengurangi teknologi informasi",
+      "E": "Menutup akses publik terhadap layanan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "question": "Revolusi Industri di Eropa pada abad ke-18 mengubah sistem produksi dari manual menjadi berbasis mesin. Perubahan ini berdampak besar terhadap ekonomi dunia, urbanisasi, dan perkembangan teknologi.\nDampak utama Revolusi Industri adalah….",
+    "image": null,
+    "options": {
+      "A": "Penurunan produksi global",
+      "B": "Kembali ke sistem feodal",
+      "C": "Peningkatan produksi dan urbanisasi",
+      "D": "Penghapusan teknologi",
+      "E": "Pengurangan perdagangan internasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Dalam sebuah situasi di jalan raya, terjadi kemacetan parah akibat kecelakaan beruntun. Tidak ada petugas lalu lintas di lokasi saat itu. Seorang anggota Polri yang kebetulan melintas kemudian mengambil keputusan untuk mengalihkan arus lalu lintas secara manual meskipun tidak ada perintah langsung dari atasannya. Tindakan tersebut kemudian dinilai sebagai tindakan yang tepat karena mencegah kemacetan total.\nTindakan anggota Polri tersebut termasuk dalam konsep….",
+    "image": null,
+    "options": {
+      "A": "Pelanggaran prosedur",
+      "B": "Diskresi kepolisian",
+      "C": "Tindakan ilegal",
+      "D": "Penyalahgunaan wewenang",
+      "E": "Tindakan legislatif"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 156,
+    "question": "Globalisasi ekonomi mendorong integrasi antarnegara melalui perdagangan bebas dan investasi lintas batas. Namun, hal ini juga menimbulkan tantangan berupa ketimpangan ekonomi antarnegara, di mana negara maju cenderung lebih diuntungkan dibanding negara berkembang.\nStrategi yang paling tepat bagi negara berkembang untuk menghadapi kondisi tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Menutup seluruh akses perdagangan internasional",
+      "B": "Meningkatkan daya saing melalui inovasi dan pendidikan",
+      "C": "Menghentikan kerja sama ekonomi global",
+      "D": "Mengandalkan sepenuhnya bantuan negara maju",
+      "E": "Membatasi teknologi asing masuk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "question": "Dalam sistem politik internasional, organisasi seperti Perserikatan Bangsa-Bangsa (PBB) sering dihadapkan pada keterbatasan dalam menyelesaikan konflik bersenjata karena perbedaan kepentingan negara anggota tetap Dewan Keamanan. Hal ini membuat beberapa resolusi tidak dapat dijalankan secara efektif.\nFaktor utama yang menyebabkan keterbatasan tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Kurangnya dana operasional PBB",
+      "B": "Tidak adanya anggota negara berkembang",
+      "C": "Adanya hak veto negara anggota tetap",
+      "D": "Tidak adanya aturan internasional",
+      "E": "Ketidakjelasan tujuan PBB"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 158,
+    "question": "Perkembangan media sosial telah mengubah cara masyarakat memperoleh informasi. Namun, algoritma platform digital sering kali menciptakan echo chamber, yaitu kondisi di mana seseorang hanya menerima informasi yang sesuai dengan pandangannya sendiri, sehingga memperkuat polarisasi sosial.\nDampak utama dari fenomena tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Meningkatnya objektivitas informasi",
+      "B": "Berkurangnya konflik sosial",
+      "C": "Meningkatnya polarisasi dan perpecahan opini",
+      "D": "Hilangnya media sosial",
+      "E": "Menurunnya jumlah pengguna internet"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 159,
+    "question": "Dalam upaya mencapai pembangunan berkelanjutan (sustainable development), negara-negara di dunia berkomitmen menyeimbangkan antara pertumbuhan ekonomi, perlindungan lingkungan, dan kesejahteraan sosial. Indonesia sebagai negara berkembang menghadapi tantangan dalam menyeimbangkan kebutuhan industrialisasi dengan pelestarian lingkungan.\nPendekatan paling tepat dalam konteks tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Memprioritaskan industri tanpa mempertimbangkan lingkungan",
+      "B": "Menghentikan seluruh pembangunan ekonomi",
+      "C": "Menerapkan prinsip pembangunan berkelanjutan",
+      "D": "Mengabaikan isu lingkungan demi pertumbuhan cepat",
+      "E": "Mengurangi seluruh aktivitas ekonomi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 160,
+    "question": "Dalam beberapa tahun terakhir, banyak negara mulai memperketat kebijakan perdagangan sebagai respons terhadap ketidakpastian global, termasuk konflik geopolitik, gangguan rantai pasok, dan persaingan teknologi. Fenomena ini memunculkan kecenderungan baru yang disebut deglobalisasi terbatas, yaitu berkurangnya ketergantungan pada perdagangan global tanpa benar-benar menghapusnya.\nIndonesia sebagai negara dengan ekonomi terbuka menghadapi dilema antara menjaga keterbukaan pasar dan melindungi industri dalam negeri.\nKebijakan yang paling tepat untuk menghadapi kondisi tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Menutup seluruh impor barang dari luar negeri",
+      "B": "Menerapkan proteksionisme total untuk semua sektor",
+      "C": "Menguatkan industri dalam negeri sambil tetap terbuka pada perdagangan strategis",
+      "D": "Menghapus semua tarif perdagangan internasional",
+      "E": "Mengisolasi ekonomi nasional dari pasar global"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 161,
+    "question": "Dalam sistem perdagangan internasional, Indonesia banyak mengekspor produk-produk agrikultur seperti kelapa sawit, kopi, dan karet. Namun, produk ini sering dikenai hambatan non-tarif oleh negara-negara maju. Apa tantangan utama dari hambatan non-tarif bagi negara pengekspor seperti Indonesia?",
+    "image": null,
+    "options": {
+      "A": "Kewajiban menurunkan harga ekspor",
+      "B": "Larangan penggunaan dolar dalam transaksi",
+      "C": "Persyaratan teknis dan standar lingkungan yang ketat",
+      "D": "Kewajiban membayar pajak ganda di negara tujuan",
+      "E": "Pembatasan jumlah kapal pengangkut ekspor"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 162,
+    "question": "Seorang ahli tanah melakukan penelitian di wilayah dataran rendah yang dulu merupakan dasar danau yang kering. Ia menemukan bahwa tanah di sana berwarna kelabu, teksturnya halus dan lembut, sangat subur karena mengandung banyak endapan mineral dari berbagai tempat, serta mampu menahan air dengan baik sehingga sangat cocok untuk lahan pertanian padi.\nJenis tanah yang ditemukan oleh ahli tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Tanah Laterit",
+      "B": "Tanah Vulkanik",
+      "C": "Tanah Aluvial",
+      "D": "Tanah Podsol",
+      "E": "Tanah Gambut"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 163,
+    "question": "Penggunaan teknologi digital dalam pendidikan, seperti e-learning dan aplikasi belajar online, memungkinkan proses belajar mengajar tidak lagi terikat oleh ruang dan waktu. Siswa bisa belajar materi yang luas dari berbagai sumber tanpa hanya bergantung pada guru di kelas. Kesimpulan yang tepat adalah teknologi pendidikan...",
+    "image": null,
+    "options": {
+      "A": "Menghilangkan peran guru di sekolah",
+      "B": "Membuat siswa menjadi malas berpikir",
+      "C": "Memberikan kemudahan akses ilmu pengetahuan yang lebih luas",
+      "D": "Mengharuskan semua siswa memiliki gadget mahal",
+      "E": "Mengurangi kualitas pendidikan secara umum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "question": "Konflik ini juga memengaruhi hubungan Iran dengan sejumlah negara lain di kawasan. Beberapa negara mendukung tindakan Iran, sementara yang lain mendukung Israel. Salah satu negara yang secara terbuka menyatakan dukungan penuh terhadap Israel dan bahkan mengirimkan bantuan militer selama konflik berlangsung adalah ....",
+    "image": null,
+    "options": {
+      "A": "Irak",
+      "B": "Suriah",
+      "C": "Turki",
+      "D": "Arab Saudi",
+      "E": "Uni Emirat Arab"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 165,
+    "question": "Di sebuah jalan desa yang cukup sempit, Pak Harun menepikan mobilnya di sisi jalan untuk membeli barang di warung. Ia berhenti tepat di dekat tikungan tajam sehingga bagian mobilnya sedikit masuk ke badan jalan dan menyulitkan kendaraan lain untuk lewat dengan aman. Ketika ditegur oleh warga sekitar, Pak Harun menjawab bahwa ia hanya berhenti sebentar dan itu adalah haknya sebagai pengguna jalan. Berdasarkan peraturan yang berlaku, tindakan Pak Harun adalah pelanggaran karena...",
+    "image": null,
+    "options": {
+      "A": "Dilarang berhenti di jalan desa dalam keadaan apa pun",
+      "B": "Berhenti atau memarkir kendaraan dilarang dilakukan di tempat yang dapat membahayakan atau menghambat lalu lintas, seperti di dekat tikungan, tanjakan, atau turunan tajam",
+      "C": "Pak Harun tidak menyalakan lampu isyarat sebelum berhenti",
+      "D": "Hanya warga setempat yang berhak berhenti di lokasi tersebut",
+      "E": "Kendaraan pribadi dilarang berhenti di depan warung"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 166,
+    "question": "Alat musik tradisional \"Tifa\" dimainkan dengan cara dipukul. Alat musik ini terbuat dari kayu yang dilubangi dan salah satu sisinya ditutup dengan kulit hewan yang memiliki elastisitas baik. Bentuknya sederhana namun memiliki bunyi yang khas dan sangat identik dengan budaya masyarakat di wilayah...",
+    "image": null,
+    "options": {
+      "A": "Jawa",
+      "B": "Kalimantan",
+      "C": "Maluku dan Papua",
+      "D": "Sumatera",
+      "E": "Bali"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 167,
+    "question": "Pahlawan wanita yang sangat terkenal dari Aceh ini memimpin pasukan untuk melawan penjajah Belanda setelah suami dan anaknya gugur di medan perang. Beliau tidak gentar meskipun usianya sudah tua dan matanya buta, bahkan tetap membawa senjata saat ditangkap Belanda. Pahlawan yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Cut Nyak Dien",
+      "B": "Cut Meutia",
+      "C": "Raden Ajeng Kartini",
+      "D": "Martha Christina Tiahahu",
+      "E": "Dewi Sartika"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 168,
+    "question": "Pada proses pembelahan sel secara meiosis, terjadi dua kali pembelahan namun hanya satu kali penggandaan kromosom. Tujuan utama dari pembelahan meiosis dalam organisme adalah...",
+    "image": null,
+    "options": {
+      "A": "Memperbanyak sel untuk pertumbuhan tubuh",
+      "B": "Memperbaiki sel yang rusak",
+      "C": "Menghasilkan gamet dengan jumlah kromosom setengah dari induknya",
+      "D": "Membentuk dua sel anakan yang identik",
+      "E": "Mempercepat proses regenerasi jaringan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 169,
+    "question": "Ajang olahraga internasional yang dikhususkan bagi para atlet pelajar dan mahasiswa dari seluruh dunia memiliki nama khusus. Kompetisi ini sering disebut sebagai \"Olimpiade Kecil\" bagi kalangan akademisi.\nNama ajang olahraga yang dimaksud dalam narasi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "ASEAN School Games",
+      "B": "Universiade",
+      "C": "Youth Olympic Games",
+      "D": "Commonwealth Games",
+      "E": "World Cup"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 170,
+    "question": "Dalam olahraga pencak silat, terdapat unsur tanding yang disebut dengan istilah khusus. Pertandingan ini mempertemukan dua pesilat untuk saling menyerang dan bertahan sesuai dengan peraturan yang berlaku.\nCabang olahraga pencak silat yang berupa pertandingan tanding disebut...",
+    "image": null,
+    "options": {
+      "A": "Seni Tunggal",
+      "B": "Seni Ganda",
+      "C": "Tanding",
+      "D": "Regu",
+      "E": "Creative"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 171,
+    "question": "Perhatikan persamaan reaksi redoks berikut: 2Na+Cl2→2NaCl. Pada reaksi ini, atom Natrium (Na) melepaskan elektron menjadi ion positif, sedangkan atom Klorin (Cl2) menerima elektron menjadi ion negatif. Proses pelepasan elektron atau penambahan oksigen dalam reaksi kimia disebut...",
+    "image": null,
+    "options": {
+      "A": "Reduksi",
+      "B": "Oksidasi",
+      "C": "Netralisasi",
+      "D": "Hidrolisis",
+      "E": "Elektrolisis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Di sebuah ruangan tertutup, Andi menyemprotkan parfum di sudut ruangan. Beberapa saat kemudian, aroma wangi tersebut dapat tercium oleh orang yang berada di sudut seberang ruangan. Peristiwa pergerakan partikel parfum menyebar ke seluruh ruangan hingga mencapai keadaan merata disebut...",
+    "image": null,
+    "options": {
+      "A": "Difusi",
+      "B": "Osmosis",
+      "C": "Evaporasi",
+      "D": "Sublimasi",
+      "E": "Kristalisasi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Seorang anggota kepolisian ditugaskan untuk memberikan pelatihan keamanan kepada satuan pengamanan swasta di sebuah perusahaan. Berdasarkan Peraturan Kepolisian tentang hubungan kerja sama dengan lembaga swasta, prinsip utama yang harus dipegang selama memberikan pelatihan adalah...",
+    "image": null,
+    "options": {
+      "A": "Mengajarkan teknik penindakan yang sama persis dengan yang dimiliki kepolisian",
+      "B": "Menekankan bahwa satuan pengamanan swasta memiliki wewenang yang setara dengan kepolisian",
+      "C": "Menjelaskan batas wewenang, tanggung jawab, dan prosedur kerja yang sesuai dengan peraturan yang berlaku",
+      "D": "Meminta perusahaan memberikan fasilitas mewah sebagai syarat pelatihan berjalan lancar",
+      "E": "Mengajarkan cara memeriksa dan menahan warga secara paksa jika dianggap perlu"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Saat menangani perkelahian massal, seorang anggota kepolisian terpaksa menggunakan alat penindakan tertentu untuk menghentikan tindakan kekerasan yang mengancam nyawa orang lain. Setelah situasi terkendali, ia wajib membuat laporan tertulis mengenai penggunaan alat tersebut. Berdasarkan Peraturan Kepolisian tentang penggunaan sarana penindakan, isi utama laporan tersebut harus memuat...",
+    "image": null,
+    "options": {
+      "A": "Hanya jenis alat yang digunakan tanpa penjelasan alasan",
+      "B": "Waktu kejadian saja, tanpa menyebutkan dampak atau akibatnya",
+      "C": "Alasan, situasi, tahapan tindakan, dan akibat yang ditimbulkan secara rinci dan jujur",
+      "D": "Hanya nama petugas yang bertindak, tanpa keterangan lain",
+      "E": "Penjelasan yang dibuat sedemikian rupa agar tindakan petugas terlihat benar meskipun melampaui batas"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 175,
+    "question": "Dalam rangka menjaga kelancaran pelayanan publik, pemerintah pusat memberikan wewenang, tugas, dan tanggung jawab tertentu kepada pemerintah daerah. Pemerintah daerah kemudian mengatur dan melaksanakan urusan tersebut sesuai dengan kondisi dan kebutuhan masyarakat di wilayahnya masing-masing, namun tetap harus berpedoman pada aturan umum yang ditetapkan oleh pemerintah pusat agar tidak terjadi perbedaan aturan yang bertentangan antarwilayah.\nPernyataan yang tepat mengenai pembagian wewenang tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Pemerintah daerah memiliki kekuasaan mutlak dan bebas dari aturan pusat",
+      "B": "Pemerintah pusat menyerahkan seluruh kewenangannya sepenuhnya ke daerah",
+      "C": "Pelimpahan wewenang dilakukan dengan tetap berlandaskan peraturan yang lebih tinggikan pendinginan global dan krisis populasi manusia purba",
+      "D": "Pemerintah daerah tidak berhak mengatur urusan di wilayahnya sendiri",
+      "E": "Lembaga legislatif daerah yang berwenang menjalankan tugas pemerintahan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 176,
+    "question": "Sebuah undang-undang telah disahkan dan diundangkan, namun dalam penerapannya ternyata menimbulkan penafsiran yang berbeda-beda di kalangan aparat penegak hukum dan masyarakat. Perbedaan penafsiran ini menyebabkan ketidakpastian hukum dan kebingungan dalam menentukan langkah yang harus diambil. Untuk mengatasi hal ini, diperlukan penjelasan resmi mengenai makna pasal-pasal dalam undang-undang tersebut agar memiliki pengertian yang sama bagi semua pihak.\nLembaga yang berwenang memberikan penjelasan resmi dan mengikat mengenai makna undang-undang tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Lembaga Legislatif, karena yang membuat undang-undang adalah lembaga ini",
+      "B": "Lembaga Eksekutif, karena yang melaksanakan undang-undang adalah pemerintah",
+      "C": "Lembaga Yudikatif, karena berwenang menafsirkan hukum dalam penyelesaian perkara",
+      "D": "Lembaga Pemeriksa Keuangan, karena bertugas mengawasi penggunaan dana negara",
+      "E": "Lembaga Kepolisian, karena berwenang menindak pelanggaran hukum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 177,
+    "question": "Di masa lalu, banyak tugas dan fungsi yang dijalankan Polri ternyata tumpang tindih dengan tugas lembaga atau instansi lain. Dalam reformasi, dilakukan penataan kembali agar setiap lembaga memiliki tugas yang jelas dan tidak saling mengganggu. Penegasan fungsi Polri dalam sistem hukum di Indonesia menetapkan bahwa fungsi utama kepolisian berakhir pada tahap...",
+    "image": null,
+    "options": {
+      "A": "Penjatuhan hukuman di pengadilan",
+      "B": "Pelaksanaan putusan hakim",
+      "C": "Penyidikan dan penyelidikan tindak pidana",
+      "D": "Pengawasan lembaga pemasyarakatan",
+      "E": "Penyusunan undang-undang pidana"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 178,
+    "question": "Seorang anggota Polri menemukan adanya kesalahan prosedur dalam penanganan kasus yang pernah ditangani oleh rekannya sebelumnya. Meskipun menyadari hal itu dapat menimbulkan masalah bagi rekannya maupun instansi, ia tetap melaporkan temuan tersebut kepada pimpinan dan menyarankan agar dilakukan perbaikan serta tindakan korektif sesuai ketentuan yang berlaku. Ia melakukannya karena yakin bahwa penegakan hukum harus dilakukan dengan benar dan jujur.\nSikap anggota Polri tersebut merupakan penerapan nilai dasar kepolisian yaitu...",
+    "image": null,
+    "options": {
+      "A": "Kesetiaan kepada teman sejawat di atas kebenaran hukum",
+      "B": "Kehati-hatian untuk tidak mencampuri urusan orang lain",
+      "C": "Konversi lahan pertanian ke industri dan pemukiman",
+      "D": "Kejujuran, tanggung jawab, dan kepatuhan terhadap prinsip hukum",
+      "E": "Ketegangan dalam hubungan kerja demi kepentingan pribadi",
+      "F": "Kepatuhan buta terhadap keputusan yang sudah diambil sebelumnya"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 179,
+    "question": "Dalam rapat kabinet, Menteri Sekretaris Negara menjelaskan bahwa pembentukan badan adhoc di tingkat pusat sangat diperlukan dalam sistem pemerintahan. Alasannya adalah seringkali muncul masalah atau tugas yang bersifat mendesak, lintas sektor, atau baru terjadi satu kali saja, sehingga tidak efektif jika harus menambah struktur organisasi baru yang permanen. Badan ini hanya bertugas mengoordinasikan dan menyelesaikan masalah tersebut, lalu bubar setelah selesai.\nBerdasarkan penjelasan tersebut, fungsi utama pembentukan Badan Adhoc Pemerintah Pusat adalah...",
+    "image": null,
+    "options": {
+      "A": "Mengambil alih seluruh wewenang kementerian dan lembaga yang sudah ada",
+      "B": "Menjadi lembaga baru yang permanen untuk mengawasi kinerja pemerintah",
+      "C": "Menangani tugas khusus, mendesak, atau lintas sektor tanpa mengubah struktur organisasi tetap",
+      "D": "Membuat peraturan perundang-undangan baru yang berlaku selamanya",
+      "E": "Menggantikan fungsi lembaga negara yang diatur dalam Undang-Undang Dasar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 180,
+    "question": "Tugas pokok Kepolisian Negara Republik Indonesia adalah…",
+    "image": null,
+    "options": {
+      "A": "Mempertahankan kedaulatan negara",
+      "B": "Menjaga keamanan dan ketertiban masyarakat",
+      "C": "Mengatur perekonomian negara",
+      "D": "Menyelenggarakan peradilan pidana",
+      "E": "Membuat undang-undang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 181,
+    "question": "Lambang Kepolisian Negara Republik Indonesia adalah…",
+    "image": null,
+    "options": {
+      "A": "Garuda Pancasila",
+      "B": "Tugu Polri",
+      "C": "Tribrata",
+      "D": "Catur Prasetya",
+      "E": "Bintang Bersudut Lima"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Semboyan “Rastra Sewakottama” pada Kepolisian berarti…",
+    "image": null,
+    "options": {
+      "A": "Polisi adalah panglima perang",
+      "B": "Polisi pelayan utama masyarakat",
+      "C": "Polisi penegak hukum tertinggi",
+      "D": "Polisi sebagai benteng demokrasi",
+      "E": "Polisi sebagai benteng demokrasi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 183,
+    "question": "Tribrata sebagai pedoman hidup Polri ditetapkan pertama kali pada tanggal…",
+    "image": null,
+    "options": {
+      "A": "1 Juli 1946",
+      "B": "1 Juli 1949",
+      "C": "10 Juli 1950",
+      "D": "1 Juli 1954",
+      "E": "5 Oktober 1945"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 184,
+    "question": "Catur Prasetya merupakan pedoman moral Polri dalam melaksanakan…",
+    "image": null,
+    "options": {
+      "A": "Pengawasan internal",
+      "B": "Operasi kepolisian",
+      "C": "Operasi kepolisian",
+      "D": "Proses peradilan",
+      "E": "Pendidikan kepolisian"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 185,
+    "question": "Kepolisian Negara Republik Indonesia secara struktural berada di bawah…",
+    "image": null,
+    "options": {
+      "A": "DPR RI",
+      "B": "Presiden",
+      "C": "Menteri Pertahanan",
+      "D": "Mahkamah Agung",
+      "E": "MPR"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 186,
+    "question": "Dalam penegakan hukum, Polri berperan sebagai…",
+    "image": null,
+    "options": {
+      "A": "Penyidik dan penuntut",
+      "B": "Penyidik dan hakim",
+      "C": "Penyidik dan pelaksana putusan",
+      "D": "Penyidik dan penegak awal hukum",
+      "E": "Penyidik dan pembuat undang-undang"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "question": "Slogan “Polisi Sahabat Masyarakat” lebih menekankan pada fungsi Polri sebagai…",
+    "image": null,
+    "options": {
+      "A": "Penegak hukum",
+      "B": "Pelayan masyarakat",
+      "C": "Aparat negara",
+      "D": "Alat pertahanan",
+      "E": "Pengawas internal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 188,
+    "question": "Hari Bhayangkara yang diperingati setiap tanggal 1 Juli berkaitan dengan…",
+    "image": null,
+    "options": {
+      "A": "Lahirnya Polri sebagai lembaga militer",
+      "B": "Dikeluarkannya Penetapan Pemerintah Tahun 1946",
+      "C": "Diresmikannya Akademi Polisi",
+      "D": "Terbentuknya KUHP",
+      "E": "Disahkannya Tribrata"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "question": "Dalam Pasal 30 UUD 1945 disebutkan bahwa Polri berperan dalam memelihara keamanan dan ketertiban masyarakat. Apabila terjadi konflik horizontal di masyarakat, peran utama Polri adalah…",
+    "image": null,
+    "options": {
+      "A": "Mengadili pihak yang bersalah",
+      "B": "Menyediakan bantuan hukum gratis",
+      "C": "Melakukan upaya preventif dan represif untuk menjaga kamtibmas",
+      "D": "Membuat kebijakan politik keamanan",
+      "E": "Mengatur strategi pertahanan negara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 190,
+    "question": "Seorang polisi sedang menghadapi demonstrasi yang berujung ricuh. Ia harus bertindak sesuai prinsip HAM dan hukum. Apa yang paling tepat dilakukan?",
+    "image": null,
+    "options": {
+      "A": "Membubarkan massa dengan senjata tajam",
+      "B": "Melakukan negosiasi dan pembubaran secara persuasif terlebih dahulu",
+      "C": "Menangkap semua peserta aksi tanpa peringatan",
+      "D": "Membiarkan aksi berlanjut tanpa pengawasan",
+      "E": "Menggunakan peluru tajam untuk menakut-nakuti"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 191,
+    "question": "Dalam sistem peradilan pidana, posisi Polri adalah…",
+    "image": null,
+    "options": {
+      "A": "Lembaga yudikatif",
+      "B": "Lembaga legislatif",
+      "C": "Aparat penyidik dalam penegakan hukum",
+      "D": "Pengambil keputusan akhir perkara",
+      "E": "Pelaksana eksekusi hukuman"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 192,
+    "question": "Jika ada laporan masyarakat mengenai tindak pidana korupsi, Polri memiliki kewenangan untuk…",
+    "image": null,
+    "options": {
+      "A": "Menyidik kasus korupsi yang bukan ditangani KPK",
+      "B": "Mengadili tersangka di pengadilan internal",
+      "C": "Menghukum langsung pelaku",
+      "D": "Membuat undang-undang antikorupsi",
+      "E": "Menentukan masa hukuman"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 193,
+    "question": "Seseorang melaporkan kehilangan barang. Polisi di Polsek wajib menerima laporan tersebut karena…",
+    "image": null,
+    "options": {
+      "A": "Polisi adalah pemilik wilayah hukum",
+      "B": "Polisi berfungsi sebagai pelayan masyarakat",
+      "C": "Polisi hanya menangani kasus besar",
+      "D": "Polisi boleh menolak laporan kecil",
+      "E": "Polisi hanya bertugas menindak kejahatan berat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 194,
+    "question": "Jika ada tindakan oknum polisi yang melanggar hukum, lembaga yang berwenang melakukan pemeriksaan internal adalah…",
+    "image": null,
+    "options": {
+      "A": "Ombudsman",
+      "B": "Divpropam Polri",
+      "C": "Komnas HAM",
+      "D": "Kejaksaan",
+      "E": "DPR RI"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 195,
+    "question": "Dalam menjaga kamtibmas, Polri sering bekerja sama dengan TNI. Namun, kedudukan Polri berbeda dengan TNI karena…",
+    "image": null,
+    "options": {
+      "A": "Polri fokus pada keamanan dalam negeri, TNI pada pertahanan negara",
+      "B": "Polri memiliki wewenang politik, TNI tidak",
+      "C": "Polri mengatur undang-undang, TNI melaksanakannya",
+      "D": "Polri bertanggung jawab ke Menteri Pertahanan, TNI ke Presiden",
+      "E": "Polri bersifat militer, TNI bersifat sipil"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 196,
+    "question": "Tribrata berisi tiga butir pedoman hidup Polri. Salah satunya adalah…",
+    "image": null,
+    "options": {
+      "A": "Menjunjung tinggi persatuan dan kesatuan bangsa",
+      "B": "Menjadi pelopor revolusi mental",
+      "C": "Mengabdi kepada nusa dan bangsa dengan penuh ketakwaan",
+      "D": "Mengutamakan kepentingan politik negara",
+      "E": "Mengikuti perintah atasan tanpa syarat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 197,
+    "question": "Catur Prasetya digunakan sebagai pedoman moral Polri. Isi salah satunya adalah…",
+    "image": null,
+    "options": {
+      "A": "Menjadi prajurit sejati dalam menjaga NKRI",
+      "B": "Menjadi pelopor pembangunan nasional",
+      "C": "Senantiasa melindungi dan melayani masyarakat dengan keikhlasan",
+      "D": "Menjadi alat kekuasaan negara sepenuhnya",
+      "E": "Menjadi penguasa keamanan tertinggi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 198,
+    "question": "Kewenangan Polri dalam hukum acara pidana diatur dalam…",
+    "image": null,
+    "options": {
+      "A": "KUHP",
+      "B": "KUHPerdata",
+      "C": "KUHAP",
+      "D": "UUD 1945",
+      "E": "UU No. 3 Tahun 2002"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 199,
+    "question": "Dalam tugas penyidikan, Polri memiliki kewenangan untuk melakukan upaya paksa. Salah satunya adalah…",
+    "image": null,
+    "options": {
+      "A": "Membuat undang-undang",
+      "B": "Melakukan penyitaan barang bukti",
+      "C": "Menetapkan vonis pengadilan",
+      "D": "Menetapkan vonis pengadilan",
+      "E": "Menetapkan vonis pengadilan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 200,
+    "question": "Jika ada sengketa antarwarga yang masih bersifat ringan dan dapat diselesaikan dengan mediasi, polisi sebaiknya…",
+    "image": null,
+    "options": {
+      "A": "Langsung membawa ke pengadilan",
+      "B": "Mendorong penyelesaian lewat restorative justice",
+      "C": "Menangkap semua pihak",
+      "D": "Mengabaikan kasus tersebut",
+      "E": "Menunggu perintah jaksa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 201,
+    "question": "Dalam hukum pidana, suatu perbuatan dapat dikatakan sebagai tindak pidana jika memenuhi unsur-unsur tertentu seperti adanya perbuatan, melawan hukum, kesalahan, dan ancaman pidana. Dalam suatu kasus, seseorang mencuri barang karena kelaparan, namun tetap diproses hukum.\nUnsur utama yang tetap membuat perbuatan tersebut dapat dipidana adalah….",
+    "image": null,
+    "options": {
+      "A": "Niat baik pelaku",
+      "B": "Status sosial pelaku",
+      "C": "Perbuatan melawan hukum",
+      "D": "Usia pelaku",
+      "E": "Kondisi ekonomi pelaku"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 202,
+    "question": "Brimob merupakan satuan elite Polri yang memiliki kemampuan khusus dalam menghadapi ancaman berintensitas tinggi seperti terorisme, kerusuhan massa besar, dan operasi berbahaya. Dalam suatu situasi, Brimob dikerahkan untuk mengamankan wilayah yang terjadi aksi bersenjata kelompok kriminal.\nFungsi utama Brimob adalah….",
+    "image": null,
+    "options": {
+      "A": "Penyuluhan masyarakat",
+      "B": "Penegakan hukum administratif",
+      "C": "Penanganan ancaman keamanan berintensitas tinggi",
+      "D": "Pengaturan lalu lintas",
+      "E": "Pembuatan kebijakan hukum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Pada masa Orde Baru, Polri berada dalam satu kesatuan dengan Angkatan Bersenjata Republik Indonesia (ABRI). Setelah reformasi, terjadi perubahan besar dalam struktur institusi keamanan negara.\nCiri utama Polri pada masa Orde Baru adalah….",
+    "image": null,
+    "options": {
+      "A": "Berdiri sendiri sebagai lembaga sipil",
+      "B": "Bagian dari ABRI bersama TNI",
+      "C": "Di bawah DPR",
+      "D": "Di bawah Mahkamah Agung",
+      "E": "Tidak memiliki fungsi keamanan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 204,
+    "question": "langkah pertama dalam menyelesaikan masalah hukum, melainkan sebagai upaya terakhir setelah instrumen hukum lain tidak efektif.\nAsas yang dimaksud adalah….",
+    "image": null,
+    "options": {
+      "A": "Asas legalitas",
+      "B": "Asas praduga tak bersalah",
+      "C": "Asas ultimum remedium",
+      "D": "Asas retroaktif",
+      "E": "Asas equality before the law"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 205,
+    "question": "Dalam sistem ketatanegaraan Indonesia, Mahkamah Konstitusi memiliki kewenangan untuk menguji undang-undang terhadap UUD 1945. Hal ini merupakan bagian dari sistem pengawasan antar lembaga negara.\nPrinsip tersebut dikenal sebagai….",
+    "image": null,
+    "options": {
+      "A": "Sentralisasi kekuasaan",
+      "B": "Absolutisme hukum",
+      "C": "Checks and balances",
+      "D": "Otoritarianisme",
+      "E": "Federalisme"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Transformasi digital di sektor keuangan telah melahirkan berbagai inovasi seperti financial technology (fintech), pembayaran digital, dan mata uang digital. Namun, perkembangan ini juga meningkatkan risiko seperti penipuan digital, pencucian uang, dan ketidakstabilan sistem keuangan jika tidak diatur dengan baik.\nPeran pemerintah dalam kondisi ini yang paling tepat adalah....",
+    "image": null,
+    "options": {
+      "A": "Melarang seluruh inovasi keuangan digital",
+      "B": "Membiarkan sepenuhnya tanpa regulasi",
+      "C": "Membuat regulasi adaptif yang mendorong inovasi sekaligus menjaga stabilitas",
+      "D": "Menghapus sistem keuangan digital",
+      "E": "Mengembalikan seluruh transaksi ke sistem tunai"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 207,
+    "question": "Perubahan iklim global menyebabkan meningkatnya kejadian cuaca ekstrem seperti badai, banjir, dan kekeringan. Indonesia sebagai negara kepulauan sangat rentan terhadap kenaikan permukaan air laut yang dapat mengancam wilayah pesisir padat penduduk.\nStrategi adaptasi paling tepat yang harus dilakukan pemerintah adalah...",
+    "image": null,
+    "options": {
+      "A": "Memindahkan seluruh penduduk ke luar negeri",
+      "B": "Menghentikan seluruh aktivitas di wilayah pesisir",
+      "C": "Membangun infrastruktur tangguh iklim dan sistem mitigasi bencana",
+      "D": "Mengabaikan risiko perubahan iklim",
+      "E": "Mengurangi jumlah penduduk secara paksa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Dalam dinamika politik global, persaingan antara negara besar seperti Amerika Serikat dan Tiongkok tidak hanya terjadi dalam bidang militer, tetapi juga dalam teknologi seperti kecerdasan buatan, semikonduktor, dan jaringan komunikasi. Persaingan ini berdampak pada negara lain yang harus memilih atau menyeimbangkan hubungan diplomatiknya.\nSikap paling strategis bagi Indonesia adalah....",
+    "image": null,
+    "options": {
+      "A": "Memihak salah satu negara besar",
+      "B": "Menghindari seluruh kerja sama internasional",
+      "C": "Menjaga politik luar negeri bebas aktif dan kerja sama seimbang",
+      "D": "Mengisolasi diri dari persaingan global",
+      "E": "Menghapus semua hubungan ekonomi internasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "question": "Urbanisasi yang cepat di negara berkembang menyebabkan pertumbuhan kota yang tidak selalu diimbangi dengan penyediaan infrastruktur dan layanan publik. Akibatnya muncul masalah seperti kemacetan, permukiman kumuh, dan tekanan pada lingkungan perkotaan.\nMasalah utama yang paling mendasar dari fenomena tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Terlalu banyak pembangunan gedung tinggi",
+      "B": "Ketidakseimbangan antara pertumbuhan penduduk dan infrastruktur",
+      "C": "Kurangnya teknologi transportasi modern",
+      "D": "Penurunan jumlah penduduk desa",
+      "E": "Terlalu banyak investasi asing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 210,
+    "question": "Dalam bidang kesehatan global, dunia pernah menghadapi pandemi yang menunjukkan pentingnya kerja sama internasional dalam distribusi vaksin dan informasi medis. Namun, pada saat krisis, beberapa negara menerapkan kebijakan vaccine nationalism dengan memprioritaskan warganya sendiri.\nDampak negatif utama dari kebijakan tersebut adalah....",
+    "image": null,
+    "options": {
+      "A": "Pemerataan vaksin di seluruh dunia",
+      "B": "Percepatan pemulihan global",
+      "C": "Ketimpangan akses vaksin antarnegara",
+      "D": "Penurunan kebutuhan vaksin",
+      "E": "Hilangnya kerja sama internasional"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 211,
+    "question": "Seorang ahli ekonomi menyatakan bahwa \"Ilmu ekonomi tidak mengajarkan seseorang bagaimana menjadi kaya, tetapi mengajarkan bagaimana memanfaatkan sumber daya yang terbatas untuk mencapai tujuan seefisien mungkin\". Pernyataan ini menjelaskan definisi ilmu ekonomi sebagai...",
+    "image": null,
+    "options": {
+      "A": "Ilmu yang mempelajari cara penimbunan kekayaan",
+      "B": "Ilmu yang mempelajari perilaku manusia dalam memenuhi kebutuhan",
+      "C": "Ilmu yang hanya berfokus pada pembuatan kebijakan negara",
+      "D": "Ilmu yang mengajarkan cara menetapkan harga barang",
+      "E": "Ilmu yang mempelajari sejarah perkembangan perdagangan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 212,
+    "question": "Di sebuah ekosistem hutan, ditemukan hubungan yang erat antara jenis tanaman dengan jenis hewan yang hidup di sana. Tanaman berdaun lebat menyediakan tempat berlindung dan makanan bagi serangga, serangga dimakan oleh burung kecil, burung kecil dimakan oleh burung elang, dan ketika semua makhluk hidup tersebut mati, jasadnya diuraikan oleh bakteri dan jamur menjadi unsur hara yang menyuburkan tanah untuk pertumbuhan tanaman baru. Jika salah satu komponen ini hilang, seluruh rantai kehidupan akan terganggu.\nKonsep dasar yang menggambarkan kondisi tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Penyebaran Merata Makhluk Hidup",
+      "B": "Hubungan Timbal Balik Antar Komponen",
+      "C": "Perubahan Fenomena Secara Periodik",
+      "D": "Perbedaan Karakteristik Antar Wilayah",
+      "E": "Penggunaan Ruang Secara Berkelanjutan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 213,
+    "question": "Struktur organisasi Polri di tingkat pusat dipimpin oleh…",
+    "image": null,
+    "options": {
+      "A": "Kapolda",
+      "B": "Kapolres",
+      "C": "Kapolri",
+      "D": "Kabaharkam",
+      "E": "Wakapolri"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 214,
+    "question": "Setelah gencatan senjata diberlakukan, banyak pihak yang menilai dampak jangka panjang konflik ini bagi kedua negara dan kawasan. Salah satu dampak yang paling terasa bagi Iran adalah peningkatan rasa persatuan dan kesatuan di dalam negaranya. Hal ini terjadi karena ....",
+    "image": null,
+    "options": {
+      "A": "Semua kelompok politik di Iran setuju dengan kebijakan pemerintah dalam menghadapi Israel",
+      "B": "Ancaman eksternal yang dihadapi membuat rakyat Iran bersatu mendukung pemerintah",
+      "C": "Iran berhasil memenangkan perang sehingga rakyat merasa bangga dan bersatu",
+      "D": "Bantuan internasional yang diterima Iran membuat rakyat merasa dihargai dan bersatu",
+      "E": "Perubahan kebijakan pemerintah yang lebih terbuka membuat rakyat lebih bersatu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "question": "Gilang mengendarai mobil dengan kecepatan tinggi di jalan perkotaan. Saat mendekati tempat penyeberangan pejalan kaki yang tidak dijaga lampu lalu lintas, ia tidak memperlambat kendaraannya karena tidak melihat ada orang yang sedang menyeberang. Tiba-tiba ada pejalan kaki yang muncul dan hampir tertabrak. Petugas yang melihat kejadian itu langsung menghentikan Gilang. Gilang merasa tidak bersalah karena jalan saat itu kosong dan pejalan kaki yang muncul secara tiba-tiba. Berdasarkan undang-undang, kesalahan ada pada Gilang karena...",
+    "image": null,
+    "options": {
+      "A": "Di jalan perkotaan batas kecepatan maksimal adalah 30 km/jam di mana saja",
+      "B": "Pengemudi wajib memperlambat kendaraan dan mengutamakan pejalan kaki saat mendekati area penyeberangan, terlepas dari apakah ada pejalan kaki yang terlihat atau tidak",
+      "C": "Gilang tidak membunyikan klakson saat mendekati area penyeberangan",
+      "D": "Tempat penyeberangan wajib dijaga oleh polisi agar pengemudi tahu harus berhenti",
+      "E": "Pejalan kaki wajib berhenti dan memberi jalan bagi kendaraan di jalan raya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 216,
+    "question": "Motif batik yang berbentuk seperti empat persegi panjang yang berisi ornamen bulat atau lonjong yang menyerupai buah aren atau kolang-kaling memiliki filosofi tentang kehidupan yang tidak boleh sombong dan selalu ingat akan asal-usul. Motif batik yang dimaksud adalah motif...",
+    "image": null,
+    "options": {
+      "A": "Parang",
+      "B": "Kawung",
+      "C": "Truntum",
+      "D": "Megamendung",
+      "E": "Sidomukti"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 217,
+    "question": "Salah satu karya sastra Jawa kuno yang sangat terkenal adalah \"Kitab Negarakretagama\" yang ditulis oleh Mpu Prapanca. Kitab ini memiliki nilai sejarah yang sangat tinggi karena berisi tentang...",
+    "image": null,
+    "options": {
+      "A": "Silsilah raja-raja Sriwijaya",
+      "B": "Ajaran moral dan agama",
+      "C": "Kisah peperangan besar",
+      "D": "Keadaan wilayah dan pemerintahan Majapahit",
+      "E": "Cerita cinta asmara"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 218,
+    "question": "Hormon yang dihasilkan oleh pankreas memiliki peran penting dalam mengatur kadar gula dalam darah. Jika kadar gula darah tinggi, pankreas akan mengeluarkan hormon insulin. Apa fungsi utama hormon tersebut?",
+    "image": null,
+    "options": {
+      "A": "Mengubah glikogen menjadi glukosa",
+      "B": "Meningkatkan kadar gula dalam darah",
+      "C": "Mengubah glukosa darah menjadi glikogen untuk disimpan",
+      "D": "Memecah protein menjadi energi",
+      "E": "Mempercepat penyerapan air di ginjal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Setiap negara memiliki kode singkatan yang digunakan pada kejuaraan internasional. Ketika atlet Indonesia bertanding, biasanya bendera atau nama negara kita disingkat menjadi kode tiga huruf.\nKode singkatan resmi untuk negara Indonesia dalam ajang olahraga internasional adalah...",
+    "image": null,
+    "options": {
+      "A": "IDN",
+      "B": "INA",
+      "C": "IDO",
+      "D": "IND",
+      "E": "INS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Dalam perlombaan lari estafet, keberhasilan tim sangat bergantung pada kelancaran proses penyerahan alat perlombaan antar pelari. Jika alat ini jatuh atau serah-terima salah, tim bisa didiskualifikasi.\nAlat yang digunakan dan dioperkan dalam lari estafet disebut...",
+    "image": null,
+    "options": {
+      "A": "Tongkat",
+      "B": "Tiang",
+      "C": "Batang",
+      "D": "Stik",
+      "E": "Relai"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Sebuah mobil bergerak dengan kecepatan awal 10m/s, kemudian pengemudi menginjak gas sehingga kecepatan mobil bertambah teratur menjadi 30m/s dalam waktu 4detik. Besar percepatan yang dialami mobil tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "2,5m/s2",
+      "B": "5m/s2",
+      "C": "7,5m/s2",
+      "D": "10m/s2",
+      "E": "40m/s2"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "question": "Unsur Karbon (C) memiliki nomor atom 6 dengan konfigurasi elektron 2, 4. Untuk mencapai kestabilan, unsur ini tidak melepaskan maupun menerima 4 elektron karena membutuhkan energi yang sangat besar, melainkan melakukan pemakaian elektron bersama dengan unsur lain. Jenis ikatan yang terbentuk adalah...",
+    "image": null,
+    "options": {
+      "A": "Ikatan Ion",
+      "B": "Ikatan Logam",
+      "C": "Ikatan Kovalen",
+      "D": "Ikatan Hidrogen",
+      "E": "Ikatan Van der Waals"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 223,
+    "question": "Seorang calon anggota kepolisian sedang mengikuti pendidikan dasar kepolisian. Ia diajarkan tentang nilai-nilai dasar yang harus dipegang teguh dalam menjalankan tugas nantinya. Berdasarkan Peraturan Kepolisian tentang dasar-dasar penyelenggaraan kepolisian, nilai utama yang menjadi landasan seluruh tindakan kepolisian adalah...",
+    "image": null,
+    "options": {
+      "A": "Kekuatan fisik dan kelengkapan senjata",
+      "B": "Kecepatan bertindak tanpa memikirkan aturan",
+      "C": "Keadilan, kejujuran, tanggung jawab, dan pengabdian kepada masyarakat",
+      "D": "Kedudukan jabatan dan kekuasaan yang dimiliki",
+      "E": "Kemampuan mencari keuntungan pribadi dalam menjalankan tugas"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 224,
+    "question": "Dalam struktur organisasi Polri, Divpropam bertugas…",
+    "image": null,
+    "options": {
+      "A": "Melakukan pembinaan logistik",
+      "B": "Mengawasi pelaksanaan kode etik dan disiplin anggota Polri",
+      "C": "Menangani perkara lalu lintas",
+      "D": "Menjadi penyidik utama kasus korupsi",
+      "E": "Mengatur pendidikan Polri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 225,
+    "question": "Kapolri diangkat dan diberhentikan oleh…",
+    "image": null,
+    "options": {
+      "A": "DPR RI",
+      "B": "Presiden dengan persetujuan DPR",
+      "C": "Presiden dengan persetujuan lembaga lain",
+      "D": "Mahkamah Agung",
+      "E": "MPR"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 226,
+    "question": "Pemerintah menyusun rencana pembangunan jangka menengah yang memuat sasaran, kebijakan, strategi, dan kerangka pendanaan untuk lima tahun ke depan. Dokumen rencana ini menjadi acuan bagi seluruh instansi pemerintahan dalam menyusun program dan kegiatan kerja. Sebelum dapat dilaksanakan secara resmi, dokumen rencana pembangunan tersebut harus dibahas dan disetujui terlebih dahulu oleh lembaga wakil rakyat.\nAlasan utama mengapa dokumen rencana pembangunan tersebut harus disetujui oleh lembaga wakil rakyat adalah...",
+    "image": null,
+    "options": {
+      "A": "Agar lembaga wakil rakyat dapat melaksanakan program pembangunan tersebut",
+      "B": "Agar rencana pembangunan sesuai dengan aspirasi dan kepentingan rakyat",
+      "C": "Agar lembaga wakil rakyat dapat mengubah seluruh isi rencana sesuai keinginannya",
+      "D": "Agar pemerintah tidak perlu lagi mempertanggungjawabkan hasil kerjanya di kemudian hari",
+      "E": "Agar rencana pembangunan tersebut memiliki kekuatan hukum setara undang-undang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 227,
+    "question": "Reformasi Polri tidak hanya menyangkut perubahan kelembagaan, tetapi juga perubahan pola pikir dan budaya kerja seluruh anggotanya. Ditetapkannya semboyan atau moto baru menjadi simbol perubahan tersebut. Moto Polri yang baru menggambarkan komitmen untuk selalu hadir, melayani, dan melindungi masyarakat dengan sepenuh hati. Moto yang dimaksud adalah...",
+    "image": null,
+    "options": {
+      "A": "Siap Melayani dan Melindungi",
+      "B": "Taat, Berani, Setia",
+      "C": "Pengayom dan Penegak Hukum",
+      "D": "Melindungi, Mengayomi, dan Melayani",
+      "E": "Tangguh, Andal, Terpercaya"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 228,
+    "question": "Dalam proses pemeriksaan saksi dalam sebuah kasus pidana, seorang saksi merasa takut dan ragu untuk memberikan keterangan karena khawatir akan mendapatkan ancaman dari pihak yang terlibat. Anggota Polri yang memeriksa menyadari hal tersebut, lalu menjelaskan perlindungan hukum yang dijamin bagi saksi sesuai peraturan yang berlaku. Ia juga meyakinkan saksi bahwa keterangan yang diberikan akan dijaga kerahasiaannya dan digunakan hanya untuk kepentingan proses hukum. Akhirnya, saksi tersebut berani memberikan keterangan yang lengkap dan jujur.\nTindakan anggota Polri tersebut menunjukkan pemahaman bahwa...",
+    "image": null,
+    "options": {
+      "A": "Saksi wajib memberikan keterangan apa pun yang diminta tanpa syarat",
+      "B": "Keamanan dan perlindungan saksi merupakan bagian penting dalam penegakan hukum",
+      "C": "Keterangan saksi tidak terlalu penting dibandingkan bukti fisik lainnya",
+      "D": "Anggota Polri berhak memaksa saksi untuk berbicara jika perlu",
+      "E": "Kerahasiaan keterangan saksi sulit dijamin sehingga wajar jika mereka takut"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 229,
+    "question": "Seorang peneliti administrasi negara menyatakan: \"Dasar hukum pembentukan Badan Adhoc Pemerintah Pusat berbeda dengan lembaga negara tetap. Badan adhoc cukup dibentuk melalui peraturan tingkat eksekutif seperti Peraturan Presiden atau Keputusan Presiden, tidak perlu melalui Undang-Undang yang disahkan DPR. Hal ini karena keberadaannya tidak mengubah tatanan dasar pemerintahan negara.\"\nAlasan hukum yang paling tepat mendukung pernyataan peneliti tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Karena badan adhoc tidak memerlukan dasar hukum apa pun untuk dibentuk",
+      "B": "Karena tugasnya bersifat sementara, khusus, dan tidak mengubah struktur dasar negara yang diatur UUD",
+      "C": "Karena pembentukan Undang-Undang dianggap terlalu cepat dan mudah diselesaikan",
+      "D": "Karena badan adhoc memiliki kedudukan hukum lebih tinggi daripada Undang-Undang",
+      "E": "Karena anggotanya bukan pejabat negara sehingga tidak perlu aturan yang ketat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 230,
+    "question": "Bhabinkamtibmas harus mengedepankan pendekatan…",
+    "image": null,
+    "options": {
+      "A": "Represif",
+      "B": "Preventif",
+      "C": "Militeristik",
+      "D": "Politik",
+      "E": "Ekonomi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 231,
+    "question": "Apabila ada perselisihan antarwarga yang masih ringan, peran Bhabinkamtibmas adalah…",
+    "image": null,
+    "options": {
+      "A": "Membawa langsung ke pengadilan",
+      "B": "Menyelesaikan dengan pendekatan mediasi dan restorative justice",
+      "C": "Menahan pihak yang bersalah",
+      "D": "Mengabaikan kasus tersebut",
+      "E": "Menyerahkan ke DPRD"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 232,
+    "question": "Fungsi utama Reserse (Reskrim) dalam Polri adalah…",
+    "image": null,
+    "options": {
+      "A": "Penyelidikan dan penyidikan tindak pidana",
+      "B": "Penanganan lalu lintas",
+      "C": "Pembinaan masyarakat",
+      "D": "Penyusunan anggaran Polri"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 233,
+    "question": "Apabila terjadi pencurian, unit yang menangani penyidikan adalah…",
+    "image": null,
+    "options": {
+      "A": "Intelkam",
+      "B": "Lantas",
+      "C": "Reserse Kriminal",
+      "D": "Propam",
+      "E": "Sabhara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 234,
+    "question": "Dalam penyidikan, Reserse berhak melakukan tindakan berikut, kecuali…",
+    "image": null,
+    "options": {
+      "A": "Penangkapan",
+      "B": "Penahanan",
+      "C": "Penyitaan barang bukti",
+      "D": "Penuntutan di pengadilan",
+      "E": "Pemeriksaan saksi"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 235,
+    "question": "Fungsi Intelijen Keamanan (Intelkam) adalah…",
+    "image": null,
+    "options": {
+      "A": "Intelkam berfungsi mendeteksi potensi gangguan kamtibmas sebelum terjadi.",
+      "B": "Deteksi dini dan peringatan dini terhadap potensi gangguan kamtibmas",
+      "C": "Mengatur lalu lintas jalan",
+      "D": "Memberikan vonis pengadilan",
+      "E": "Melaksanakan patroli jalan raya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Jika ada informasi tentang potensi terorisme di suatu daerah, fungsi Polri yang pertama kali bergerak adalah…",
+    "image": null,
+    "options": {
+      "A": "Sabhara",
+      "B": "Lantas",
+      "C": "Intelkam",
+      "D": "Reskrim",
+      "E": "Propam"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 237,
+    "question": "Intelkam memiliki peran strategis dalam…",
+    "image": null,
+    "options": {
+      "A": "Intelkam mengumpulkan data dan informasi untuk mendukung keputusan pimpinan Polri.",
+      "B": "Mengawasi lalu lintas jalan raya",
+      "C": "Mengawasi lalu lintas jalan raya",
+      "D": "Menyusun APBN",
+      "E": "Menjadi pengacara negara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 238,
+    "question": "Tugas pokok Lalu Lintas (Lantas) adalah…",
+    "image": null,
+    "options": {
+      "A": "Mengawasi peradilan pidana",
+      "B": "Mengatur, menjaga, dan menindak pelanggaran lalu lintas",
+      "C": "Melakukan penyidikan narkoba",
+      "D": "Melakukan deteksi ancaman terorisme",
+      "E": "Menjadi mediator konflik masyarakat"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 239,
+    "question": "Dalam upaya pencegahan kecelakaan, Polantas melakukan kegiatan…",
+    "image": null,
+    "options": {
+      "A": "Penangkapan pelaku korupsi",
+      "B": "Sosialisasi tertib berlalu lintas",
+      "C": "Penyidikan tindak pidana umum",
+      "D": "Penindakan kejahatan berat",
+      "E": "Penyelidikan terorisme"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 240,
+    "question": "Ketika terjadi kecelakaan lalu lintas, Polisi Lantas berwenang melakukan…",
+    "image": null,
+    "options": {
+      "A": "Penertiban pajak kendaraan",
+      "B": "Penindakan tilang dan olah TKP kecelakaan",
+      "C": "Penahanan pelaku korupsi",
+      "D": "Penyidikan kasus narkotika",
+      "E": "Penangkapan teroris"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "question": "Bhabinkamtibmas sering disebut sebagai…",
+    "image": null,
+    "options": {
+      "A": "Polisi sahabat anak",
+      "B": "Polisi RW/Polisi desa",
+      "C": "Polisi investigasi",
+      "D": "Polisi lalu lintas",
+      "E": "Polisi pengawal VVIP"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 242,
+    "question": "Salah satu bentuk kegiatan Bhabinkamtibmas adalah…",
+    "image": null,
+    "options": {
+      "A": "Menjadi penyidik utama kasus besar",
+      "B": "Menghimpun informasi dan menyampaikan saran kamtibmas",
+      "C": "Menetapkan hukuman pidana",
+      "D": "Mengeluarkan SIM",
+      "E": "Menjadi ajudan Kapolri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 243,
+    "question": "Reserse Kriminal terbagi menjadi beberapa unit, salah satunya adalah…",
+    "image": null,
+    "options": {
+      "A": "Unit Regident",
+      "B": "Unit Laka Lantas",
+      "C": "Unit Pidum (Pidana Umum)",
+      "D": "Unit Propam",
+      "E": "Unit Humas"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 244,
+    "question": "Salah satu peran Reserse adalah melakukan tindakan represif. Contoh tindakan represif adalah…",
+    "image": null,
+    "options": {
+      "A": "Penyuluhan hukum",
+      "B": "Patroli lingkungan",
+      "C": "Penangkapan pelaku tindak pidana",
+      "D": "Sosialisasi lalu lintas",
+      "E": "Pembinaan masyarakat"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 245,
+    "question": "Dalam tugasnya, Intelkam banyak bekerja sama dengan…",
+    "image": null,
+    "options": {
+      "A": "Badan Intelijen Negara (BIN)",
+      "B": "Mahkamah Agung",
+      "C": "Kejaksaan",
+      "D": "DPR RI",
+      "E": "TNI AD"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Unit Lalu Lintas yang khusus menangani registrasi dan identifikasi kendaraan bermotor adalah…",
+    "image": null,
+    "options": {
+      "A": "Satlantas",
+      "B": "Regident",
+      "C": "Sabhara",
+      "D": "Bhabinkamtibmas",
+      "E": "Intelkam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 247,
+    "question": "Fungsi Bhabinkamtibmas dalam konsep community policing adalah…",
+    "image": null,
+    "options": {
+      "A": "Menjadi penegak hukum tunggal",
+      "B": "Menjadi penghubung antara polisi dan masyarakat",
+      "C": "Menjadi jaksa di tingkat desa",
+      "D": "Menjadi pengacara masyarakat",
+      "E": "Menjadi penentu kebijakan pembangunan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 248,
+    "question": "Apabila terjadi tindak pidana yang melibatkan lalu lintas (misalnya tabrak lari), koordinasi dilakukan antara…",
+    "image": null,
+    "options": {
+      "A": "Bhabinkamtibmas dan Propam",
+      "B": "Reserse dan Intelkam",
+      "C": "Reserse dan Lantas",
+      "D": "Lantas dan Humas",
+      "E": "Intelkam dan Brimob"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 249,
+    "question": "Seorang Bhabinkamtibmas menemukan adanya konflik antarwarga desa terkait sengketa lahan. Tindakan paling tepat sesuai fungsi Bhabinkamtibmas adalah…",
+    "image": null,
+    "options": {
+      "A": "Segera menangkap pelaku utama",
+      "B": "Membawa kasus ke Pengadilan Negeri",
+      "C": "Melakukan mediasi dan problem solving bersama tokoh masyarakat",
+      "D": "Melakukan patroli wilayah kota",
+      "E": "Menyerahkan kasus langsung ke reserse"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 250,
+    "question": "Dalam penyidikan tindak pidana korupsi, unit yang paling berwenang di lingkungan Polri adalah…",
+    "image": null,
+    "options": {
+      "A": "Satlantas",
+      "B": "Bhabinkamtibmas",
+      "C": "Satreskrim",
+      "D": "Satintelkam",
+      "E": "Provost"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 251,
     "question": "Siapakah Kepala Kepolisian Negara Republik Indonesia (Kapolri) yang pertama?",
     "options": {
       "A": "Jenderal Polisi Raden Said Soekanto Tjokroatmodjo",
@@ -11,7 +3262,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 2,
+    "id": 252,
     "question": "Lambang Kepolisian Negara Republik Indonesia dinamakan...",
     "options": {
       "A": "Rastra Sewakottama",
@@ -22,7 +3273,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 3,
+    "id": 253,
     "question": "Lembaga negara independen yang bertugas menangani tindak pidana korupsi di Indonesia adalah...",
     "options": {
       "A": "Komisi Pemberantasan Korupsi (KPK)",
@@ -33,7 +3284,7 @@
     "correctAnswer": "A"
   },
   {
-    "id": 4,
+    "id": 254,
     "question": "Ibu kota Provinsi Papua Barat adalah...",
     "options": {
       "A": "Jayapura",
@@ -44,7 +3295,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 5,
+    "id": 255,
     "question": "Hari Lahir Pancasila diperingati bangsa Indonesia setiap tanggal...",
     "options": {
       "A": "1 Juni",

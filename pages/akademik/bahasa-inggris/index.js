@@ -1,8 +1,9 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { auth, db, isFirebaseConfigured } from "../../../lib/firebase";
 import { collection, addDoc } from "firebase/firestore";
+
 import QUESTIONS from "./questions.json";
 
 export default function BahasaInggris() {
@@ -16,11 +17,24 @@ export default function BahasaInggris() {
   const [results, setResults] = useState({ correct: 0, incorrect: 0, skipped: 0 });
   const [loading, setLoading] = useState(false);
 
+  const [questions, setQuestions] = useState([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [timeLeft, setTimeLeft] = useState(3600); // 60 minutes = 3600 seconds
+
   useEffect(() => {
     const isLoggedIn = localStorage.getItem("isLoggedIn");
     if (isLoggedIn !== "true") {
       router.push("/");
+      return;
     }
+    // Shuffle and pick 50 questions
+    const shuffled = [...QUESTIONS].sort(() => 0.5 - Math.random());
+    const selected = shuffled.slice(0, 50).map((q, idx) => ({
+      ...q,
+      id: idx + 1
+    }));
+    setQuestions(selected);
+    setIsLoaded(true);
   }, [router]);
 
   const handleSelectOption = (option) => {
@@ -37,23 +51,24 @@ export default function BahasaInggris() {
   };
 
   const handleNext = () => {
-    if (currentIndex < QUESTIONS.length - 1) setCurrentIndex(currentIndex + 1);
+    if (currentIndex < questions.length - 1) setCurrentIndex(currentIndex + 1);
   };
 
   const handleSubmit = async () => {
+    if (loading) return;
     setLoading(true);
     let correctCount = 0;
     let incorrectCount = 0;
     let skippedCount = 0;
 
-    QUESTIONS.forEach((q, idx) => {
+    questions.forEach((q, idx) => {
       const ans = userAnswers[idx];
       if (!ans) skippedCount++;
       else if (ans === q.correctAnswer) correctCount++;
       else incorrectCount++;
     });
 
-    const finalScore = Math.round((correctCount / QUESTIONS.length) * 100);
+    const finalScore = Math.round((correctCount / questions.length) * 100);
     setScore(finalScore);
     setResults({ correct: correctCount, incorrect: incorrectCount, skipped: skippedCount });
 
@@ -61,7 +76,7 @@ export default function BahasaInggris() {
       category: "Bahasa Inggris",
       score: finalScore,
       correct: correctCount,
-      total: QUESTIONS.length,
+      total: questions.length,
       timestamp: Date.now(),
       date: new Date().toLocaleDateString("id-ID", {
         day: "numeric",
@@ -87,15 +102,66 @@ export default function BahasaInggris() {
     setIsSubmitted(true);
   };
 
+  const handleSubmitRef = useRef();
+  handleSubmitRef.current = handleSubmit;
+
+  // Timer effect
+  useEffect(() => {
+    if (isSubmitted || !isLoaded) return;
+
+    if (timeLeft <= 0) {
+      handleSubmitRef.current();
+      return;
+    }
+
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => prev - 1);
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [timeLeft, isSubmitted, isLoaded]);
+
   const resetTest = () => {
     setUserAnswers({});
     setBookmarks({});
     setCurrentIndex(0);
     setIsSubmitted(false);
     setScore(0);
+    
+    // Shuffle and pick a new set of 50 questions
+    const shuffled = [...QUESTIONS].sort(() => 0.5 - Math.random());
+    const selected = shuffled.slice(0, 50).map((q, idx) => ({
+      ...q,
+      id: idx + 1
+    }));
+    setQuestions(selected);
+    setTimeLeft(3600); // Reset timer to 60 minutes
   };
 
-  const q = QUESTIONS[currentIndex];
+  const formatTime = (seconds) => {
+    const m = Math.floor(seconds / 60);
+    const s = seconds % 60;
+    return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+  };
+
+  const q = questions[currentIndex];
+
+  if (!isLoaded || questions.length === 0) {
+    return (
+      <>
+        <Head>
+          <title>Bahasa Inggris - BelajarMengabdi</title>
+        </Head>
+        <div className="main-container">
+          <div className="card-frame" style={{ justifyContent: "center", alignItems: "center" }}>
+            <div className="loading-spinner" style={{ color: "var(--color-text-dark)", fontWeight: "bold" }}>
+              Memuat Soal...
+            </div>
+          </div>
+        </div>
+      </>
+    );
+  }
 
   return (
     <>
@@ -111,18 +177,44 @@ export default function BahasaInggris() {
                 ←
               </button>
               <h2 className="screen-title" style={{ fontSize: "14px" }}>BAHASA INGGRIS</h2>
-              <div style={{ width: "38px" }}></div>
+              {!isSubmitted ? (
+                <div style={{
+                  backgroundColor: "var(--bg-button-active)",
+                  color: "white",
+                  padding: "4px 10px",
+                  borderRadius: "12px",
+                  fontSize: "12px",
+                  fontWeight: "700",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "4px"
+                }}>
+                  ⏱️ {formatTime(timeLeft)}
+                </div>
+              ) : (
+                <div style={{ width: "38px" }}></div>
+              )}
             </div>
 
             <div className="content-scroll-area">
               {!isSubmitted ? (
                 <>
                   <div className="question-number-badge">
-                    Soal {currentIndex + 1} dari {QUESTIONS.length}
+                    Soal {currentIndex + 1} dari {questions.length}
                   </div>
 
                   <div className="question-box">
-                    <p>{q.question}</p>
+                    <p style={{ whiteSpace: "pre-line" }}>{q.question}</p>
+                    {q.image && (
+                      <div className="question-image" style={{ marginTop: "16px", display: "flex", justifyContent: "center" }}>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={q.image}
+                          alt="Soal"
+                          style={{ maxWidth: "100%", maxHeight: "280px", borderRadius: "12px", border: "1px solid #cfb084", backgroundColor: "#fff", padding: "8px" }}
+                        />
+                      </div>
+                    )}
                   </div>
 
                   <div className="options-container">
@@ -200,7 +292,7 @@ export default function BahasaInggris() {
                 ☰
               </button>
 
-              {currentIndex === QUESTIONS.length - 1 ? (
+              {currentIndex === questions.length - 1 ? (
                 <button
                   className="btn btn-primary"
                   onClick={handleSubmit}
@@ -230,7 +322,7 @@ export default function BahasaInggris() {
             </div>
 
             <div className="number-grid">
-              {QUESTIONS.map((_, idx) => {
+              {questions.map((_, idx) => {
                 const isAnswered = userAnswers[idx] !== undefined;
                 const isBookmarked = bookmarks[idx] === true;
                 const isCurrent = idx === currentIndex;

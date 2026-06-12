@@ -66,6 +66,12 @@ export default function JasmaniMenu() {
                   SHUTTLE RUN
                 </button>
               </Link>
+
+              <Link href="/jasmani/kalkulator-gabungan">
+                <button className="btn btn-menu" style={{ padding: "14px", fontSize: "14px", backgroundColor: "var(--bg-login-btn)", color: "white" }}>
+                  KALKULATOR GABUNGAN
+                </button>
+              </Link>
             </div>
           </div>
 

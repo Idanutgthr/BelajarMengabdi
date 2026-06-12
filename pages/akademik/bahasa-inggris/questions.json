@@ -1,6 +1,3242 @@
 [
   {
     "id": 1,
+    "question": "She was very … after running five kilometers without stopping.",
+    "image": null,
+    "options": {
+      "A": "Tired",
+      "B": "Tiring",
+      "C": "More tired",
+      "D": "Tiringly",
+      "E": "Tire"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "This movie is so … that I can’t stop laughing.",
+    "image": null,
+    "options": {
+      "A": "Amused",
+      "B": "Amusing",
+      "C": "More amused",
+      "D": "Amuse",
+      "E": "Amusingly"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "I felt very … when I heard the bad news.",
+    "image": null,
+    "options": {
+      "A": "Depressing",
+      "B": "Depressed",
+      "C": "Depress",
+      "D": "More depressing",
+      "E": "Depressingly"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "The lecture was so … that many students fell asleep.",
+    "image": null,
+    "options": {
+      "A": "Bored",
+      "B": "Boring",
+      "C": "More bored",
+      "D": "Bore",
+      "E": "Boresome"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "The children were very … about going to the zoo.",
+    "image": null,
+    "options": {
+      "A": "Excited",
+      "B": "Exciting",
+      "C": "Excite",
+      "D": "More exciting",
+      "E": "Excitement"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Climbing that mountain was the most … experience of my life.",
+    "image": null,
+    "options": {
+      "A": "Frightened",
+      "B": "Frightening",
+      "C": "Frighten",
+      "D": "More frightened",
+      "E": "Fright"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "question": "She looks … because she didn’t sleep well last night.",
+    "image": null,
+    "options": {
+      "A": "Tiring",
+      "B": "Tired",
+      "C": "More tiring",
+      "D": "Tire",
+      "E": "Tiresome"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "The book was so … that I couldn’t put it down.",
+    "image": null,
+    "options": {
+      "A": "Interested",
+      "B": "Interesting",
+      "C": "Interest",
+      "D": "More interested",
+      "E": "Interestful"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "question": "He was very … when he lost his wallet.",
+    "image": null,
+    "options": {
+      "A": "Worried",
+      "B": "Worrying",
+      "C": "Worry",
+      "D": "More worry",
+      "E": "Worrysome"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "question": "That documentary was really …; I learned a lot from it.",
+    "image": null,
+    "options": {
+      "A": "Informative",
+      "B": "Informed",
+      "C": "Informing",
+      "D": "More informed",
+      "E": "Information"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 11,
+    "question": "After listening to the same song for over an hour, everyone in the room started to feel …",
+    "image": null,
+    "options": {
+      "A": "Bored",
+      "B": "Boring",
+      "C": "More bored",
+      "D": "Bore",
+      "E": "Boresome"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "The teacher’s explanation was so … that even the weakest students could understand the topic clearly.",
+    "image": null,
+    "options": {
+      "A": "Confused",
+      "B": "Confusing",
+      "C": "Clear",
+      "D": "Clarifying",
+      "E": "Confuse"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "question": "I find it quite … to stay focused while studying in a noisy environment.",
+    "image": null,
+    "options": {
+      "A": "Challenge",
+      "B": "Challenging",
+      "C": "Challenged",
+      "D": "More challenge",
+      "E": "Challengingly"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "The manager was deeply … by the team’s lack of motivation during the meeting.",
+    "image": null,
+    "options": {
+      "A": "Disappointed",
+      "B": "Disappointing",
+      "C": "Disappoint",
+      "D": "More disappointing",
+      "E": "Disappointingly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Watching the sunrise from the mountain top was one of the most … moments of my life.",
+    "image": null,
+    "options": {
+      "A": "Inspired",
+      "B": "Inspiring",
+      "C": "Inspirational",
+      "D": "Inspire",
+      "E": "More inspired"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "question": "The students looked … when the teacher announced there would be a surprise test.",
+    "image": null,
+    "options": {
+      "A": "Shocked",
+      "B": "Shocking",
+      "C": "More shocked",
+      "D": "Shock",
+      "E": "Shockingly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 17,
+    "question": "The book provides a very … analysis of modern economic problems.",
+    "image": null,
+    "options": {
+      "A": "Thoughtful",
+      "B": "Thought-provoking",
+      "C": "Thinking",
+      "D": "Thoughtless",
+      "E": "Thoughted"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "question": "He was too … to admit that he had made a mistake in front of his colleagues.",
+    "image": null,
+    "options": {
+      "A": "Proud",
+      "B": "Pride",
+      "C": "Prideful",
+      "D": "More proud",
+      "E": "Proudly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 19,
+    "question": "The documentary was so … that it changed the way I think about climate change.",
+    "image": null,
+    "options": {
+      "A": "Informing",
+      "B": "Informed",
+      "C": "Informative",
+      "D": "Informational",
+      "E": "More informed"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Despite the long flight and delays, the passengers remained … and polite to the crew.",
+    "image": null,
+    "options": {
+      "A": "Patient",
+      "B": "Patience",
+      "C": "Patiently",
+      "D": "Impatient",
+      "E": "More patience"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "question": "The conference was so … that professionals from all over the world attended to share their research.",
+    "image": null,
+    "options": {
+      "A": "Interest",
+      "B": "Interest",
+      "C": "Interested",
+      "D": "More interesting",
+      "E": "Interestful"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "She looked … after working all night to meet the deadline.",
+    "image": null,
+    "options": {
+      "A": "Exhausted",
+      "B": "Exhausting",
+      "C": "More exhausted",
+      "D": "Exhaust",
+      "E": "Exhaustively"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 23,
+    "question": "The movie was visually stunning but the storyline was rather …",
+    "image": null,
+    "options": {
+      "A": "Predictable",
+      "B": "Predictable",
+      "C": "Prediction",
+      "D": "Predicted",
+      "E": "More predictable"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 24,
+    "question": "He gave a … speech that moved many people to tears.",
+    "image": null,
+    "options": {
+      "A": "Touching",
+      "B": "Touched",
+      "C": "Touch",
+      "D": "More touching",
+      "E": "Touchingly"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "question": "The instructions were so poorly written that they were completely … to the users.",
+    "image": null,
+    "options": {
+      "A": "Confused",
+      "B": "Confusing",
+      "C": "Confuse",
+      "D": "More confusing",
+      "E": "Confusingly"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Many people found the ending of the film rather … because it didn’t match the rest of the story.",
+    "image": null,
+    "options": {
+      "A": "Disappointed",
+      "B": "Disappointing",
+      "C": "Disappoint",
+      "D": "More disappointing",
+      "E": "Disappointingly"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "question": "The results of the experiment were quite … and did not meet the scientist’s expectations.",
+    "image": null,
+    "options": {
+      "A": "Surprising",
+      "B": "Surprised",
+      "C": "More surprised",
+      "D": "Surprise",
+      "E": "Surprisingness"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "question": "It was really … to see how people reacted differently to the same situation.",
+    "image": null,
+    "options": {
+      "A": "Fascinated",
+      "B": "Fascinating",
+      "C": "Fascinate",
+      "D": "More fascinated",
+      "E": "Fascinately"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "question": "The CEO made a … decision that helped the company recover from the financial crisis.",
+    "image": null,
+    "options": {
+      "A": "Wise",
+      "B": "Wisely",
+      "C": "Wisdom",
+      "D": "Wiser",
+      "E": "Wiseful"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Although the exam was quite …, most students managed to finish it on time.",
+    "image": null,
+    "options": {
+      "A": "Difficult",
+      "B": "Difficulty",
+      "C": "Difficultly",
+      "D": "More difficult",
+      "E": "Difficultying"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "question": "She was too tired … any more homework last night.",
+    "image": null,
+    "options": {
+      "A": "Do",
+      "B": "To do",
+      "C": "Doing",
+      "D": "Did",
+      "E": "Done"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "question": "He apologized for … late to the meeting.",
+    "image": null,
+    "options": {
+      "A": "To be",
+      "B": "Be",
+      "C": "Being",
+      "D": "Been",
+      "E": "Was"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 33,
+    "question": "It was very kind of you … me with my project.",
+    "image": null,
+    "options": {
+      "A": "Helping",
+      "B": "To help",
+      "C": "Helped",
+      "D": "Help",
+      "E": "Helps"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "question": "I regret … her the secret. She wasn’t supposed to know.",
+    "image": null,
+    "options": {
+      "A": "Tell",
+      "B": "Told",
+      "C": "To tell",
+      "D": "Telling",
+      "E": "Tell to"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 35,
+    "question": "He spoke so quietly that nobody could hear what he was saying.",
+    "image": null,
+    "options": {
+      "A": "Quiet",
+      "B": "Quieter",
+      "C": "Quietly",
+      "D": "More quiet",
+      "E": "Quite"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "question": "She was very surprised to find her lost cat waiting at the door.",
+    "image": null,
+    "options": {
+      "A": "Surprising",
+      "B": "Surprise",
+      "C": "Surprised",
+      "D": "Surprises",
+      "E": "Surprisingly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 37,
+    "question": "They decided … a new marketing strategy after the meeting.",
+    "image": null,
+    "options": {
+      "A": "Implement",
+      "B": "Implementing",
+      "C": "To implement",
+      "D": "Implements",
+      "E": "Be implemented"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 38,
+    "question": "He drives too carelessly, which often causes problems on the road.",
+    "image": null,
+    "options": {
+      "A": "Careful",
+      "B": "Carelessly",
+      "C": "Carefuly",
+      "D": "Carelessness",
+      "E": "Carefully"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "question": "I’m looking forward to … you again soon.",
+    "image": null,
+    "options": {
+      "A": "See",
+      "B": "Seeing",
+      "C": "To see",
+      "D": "Seen",
+      "E": "Be seeing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "question": "The problem is too complicated … quickly.",
+    "image": null,
+    "options": {
+      "A": "Solving",
+      "B": "To solve",
+      "C": "Solve",
+      "D": "Solved",
+      "E": "For solving"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "question": "She seems … very hard these days.",
+    "image": null,
+    "options": {
+      "A": "Work",
+      "B": "Working",
+      "C": "Works",
+      "D": "To work",
+      "E": "Worked"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 42,
+    "question": "He was caught … during the exam.",
+    "image": null,
+    "options": {
+      "A": "Cheating",
+      "B": "To cheat",
+      "C": "Cheated",
+      "D": "Cheats",
+      "E": "Cheat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "question": "She’s not old enough … a car yet.",
+    "image": null,
+    "options": {
+      "A": "Drive",
+      "B": "Driving",
+      "C": "To drive",
+      "D": "Drives",
+      "E": "Driven"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 44,
+    "question": "We tried … the door, but it was locked from the inside.",
+    "image": null,
+    "options": {
+      "A": "Open",
+      "B": "To open",
+      "C": "Opening",
+      "D": "Opened",
+      "E": "Opens"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 45,
+    "question": "He was the first person … the mountain peak this year.",
+    "image": null,
+    "options": {
+      "A": "Climb",
+      "B": "Climbing",
+      "C": "To climb",
+      "D": "Climbed",
+      "E": "Climbs"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "question": "The teacher asked us … our homework before class.",
+    "image": null,
+    "options": {
+      "A": "Finish",
+      "B": "Finishing",
+      "C": "Finished",
+      "D": "To finish",
+      "E": "Finishes"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "question": "We enjoyed … in the rain when we were kids.",
+    "image": null,
+    "options": {
+      "A": "Play",
+      "B": "Playing",
+      "C": "To play",
+      "D": "Plays",
+      "E": "Played"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "question": "He speaks English more fluently than anyone else in the office.",
+    "image": null,
+    "options": {
+      "A": "Fluent",
+      "B": "Fluently",
+      "C": "Fluently",
+      "D": "More fluent",
+      "E": "Fluentness"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 49,
+    "question": "She didn’t remember … the message before leaving.",
+    "image": null,
+    "options": {
+      "A": "Send",
+      "B": "To send",
+      "C": "Sending",
+      "D": "Sends",
+      "E": "Sent"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "question": "He admitted … the mistake after being confronted by his boss.",
+    "image": null,
+    "options": {
+      "A": "Make",
+      "B": "To make",
+      "C": "Making",
+      "D": "Makes",
+      "E": "Made"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "question": "Paragraph:\nMany young people today spend most of their free time using social media. While it helps them stay connected, it also reduces face-to-face communication and may cause feelings of loneliness.\nQuestion:\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Social media completely replaces real-life communication.",
+      "B": "Social media only brings positive effects.",
+      "C": "Social media has both advantages and disadvantages.",
+      "D": "People should stop using social media.",
+      "E": "Loneliness is not related to social media use."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Paragraph:\nJohn studied hard for months before his final exams. He avoided parties, spent long nights reviewing notes, and even stopped playing games. As a result, he graduated with honors.\nQuestion:\nWhat can be concluded about John?",
+    "image": null,
+    "options": {
+      "A": "He succeeded because of his consistent effort.",
+      "B": "He was naturally intelligent.",
+      "C": "He disliked studying.",
+      "D": "He had no friends.",
+      "E": "He failed his exams."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 53,
+    "question": "Paragraph:\nGlobal warming has led to rising sea levels, melting glaciers, and extreme weather events. If this continues, many coastal cities could disappear under water.\nQuestion:\nWhat is the main conclusion?",
+    "image": null,
+    "options": {
+      "A": "Global warming is not a serious issue.",
+      "B": "Human activities do not affect the planet.",
+      "C": "Coastal cities are safe from climate change.",
+      "D": "Global warming causes dangerous environmental effects.",
+      "E": "Glaciers are increasing every year."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 54,
+    "question": "Paragraph:\nAlthough smartphones make our lives easier, many people check their phones hundreds of times a day, even during conversations. This habit decreases real social interaction and focus.\nQuestion:\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Smartphones always improve relationships.",
+      "B": "People are becoming too dependent on their phones.",
+      "C": "Smartphones are rarely used for communication.",
+      "D": "Checking phones frequently improves focus.",
+      "E": "Smartphones are not popular anymore."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Paragraph:\nRegular exercise improves physical health and mental well-being. People who exercise often have better moods and more energy during the day.\nQuestion:\nWhat can be concluded?",
+    "image": null,
+    "options": {
+      "A": "Exercise only helps physical health.",
+      "B": "Exercise is unnecessary for a healthy mind.",
+      "C": "Exercise benefits both body and mind.",
+      "D": "People who exercise are always happy.",
+      "E": "Energy level has nothing to do with exercise."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Paragraph:\nLisa forgot to set her alarm last night and woke up late. She missed the bus and arrived late for her job interview.\nQuestion:\nWhat conclusion can be drawn?",
+    "image": null,
+    "options": {
+      "A": "Lisa didn’t care about the interview.",
+      "B": "Lisa’s lateness was caused by not setting her alarm.",
+      "C": "The bus was delayed.",
+      "D": "Lisa got the job.",
+      "E": "Lisa planned to be late."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "question": "Paragraph:\nThe city government has built new bike lanes, improved sidewalks, and added more green parks. They hope to encourage citizens to walk or cycle instead of driving.\nQuestion:\nWhat can be concluded from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "The government wants fewer people to use cars.",
+      "B": "The government dislikes bicycles.",
+      "C": "People are being forced to sell their cars.",
+      "D": "Public parks are being removed.",
+      "E": "Walking is becoming illegal."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 58,
+    "question": "Paragraph:\nAlthough the restaurant looks small, it always has a long line of customers. Most people come because the food is delicious and the prices are affordable.\nQuestion:\nWhat can be concluded?",
+    "image": null,
+    "options": {
+      "A": "The restaurant is unpopular.",
+      "B": "People like the restaurant despite its size.",
+      "C": "The food is expensive.",
+      "D": "The restaurant serves poor-quality food.",
+      "E": "The restaurant is never crowded."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 59,
+    "question": "Paragraph:\nDuring the pandemic, many companies allowed employees to work from home. As a result, people saved time on commuting and spent more time with family.\nQuestion:\nWhat is the best conclusion?",
+    "image": null,
+    "options": {
+      "A": "Working from home has several benefits for employees.",
+      "B": "People dislike working from home.",
+      "C": "Remote work increases travel time.",
+      "D": "Companies became less productive.",
+      "E": "The pandemic ended quickly."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 60,
+    "question": "Paragraph:\nAnimals in the zoo depend completely on humans for food and care. In the wild, however, they must find food and protect themselves from predators.\nQuestion:\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Zoo animals live in total freedom.",
+      "B": "Wild animals are safer than zoo animals.",
+      "C": "Zoo animals rely on humans, unlike wild ones.",
+      "D": "Wild animals are fed by zookeepers.",
+      "E": "Both zoo and wild animals depend on humans."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Paragraph:\nAlthough Tom didn’t say anything during the meeting, his expression showed that he disagreed with the decision.\nQuestion:\nWhat can be inferred about Tom?",
+    "image": null,
+    "options": {
+      "A": "He supported the decision completely.",
+      "B": "He didn’t understand the discussion.",
+      "C": "He disagreed but chose to stay silent.",
+      "D": "He was the one who made the decision.",
+      "E": "He left the meeting early."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Paragraph:\nWhen Sarah opened her umbrella, everyone around her did the same. A few minutes later, heavy rain started to fall.\nQuestion:\nWhat can you infer from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Sarah forgot her umbrella.",
+      "B": "Sarah predicted the rain.",
+      "C": "It was already raining.",
+      "D": "People opened umbrellas for fun.",
+      "E": "Sarah worked as a weather reporter."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 63,
+    "question": "Paragraph:\nEven though the café increased its prices, the number of customers remained the same.\nQuestion:\nWhat does this suggest about the café?",
+    "image": null,
+    "options": {
+      "A": "The café serves low-quality food.",
+      "B": "Customers don’t care about the prices.",
+      "C": "The café’s food and service are highly valued.",
+      "D": "People stopped coming because of the prices.",
+      "E": "The café is about to close down."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 64,
+    "question": "Paragraph:\nMike turned off the TV as soon as his father entered the room and started reading a book instead.\nQuestion:\nWhat can be inferred about Mike?",
+    "image": null,
+    "options": {
+      "A": "His father doesn’t like him watching TV.",
+      "B": "He was studying for an exam.",
+      "C": "His father told him to watch TV.",
+      "D": "He wanted to teach his father to read.",
+      "E": "He was bored with television."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "question": "Paragraph:\nAfter the teacher explained the rule twice, several students still looked confused.\nQuestion:\nWhat can we infer?",
+    "image": null,
+    "options": {
+      "A": "The rule was difficult to understand.",
+      "B": "The students were not paying attention.",
+      "C": "The teacher didn’t know the rule.",
+      "D": "The explanation was very clear.",
+      "E": "The students were pretending to understand."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "question": "Paragraph:\nWhen the lights suddenly went out, Emma calmly took out a flashlight from her bag and turned it on.\nQuestion:\nWhat can be inferred about Emma?",
+    "image": null,
+    "options": {
+      "A": "She was afraid of the dark.",
+      "B": "She had expected the power to go out.",
+      "C": "She didn’t have a flashlight.",
+      "D": "She was at home sleeping.",
+      "E": "She didn’t know what to do."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Paragraph:\nThe students began packing their bags before the bell rang.\nQuestion:\nWhat can you infer?",
+    "image": null,
+    "options": {
+      "A": "The class was over.",
+      "B": "The students expected the class to end soon.",
+      "C": "The students expected the class to end soon.",
+      "D": "The students expected the class to end soon.",
+      "E": "They were going on a trip."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "question": "Paragraph:\nJenny refused to eat breakfast and looked pale all morning.\nQuestion:\nWhat can be inferred?",
+    "image": null,
+    "options": {
+      "A": "Jenny was very energetic.",
+      "B": "She wasn’t feeling well.",
+      "C": "She wasn’t feeling well.",
+      "D": "She woke up late.",
+      "E": "She was preparing food."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Paragraph:\nEvery weekend, the parking lot near the beach is full by 9 a.m., even though it opens at 8.\nQuestion:\nWhat can be inferred about the beach?",
+    "image": null,
+    "options": {
+      "A": "It is not a popular place.",
+      "B": "Few people visit it.",
+      "C": "It is a favorite spot for many visitors.",
+      "D": "People avoid going there.",
+      "E": "It recently closed down."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 70,
+    "question": "Paragraph:\nAfter receiving his exam results, Mark immediately called his parents with a big smile on his face.\nQuestion:\nWhat can we infer about Mark’s exam results?",
+    "image": null,
+    "options": {
+      "A": "He failed the exam.",
+      "B": "He was disappointed.",
+      "C": "He got good grades.",
+      "D": "He didn’t take the exam.",
+      "E": "His parents were angry."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Many people believe that success comes from luck, but those who have achieved great things know that it is mostly the result of hard work, persistence, and learning from failure.\nWhat can be concluded from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Successful people depend on luck.",
+      "B": "Hard work is the main factor of success.",
+      "C": "Failure prevents people from being successful.",
+      "D": "Only a few people deserve success.",
+      "E": "Only a few people deserve success."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "question": "Although online learning provides flexibility, many students still struggle with self-discipline and time management, leading to poor academic performance.\nWhat can we infer from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Online learning is always better than traditional learning.",
+      "B": "Students prefer online classes.",
+      "C": "Students prefer online classes.",
+      "D": "Students prefer online classes.",
+      "E": "Students always perform better online."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 73,
+    "question": "People who read regularly tend to have better focus, stronger vocabulary, and greater empathy toward others.\nWhat can we infer from this statement?",
+    "image": null,
+    "options": {
+      "A": "Reading has many cognitive and emotional benefits.",
+      "B": "Reading has many cognitive and emotional benefits.",
+      "C": "Only young people enjoy reading.",
+      "D": "Empathy has no relation to reading.",
+      "E": "Vocabulary is not affected by reading habits."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Despite earning a good salary, John still finds it hard to save money because he often spends on unnecessary items.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "John is very careful with his money.",
+      "B": "John is saving a lot of money.",
+      "C": "John’s spending habits make saving difficult.",
+      "D": "John doesn’t earn enough money.",
+      "E": "John doesn’t earn enough money."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Many endangered animals lose their habitats due to illegal logging and urban expansion. Without immediate action, some species might disappear forever.",
+    "image": null,
+    "options": {
+      "A": "Human activities endanger wildlife.",
+      "B": "Animals destroy their own habitats",
+      "C": "Logging helps animals survive",
+      "D": "Urbanization protects wildlife.",
+      "E": "Animals adapt easily to city life."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 76,
+    "question": "Although social media connects people globally, it has also been linked to loneliness and mental health issues among young users.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "Social media has both positive and negative effects.",
+      "B": "Social media has both positive and negative effects.",
+      "C": "Young people don’t use social media.",
+      "D": "Social media has no influence on users.",
+      "E": "Everyone benefits equally from social media."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "question": "When the teacher introduced group projects, some students were excited, while others were anxious about working with their classmates.\nWhat can be inferred?",
+    "image": null,
+    "options": {
+      "A": "All students dislike group work.",
+      "B": "All students dislike group work.",
+      "C": "All students dislike group work.",
+      "D": "All students dislike group work.",
+      "E": "The teacher dislikes group activities."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 78,
+    "question": "Because of the company’s new policy on remote work, many employees can now balance their professional and personal lives more effectively.\nWhat can be concluded?",
+    "image": null,
+    "options": {
+      "A": "Remote work has improved employees’ work-life balance.",
+      "B": "Employees dislike working from home.",
+      "C": "Remote work makes people less productive.",
+      "D": "The company reduced working hours.",
+      "E": "Employees must return to the office."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "question": "Even though the restaurant looks simple, it’s always crowded because the food is delicious and affordable.\nWhat can we infer?",
+    "image": null,
+    "options": {
+      "A": "People care more about good food than fancy design.",
+      "B": "Customers prefer luxury restaurants.",
+      "C": "People care more about good food than fancy design.",
+      "D": "Food prices are too high.",
+      "E": "The restaurant is always empty."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 80,
+    "question": "After years of pollution and neglect, the local river is finally being cleaned through community efforts and government support.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "The river is improving because of collective action.",
+      "B": "The river will never recover.",
+      "C": "The community ignores the pollution.",
+      "D": "The government refuses to help.",
+      "E": "People are moving away from the river."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 81,
+    "question": "In recent years, many cities have started planting trees along busy streets. These trees not only make the city look more beautiful, but also help reduce air pollution by absorbing carbon dioxide and producing oxygen. Studies have shown that neighborhoods with more trees have cooler temperatures and happier residents.\nWhat can we conclude from the passage?",
+    "image": null,
+    "options": {
+      "A": "Trees make cities more polluted.",
+      "B": "Trees have both environmental and social benefits.",
+      "C": "Trees increase city temperatures.",
+      "D": "Trees are planted only for decoration.",
+      "E": "People dislike trees near their homes."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "question": "Many parents worry that video games distract children from studying. However, some researchers argue that certain games can improve problem-solving skills, coordination, and creativity when played in moderation. The key, they say, is balance and parental supervision.\nWhat can we infer from the text?",
+    "image": null,
+    "options": {
+      "A": "All video games are harmful to children.",
+      "B": "Games can be beneficial if used responsibly.",
+      "C": "Parents should ban video games completely.",
+      "D": "Children should play games without limits.",
+      "E": "Researchers believe gaming is useless."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "question": "During the pandemic, many small businesses struggled to survive. Some had to close permanently, while others adapted by moving their operations online. Those who embraced technology often found new customers and opportunities beyond their local areas.\nWhat is the main idea of the passage?",
+    "image": null,
+    "options": {
+      "A": "Technology helped some small businesses survive the pandemic.",
+      "B": "All small businesses failed during the pandemic.",
+      "C": "Online markets are not suitable for small businesses.",
+      "D": "Local businesses avoided using technology.",
+      "E": "The pandemic had no impact on business."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Emma always dreamed of becoming a doctor, but her family couldn’t afford medical school. Instead of giving up, she applied for scholarships, worked part-time, and eventually graduated with honors. Her determination inspired others in her community to pursue their dreams.\nWhat can be concluded about Emma?",
+    "image": null,
+    "options": {
+      "A": "She gave up easily when facing difficulties.",
+      "B": "She achieved success through hard work and persistence.",
+      "C": "She depended entirely on her family’s help.",
+      "D": "She depended entirely on her family’s help.",
+      "E": "She became a doctor by accident."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "question": "The rise of electric vehicles has reduced the demand for gasoline, but it has also created new environmental challenges. Producing batteries requires rare minerals, and their disposal can cause pollution if not managed properly. This shows that even green technologies have complex trade-offs.\nWhat can we infer from the passage?",
+    "image": null,
+    "options": {
+      "A": "Electric vehicles are completely harmless.",
+      "B": "Every technology has both benefits and challenges.",
+      "C": "Battery production has no impact on the environment.",
+      "D": "Gasoline is better than electricity.",
+      "E": "People should avoid using technology."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "question": "After losing his job, Mark didn’t give up. He started a small online store selling handmade candles. Through social media marketing and customer reviews, his business quickly grew. Within two years, he was able to hire several employees and open a physical shop.\nWhat can be concluded about Mark?",
+    "image": null,
+    "options": {
+      "A": "He was lazy after losing his job.",
+      "B": "He turned a difficult situation into a successful business.",
+      "C": "His business failed because of social media.",
+      "D": "He disliked running a store.",
+      "E": "He depended on others for success."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 87,
+    "question": "Scientists warn that if global temperatures continue to rise, glaciers will melt faster, causing sea levels to increase. This could flood many coastal cities and displace millions of people. Governments around the world are being urged to take stronger action to reduce emissions.\nWhat is the main message of the passage?",
+    "image": null,
+    "options": {
+      "A": "Climate change threatens human settlements and requires urgent action.",
+      "B": "Sea level rise is not related to global warming.",
+      "C": "Only scientists can stop global warming.",
+      "D": "People should ignore climate warnings.",
+      "E": "Governments have already solved the problem."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "question": "Although technology makes communication easier, some experts believe it weakens real human connections. People often prefer texting over talking, and many spend more time online than interacting face-to-face. As a result, social skills may decline over time.\nWhat can be inferred from the passage?",
+    "image": null,
+    "options": {
+      "A": "Technology can reduce the quality of human relationships.",
+      "B": "Online communication is always better.",
+      "C": "Technology improves social skills.",
+      "D": "People no longer use the internet",
+      "E": "Talking in person is unnecessary."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Traveling abroad can change the way people see the world. Experiencing different cultures helps them understand that there are many valid ways of living. It also teaches tolerance, patience, and respect for diversity.\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Traveling abroad broadens one’s perspective and tolerance.",
+      "B": "Traveling makes people arrogant.",
+      "C": "People learn nothing from other cultures.",
+      "D": "All countries are the same.",
+      "E": "Traveling is a waste of time."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Libraries are no longer just places to borrow books. Many now offer digital resources, free internet access, and workshops for skill development. By evolving with the times, libraries remain important centers of learning and community engagement.\nWhat is the best conclusion?",
+    "image": null,
+    "options": {
+      "A": "Libraries are adapting to stay relevant in the modern world.",
+      "B": "People no longer visit libraries.",
+      "C": "People no longer visit libraries.",
+      "D": "People no longer visit libraries.",
+      "E": "The internet has replaced libraries completely."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 91,
+    "question": "In many developing countries, access to clean water remains a serious issue. While international organizations provide aid, the lack of local infrastructure and maintenance often causes projects to fail. Sustainable solutions require community involvement and education, not just financial support.\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Financial aid alone cannot solve the water crisis.",
+      "B": "Only international aid can fix water problems.",
+      "C": "Communities should avoid participating in water projects.",
+      "D": "Clean water is not essential.",
+      "E": "Developing countries already have good infrastructure."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 92,
+    "question": "Artificial intelligence (AI) is transforming industries by automating tasks and analyzing data faster than humans. However, experts warn that without proper regulation, AI could lead to job displacement and ethical concerns, such as bias in decision-making systems.\nWhat is the main idea?",
+    "image": null,
+    "options": {
+      "A": "AI offers benefits but also raises ethical and employment issues.",
+      "B": "AI will eliminate all human jobs.",
+      "C": "Humans work faster than AI.",
+      "D": "Regulation is unnecessary for AI.",
+      "E": "AI has no negative effects."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Global tourism contributes significantly to many countries’ economies, but it can also damage local cultures and environments. Overcrowding, pollution, and cultural exploitation often follow when tourism is not properly managed.\nWhat can be inferred from the text?",
+    "image": null,
+    "options": {
+      "A": "Tourism must be managed carefully to avoid negative impacts.",
+      "B": "Tourism never benefits local economies.",
+      "C": "Tourists rarely affect the environment.",
+      "D": "Cultural damage is unavoidable.",
+      "E": "Tourism should be banned."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 94,
+    "question": "Recent studies suggest that eating a balanced diet rich in fruits, vegetables, and whole grains can improve mental health. Nutrients like omega-3 fatty acids and antioxidants help reduce stress and depression levels.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "Nutrition plays a role in mental well-being.",
+      "B": "Diet has no connection to mood.",
+      "C": "Only medication can treat depression.",
+      "D": "People should avoid healthy food.",
+      "E": "Mental health depends solely on genetics."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 95,
+    "question": "Some scientists argue that colonizing Mars could ensure humanity’s survival if Earth becomes uninhabitable. Others believe that investing in solving Earth’s problems—like climate change—should be the priority before thinking about space exploration.\nWhat is the author’s main point?",
+    "image": null,
+    "options": {
+      "A": "There is a debate between Mars colonization and solving Earth’s issues.",
+      "B": "Everyone agrees that Mars colonization is urgent.",
+      "C": "Space exploration is a waste of money.",
+      "D": "Climate change is not a concern.",
+      "E": "Scientists no longer study space."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "question": "As the global population ages, the demand for healthcare workers continues to grow. However, many countries face shortages of nurses and caregivers, leading to increased stress among existing staff and reduced quality of patient care.\nWhat can be inferred from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Healthcare systems are under pressure due to staff shortages.",
+      "B": "Aging populations reduce the need for nurses.",
+      "C": "There are too many healthcare workers.",
+      "D": "Caregivers experience no stress at work.",
+      "E": "The quality of care is improving rapidly."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 97,
+    "question": "Plastic pollution has reached even the most remote parts of the planet, including the Arctic and deep oceans. Because plastics take hundreds of years to decompose, their accumulation poses a long-term threat to ecosystems and marine life.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "Plastic waste is a global and persistent environmental problem.",
+      "B": "Plastic decomposes quickly in cold regions.",
+      "C": "The oceans are free from plastic waste.",
+      "D": "Plastic decomposes quickly in cold regions.",
+      "E": "Marine life is unaffected by pollution."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "question": "The rise of remote work has changed how companies operate. Many organizations now rely on digital communication tools and flexible schedules to maintain productivity. However, some employees report feelings of isolation and blurred boundaries between work and personal life.\nWhat is the main idea?",
+    "image": null,
+    "options": {
+      "A": "Remote work offers flexibility but also social and emotional challenges.",
+      "B": "Remote work eliminates all workplace problems.",
+      "C": "Employees prefer traditional offices.",
+      "D": "Productivity has completely disappeared.",
+      "E": "Remote work reduces communication."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 99,
+    "question": "Education experts believe that critical thinking is more valuable than memorizing facts. In a rapidly changing world, students must learn how to analyze information, question sources, and make independent judgments rather than simply recall data.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "Education should focus more on developing analytical skills.",
+      "B": "Memorization is the best form of learning.",
+      "C": "Facts are more important than reasoning.",
+      "D": "Students should avoid questioning teachers.",
+      "E": "Modern education discourages thinking."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 101,
+    "question": "With the rapid advancement of technology, many traditional jobs are being replaced by automation. While this increases efficiency, it also creates unemployment for workers without technical skills. Economists argue that investment in education and retraining programs is essential to prepare the workforce for the digital era.\nWhat is the main idea of the passage?",
+    "image": null,
+    "options": {
+      "A": "Automation replaces jobs and requires workers to adapt through education.",
+      "B": "Technology has no effect on employment.",
+      "C": "Economists believe automation will end poverty.",
+      "D": "Retraining workers is unnecessary in the digital age.",
+      "E": "Workers should avoid technology."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 102,
+    "question": "Microfinance programs provide small loans to people in developing countries who lack access to traditional banking systems. These loans often help women start small businesses, improving their families’ income and community well-being.\nWhat can we infer from the passage?",
+    "image": null,
+    "options": {
+      "A": "Microfinance empowers low-income individuals, especially women.",
+      "B": "Only large companies benefit from microfinance.",
+      "C": "Banks provide easy access to everyone.",
+      "D": "Microfinance causes poverty.",
+      "E": "Women are not allowed to use loans."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "question": "Although global trade promotes economic growth, it can also widen inequality. Wealthy nations often benefit more, while poorer countries struggle to compete in international markets due to weak infrastructure and limited technology.\nWhat can be concluded?",
+    "image": null,
+    "options": {
+      "A": "Global trade creates both opportunities and inequality.",
+      "B": "All countries benefit equally from trade.",
+      "C": "Poor countries dominate global trade.",
+      "D": "Economic inequality is unrelated to trade.",
+      "E": "Technology reduces inequality automatically."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Social media influencers have become powerful marketing tools. Their recommendations can shape consumer behavior and brand popularity. However, critics warn that many followers fail to recognize the commercial motives behind these endorsements.\nWhat is the best conclusion?",
+    "image": null,
+    "options": {
+      "A": "Influencer marketing affects consumer choices but may lack transparency.",
+      "B": "Influencers never promote products.",
+      "C": "Influencers never promote products.",
+      "D": "Social media marketing is ineffective.",
+      "E": "Advertising no longer influences people."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 105,
+    "question": "In many urban areas, housing prices have risen faster than wages. This makes it increasingly difficult for young people to buy their first homes, forcing many to rent for longer periods or live with their parents.\nWhat can we infer?",
+    "image": null,
+    "options": {
+      "A": "Rising housing costs are reducing home ownership among young adults.",
+      "B": "Young people are buying more homes.",
+      "C": "Housing prices are decreasing.",
+      "D": "Wages have outpaced housing costs.",
+      "E": "Urban housing is easily affordable."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 106,
+    "question": "E-commerce platforms have changed the way people shop. Consumers can now compare prices, read reviews, and purchase items from anywhere in the world. However, this convenience has also increased packaging waste and carbon emissions from delivery services.\nWhat is the main idea?",
+    "image": null,
+    "options": {
+      "A": "Online shopping offers convenience but also environmental challenges.",
+      "B": "E-commerce has no effect on the environment.",
+      "C": "Consumers dislike online shopping.",
+      "D": "Delivery services have no impact on pollution.",
+      "E": "Online platforms are disappearing."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 107,
+    "question": "Cryptocurrency was originally created to provide a decentralized financial system free from government control. However, its volatility and potential for misuse have led many countries to consider regulating or banning it altogether.\nWhat can we conclude?",
+    "image": null,
+    "options": {
+      "A": "Governments are concerned about the risks of cryptocurrency.",
+      "B": "Cryptocurrency is always stable and safe.",
+      "C": "Everyone supports using cryptocurrency.",
+      "D": "Digital money replaces all banking systems.",
+      "E": "Cryptocurrencies are completely unregulated."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 108,
+    "question": "Remote education during the pandemic showed that technology could make learning more accessible. Yet, students in rural areas without reliable internet were left behind, revealing the digital divide between urban and rural communities.\nWhat can be inferred from the passage?",
+    "image": null,
+    "options": {
+      "A": "Unequal access to technology creates educational inequality.",
+      "B": "All students benefited equally from online learning.",
+      "C": "Rural areas have better internet access.",
+      "D": "Technology eliminates learning gaps.",
+      "E": "The digital divide no longer exists."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 109,
+    "question": "The global demand for renewable energy materials, such as lithium and cobalt, has surged. However, mining these minerals often harms local environments and communities, especially in developing countries with weak regulations.\nWhat is the main message?",
+    "image": null,
+    "options": {
+      "A": "Green energy relies on materials that have social and environmental costs.",
+      "B": "Mining lithium and cobalt is completely safe.",
+      "C": "Renewable energy causes no harm.",
+      "D": "Developing countries refuse to mine minerals.",
+      "E": "Energy demand is decreasing globally."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 110,
+    "question": "Many psychologists believe that gratitude has measurable benefits for mental health. People who regularly express thankfulness tend to experience greater happiness, stronger relationships, and lower stress levels.\nWhat can we conclude from the paragraph?",
+    "image": null,
+    "options": {
+      "A": "Practicing gratitude improves emotional well-being.",
+      "B": "Gratitude has no psychological effects.",
+      "C": "Happiness depends only on money.",
+      "D": "Expressing gratitude increases stress.",
+      "E": "Relationships are unrelated to emotions."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 111,
+    "question": "Thomas Alva Edison was one of the greatest inventors in the world. He was born in Ohio, the USA, in 1847. He invented the electric bulb, phonograph, and motion picture camera. His inventions changed people’s lives.\nWhat is the text mainly about?",
+    "image": null,
+    "options": {
+      "A": "The life of Thomas Edison",
+      "B": "The invention of the electric bulb",
+      "C": "The history of the USA",
+      "D": "A famous scientist’s discovery",
+      "E": "The phonograph machine"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "question": "Thomas Alva Edison was one of the greatest inventors in the world. He was born in Ohio, the USA, in 1847. He invented the electric bulb, phonograph, and motion picture camera. His inventions changed people’s lives.\nWhat did Edison invent?",
+    "image": null,
+    "options": {
+      "A": "Typewriter and radio",
+      "B": "Electric bulb and camera",
+      "C": "Airplane and telephone",
+      "D": "Television and radio",
+      "E": "Computer and calculator"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 113,
+    "question": "Mount Bromo is one of the most beautiful mountains in Indonesia. It is located in East Java. Many tourists visit Bromo to see the sunrise. The weather there is very cold, especially in the morning.\nWhere is Mount Bromo located?",
+    "image": null,
+    "options": {
+      "A": "Central Java",
+      "B": "East Java",
+      "C": "West Java",
+      "D": "Bali",
+      "E": "Sumatra"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Mount Bromo is one of the most beautiful mountains in Indonesia. It is located in East Java. Many tourists visit Bromo to see the sunrise. The weather there is very cold, especially in the morning.\nWhat do tourists like to see in Bromo?",
+    "image": null,
+    "options": {
+      "A": "The sunset",
+      "B": "The waterfall",
+      "C": "The sunrise",
+      "D": "The forest",
+      "E": "The lake"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 115,
+    "question": "My father is a doctor. He works at a hospital near our house. Every day, he helps sick people. He loves his job very much.\nWhat is the father’s profession?",
+    "image": null,
+    "options": {
+      "A": "A teacher",
+      "B": "A doctor",
+      "C": "A driver",
+      "D": "A nurse",
+      "E": "A soldier"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 116,
+    "question": "My father is a doctor. He works at a hospital near our house. Every day, he helps sick people. He loves his job very much.\nWhere does he work?",
+    "image": null,
+    "options": {
+      "A": "At school",
+      "B": "At home",
+      "C": "At a hospital",
+      "D": "At a clinic",
+      "E": "At an office"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 117,
+    "question": "Rina likes reading very much. She always reads books in her free time. Her favorite books are fairy tales and adventure stories.\nWhat is Rina’s hobby?",
+    "image": null,
+    "options": {
+      "A": "Writing",
+      "B": "Singing",
+      "C": "Reading",
+      "D": "Drawing",
+      "E": "Traveling"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Rina likes reading very much. She always reads books in her free time. Her favorite books are fairy tales and adventure stories.\nWhat kind of books does Rina like?",
+    "image": null,
+    "options": {
+      "A": "Comedy",
+      "B": "Adventure",
+      "C": "Science fiction",
+      "D": "Romantic",
+      "E": "History"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "question": "My school is very big and clean. There are many classrooms, a library, and a playground. The teachers are kind and friendly to the students.\nWhat does the writer describe?",
+    "image": null,
+    "options": {
+      "A": "His home",
+      "B": "His classroom",
+      "C": "His school",
+      "D": "His library",
+      "E": "His teacher"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 120,
+    "question": "My school is very big and clean. There are many classrooms, a library, and a playground. The teachers are kind and friendly to the students.\nHow are the teachers?",
+    "image": null,
+    "options": {
+      "A": "Strict and serious",
+      "B": "Lazy and rude",
+      "C": "Kind and friendly",
+      "D": "Angry and tired",
+      "E": "Smart and strong"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 121,
+    "question": "Dolphins are intelligent animals. They can communicate using sounds. They live in groups and like to play in the water.\nWhat kind of animal is a dolphin?",
+    "image": null,
+    "options": {
+      "A": "A fish",
+      "B": "A mammal",
+      "C": "A reptile",
+      "D": "An amphibian",
+      "E": "A bird"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Dolphins are intelligent animals. They can communicate using sounds. They live in groups and like to play in the water.\nHow do dolphins communicate?",
+    "image": null,
+    "options": {
+      "A": "By gestures",
+      "B": "By sounds",
+      "C": "By color",
+      "D": "By smell",
+      "E": "By touching"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Last Sunday, I went to the zoo with my family. We saw many animals like lions, elephants, and giraffes. My favorite animal was the elephant because it was big and gentle.\nWhere did the writer go last Sunday?",
+    "image": null,
+    "options": {
+      "A": "To the beach",
+      "B": "To the park",
+      "C": "To the zoo",
+      "D": "To the mountain",
+      "E": "To the mall"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "question": "Last Sunday, I went to the zoo with my family. We saw many animals like lions, elephants, and giraffes. My favorite animal was the elephant because it was big and gentle.\nWhy did the writer like the elephant?",
+    "image": null,
+    "options": {
+      "A": "It was funny",
+      "B": "It was big and gentle",
+      "C": "It was noisy",
+      "D": "It was small",
+      "E": "It was fierce"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "question": "My best friend’s name is Liza. She is a kind and helpful girl. She always helps her classmates when they have difficulties.\nWhat is Liza like?",
+    "image": null,
+    "options": {
+      "A": "Lazy and noisy",
+      "B": "Helpful and kind",
+      "C": "Smart but rude",
+      "D": "Funny and careless",
+      "E": "Quiet and shy"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 126,
+    "question": "My best friend’s name is Liza. She is a kind and helpful girl. She always helps her classmates when they have difficulties.\nWhat does Liza do when her classmates have difficulties?",
+    "image": null,
+    "options": {
+      "A": "She ignores them",
+      "B": "She helps them",
+      "C": "She leaves them",
+      "D": "She laughs at them",
+      "E": "She reports them"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 127,
+    "question": "Jakarta is the capital city of Indonesia. It is the largest city in the country and the center of government, business, and culture.\nWhat is Jakarta?",
+    "image": null,
+    "options": {
+      "A": "A province",
+      "B": "A country",
+      "C": "A village",
+      "D": "The capital city",
+      "E": "A tourist place"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 128,
+    "question": "Jakarta is the capital city of Indonesia. It is the largest city in the country and the center of government, business, and culture.\nWhat is Jakarta known for?",
+    "image": null,
+    "options": {
+      "A": "Farming",
+      "B": "Fishing",
+      "C": "Business and culture",
+      "D": "Sports",
+      "E": "Nature tourism"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "question": "Yesterday, I helped my mother in the kitchen. We cooked fried rice together. It was delicious, and we enjoyed eating it as a family.\nWhat did the writer do yesterday?",
+    "image": null,
+    "options": {
+      "A": "Cleaned the house",
+      "B": "Helped his mother cook",
+      "C": "Went to the market",
+      "D": "Made a cake",
+      "E": "Ate in a restaurant"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Yesterday, I helped my mother in the kitchen. We cooked fried rice together. It was delicious, and we enjoyed eating it as a family.\nWhat did they cook?",
+    "image": null,
+    "options": {
+      "A": "Noodles",
+      "B": "Soup",
+      "C": "Fried rice",
+      "D": "Bread",
+      "E": "Meatballs"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Rina: Hi, Dina. Do you want to go to the new café after school?\nDina: Sure! I’ve heard their coffee is really good.\nRina: Great! Let’s go together.\nWhat will the girls probably do?",
+    "image": null,
+    "options": {
+      "A": "Go to a bookstore",
+      "B": "Go home after school",
+      "C": "Visit the new café",
+      "D": "Study in the library",
+      "E": "Buy food in the canteen"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 132,
+    "question": "Tom: Can you help me carry these boxes?\nAndy: Of course, where should I put them?\nTom: Just in front of the classroom.\nWhat will Andy do?",
+    "image": null,
+    "options": {
+      "A": "Refuse to help Tom",
+      "B": "Carry the boxes",
+      "C": "Go home",
+      "D": "Sit in the classroom",
+      "E": "Wait for Tom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Lisa: What time does the movie start?\nSinta: At 7 p.m. We should leave now, or we’ll be late.\nLisa: Okay, let’s go!\nWhere are the speakers going?",
+    "image": null,
+    "options": {
+      "A": "To the library",
+      "B": "To the market",
+      "C": "To the cinema",
+      "D": "To school",
+      "E": "To the park"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 134,
+    "question": "Mother: Why are you so tired, dear?\nSon: I was practicing basketball after school.\nMother: Oh, you should take a rest now.\nWhat did the boy do?",
+    "image": null,
+    "options": {
+      "A": "He played football",
+      "B": "He practiced basketball",
+      "C": "He studied at school",
+      "D": "He went shopping",
+      "E": "He took a rest"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "question": "Teacher: Don’t forget to bring your English dictionary tomorrow.\nStudent: Yes, Ma’am. I’ll put it in my bag now.\nWhat will the student do tomorrow?",
+    "image": null,
+    "options": {
+      "A": "Forget the dictionary",
+      "B": "Read the dictionary",
+      "C": "Bring the dictionary",
+      "D": "Buy a dictionary",
+      "E": "Lend the dictionary"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 136,
+    "question": "Lina: I’m so hungry. Let’s grab something to eat.\nRico: Good idea! There’s a food court nearby.\nWhere will they probably go?",
+    "image": null,
+    "options": {
+      "A": "To a restaurant",
+      "B": "To the library",
+      "C": "To the cinema",
+      "D": "To the market",
+      "E": "To the park"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 137,
+    "question": "Andi: Do you know where my wallet is?\nTono: Isn’t it on your desk?\nAndi: Oh yes, you’re right! Thanks, Tono.\nWhat did Tono help Andi to do?",
+    "image": null,
+    "options": {
+      "A": "Find his wallet",
+      "B": "Buy a wallet",
+      "C": "Buy a wallet",
+      "D": "Clean his room",
+      "E": "Borrow some money"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 138,
+    "question": "Sarah: Would you like to join our study group this afternoon?\nBudi: I’d love to, but I already have a piano lesson.\nSarah: That’s okay, maybe next time.\nWhy can’t Budi join the study group?",
+    "image": null,
+    "options": {
+      "A": "He is sick",
+      "B": "He has to do homework",
+      "C": "He has a piano lesson",
+      "D": "He wants to sleep",
+      "E": "He has no interest"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 139,
+    "question": "Waiter: Good evening. Are you ready to order, Sir?\nCustomer: Yes, I’ll have the grilled chicken and a glass of juice, please.\nWaiter: Certainly.\nWhere does this conversation take place?",
+    "image": null,
+    "options": {
+      "A": "At a hotel",
+      "B": "At a restaurant",
+      "C": "At a bus station",
+      "D": "At a supermarket",
+      "E": "At a hospital"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 140,
+    "question": "Nina: What are your plans for the weekend?\nDoni: I’m going hiking with my cousins.\nNina: Wow, that sounds fun!\nWhat will Doni do on the weekend?",
+    "image": null,
+    "options": {
+      "A": "Go swimming",
+      "B": "Stay at home",
+      "C": "Go hiking",
+      "D": "Visit Nina",
+      "E": "Play football"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 141,
+    "question": "I’ve finished painting the house, but if Didi had not helped me, I......it so quickly.",
+    "image": null,
+    "options": {
+      "A": "can never do",
+      "B": "could never have done",
+      "C": "could never do",
+      "D": "can never have done",
+      "E": "have never done"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "question": "The wounded soldiers ..... we have asked some help are now taken to the hospital.",
+    "image": null,
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "from whom",
+      "D": "whose",
+      "E": "of which"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "question": "I was sorry, I didn’t come to your birthday party.We can also say: ...",
+    "image": null,
+    "options": {
+      "A": "I wish I could come to your birthday party",
+      "B": "I wished I could come to your birthday party",
+      "C": "I wish I could have come to your birthday party",
+      "D": "I wished I could have come to your birthday party",
+      "E": "I wished I couldn’t have come to your birthday party"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "question": "As I see him again, I feel happy.We can also say: ..., I feel happy.",
+    "image": null,
+    "options": {
+      "A": "Seeing him again",
+      "B": "To see him again",
+      "C": "Having seen him again",
+      "D": "In seeing him again",
+      "E": "By seeing him again"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 145,
+    "question": "All the students had just left the classroom when the mathematics teacher came in.From this sentence we may conclude that...",
+    "image": null,
+    "options": {
+      "A": "The mathematics class started late that day",
+      "B": "There was no mathematics class that day",
+      "C": "The teacher cancelled the mathematics class",
+      "D": "The teacher asked the students to leave the class",
+      "E": "The students came late for the mathematics class"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "question": "The results of the test were ..... not only the teacher but also the students.",
+    "image": null,
+    "options": {
+      "A": "disappoint",
+      "B": "being disappointed",
+      "C": "disappointed",
+      "D": "to be disappointed",
+      "E": "disappointing"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 147,
+    "question": "When we got home, we found her _______ in her room.",
+    "image": null,
+    "options": {
+      "A": "sleep",
+      "B": "sleeps",
+      "C": "to sleep",
+      "D": "slept",
+      "E": "sleeping"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following statements is correct?\"..............................................\"\"Yes; sometimes I do.\"",
+    "image": null,
+    "options": {
+      "A": "Do you see ever my uncle?",
+      "B": "Do you ever see my uncle?",
+      "C": "Ever do you see my uncle?",
+      "D": "Do ever see you my uncle?",
+      "E": "Do see ever you my uncle?"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "question": "I’m planning to go to a party tonight, but it's raining very hard now. I wish ...",
+    "image": null,
+    "options": {
+      "A": "it stops",
+      "B": "it will stop",
+      "C": "it would stop",
+      "D": "it has stopped",
+      "E": "it had stopped"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "question": "....... a new language can be very interesting.",
+    "image": null,
+    "options": {
+      "A": "Learn",
+      "B": "Learned",
+      "C": "Learning",
+      "D": "To learning",
+      "E": "In learning"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 151,
+    "question": "Dika : Can I borrow your laptop?Ditya : Certainly, but what's wrong with yours?Dika : It ................. now.",
+    "image": null,
+    "options": {
+      "A": "is being repaired",
+      "B": "repaired",
+      "C": "is repairing",
+      "D": "has repaired",
+      "E": "is going to repair"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 152,
+    "question": "Policeman : Your truck causes too much pollution.Driver: Oh, ............, Officer.Policeman : Please consult a mechanic about it.Driver: Yes, I will.",
+    "image": null,
+    "options": {
+      "A": "Why not",
+      "B": "I'm sorry",
+      "C": "How come",
+      "D": "Congratulations",
+      "E": "Don't mention it"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 153,
+    "question": "Ali : I'm afraid my parents’ rice fields were damaged by the flood.Mr. Harun: Oh, I'm sorry to hear that.The underlined words express ............",
+    "image": null,
+    "options": {
+      "A": "regret",
+      "B": "refusal",
+      "C": "complaint",
+      "D": "sympathy",
+      "E": "condolence"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 154,
+    "question": "Sue : I know you got a bad mark for the English test. What’s wrong with you?Chris: If I ........... there was a test, I would have prepared for it well.",
+    "image": null,
+    "options": {
+      "A": "know",
+      "B": "knew",
+      "C": "had known",
+      "D": "have known",
+      "E": "would know"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Andy : What seems to be the trouble? .......................?Indy : Of course. I need your help. The file cannot be printed out.",
+    "image": null,
+    "options": {
+      "A": "Can I help you",
+      "B": "What is your trouble",
+      "C": "Why don’t you ask me",
+      "D": "Could you do me a favour",
+      "E": "Would you mind helping me"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 156,
+    "question": "A : Do you know the result of the test?B : Not yet. The announcement .......... twice.",
+    "image": null,
+    "options": {
+      "A": "was postponed",
+      "B": "was being postponed",
+      "C": "will be postponed",
+      "D": "has to be postponed",
+      "E": "has been postponed"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 157,
+    "question": "Ramli : Why do you plan to resign from your job?Ratna : Well, if the company ... me more I would not quit my job.",
+    "image": null,
+    "options": {
+      "A": "has paid",
+      "B": "paid",
+      "C": "is paying",
+      "D": "will pay",
+      "E": "will have paid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Sinta : Will you come with me to the cinema tonight?Nia : ...............................................Sinta : All right, I'll fetch you at five o'clock.",
+    "image": null,
+    "options": {
+      "A": "I'd be unhappy to accept it.",
+      "B": "Yes, that would be very nice.",
+      "C": "Thank you. Thanks anyway, but some other time, perhaps.",
+      "D": "I'd like to very much, but I am afraid I am busy.",
+      "E": "That's very kind of you, but I have much work to do."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 159,
+    "question": "Mother : What's wrong with you, Rina? You look pale and weak.Rina : I don't feel well. I couldn't sleep last night.Mother : You must not go to school; you'd better stay at home. We'll see the doctor this afternoon.Mother expresses .....................",
+    "image": null,
+    "options": {
+      "A": "conclusion",
+      "B": "disagreement",
+      "C": "prohibition",
+      "D": "dissatisfaction",
+      "E": "request"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 160,
+    "question": "Vina : When did you get the letter?Fani : Yesterday. My family ................ when the postman arrived.",
+    "image": null,
+    "options": {
+      "A": "have lunch",
+      "B": "will have lunch",
+      "C": "were having lunch",
+      "D": "will have had lunch",
+      "E": "have been having lunch"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 161,
+    "question": "I am very thirsty, because I ....... from my house.",
+    "image": null,
+    "options": {
+      "A": "have run",
+      "B": "was running",
+      "C": "am running",
+      "D": "am going to run",
+      "E": "run"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 162,
+    "question": "Please, never tell anybody ......",
+    "image": null,
+    "options": {
+      "A": "will you?",
+      "B": "will everybody?",
+      "C": "does he?",
+      "D": "do you?",
+      "E": "shall we?"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "question": "Change this sentence to negative. Frank knows that word.",
+    "image": null,
+    "options": {
+      "A": "Isn’t he?",
+      "B": "Frank did not know the word",
+      "C": "Frank isn’t know the word",
+      "D": "Frank doesn’t know the word",
+      "E": "Frank hasn’t known the word"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 164,
+    "question": "Everybody works hard every day, ....",
+    "image": null,
+    "options": {
+      "A": "isn’t he?",
+      "B": "doesn’t it?",
+      "C": "don’t they?",
+      "D": "don’t you?",
+      "E": "doesn’t they?"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "question": "What would you like to drink?I’ll have ....., please.",
+    "image": null,
+    "options": {
+      "A": "a coffee cup",
+      "B": "small coffee",
+      "C": "little coffee",
+      "D": "a cup of coffee",
+      "E": "a few coffee"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 166,
+    "question": "Change this sentence to negative. Polices are investigating the case now.",
+    "image": null,
+    "options": {
+      "A": "The police not investigating the case now",
+      "B": "The police doesn’t investigating the case now",
+      "C": "The police aren’t investigating the case now",
+      "D": "The police don’t investigating the case now",
+      "E": "The police were not investigating the case now"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 167,
+    "question": "Change this sentence to negative. She was convicted of the theft.",
+    "image": null,
+    "options": {
+      "A": "She not convicted of the theft",
+      "B": "She was not convicted of the theft",
+      "C": "She is not convicted of the theft",
+      "D": "She not was convicted of the theft",
+      "E": "She does not convicted of the theft"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Change this sentence to negative. Mr. Haris taught this same English last night.",
+    "image": null,
+    "options": {
+      "A": "Mr. Haris doesn’t taught this same English last night",
+      "B": "Mr. Haris didn’t teach this same English last night",
+      "C": "Mr. Haris don’t teach this same English last night",
+      "D": "Mr. Haris did’t taught this same English last night",
+      "E": "Mr. Haris not teach this same English last night"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 169,
+    "question": "These shoes look good. I would like to try ...... on.",
+    "image": null,
+    "options": {
+      "A": "it",
+      "B": "this",
+      "C": "it is",
+      "D": "them",
+      "E": "those"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 170,
+    "question": "Small mountaineers lost their way in the forest.....?",
+    "image": null,
+    "options": {
+      "A": "lost they",
+      "B": "did they",
+      "C": "don’t they",
+      "D": "didn’t they",
+      "E": "aren’t they"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 171,
+    "question": "I haven’t heard from Dian ......",
+    "image": null,
+    "options": {
+      "A": "since many months before",
+      "B": "for many months",
+      "C": "for many months ago",
+      "D": "since along time",
+      "E": "a year ago"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Mita ..... us to wait.",
+    "image": null,
+    "options": {
+      "A": "advises",
+      "B": "advice",
+      "C": "advise",
+      "D": "advising",
+      "E": "to advise"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "question": "The police caught Mr. Jack whose son robbed the bank.Who robbed the bank?",
+    "image": null,
+    "options": {
+      "A": "The police’s son did",
+      "B": "Mr. Jack",
+      "C": "The police did",
+      "D": "The son of Mr. Jack did",
+      "E": "The man did"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 174,
+    "question": "Ani : “What were you doing when the teacher came in?”Ina : “.......”",
+    "image": null,
+    "options": {
+      "A": "I was sweeping the floor",
+      "B": "She was painting the window",
+      "C": "She was ringing the bell",
+      "D": "You were reading the book",
+      "E": "They were watching TV"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "I ....... your apology.",
+    "image": null,
+    "options": {
+      "A": "accept",
+      "B": "expect",
+      "C": "accepting",
+      "D": "excepting",
+      "E": "accepts"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 176,
+    "question": "When Andri came to my house .... lunch.",
+    "image": null,
+    "options": {
+      "A": "I was having",
+      "B": "I will have",
+      "C": "I am having",
+      "D": "I were having",
+      "E": "I have"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 177,
+    "question": "Everyone will go .... Jean.",
+    "image": null,
+    "options": {
+      "A": "excepting",
+      "B": "expect",
+      "C": "except",
+      "D": "accepting",
+      "E": "accept"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 178,
+    "question": "The fire ...... faulty wiring.",
+    "image": null,
+    "options": {
+      "A": "result",
+      "B": "resulted in",
+      "C": "resulted from",
+      "D": "resulted on",
+      "E": "resulted"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 179,
+    "question": "My mother ...... this electric iron for five years.",
+    "image": null,
+    "options": {
+      "A": "have used",
+      "B": "was using",
+      "C": "is going to use",
+      "D": "has been using",
+      "E": "use"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 180,
+    "question": "Where is the stove now that you bought yesterday?The color didn’t match, so I ....... it to the store",
+    "image": null,
+    "options": {
+      "A": "return",
+      "B": "had returned",
+      "C": "returned",
+      "D": "did returned",
+      "E": "returns"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 181,
+    "question": "....... have you finished this work?",
+    "image": null,
+    "options": {
+      "A": "How much",
+      "B": "How far",
+      "C": "How long",
+      "D": "How many",
+      "E": "How well"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Ririn is a student and Lia is too ..... are SMA students.",
+    "image": null,
+    "options": {
+      "A": "We",
+      "B": "They",
+      "C": "You",
+      "D": "You and I",
+      "E": "She"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 183,
+    "question": "The investigator ...... the document before asking the suspect some questions.",
+    "image": null,
+    "options": {
+      "A": "launched out",
+      "B": "nosed around",
+      "C": "looked into",
+      "D": "looked around",
+      "E": "looked at"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 184,
+    "question": ".................? Because it rained.",
+    "image": null,
+    "options": {
+      "A": "How did he came here",
+      "B": "When did he come",
+      "C": "Who come here",
+      "D": "Why didn’t he come",
+      "E": "Where did he come from"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 185,
+    "question": "I ...... to the mall last week.",
+    "image": null,
+    "options": {
+      "A": "went",
+      "B": "go",
+      "C": "gone",
+      "D": "goes",
+      "E": "have gone"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Lisa: Do you mind turning on the fan for me?\nMita: .......................",
+    "image": null,
+    "options": {
+      "A": "no, thank you",
+      "B": "yes, I do",
+      "C": "I’d love to",
+      "D": "not at all",
+      "E": "yes, please"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 187,
+    "question": "Dicky: May I come to your house at 7 tonight?Anne: ........... I will be going somewhere with my friend at that time.",
+    "image": null,
+    "options": {
+      "A": "yes, that’s all right",
+      "B": "yes, indeed",
+      "C": "I’m afraid not",
+      "D": "not at all",
+      "E": "why not"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 188,
+    "question": "She likes swimming, but she likes cycling more.We can also say:",
+    "image": null,
+    "options": {
+      "A": "She prefers to cycling.",
+      "B": "She would rather to cycle.",
+      "C": "She likes cycling better than swimming.",
+      "D": "She likes cycling to swimming.",
+      "E": "She would prefer to cycling better than swimming."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 189,
+    "question": "Oy: I forgot to bring my dictionary...............?Ani: Sure, here it is.",
+    "image": null,
+    "options": {
+      "A": "Could you lend me yours, please",
+      "B": "This dictionary is yours, isn’t it",
+      "C": "Is your dictionary new",
+      "D": "Could I lend you",
+      "E": "How about you"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 190,
+    "question": "Diana: Hi George. Long time no see. How are you?George: .....................",
+    "image": null,
+    "options": {
+      "A": "I gotta go now",
+      "B": "I’m in a hurry. See you.",
+      "C": "I’m very well. And you?",
+      "D": "It’s nice to see you",
+      "E": "I’m glad to hear that."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 191,
+    "question": "Before going to the airport, .... sure you have your ID with you.",
+    "image": null,
+    "options": {
+      "A": "Tell",
+      "B": "Report",
+      "C": "Make",
+      "D": "Go",
+      "E": "Have"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 192,
+    "question": "The police officer was only ... his duty when he questioned you about the robbery.",
+    "image": null,
+    "options": {
+      "A": "Giving",
+      "B": "Doing",
+      "C": "Taking",
+      "D": "Making",
+      "E": "Instructing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "question": "I’d like to .... an inquiry regarding room availability for the 22nd of October.",
+    "image": null,
+    "options": {
+      "A": "Do",
+      "B": "Did",
+      "C": "Doing",
+      "D": "Make",
+      "E": "Made"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 194,
+    "question": "I didn’t know how you convince your children to clean up their rooms. I couldn’t ... my children to clean up their rooms if my life depended on it.",
+    "image": null,
+    "options": {
+      "A": "Make",
+      "B": "Let",
+      "C": "Get",
+      "D": "Asked",
+      "E": "Tell"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "question": "The protractor did not ... the test takers use a dictionary while they were taking the test.",
+    "image": null,
+    "options": {
+      "A": "Made",
+      "B": "Let",
+      "C": "Get",
+      "D": "Asked",
+      "E": "Tell"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 196,
+    "question": "Marcus ... me drive his new BMW. I couldn’t believe how quickly it picked up speed.",
+    "image": null,
+    "options": {
+      "A": "Got",
+      "B": "Let",
+      "C": "Had",
+      "D": "Cause",
+      "E": "Asked"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 197,
+    "question": "I can’t believe the keeper ... you the snake. That was so cool.",
+    "image": null,
+    "options": {
+      "A": "Let",
+      "B": "Get",
+      "C": "Do",
+      "D": "Take",
+      "E": "Ask"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 198,
+    "question": "She ... in Bandung two years ago. Didn’t she?",
+    "image": null,
+    "options": {
+      "A": "Lives",
+      "B": "Lived",
+      "C": "Live",
+      "D": "Living",
+      "E": "To live"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 199,
+    "question": "We have read that book ....",
+    "image": null,
+    "options": {
+      "A": "Yesterday",
+      "B": "Everyday",
+      "C": "Several times",
+      "D": "Now",
+      "E": "Then"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 200,
+    "question": "SARS ... a dangerous disease, isn’t it?",
+    "image": null,
+    "options": {
+      "A": "Be",
+      "B": "Was",
+      "C": "Were",
+      "D": "Are",
+      "E": "Is"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 201,
+    "question": "Of – the – vaccinated – the doctor – by – most – has – year – the children – 2005.",
+    "image": null,
+    "options": {
+      "A": "The children vaccinated most of the doctor by the year of 2005",
+      "B": "The doctor has vaccinated most of the children by the year of 2005",
+      "C": "The year of 2005 the children vaccinated the doctor",
+      "D": "Most of the year the doctor vaccinated 2005 children",
+      "E": "2005 children vaccinated by the year"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 202,
+    "question": "Birds are interesting flying animals. They are\nvertebrates abd warm blocded animals. They\nbelong to aves class and they can be foundall\nover the word.\nBird breath with their airpocked. Biside breath\nwith their air pocked. Beside as resrination\norgan, air pocked also can enlarge by reduaing\ntheir weight when flying or simming there are\nmany kinds of birds. Earth bird has special\ncharacteristic. They have different\nmorphology according to their food and their\nhabitat. Some of them eat seeds fish or meat.\nThere are some species that lie in land and the\nothers live in water. Land birds live on their\nnest. Female birds have specific tasks. They lay eggs\nand feed their baby. Beside that they look\nfoods for their baby.\nThe main idea of paragraph one is ....",
+    "image": null,
+    "options": {
+      "A": "Birds can be found all over the world",
+      "B": "Birds fly very high",
+      "C": "They don’t belong to vertebrates and warm-blooded animals",
+      "D": "Birds are interesting flying animals belonging to aves class",
+      "E": "They are cold-blooded animals"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 203,
+    "question": "Birds are interesting flying animals. They are\nvertebrates abd warm blocded animals. They\nbelong to aves class and they can be foundall\nover the word.\nBird breath with their airpocked. Biside breath\nwith their air pocked. Beside as resrination\norgan, air pocked also can enlarge by reduaing\ntheir weight when flying or simming there are\nmany kinds of birds. Earth bird has special\ncharacteristic. They have different\nmorphology according to their food and their\nhabitat. Some of them eat seeds fish or meat.\nThere are some species that lie in land and the\nothers live in water. Land birds live on their\nnest. Female birds have specific tasks. They lay eggs\nand feed their baby. Beside that they look\nfoods for their baby.\nOne of the options is not correct, that is ....",
+    "image": null,
+    "options": {
+      "A": "Birds are vertebrates and warm-blooded animals",
+      "B": "Female birds lay eggs and feed their baby, as well as look for foods for their baby",
+      "C": "They breathe with their air pocket that can enlarge reduce their weight when flying or swimming",
+      "D": "The air pocket has only function, that is, as respiration organ",
+      "E": "Earth birds have special characteristics. They have different morphology according to their food and their habitat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 204,
+    "question": "Birds are interesting flying animals. They are\nvertebrates abd warm blocded animals. They\nbelong to aves class and they can be foundall\nover the word.\nBird breath with their airpocked. Biside breath\nwith their air pocked. Beside as resrination\norgan, air pocked also can enlarge by reduaing\ntheir weight when flying or simming there are\nmany kinds of birds. Earth bird has special\ncharacteristic. They have different\nmorphology according to their food and their\nhabitat. Some of them eat seeds fish or meat.\nThere are some species that lie in land and the\nothers live in water. Land birds live on their\nnest. Female birds have specific tasks. They lay eggs\nand feed their baby. Beside that they look\nfoods for their baby.\nParagraph three tells us about ....",
+    "image": null,
+    "options": {
+      "A": "The class of the birds",
+      "B": "The kinds of birds",
+      "C": "The place where the birds live",
+      "D": "The things that the birds eat",
+      "E": "The way the birds breathe"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 205,
+    "question": "Birds are interesting flying animals. They are\nvertebrates abd warm blocded animals. They\nbelong to aves class and they can be foundall\nover the word.\nBird breath with their airpocked. Biside breath\nwith their air pocked. Beside as resrination\norgan, air pocked also can enlarge by reduaing\ntheir weight when flying or simming there are\nmany kinds of birds. Earth bird has special\ncharacteristic. They have different\nmorphology according to their food and their\nhabitat. Some of them eat seeds fish or meat.\nThere are some species that lie in land and the\nothers live in water. Land birds live on their\nnest. Female birds have specific tasks. They lay eggs\nand feed their baby. Beside that they look\nfoods for their baby.\nThe task of female birds are, except ....",
+    "image": null,
+    "options": {
+      "A": "They lay eggs",
+      "B": "They give food to their baby",
+      "C": "They care for the young ones",
+      "D": "They look foods for their baby",
+      "E": "They teach the baby birds to fly"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 206,
+    "question": "Birds are interesting flying animals. They are\nvertebrates abd warm blocded animals. They\nbelong to aves class and they can be foundall\nover the word.\nBird breath with their airpocked. Biside breath\nwith their air pocked. Beside as resrination\norgan, air pocked also can enlarge by reduaing\ntheir weight when flying or simming there are\nmany kinds of birds. Earth bird has special\ncharacteristic. They have different\nmorphology according to their food and their\nhabitat. Some of them eat seeds fish or meat.\nThere are some species that lie in land and the\nothers live in water. Land birds live on their\nnest. Female birds have specific tasks. They lay eggs\nand feed their baby. Beside that they look\nfoods for their baby.\nThe similar meaning of the word “breath” is ...",
+    "image": null,
+    "options": {
+      "A": "Inhale and send out the air from the lung",
+      "B": "Exhale",
+      "C": "Draw out the air",
+      "D": "Drive out",
+      "E": "Take in"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 207,
+    "question": "If Helen and Dodo prepare the ribbons, Teddy ... the house.",
+    "image": null,
+    "options": {
+      "A": "Would",
+      "B": "Decorate",
+      "C": "Will decorate",
+      "D": "Decorated",
+      "E": "Should decorate"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Mary: That was a lovely dramaTony: Yes. It was lovelyMary: Would you like to join us for coffee?Tony: I’m sorry, but our children are waiting for us\nThe dialogue expresses ...",
+    "image": null,
+    "options": {
+      "A": "Asking for information",
+      "B": "Giving information",
+      "C": "Refusing invitation",
+      "D": "Accepting",
+      "E": "Greeting"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "question": "The Indoensian National Police (Indonesian: kepolisian Negara Republik Indoensia) is the official police force for Indonesia. It had formely been a part of the Tentara Nasional Indonesia. The police were formally separated from the military in April 1999, a proces which was formally completed in July 2000. With 150,000 personnel, the police form a much smaller portion of the population that in most nations The total number of national and local police in 2006 was approximately 470,000.\nThe Indonesian National Police were formerly a part of the Tentara Nasional Indonesia. They were formally separated from the military ...",
+    "image": null,
+    "options": {
+      "A": "1999",
+      "B": "2000",
+      "C": "2006",
+      "D": "2007",
+      "E": "2013"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 210,
+    "question": "The Indoensian National Police (Indonesian: kepolisian Negara Republik Indoensia) is the official police force for Indonesia. It had formely been a part of the Tentara Nasional Indonesia. The police were formally separated from the military in April 1999, a proces which was formally completed in July 2000. With 150,000 personnel, the police form a much smaller portion of the population that in most nations The total number of national and local police in 2006 was approximately 470,000.\nThe total number of national and local police in 2006 was approximately",
+    "image": null,
+    "options": {
+      "A": "2000",
+      "B": "1999",
+      "C": "4700",
+      "D": "150,000",
+      "E": "470,000"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 211,
+    "question": "Marzuki Alie, speaker of the House of Representatives, .... Not sure when the increase would go into force, but called the government to implement it after May 1",
+    "image": null,
+    "options": {
+      "A": "Is",
+      "B": "Are",
+      "C": "Was",
+      "D": "Were",
+      "E": "Be"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 212,
+    "question": "A: ‘ ... Claire ... a green suit?’B: ‘Yes, she is. She’s standing over there.’",
+    "image": null,
+    "options": {
+      "A": "Do ... wear",
+      "B": "Does ... wear",
+      "C": "Are ... wearing",
+      "D": "Is ... wearing",
+      "E": "Did ... wear"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 213,
+    "question": "A: ‘Where are you and your family from?’B: ‘ ............ ‘",
+    "image": null,
+    "options": {
+      "A": "I’m from Thailand",
+      "B": "Yes, they are",
+      "C": "We’re from Mexico",
+      "D": "It’s not. It’s Spanish",
+      "E": "Yes, we are"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 214,
+    "question": "Oja: I have to take part in the debate competition, but I don’t have time to practice. I think I am going to resign.Mother: ..... it’s a good chance for you.",
+    "image": null,
+    "options": {
+      "A": "You shouldn’t do it",
+      "B": "You should do that",
+      "C": "You mustn’t that",
+      "D": "I must do that",
+      "E": "You are right"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "question": "Waiter: Are you ready to order now, Miss?Reisha: Yes, .... Fried rice, and a glass of sour soup juice",
+    "image": null,
+    "options": {
+      "A": "I need",
+      "B": "I hope",
+      "C": "I would like",
+      "D": "I want you",
+      "E": "I want to give"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 216,
+    "question": "Lina: He is responsible but cannot get along with colleagues.Indra: You know …",
+    "image": null,
+    "options": {
+      "A": "Don’t judge the book by its cover",
+      "B": "The ball is in your court",
+      "C": "Life is hard and tough",
+      "D": "Nobody is perfect",
+      "E": "Silence is golden"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 217,
+    "question": "Adi: .... to give this to her?",
+    "image": null,
+    "options": {
+      "A": "Can I help you",
+      "B": "May I help you",
+      "C": "Would you send the letter",
+      "D": "Would you do me a favour",
+      "E": "Would you come to my house"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 218,
+    "question": "Personal Manager: I’m looking for someone dependable. Will you be here every afternoon at five?",
+    "image": null,
+    "options": {
+      "A": "That’s no problem",
+      "B": "I disagree",
+      "C": "Thank you",
+      "D": "I hate it",
+      "E": "Thanks"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 219,
+    "question": "Yanti: Slow down, here is a pedestrian crossing ahead.Yanto: Yes, I know",
+    "image": null,
+    "options": {
+      "A": "Restricted area",
+      "B": "No through road",
+      "C": "No entry for motorcycles",
+      "D": "The road is slippery when wet",
+      "E": "There is a speed limit along this road, too"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 220,
+    "question": "Bibi: What do you think is your weakness?Afin: .....",
+    "image": null,
+    "options": {
+      "A": "I have a hard time learning English",
+      "B": "I’m very proficient in English",
+      "C": "I’m excellent in English",
+      "D": "I’m good at English",
+      "E": "I can speak English"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Sara: Have you taken your lunch?Nina: Yes, I have. I have it at school",
+    "image": null,
+    "options": {
+      "A": "I have to go without food for a few hours",
+      "B": "I don’t have my credit card with me",
+      "C": "There is no cafeteria at school",
+      "D": "There is cafeteria at school",
+      "E": "I run out of rice again"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 222,
+    "question": "Alya: You look pretty happy.Ninda: .... I feel like dancing",
+    "image": null,
+    "options": {
+      "A": "It’s irritating",
+      "B": "I always get nervous",
+      "C": "I’m really in a good mood",
+      "D": "I just feel a little depressed",
+      "E": "I’m just in a bad mood today"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 223,
+    "question": "I’m going to settle &#8212;&#8212;- English.",
+    "image": null,
+    "options": {
+      "A": "For learning",
+      "B": "Learning",
+      "C": "To learning",
+      "D": "Learning",
+      "E": "In learning"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 224,
+    "question": "The shop is the end of this street ........ the right.",
+    "image": null,
+    "options": {
+      "A": "At",
+      "B": "In",
+      "C": "On",
+      "D": "To",
+      "E": "Into"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 225,
+    "question": "I went to Paris three year .....",
+    "image": null,
+    "options": {
+      "A": "Last",
+      "B": "Ago",
+      "C": "Previous",
+      "D": "Past",
+      "E": "Time past"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 226,
+    "question": "Are there ..... apples in the kitchen?",
+    "image": null,
+    "options": {
+      "A": "Much",
+      "B": "Any",
+      "C": "Some",
+      "D": "Much",
+      "E": "Little"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 227,
+    "question": "I get up ..... seven o’clock every day.",
+    "image": null,
+    "options": {
+      "A": "In",
+      "B": "On",
+      "C": "To",
+      "D": "At",
+      "E": "From"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 228,
+    "question": "She reminded him to recommend her brother for the position.This statement implies …",
+    "image": null,
+    "options": {
+      "A": "He recommended that her brother apply for the job",
+      "B": "Her brother her was to be recommended for the job",
+      "C": "She told him that he should remember to recommend her brother for the job",
+      "D": "He recommended her for the position",
+      "E": "She recommended him for the position"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 229,
+    "question": "Benjamin Franklin strongly objected to the eagle being chosen as the national bird because of .... predatory nature.",
+    "image": null,
+    "options": {
+      "A": "Their",
+      "B": "Its",
+      "C": "Them",
+      "D": "It",
+      "E": "His"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 230,
+    "question": "The president, with his Secret Service staff and two White House aides, .... en route to NBC studios to tape a special press conference.",
+    "image": null,
+    "options": {
+      "A": "Their",
+      "B": "Its",
+      "C": "His",
+      "D": "Her",
+      "E": "Your"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 231,
+    "question": "The officials of the Board of Elections asked that each present ... registration card and a valid Texas’s license before receiving a ballot.",
+    "image": null,
+    "options": {
+      "A": "Their",
+      "B": "Its",
+      "C": "His",
+      "D": "Her",
+      "E": "Your"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 232,
+    "question": "“What’s this button for?”",
+    "image": null,
+    "options": {
+      "A": "Start",
+      "B": "Is to start",
+      "C": "Is start",
+      "D": "Is for to start",
+      "E": "Starting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 233,
+    "question": "X : “Why are you standing out here in the hall?”Y : “The nurse asked us if we wouldn’t please ... outside while the doctor gave Bill his examination.”",
+    "image": null,
+    "options": {
+      "A": "Waiting",
+      "B": "Waited",
+      "C": "Wait",
+      "D": "To wait",
+      "E": "Wait for"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 234,
+    "question": "Besides being expensive, the food in the cafeteria tastes ...",
+    "image": null,
+    "options": {
+      "A": "Badly",
+      "B": "Too much bad",
+      "C": "Bad",
+      "D": "Well"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 235,
+    "question": "If the cab arrives ..., you will miss your flight.",
+    "image": null,
+    "options": {
+      "A": "Lately",
+      "B": "More later",
+      "C": "Lateness",
+      "D": "Less",
+      "E": "Late"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 236,
+    "question": "All of the people at the AAMF conference are .... Teachers.",
+    "image": null,
+    "options": {
+      "A": "Mathematic",
+      "B": "Mathematics",
+      "C": "Mathematician",
+      "D": "Mathematic’s",
+      "E": "Mathematics’"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 237,
+    "question": "His shop was burned down, .... His car that was parked nearby.",
+    "image": null,
+    "options": {
+      "A": "And either did",
+      "B": "Also was",
+      "C": "But neither was",
+      "D": "So did",
+      "E": "And also was"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "question": "“What should the government do to create political stability?”",
+    "image": null,
+    "options": {
+      "A": "Law enforcement should work offectively",
+      "B": "The effective work of law enforcement",
+      "C": "Working to make law enforment effective",
+      "D": "Enforcing the law to work effectively",
+      "E": "To make law enforcement work offectively"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 239,
+    "question": "Being a senior veterinarian, he is often invited to make presentations.The underlined word has a similar meaning to someone who ...",
+    "image": null,
+    "options": {
+      "A": "Eats fruits and vegetables",
+      "B": "Is an expert in sick animal care",
+      "C": "Is specialized in plants",
+      "D": "Is retired from the army",
+      "E": "Trains animals for a show"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 240,
+    "question": "Choose the correct sentence that uses the verb \"to be\" in the present continuous tense: .....",
+    "image": null,
+    "options": {
+      "A": "He is going to the store.",
+      "B": "They are playing soccer.",
+      "C": "She goes to school every day.",
+      "D": "I will eat dinner later.",
+      "E": "He plays football every weekend."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "question": "What is the correct form of the verb to complete the sentence?\"She ... to the radio every morning.\"",
+    "image": null,
+    "options": {
+      "A": "Listens",
+      "B": "Is listening",
+      "C": "Listened",
+      "D": "Will listen",
+      "E": "Listening"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 242,
+    "question": "Which word is a synonym for \"happy\"?",
+    "image": null,
+    "options": {
+      "A": "Sad",
+      "B": "Angry",
+      "C": "Joyful",
+      "D": "Tired",
+      "E": "Worried"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 243,
+    "question": "While living in Bogor, we always sent to school on foot. This means that we … on foot while we were living in Bogor",
+    "image": null,
+    "options": {
+      "A": "Used to go to school",
+      "B": "Go to school",
+      "C": "Are going to school",
+      "D": "Are used to going to school",
+      "E": "Go on foot every day"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 244,
+    "question": "Anna: “Thank you for driving me home, Ben.”\nBen: “ …. “",
+    "image": null,
+    "options": {
+      "A": "Yes, please",
+      "B": "No, thanks",
+      "C": "You too",
+      "D": "Not at all",
+      "E": "That’s okay"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 245,
+    "question": "It’s impossible for us to translate the whole book within 2 weeks, so we …",
+    "image": null,
+    "options": {
+      "A": "Have some assistants help us",
+      "B": "Have to translate it all by ourselves",
+      "C": "Have translated the whole book",
+      "D": "Have been asked to translate it",
+      "E": "Are translating it right now"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Choose the correct preposition to complete the sentence:\n\"The book is ... the table.\"",
+    "image": null,
+    "options": {
+      "A": "On",
+      "B": "At",
+      "C": "In",
+      "D": "Under",
+      "E": "Beside"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 247,
+    "question": "The officer advised the victim ... the emergency hotline if they need immediate assistance.",
+    "image": null,
+    "options": {
+      "A": "To call",
+      "B": "Call",
+      "C": "Calling",
+      "D": "Called",
+      "E": "To calling"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 248,
+    "question": "\"Can you please ... your identification card?\" asked the police officer.",
+    "image": null,
+    "options": {
+      "A": "Show",
+      "B": "To show",
+      "C": "Showing",
+      "D": "Showed",
+      "E": "Shown"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 249,
+    "question": "I am still waiting ... for an interview.",
+    "image": null,
+    "options": {
+      "A": "To be called",
+      "B": "Be called",
+      "C": "Be calling",
+      "D": "To call",
+      "E": "Called"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 250,
+    "question": "The suspect was ... after being caught stealing from the store.",
+    "image": null,
+    "options": {
+      "A": "Arrested",
+      "B": "To arrest",
+      "C": "Arresting",
+      "D": "Arrest",
+      "E": "Been arrested"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 250,
     "question": "She ... to school every day by bus.",
     "options": {
       "A": "go",
@@ -11,7 +3247,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 2,
+    "id": 251,
     "question": "Choose the correct sentence from the following options:",
     "options": {
       "A": "The police is investigating the theft case at the store.",
@@ -22,7 +3258,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 3,
+    "id": 252,
     "question": "If I had known about the traffic jam, I ... taken a different route.",
     "options": {
       "A": "will have",
@@ -33,7 +3269,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 4,
+    "id": 253,
     "question": "What is the synonym of the word: BENEVOLENT",
     "options": {
       "A": "Greedy",
@@ -44,7 +3280,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 5,
+    "id": 254,
     "question": "The police officer asked the witness, 'Where ... when the accident happened?'",
     "options": {
       "A": "were you",

@@ -1,6 +1,2577 @@
 [
   {
     "id": 1,
+    "question": "Sebuah barang dijual dengan harga diskon 25%. Jika harga asli barang tersebut adalah Rp200.000, berapa harga setelah diskon?",
+    "image": null,
+    "options": {
+      "A": "Rp150.000",
+      "B": "Rp170.000",
+      "C": "Rp180.000",
+      "D": "Rp190.000",
+      "E": "Rp185.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Sebuah toko memberikan diskon 20% untuk sebuah pakaian. Jika harga pakaian tersebut setelah diskon adalah Rp120.000, berapa harga asli pakaian tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp130.000",
+      "B": "Rp150.000",
+      "C": "Rp160.000",
+      "D": "Rp140.000",
+      "E": "Rp157.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Sebuah barang dihargai Rp50.000. Setelah dikenakan pajak 10%, berapa harga barang tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp55.000",
+      "B": "Rp56.000",
+      "C": "Rp60.000",
+      "D": "Rp52.000",
+      "E": "Rp59.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Dalam sebuah ujian, jumlah siswa yang lulus adalah 80% dari 500 siswa. Berapa jumlah siswa yang lulus?",
+    "image": null,
+    "options": {
+      "A": "300",
+      "B": "350",
+      "C": "400",
+      "D": "450",
+      "E": "455"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Sebuah harga barang naik 15%. Jika harga barang tersebut sebelum kenaikan adalah Rp200.000, berapa harga barang tersebut setelah kenaikan?",
+    "image": null,
+    "options": {
+      "A": "Rp215.000",
+      "B": "Rp230.000",
+      "C": "Rp240.000",
+      "D": "Rp220.000",
+      "E": "Rp225.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Sebuah barang dipotong harga 30%. Jika harga setelah potongan adalah Rp140.000, berapa harga asli barang tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp160.000",
+      "B": "Rp180.000",
+      "C": "Rp200.000",
+      "D": "Rp210.000",
+      "E": "Rp190.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Jika harga sebuah tas naik 20% dan harga setelah kenaikan menjadi Rp1.200.000, berapa harga tas tersebut sebelum kenaikan?",
+    "image": null,
+    "options": {
+      "A": "Rp1.000.000",
+      "B": "Rp1.100.000",
+      "C": "Rp1.200.000",
+      "D": "Rp1.300.000",
+      "E": "Rp1.050.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Sebuah diskon 12% diberikan pada harga sebuah sepeda motor yang harganya Rp25.000.000. Berapa harga sepeda motor setelah diskon?",
+    "image": null,
+    "options": {
+      "A": "Rp22.000.000",
+      "B": "Rp22.500.000",
+      "C": "Rp21.000.000",
+      "D": "Rp21.500.000",
+      "E": "Rp21.300.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Dalam sebuah kelas, 30% dari 40 siswa mendapat nilai A. Berapa jumlah siswa yang mendapat nilai A?",
+    "image": null,
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16",
+      "E": "18"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Harga sebuah tiket konser naik 25% dan menjadi Rp375.000. Berapa harga tiket konser sebelum kenaikan?",
+    "image": null,
+    "options": {
+      "A": "Rp300.000",
+      "B": "Rp250.000",
+      "C": "Rp275.000",
+      "D": "Rp350.000",
+      "E": "Rp325.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Di suatu kandang terdapat 50 ekor ayam, 18 diantaranya jantan. Di antara ayam jantan tersebut, 7 ekor berwarna putih. Jika banyak ayam berwarna putih adalah 22 ekor, maka banyak ayam betina yang tidak berwarna putih adalah ... ekor",
+    "image": null,
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "17",
+      "E": "22"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 12,
+    "question": "Pembangunan sebuah gedung direncanakan akan selesai dalam waktu 22 hari oleh 24 orang pekerja. Setelah dikerjakan selama 10 hari, pekerjaan dihentikan 4 hari karena ada sesuatu hal. Jika kemampuan bekerja setiap orang sama dan agar pembangunan selesai sesuai tepat waktu, maka banyak pekerja tambahan yang dibutuhkan adalah ...",
+    "image": null,
+    "options": {
+      "A": "6 orang",
+      "B": "8 orang",
+      "C": "10 orang",
+      "D": "12 orang",
+      "E": "36 orang"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Sebuah kelas memiliki rata-rata nilai 5,2 dan median 6. Karena data yang diperoleh tidak memuaskan, seluruh data diubah dengan cara setiap data dikali 5 dan hasilnya dibagi 5. Nilai  rata-rata dan median setelah data diubah adalah ...",
+    "image": null,
+    "options": {
+      "A": "6; 5,2",
+      "B": "5,2; 6",
+      "C": "26; 30",
+      "D": "30; 26",
+      "E": "30; 6"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Enam orang anak akan naik mobil dengan kapasitas delapan tempat duduk, yakni dua di depan termasuk sopir, tiga di tengah, dan tiga di baris belakang. Jika dari enam orang tersebut hanya ada dua orang yang bisa mengemudi, maka banyaknya cara mengatur tempat duduk mereka adalah ...",
+    "image": null,
+    "options": {
+      "A": "840",
+      "B": "1.400",
+      "C": "1.540",
+      "D": "1.680",
+      "E": "1.960"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "question": "Seseorang ingin mengiklankan mobilnya melalui surat kabar dalam 3 baris. Pada hari pertama ia harus membayar  Rp30.000,00 per baris, untuk 3 hari berikutnya Rp20.000,00 per baris per hari dan hari-hari selanjutnya Rp15.000,00 per baris. Berapa ia bisa memasang iklan di surat kabar tersebut jika ia membayar Rp360.000,00?",
+    "image": null,
+    "options": {
+      "A": "6 hari",
+      "B": "7 hari",
+      "C": "8 hari",
+      "D": "9 hari",
+      "E": "10 hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Suatu Kelompok belajar yang terdiri dari 10 orang membentuk dua kelompok berbeda yang anggotanya masing-masing sama banyak. Rata-rata berat badan kelompok pertama 45,8 kg dan rata-rata kelompok dua 47,6 kg. Karena menginginkan rata-rata berat badan dari dua kelompok tersebut sama maka Ani pada kelompok pertama dan Anton pada kelompok kedua saling bertukar kelompok dan rata-rata berat badannya menjadi sama. Berapa selisih berat badan Ani dan Anton?",
+    "image": null,
+    "options": {
+      "A": "9 kg",
+      "B": "6,3 kg",
+      "C": "5,2 kg",
+      "D": "4,5 kg",
+      "E": "1,8 kg"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Pada sebuah kompetisi sepakbola, setiap tim bertanding melawan tim lain masing-masing satu kali. Jika kompetisi itu diikuti oleh 16 tim, maka banyak pertandingan yang mungkin terjadi adalah ...",
+    "image": null,
+    "options": {
+      "A": "160",
+      "B": "150",
+      "C": "120",
+      "D": "110",
+      "E": "115"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Pak Kumis mendapatkan upah  Rp3.450.000,00 setelah bekerja 15 hari dengan 6 hari lembur. Berapa upah yang didapat Pak Kumis jika ia bekerja 10 hari dengan 4 hari lembur?",
+    "image": null,
+    "options": {
+      "A": "Rp 1.150.000,00",
+      "B": "Rp 1.725.000,00",
+      "C": "Rp 2.300.000,00",
+      "D": "Rp 2.550.000,00",
+      "E": "Rp 2.750.000,00"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Panitia mengedarkan undangan pertemuan untuk 50 wanita dan 70 pria. Jika ternyata 40% dari undangan wanita dan 50% undangan pria hadir, maka presentase banyak kehadiran seluruhnya adalah ...",
+    "image": null,
+    "options": {
+      "A": "90",
+      "B": "86",
+      "C": "48",
+      "D": "46",
+      "E": "40"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 20,
+    "question": "Perbandingan jumlah kelereng Amat dengan Cemen adalah 7:5, sedangkan perbandingan jumlah kelereng Bagio dan Amat adalah 3:4. Jika selisih jumlah kelereng Amat dan Cemen adalah 16 buah maka banyaknya kelereng Bagio adalah...",
+    "image": null,
+    "options": {
+      "A": "56",
+      "B": "42",
+      "C": "40",
+      "D": "36",
+      "E": "28"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Jika suatu persegi panjang ukuran panjangnya ditambah 20% dan ukuran lebarnya dikurangi 20%, maka perubahan luas persegi panjang tersebut adalah ….",
+    "image": null,
+    "options": {
+      "A": "Bertambah 4%",
+      "B": "Berkurang 4%",
+      "C": "Tidak terjadi perubahan",
+      "D": "Bertambah 10%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Suatu kelompok belajar yang terdiri dari 10 orang membentuk 2 kelompok berbeda yang anggotanya masing-masing sama banyak. Rata-rata berat badan kelompok pertama 45,8 kg dan rata-rata kelompok kedua 47,6 kg. Karena menginginkan rata-rata berat badan dari dua kelompok tersebut sama maka Ani pada kelompok pertama dan Anton pada kelompok kedua saling bertukar kelompok dan rata-rata berat badannya menjadi sama. Berapa selisih berat badan Ani dan Anton ?",
+    "image": null,
+    "options": {
+      "A": "9 kg",
+      "B": "6,3 kg",
+      "C": "5,2 kg",
+      "D": "4,5 kg"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 23,
+    "question": "Dalam sebuah keluarga yang terdiri dari 6 orang anak, dua anaknya berumur x tahun dan 4 tahun. Jika rata-rata umur anak adalah 9 tahun dan umur empat anak lainnya adalah :\nX + 1, 1/2X + 2, 2x-3, dan 3/2X + 2,\nMaka berapa tahun umur anak tertua ?",
+    "image": null,
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "13",
+      "D": "12"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 24,
+    "question": "",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/R1-300x235.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Sebuah tempat air berbentuk tabung berdiameter 40 cm dengan tinggi tabung 150 cm, berisi air dengan tinggi 1 m. Ke dalam tabung dimasukkan 3 bola pada yang masing-masing berjari-jari 10 cm. Besarnya kenaikan tinggi air adalah ….",
+    "image": null,
+    "options": {
+      "A": "10 cm",
+      "B": "11 cm",
+      "C": "12 cm",
+      "D": "13 cm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Sebuah mobil dengan kapasitas tanki penuh bensin dilakukan untuk melakukan perjalanan dari kota P ke kota Q dengan kecepatan rata-rata 52 km/jam membutuhkan waktu perjalanan 3,5 jam (dengan bensin tersisa pada tanki sebanyak 2/3 bagian). Jika bensin pada tanki diisi ½ bagian, kemudia digunakan untuk melakukan perjalanan dari kota P ke Q dengan kecepatan yang sama, berapa waktu yang dibutuhkan untuk sampai tujuan ?",
+    "image": null,
+    "options": {
+      "A": "3,5 jam",
+      "B": "3 jam",
+      "C": "2 jam",
+      "D": "2,5 jam"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Seseorang ingin mengiklankan mobilnya melalui surat kabar dalam 3 bari. Pada hari pertama ia harus membayar Rp.30.000,00 per baris, untuk 3 hari berikutnya Rp.20.000,00 per baris per hari dan hari-hari selanjutnya Rp.15.000,00 per baris. Berapa hari ia bisa memasang iklan di surat kabar tersebut jika ia membayar Rp.360.000,00 ?",
+    "image": null,
+    "options": {
+      "A": "6 hari",
+      "B": "7 hari",
+      "C": "8 hari",
+      "D": "9 hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Jumlah lima bilangan yang membentuk barisan aritmatika adalah 75. Jika hasil kali bilangan terkecil dan terbesar adalah 161, maka selisih dari bilangan terbesar dan terkecilnya adalah …",
+    "image": null,
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "15"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Sebuah kelas memiliki 12 siswa. Rata-rata tinggi 5 siswa pertama adalah 150 cm, sedangkan rata-rata tinggi 7 siswa lainnya adalah 160 cm. Jika seluruh siswa digabungkan, berapakah rata-rata tinggi seluruh siswa ...",
+    "image": null,
+    "options": {
+      "A": "155 cm",
+      "B": "156 cm",
+      "C": "157 cm",
+      "D": "158 cm",
+      "E": "159 cm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Sebuah kelas memiliki rata-rata nilai 5,2 dan median 6. Karena data yang diperoleh tidak memuaskan, seluruh data diubah dengan cara setiap data dikali 5 dan hasilnya dibagi 5. Nilai rata-rata dan median setelah data diubah adalah ….",
+    "image": null,
+    "options": {
+      "A": "6; 5,2",
+      "B": "5,2; 6",
+      "C": "26; 30",
+      "D": "30; 26"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Pembangun sebuah gedung direncanakan akan selesai pada waktu 22 hari oleh 24 orang pekerja. Setelah dikerjakan selama 10 hari, pekerjaan dihentikan 40 hari karena ada sesuatu hal. Jika kemampuan bekerja setiap orang sama dan agar pembangunan selesai sesuai tepat waktu, maka banyak pekerja tambahan yang dibutuhkan adalah …",
+    "image": null,
+    "options": {
+      "A": "6 orang",
+      "B": "8 orang",
+      "C": "10 orang",
+      "D": "12 orang"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 32,
+    "question": "Jumlah 101 bilangan kelipatan tiga yang berurutan adalah 18.180, maka jumlah tiga bilangan terkecil yang pertama dari bilangan-bilangan tersebut adalah …",
+    "image": null,
+    "options": {
+      "A": "99",
+      "B": "98",
+      "C": "97",
+      "D": "96"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Perbandingan jumlah kelereng Amat dengan Cemen adalah 7 : 5, sedangkan perbandingan jumlah kelereng Bagio dan Amat adalah 3 : 4. Jika selisih jumlah kelereng Amat dan Cemen adalah 16 buah maka banyaknya kelereng Bagio adalah ….",
+    "image": null,
+    "options": {
+      "A": "42",
+      "B": "41",
+      "C": "40",
+      "D": "39"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Di suatu kandang terdapat 50 ekor ayam, 18 diantaranya jantan. Di antara ayam jantan tersebut, 7 ekor berwarna putih. Jika banyak ayam berwarna putih adalah 22 ekor, maka banyaknya ayam betina yang tidak berwarna putih adalah ….. ekor.",
+    "image": null,
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "17"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 35,
+    "question": "Seorang satpam bank ingin mencetak\nnomor antrian nasabah yang terdiri dari\ntiga angka. Jika nomor antrian tersebut\ntidak memuat angka yang sama yang\ndibentuk dari angka 0, 1, 2, 3. Banyak\npilihan nomor antrian yang dapat dibuat\nadalah ....",
+    "image": null,
+    "options": {
+      "A": "4 Cara",
+      "B": "12 Cara",
+      "C": "24 Cara",
+      "D": "36 Cara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Setiap tahun, SMA Pelita Bangsa selalu\nmengadakan pentas seni. Sebelum acara\nakbar, para siswa mengadakan pemilihan\nketua, sekretaris dan bendahara. Setelah\nmelakukan seleksi, ada 5 orang siswa yang\nmendaftarkan diri. Banyak cara untuk\nmemilih ketua, sekretaris, dan bendahara\nuntuk acara tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "720 Cara",
+      "B": "360 Cara",
+      "C": "120 Cara",
+      "D": "60 Cara"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "question": "Sebuah kantong berisi 6 kelereng putih,\n4 kelereng biru dan 3 kelereng merah.\nBanyak cara pengambilan 3 kelereng putih\ndari kantong tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "720 Cara",
+      "B": "360 Cara",
+      "C": "120 Cara",
+      "D": "20 Cara"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Seorang peternak akan membeli hewan\nternak untuk dipelihara. Dia akan membeli\n3 ekor sapi, 4 ekor domba, dan 5 ekor\nkambing. Seorang pedagang mempunyai\n6 ekor sapi, 6 ekor domba, dan 8 ekor\nkambing. Banyak cara yang dapat\ndilakukan untuk memilih hewan ternak\nyang akan dibeli adalah ....",
+    "image": null,
+    "options": {
+      "A": "16800 cara",
+      "B": "9000 cara",
+      "C": "300 car",
+      "D": "120 cara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Pada penyuluhan yang diadakan KUA untuk calon pasangan yang akan menikah dihadiri 8 pasang calon pengantin. Setelah acara selesai, mereka kemudian saling berjabat tangan, namun setiap pasang calon pengantin tidak berjabat tangan. Ada berapa banyak jabat tangan yang terjadi ?",
+    "image": null,
+    "options": {
+      "A": "136",
+      "B": "120",
+      "C": "112",
+      "D": "72"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Nilai permutasi dari kata-kata “JAYAPURA”\nadalah ...",
+    "image": null,
+    "options": {
+      "A": "6720",
+      "B": "1280",
+      "C": "4112",
+      "D": "1700"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 41,
+    "question": "24,9% dari 2.490 adalah .....",
+    "image": null,
+    "options": {
+      "A": "644,01",
+      "B": "640,01",
+      "C": "634,01",
+      "D": "624,01",
+      "E": "620,01"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Didalam kandang terdapat kambing dan ayam sebanyak 13 ekor. Jika jumlah kaki hewan tersebut 32 ekor, maka jumlah kambing dan ayam masing-masing adalah .....",
+    "image": null,
+    "options": {
+      "A": "3 dan 10",
+      "B": "4 dan 9",
+      "C": "5 dan 8",
+      "D": "10 dan 3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 46,
+    "question": "Daerah penyelesaian yang memenuhi sistem pertidaksamaan x ≥ 2 ; y ≤ 8, x – y ≤ 2 berbentuk ...",
+    "image": null,
+    "options": {
+      "A": "Segitiga lancip",
+      "B": "Segitiga sama sisi",
+      "C": "Segitiga sebarang",
+      "D": "Segitiga tumpul sama kaki",
+      "E": "Segitiga siku-siku sama kaki"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 51,
+    "question": "Harga sebuah laptop naik 20%, lalu turun 20%. Jika harga awal laptop Rp5.000.000, berapa harga akhirnya?",
+    "image": null,
+    "options": {
+      "A": "Rp5.000.000",
+      "B": "Rp4.800.000",
+      "C": "Rp4.900.000",
+      "D": "Rp5.200.000",
+      "E": "Rp4.950.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "question": "Nilai suatu barang turun 30%, lalu naik 30%. Berapa persen perubahan nilai dari harga semula?",
+    "image": null,
+    "options": {
+      "A": "Tidak berubah",
+      "B": "Naik 9%",
+      "C": "Turun 9%",
+      "D": "Turun 21%",
+      "E": "Turun 7%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "question": "20% dari suatu bilangan adalah 80. Berapa nilai 150% dari bilangan tersebut?",
+    "image": null,
+    "options": {
+      "A": "400",
+      "B": "500",
+      "C": "600",
+      "D": "700",
+      "E": "650"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 54,
+    "question": "Jika gaji Andi naik 25% dan sekarang menjadi Rp5.000.000, berapa gaji Andi sebelum kenaikan?",
+    "image": null,
+    "options": {
+      "A": "Rp3.750.000",
+      "B": "Rp4.000.000",
+      "C": "Rp4.500.000",
+      "D": "Rp4.800.000",
+      "E": "Rp4.750.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Suatu barang didiskon 10%, lalu didiskon lagi 20%. Jika harga awal Rp1.000.000, berapa harga akhirnya?",
+    "image": null,
+    "options": {
+      "A": "Rp700.000",
+      "B": "Rp720.000",
+      "C": "Rp800.000",
+      "D": "Rp900.000",
+      "E": "Rp730.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 56,
+    "question": "Sebuah barang dijual seharga Rp1.500.000 setelah mengalami dua kali kenaikan: pertama 10%, lalu 20%. Berapa harga awal barang tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp1.100.000",
+      "B": "Rp1.200.000",
+      "C": "Rp1.250.000",
+      "D": "Rp1.300.000",
+      "E": "Rp1.150.000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 57,
+    "question": "Dalam sebuah kelas, 40% siswa adalah perempuan. Jika jumlah siswa laki-laki 18 orang, berapa jumlah seluruh siswa?",
+    "image": null,
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "40",
+      "E": "32"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "question": "Selisih antara 25% dari suatu bilangan dan 15% dari bilangan yang sama adalah 40. Berapa bilangan itu?",
+    "image": null,
+    "options": {
+      "A": "200",
+      "B": "300",
+      "C": "400",
+      "D": "500",
+      "E": "600"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "question": "Setelah diskon 30%, sebuah televisi seharga Rp2.800.000. Berapa harga awal sebelum diskon?",
+    "image": null,
+    "options": {
+      "A": "Rp3.500.000",
+      "B": "Rp3.800.000",
+      "C": "Rp4.000.000",
+      "D": "Rp4.200.000",
+      "E": "Rp3.700.000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Jumlah dua bilangan adalah 500. Jika bilangan pertama adalah 60% dari bilangan kedua, berapa bilangan yang lebih besar?",
+    "image": null,
+    "options": {
+      "A": "250",
+      "B": "275",
+      "C": "300",
+      "D": "312,5",
+      "E": "310"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "question": "Seorang pekerja mengecat tembok yang tingginya 3 meter dan telah sepertiga selesai. Jika dia selanjutnya mengecat tembok 10 meter persegi lagi, dia sudah dapat menyelesaikan tigaperempat bagiannya. Berapa meterkah panjang tembok tersebut?",
+    "image": null,
+    "options": {
+      "A": "10 meter",
+      "B": "8 meter",
+      "C": "6 meter",
+      "D": "4 meter",
+      "E": "3 meter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 62,
+    "question": "Sebuah perusahaan mengurangi jam kerja pegawainya dari 40 jam per minggu menjadi 36 jam per minggu tanpa mengurangi gaji. Jika seorang pegawai tadinya diberi gaji Rpx/jam, berapa rupiah kah per jam gajinya sekarang?",
+    "image": null,
+    "options": {
+      "A": "40x",
+      "B": "10x",
+      "C": "x/10",
+      "D": "9x/10",
+      "E": "10x/9"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Tukang kebun dengan menggunakan sabit dapat memotong rumput pada sebidang tanah selama 20 menit. Jika menggunakan mesin pemotong rumput waktu yang dibutuhkan hanya 8 menit. Setelah enam menit menggunakan mesin pemotong, tiba-tiba mesin rusak dan tukang kebun harus menyelesaikan pekerjaan dengan menggunakan sabit. Lama tambahan waktu yang dibutuhkan untuk menyelesaikan pekerjaannya adalah ...",
+    "image": null,
+    "options": {
+      "A": "2 menit",
+      "B": "3 menit",
+      "C": "4 menit",
+      "D": "5 menit",
+      "E": "6 menit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 64,
+    "question": "Sebuah komputer mengalami penurunan harga secara berturut-turut 40% dan 20%. Berapa penurunan total harga komputer tersebut",
+    "image": null,
+    "options": {
+      "A": "24%",
+      "B": "30%",
+      "C": "52%",
+      "D": "64%",
+      "E": "86%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Berat badan Joni dua kali berat badan Mimin. Berat badan Dudi 50% berat badan Luki. Berat badan Mimin 60% berat badan Bobi. Luki 90% lebih berat dari pada Joni. Yang mempunyai berat badan paling ringan adalah ...",
+    "image": null,
+    "options": {
+      "A": "Bobi",
+      "B": "Dudi",
+      "C": "Joni",
+      "D": "Luki",
+      "E": "Mimin"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 66,
+    "question": "Pada ulangan matematika diketahui nilai rata-rata kelasnya adalah 62. Jika antara siswa pria dan wanita dipisahkan, nilai rata-rata untuk siswa pria dan wanitanya berturut-turut adalah 58 dan 69, maka perbandingan jumlah wanita dan prianya adalah ...",
+    "image": null,
+    "options": {
+      "A": "11:7",
+      "B": "4:7",
+      "C": "11:4",
+      "D": "7:15",
+      "E": "9:2"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Pada suatu pertemuan yang dihadiri oleh 40 orang mengadakan acara berjabat tangan satu dengan lainnya. Banyak jabat tangan yang terjadi adalah ...",
+    "image": null,
+    "options": {
+      "A": "1120",
+      "B": "988",
+      "C": "870",
+      "D": "780",
+      "E": "678"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 68,
+    "question": "Misalkan rata-rata nilai ujian matematika dari 30 siswa adalah 8,4. Jika nilai terkecil tidak diperhitungkan, maka rata-ratanya menjadi 8,5. Sedangkan jika nilai terbesarnya tidak diperhitungkan, maka rata-ratanya menjadi 8,2. Jangkauan dari nilai ujian matematika tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "19,7",
+      "B": "14,2",
+      "C": "8,7",
+      "D": "7,1",
+      "E": "5,5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Selama mengikuti seminar empat perwakilan dari institusi X, yaitu Andi, Bowo, Citra, dan Dimar menginap di sebuah hotel dan letak kamar mereka berbeda lantai. Andi harus turun empat lantai untuk mengunjungi Bowo. Kamar Citra satu lantai di bawah kamar Dimar. Bowo harus turun sepuluh lantai untuk ke tempat makan yang berada di lantai 1. Dimar harus naik enam lantai jika harus menemui Andi. Berada di lantai berapa kamar Citra?",
+    "image": null,
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 70,
+    "question": "Ayah akan memasukkan kardus berisi radio yang berukuran 5 cm x 6cm x 7 cm ke dalam kotak besar berukuran 42cm x 25cm x 60xm. Berapa jumlah kardus radio yang dapat dimasukkan ke dalam kotak tersebut ...",
+    "image": null,
+    "options": {
+      "A": "300",
+      "B": "325",
+      "C": "400",
+      "D": "420",
+      "E": "480"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "question": "Terdapat 25 siswa kelas V di SD Pascal. Nilai rata-rata ulangan bahasa Inggris mereka adalah A. Guru bahasa Inggris menaikkan nilai setiap siswa sebesar 10. Nilai rata-rata siswa kelas V SD Pascal adalah ....",
+    "image": null,
+    "options": {
+      "A": "a + 10",
+      "B": "a + 25",
+      "C": "2a + 10",
+      "D": "2a - 10"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 72,
+    "question": "Hasil survei menunjukkan dalam kurun waktu pukul 20.00-22.00, 55% masyarakat suka menonton TV channel A, 50% suka menonton TV channel B, dan 22% masyarakat suka menonton keduanya. Persentase masyarakat yang tidak suka menonton keduanya adalah ...",
+    "image": null,
+    "options": {
+      "A": "10%",
+      "B": "17%",
+      "C": "22%",
+      "D": "26%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 73,
+    "question": "Jarak rumah Balin ke sekolah adalah 2 km. Setiap hari (Senin sampai Sabtu) Balin pulang dan berangkat sekolah dengan berjalan kaki. Kecepatan jalan Balin sekitar 7 km/jam. Waktu yang dibutuhkan Balin untuk bolak-balik ke sekolah selama 1 bulan adalah ...",
+    "image": null,
+    "options": {
+      "A": "4 jam",
+      "B": "6 jam",
+      "C": "12 jam",
+      "D": "14 jam"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 74,
+    "question": "Seorang pedagang online menjual sebuah gamis seharga Rp.180.000. Dari menjual sebuah gamis, pedagang tersebut mendapat keuntungan Rp.30.000. Persentase keuntungan pedagang tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Seorang berbelanja sepatu seharga Rp.240.000. Oleh karena toko sepatu sedang mengadakan diskon, pembeli tersebut mendapat potongan seharga sebesar 20%. Jika pembeli tersebut membayar sepatu secara non-tunai, sementara saldo dalam ATM-nya hanya bersisa Rp.225.000, maka sisa saldo dalam ATM setelah bertransaksi adalah ....",
+    "image": null,
+    "options": {
+      "A": "Rp. 192.000",
+      "B": "Rp. 86.000",
+      "C": "Rp. 48.000",
+      "D": "Rp. 33.000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 76,
+    "question": "Untuk pembelian suatu barang, Pak Bambang harus meminjam uang kepada temannya sebesar Rp 2.000.000,00 dengan perjanjian bungan sebesar 7,5%. Pak Bambang kemudian menjual barang tersebut seharga Rp 2.250.000,00. Pak Bambang kemudian mengembalikan uang pinjamannya berikut bunga. Berapakah uang kontan di tangan Pak Bambang kini setelah sebelumnya ia membeli oleh-oleh untuk keluarganya seharga Rp 30.500,00 dan ongkos parker motor sebesar Rp 2.000,00?",
+    "image": null,
+    "options": {
+      "A": "Rp 67.500,00",
+      "B": "Rp 67.400,00",
+      "C": "Rp 66.500,00",
+      "D": "Rp 65.500,00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Perbandingan uang Suci dan Murni adalah 3 : 7. Jika uang Murni Rp 210.000,00, maka berapakah selisih uang keduanya?",
+    "image": null,
+    "options": {
+      "A": "Rp 120.000,00",
+      "B": "Rp 110.000,00",
+      "C": "Rp 120.500,00",
+      "D": "Rp 122.000,00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "question": "Sepotong kayu dengan panjang 4 meter beratnya 18 ons. Berapa meter Panjang kayu yang mempunyai berat 3,15 kilogram?",
+    "image": null,
+    "options": {
+      "A": "7 meter.",
+      "B": "8 meter.",
+      "C": "9 meter.",
+      "D": "10 meter."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "question": "Ashima menabung di sebuah bank dengan suku bunga 6% per tahun. Jika tabungan Ashima Ro.84.000.000, jumlah tabungan Ashima sampai bulan ke-3 adalah ...",
+    "image": null,
+    "options": {
+      "A": "Rp.85.260.000",
+      "B": "Rp.85.640.000",
+      "C": "Rp.85.680.000",
+      "D": "Rp.86.260.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 80,
+    "question": "Tiga kios milik Pak Muhidin berisi masing-masing 12,3 ton, 19,15 ton, dan 10,35 ton beras. Beras tersebut akan didistribusikan ke toko-toko sembako dengan sebuah truk berkapasitas 3,8 ton. Berapakali seorang sopir truk harus mengangkutnya agar persediaan beras di kios Pak Muhidin bisa terangkut semua ?",
+    "image": null,
+    "options": {
+      "A": "11",
+      "B": "9",
+      "C": "13",
+      "D": "14"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 81,
+    "question": "Pada lomba matematika, untuk jawaban benar mendapat skor 2, jawaban salah mendapat skor -1 dan jika tidak menjawab mendapat skor 0. Dari 75 soal, Arif menjawab 50 soal dengan benar dan 10 soal tidak dijawab. Maka skor Arif adalah ....",
+    "image": null,
+    "options": {
+      "A": "85",
+      "B": "86",
+      "C": "87",
+      "D": "88"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Pada lomba fisika, skor jawaban benar adalah 2, skor jawaban salah adalah -1 dan skor jika tidak menjawab adalah 0. Budi berhasil menjawab 29 soal dengan benar dan tidak menjawab 5 soal dari 40 yang diberikan. Maka skor Budi adalah ....",
+    "image": null,
+    "options": {
+      "A": "52",
+      "B": "53",
+      "C": "54",
+      "D": "55"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 83,
+    "question": "Sebuah pesawat naik dari ketinggian 28.937 kaki ke ketinggian 35.978 kaki. Karena ada awan, pesawat turun ke ketinggian 31.097 kaki. Berapa kaki yang diperlukan untuk naik dan turun?",
+    "image": null,
+    "options": {
+      "A": "Naik 7.041 kaki dan turun 4.881 kaki.",
+      "B": "Naik 4.043 kaki dan turun 4.841 kaki.",
+      "C": "Naik 3.041 kaki dan turun 4.687 kaki.",
+      "D": "Naik 5.041 kaki dan turun 4.585 kaki."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Ibu pergi ke warung untuk berbelanja. Ibu pulang membawa 2 ikat kangkung @Rp2.500, 1 kg ayam Rp32.000, dan kemiri Rp600. Ibu membayar dengan uang Rp50.000. Berapa uang ibu sekarang?",
+    "image": null,
+    "options": {
+      "A": "Rp11.500.",
+      "B": "Rp12.500.",
+      "C": "Rp12.400.",
+      "D": "Rp10.400."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 85,
+    "question": "Didalam sebuah gudang penyimpanan terdapat 8 ton, 8 kuintal, dan 120 pon pupuk. Sebuah truk dengan kapasitas 1,2 ton hendak mengangkut pupuk tersebut dan mendistribusikannya ke koperasi. Banyaknya pengangkutan yang dilakukan adalah ....",
+    "image": null,
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "7",
+      "D": "6"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Sekelompok remaja berjumlah 18 orang sedang bermain di lapangan. Saat itu 12 orang membawa kelereng, 8 orang membawa bola, dan 3 orang tidak membawa mainan. Jumlah anak yang membawa kedua mainan tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "9",
+      "D": "3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Sebuah Truk memiliki kapasitas angkut 3,2 ton. Truk tersebut digunakan untuk mengangkat batu-batu kali oleh 3 orang kuli angkut. Jika rata-rata masa tubuh kuli angkut 65 kg, massa muatan batu tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "3,025 kg",
+      "B": "3,005 kg",
+      "C": "2,995 kg",
+      "D": "2,975 kg"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Seseorang menabung di sebuah bank sebanyak Rp. 450.000,-. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 525.000,-. Bunga yang diterima dalam 1 tahun adalah .....",
+    "image": null,
+    "options": {
+      "A": "16,67%",
+      "B": "15,67%",
+      "C": "16,33%",
+      "D": "16,50%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Diketahui suatu barisan geometri yang terdiri atas empat suku dengan rasio 1/2 dan suatu barisan aritmetika yang terdiri atas tiga suku dengan beda b . Jumlah semua suku barisan geometri tersebut dan jumlah semua suku barisan aritmetika tersebut masing-masing bernilai 1. Jika suku pertama barisan geometri tersebut sama dengan suku ketiga barisan aritmetika, maka nilai b adalah ....",
+    "image": null,
+    "options": {
+      "A": "1/15",
+      "B": "2/15",
+      "C": "1/5",
+      "D": "1/3"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 90,
+    "question": "Desa Sokaraja Tengah terdiri atas 238 kepala keluarga. Rata-rata jumlah anggota keluarga setiap kepala keluarga adalah 4 orang dan jumlah orang dewasa seluruhnya ada 580 orang. Peluang desa tersebut terserang wabah demam berdarah adalah 0,5 bagi anak-anak. Anak yang diperkirakan tertular virus tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "421",
+      "B": "372",
+      "C": "186",
+      "D": "261"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 95,
+    "question": "Jika nilai a=2b maka nilai 2a + b = ...",
+    "image": null,
+    "options": {
+      "A": "b",
+      "B": "2b",
+      "C": "3b",
+      "D": "4b",
+      "E": "5b"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 97,
+    "question": "Nilai dari 0,5 + (0,6 x 0,5) + 0,5 adalah ...",
+    "image": null,
+    "options": {
+      "A": "1,3",
+      "B": "1,44",
+      "C": "1,5",
+      "D": "1,66",
+      "E": "1,7"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Nilai 7,0772,022=",
+    "image": null,
+    "options": {
+      "A": "3,035",
+      "B": "3,05",
+      "C": "3,699",
+      "D": "3,5",
+      "E": "3,535"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 100,
+    "question": "Sebuah barang mengalami penurunan harga sebesar 25%, sehingga harganya menjadi Rp375.000. Berapa harga awal barang tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp480.000",
+      "B": "Rp500.000",
+      "C": "Rp520.000",
+      "D": "Rp540.000",
+      "E": "Rp530.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "question": "Selisih antara 40% dan 25% dari suatu bilangan adalah 60. Berapakah nilai bilangan tersebut?",
+    "image": null,
+    "options": {
+      "A": "300",
+      "B": "400",
+      "C": "500",
+      "D": "600",
+      "E": "700"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "question": "Sebuah barang mengalami dua kali kenaikan harga, masing-masing sebesar 10% dan 20%. Jika harga awal barang tersebut Rp1.000.000, berapa harga akhirnya?",
+    "image": null,
+    "options": {
+      "A": "Rp1.300.000",
+      "B": "Rp1.320.000",
+      "C": "Rp1.330.000",
+      "D": "Rp1.400.000",
+      "E": "Rp1.310.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 103,
+    "question": "Jumlah dua bilangan adalah 720. Jika bilangan pertama adalah 125% dari bilangan kedua, berapa nilai bilangan pertama?",
+    "image": null,
+    "options": {
+      "A": "400",
+      "B": "375",
+      "C": "320",
+      "D": "450",
+      "E": "420"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Dalam suatu survei, 60% responden menyukai kopi, dan dari yang menyukai kopi, 40% juga menyukai teh. Jika total responden 500 orang, berapa yang menyukai keduanya?",
+    "image": null,
+    "options": {
+      "A": "120",
+      "B": "150",
+      "C": "200",
+      "D": "300",
+      "E": "250"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 105,
+    "question": "Pendapatan seseorang meningkat dari Rp2.400.000 menjadi Rp3.000.000. Berapa persen kenaikannya?",
+    "image": null,
+    "options": {
+      "A": "20%",
+      "B": "22%",
+      "C": "25%",
+      "D": "30%",
+      "E": "24%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Harga sebuah barang setelah dikenakan pajak 15% menjadi Rp1.150.000. Berapa harga barang sebelum pajak?",
+    "image": null,
+    "options": {
+      "A": "Rp1.000.000",
+      "B": "Rp1.050.000",
+      "C": "Rp950.000",
+      "D": "Rp1.100.000",
+      "E": "Rp1.075.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 107,
+    "question": "Sebuah nilai ujian dinaikkan 10%, dan hasilnya menjadi 77. Berapa nilai sebelum dinaikkan?",
+    "image": null,
+    "options": {
+      "A": "67",
+      "B": "68",
+      "C": "70",
+      "D": "75",
+      "E": "77"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "question": "Dari jumlah siswa di kelas, 20% suka matematika, 30% suka IPA, dan 10% suka keduanya. Jika jumlah siswa 100 orang, berapa banyak siswa yang tidak suka keduanya?",
+    "image": null,
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70",
+      "E": "80"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "question": "Sebuah toko roti memproduksi tiga jenis roti: manis, tawar, dan isi cokelat. Roti manis dibuat setiap 2 hari sekali, roti tawar setiap 3 hari sekali, dan roti isi cokelat setiap 5 hari sekali. Dalam sekali produksi, toko menghasilkan 200, 150, dan 100 roti untuk masing-masing jenis tersebut.\nDalam 15 hari, berapa total roti yang diproduksi seluruhnya?",
+    "image": null,
+    "options": {
+      "A": "2.850",
+      "B": "2.600",
+      "C": "2.550",
+      "D": "2.400",
+      "E": "2.250"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 110,
+    "question": "Kopi kualitas I dan II dicampur dengan perbandingan berat a : b. Harga tiap kg dari kopi kualitas I adalah Rp32.000,00 dan kualitas II adalah Rp36.000,00. Suatu ketika harga kopi kualitas I naik 15% sedangkan kopi kualitas II turun 10%. Jika diinginkan harga campuran dua jenis kopi tersebut tidak berubah, maka nilai perbandingan dari a dan b adalah ...",
+    "image": null,
+    "options": {
+      "A": "3 : 4",
+      "B": "4 : 3",
+      "C": "8 : 9",
+      "D": "9 : 8",
+      "E": "4 : 5"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 111,
+    "question": "Sebuah kaleng berisi penuh beratnya 660 gram. Ketika kaleng tersebut hanya terisi setengah, beratnya 420 gram. Jika kaleng yang telah kosong dapat dijual ke pemulung seharga 5 rupiah per gram. Berapa harga jual kaleng tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp600,00",
+      "B": "Rp900,00",
+      "C": "Rp1.200,00",
+      "D": "Rp1.650,00",
+      "E": "Rp1.800,00"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "question": "Dalam 1 menit Wita dapat membuat 10 simpul pita, sedangkan Wina dapat membuat dua kali lipatnya. Jika Wita mulai bekerja 15 menit lebih awal dari Wina, dan keduanya selesai setelah Wina bekerja selama 1 jam, maka banyak simpul yang dihasilkan keduanya adalah ...",
+    "image": null,
+    "options": {
+      "A": "450",
+      "B": "1800",
+      "C": "1950",
+      "D": "2250",
+      "E": "2700"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "question": "Sebuah ruangan berbentuk lingkaran akan diperluas. Panjang diameter yang baru lima puluh persen lebih panjang dari diameter semula. Berapa persenkah pertambahan luas ruangan ?",
+    "image": null,
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "125%",
+      "D": "150%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "question": "Sebuah album musik memiliki durasi sepanjang 25 menit. Apabila rudi bekerja selama 5 jam, berapa kali putaran album musik yang terjadi pada saat pekerjaan tadi dilakukan sampai selesai?",
+    "image": null,
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 115,
+    "question": "Dalam sebuah peti harta karun, ditemukan emas batangan masing-masing seberat 1 kilogram. Estimasi keuntungan ketika masing-masing emas tersebut dilelang adalah 10 juta. Di dalam peti tersebut ada sekitar 3000 batang emas dengan berat dan nilai yang sama. Jika Andi adalah anak yang menemukan harta tersebut, berapa kira-kira perjalanan memindahkan semua isinya?\nDengan asumsi kekuatan Andi dalam satu kali angkat hanya sebesar 3 kilogram saja. Hitung dengan kalkulasi paling sederhana sehingga dapat ditemukan berapa estimasi hasilnya. Kemudian, dari hasil jerih payah tersebut berapa kira-kira total keuntungannya?\nTentu saja setelah kita potong dengan pajak negara sebesar 11 persen yang tetap berlaku untuk harta tersebut.",
+    "image": null,
+    "options": {
+      "A": "26.700.000.000 rupiah.",
+      "B": "27.700.000.000 rupiah.",
+      "C": "28.600.000.000 rupiah.",
+      "D": "29.500.000.000 rupiah."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 116,
+    "question": "Romi adalah adik Rino yang usianya 3 tahun lebih muda. Risa adalah kakak Romi dan usia keduanya berbea 7 tahun. Jika saat ini Rino baru saja merayakan ulang tahun yang ke-23 maka usia Risa adalah ...",
+    "image": null,
+    "options": {
+      "A": "25 tahun",
+      "B": "27 tahun",
+      "C": "29 tahun",
+      "D": "31 tahun"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "question": "Pada sebuah tes yang dilakukan terhadap kelas A,B, dan C diperoleh nilai rata-rata secara berurutan yaitu 7;6;8; dan 7,4. Jika jumlah siswa kelas A,B, dan C masing-masing 40 orang, 36 orang, dan 35 orang, maka nilai rata-rata keseluruhan tes tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "7,9",
+      "B": "7,8",
+      "C": "7,67",
+      "D": "7,5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Dari 10.000 peserta tes seleksi CPNS, 3.900 di antaranya memilih instansi dinas PU. Di antara peserta yang memilih Dinas PU ini, 1.100 peserta juga memilih instansi dinas pertanian. Jika ternyata 3.200 peserta tes tidak memilih instansi dinas PU dan dinas pertanian, maka berapa persen peserta yang memilih dinas pertanian saja di antara 10.000 orang tersebut?",
+    "image": null,
+    "options": {
+      "A": "11%",
+      "B": "29%",
+      "C": "39%",
+      "D": "43%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "question": "Sandra mengendarai mobil dari kota A ke kota B. Rute perjalanannya sebagai berikut ia berangkat dari kola A menuju timur sejauh 20 km, kemudian belok ke utara 20 km, kemudian belok lagi ke timur 10 km, kemudian belok lagi ke utara 10 km. Terakhir ia belok ke timur sejauh 10 km dan tiba di kota B. Sebenarnya berapa jarak kota A – B?",
+    "image": null,
+    "options": {
+      "A": "80 km",
+      "B": "70 km",
+      "C": "60 km",
+      "D": "50 km"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 120,
+    "question": "Naila seorang online marketing yang mendapatkan gaji mingguan Rp. 250.000,- dan ditambah komisi 15% dari jumlah penjualan di atas Rp. 2.000.000 yang dicapai selama seminggu. Jika Naila ingin memperoleh penghasilan Rp. 850.000,- untuk satu minggu, maka Naila harus mencapai penjualan minimum selama seminggu sebesar .....",
+    "image": null,
+    "options": {
+      "A": "Rp. 5.000.000,-",
+      "B": "Rp. 4.000.000,-",
+      "C": "Rp. 6.000.000,-",
+      "D": "Rp. 7.000.000,-"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Lima tahun lalu umur Ani 4 kali umur Boni. Empat tahun yang akan datang 2 kali umur Ani sama dengan 3 kali umur Boni ditambah 1 tahun. Umur Ani sekarang adalah ....",
+    "image": null,
+    "options": {
+      "A": "12 tahun",
+      "B": "13 tahun",
+      "C": "17 tahun",
+      "D": "21 tahun"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Lima tahun yang lalu umur Ali sama dengan 4 kali umur Yudi. Empat tahun yang akan datang, dua kali umur Ali sama dengan 3 kali umur Yudi ditambah 1 tahun. Jumlah umur Ali dan Yudi saat ini adalah ....",
+    "image": null,
+    "options": {
+      "A": "13 tahun",
+      "B": "20 tahun",
+      "C": "27 tahun",
+      "D": "33 tahun"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Sebuah taman berbentuk persegi dengan panjang sisi 20 m. Bagian dalam taman akan ditanami rumput dengan menyisakan 1,5 m di setiap tepi sisi sebagai jalan. Luas taman yang ditanami rumput adalah .....",
+    "image": null,
+    "options": {
+      "A": "324 m2",
+      "B": "256 m2",
+      "C": "289 m2",
+      "D": "361 m2"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "question": "Di dalam kandang terdapat kambing dan ayam sebanyak 13 ekor. Jika jumlah kaki hewan tersebut 32 ekor, maka jumlah kambing dan ayam masing-masing adalah ....",
+    "image": null,
+    "options": {
+      "A": "3 Dan 10",
+      "B": "4 Dan 9",
+      "C": "5 Dan 8",
+      "D": "10 Dan 3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 125,
+    "question": "Arloji yang dipakai Miranda yang setiap jamnya terlambat 3 menit dicocokkan dengan jam dinding yang terpasang di kamar yang setiap jamnya terlambat 3 menit tepat pada tengah malam. Berapa menit perbedaan kedua jam itu jika arloji menunjukkan waktu pukul 11.00?",
+    "image": null,
+    "options": {
+      "A": "66 menit",
+      "B": "48 menit",
+      "C": "24 menit",
+      "D": "18 menit"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "question": "1/3 dari tanah milik Pak Prabu seluas 2,7 hektar akan dibagikan kepada 9 orang ahli warisnya. Berapa bagian yang diterima oleh setiap ahli waris?",
+    "image": null,
+    "options": {
+      "A": "30 m2",
+      "B": "90 m2",
+      "C": "100 m2",
+      "D": "1.000 m2"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 127,
+    "question": ".",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-23-at-20.55.43-300x238.jpeg",
+    "options": {
+      "A": "II",
+      "B": "I",
+      "C": "III",
+      "D": "IV"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 129,
+    "question": "Fahmi berlari mengitari lapangan yang berbentuk lingkaran sebanyak 4 kali putaran. Jika jari- jari lapangan 35 m, maka Fahmi berlari sejauh .....",
+    "image": null,
+    "options": {
+      "A": "1.100 m",
+      "B": "220 m",
+      "C": "880 m",
+      "D": "440 m"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 130,
+    "question": "Di sebuah sekolah, 46% dari tenaga pengajarnya adalah laki-laki. Jika 60% dari tenaga pengajar sudah menikah dan 70% dari tenaga pengajar yang sudah menikah adalah laki-laki. Tenaga pengajar perempuan yang belum menikah sebanyak....",
+    "image": null,
+    "options": {
+      "A": "60%",
+      "B": "55%",
+      "C": "45%",
+      "D": "36%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 131,
+    "question": "Biasanya Baron bekerja 8 jam dalam sehari. Ia bekerja dari pukul 07:30 dan hari ini ia bekerja sampai pukul 16:15. Kelebihan waktu kerja hari ini adalah .....",
+    "image": null,
+    "options": {
+      "A": "10 menit",
+      "B": "55 menit",
+      "C": "25 menit",
+      "D": "45 menit"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 132,
+    "question": "Harga sewa kereta dorong bayi di sebuah persewaan peralatan bayi adalah Rp. 150.000,- pada bulan pertama. Sedangkan kelebihan seminggu berikutnya, dikenai denda Rp. 35.000,-. Jika suatu hari, Hana menyewa kereta bayi dan diharuskan membayar Rp. 255.000,-, maka Hana menyewa kereta dorong tersebut selama .....",
+    "image": null,
+    "options": {
+      "A": "1 bulan 2 minggu",
+      "B": "1 bulan 3 minggu",
+      "C": "1 bulan 1 minggu",
+      "D": "5 hari"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Seorang pedagang menjual sebuah barang dengan harga Rp. 50.000,- dan mempunyai laba 25% dari harga belinya. Berapakah harga beli barang tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp. 120.000,",
+      "B": "Rp. 100.000,",
+      "C": "Rp. 64.000,",
+      "D": "Rp. 96.000,"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 134,
+    "question": "Pelaksanaan tugas tertentu dibagi dalam tiga bagian dan dilakukan oleh 224 orang. Bagian pertama dilakukan oleh 1/4 dari jumlah orang tersebut. Bagian kedua dilakukan oleh 5/8 dari jumlah orang tersebut. Jumlah orang yang mengerjakan bagian ketiga adalah .....",
+    "image": null,
+    "options": {
+      "A": "29 orang",
+      "B": "28 orang",
+      "C": "30 orang",
+      "D": "27 orang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "question": "David bekerja sebagai karyawan di sebuah perusahaan di Yogyakarta selama 6 jam per hari dan 6 hari dalam seminggu. David mendapatkan gaji sebesar Rp. 6.000,- per jam dan uang lembur sebesar Rp. 7.500/jam. Jika dalam 4 minggu David menerima uang sebesar Rp. 976.500,- maka David lembur selama berapa jam?",
+    "image": null,
+    "options": {
+      "A": "15 jam",
+      "B": "16 jam",
+      "C": "17 jam",
+      "D": "18 jam"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 136,
+    "question": "Fani berlari dengan kecepatan 10 m/s. Sepuluh detik kemudian Fino mengejarnya dengan kecepatan 12 m/s. Fino dapat menyusul Fani setelah berlari selama ....detik.",
+    "image": null,
+    "options": {
+      "A": "10",
+      "B": "30",
+      "C": "50",
+      "D": "20"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "question": "Ibu Sasa mempunyai uang Rp. 2.300.000,- dan berniat untuk membeli lemari pendingin seharga Rp. 2.000.000,-. Karena tahun baru, toko memberikan diskon 20%. Selain itu, ibu Sasa juga belanja bulanan untuk keperluan rumah sebesar Rp. 550.000,-. Sisa uang ibu Sasa sekarang sebesar .....",
+    "image": null,
+    "options": {
+      "A": "Rp. 700,000,-",
+      "B": "Rp. 150,000,-",
+      "C": "Rp. 300,000,-",
+      "D": "Rp. 250,000,-"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 138,
+    "question": "Sebuah bak mandiri memiliki 3 keran yang mengalirkan aiir ke dalamnya. Keran pertama dapat mengisi bak dalam waktu 90 menit. Keran kedua dalam waktu 80 menit dapat mengisi bak, sedangkan keran ketiga dapat mengisi bak selama 1 jam. Jika dalam suatu waktu ketiga keran dibuka, maka bak akan penuh dalam berapa menit?",
+    "image": null,
+    "options": {
+      "A": "30",
+      "B": "21",
+      "C": "25",
+      "D": "35"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "question": "Jika x adalah bilangan habis dibagi 9 dan nilainya lebih besar daripada 15 dan lebih kecil daripada 24, sedangkan y adalah bilangan yang habis dibagi 8 dan nilainya diantara 11 dan 19, maka pernyataan yang tepat adalah ...",
+    "image": null,
+    "options": {
+      "A": "x > y",
+      "B": "x < y",
+      "C": "x = y",
+      "D": "2x < y",
+      "E": "2y < x"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 145,
+    "question": "Jika a.b = 12 dengan a dan b adalah bilangan bulat positif dan a &lt; b, maka nilai maksimum a + b – 2 = ...",
+    "image": null,
+    "options": {
+      "A": "8",
+      "B": "11",
+      "C": "13",
+      "D": "15",
+      "E": "16"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "question": "3,8 x 33 + 2,1 x 17 + 33 x 2,1 +17 x 3,8 = ...",
+    "image": null,
+    "options": {
+      "A": "245",
+      "B": "295",
+      "C": "305",
+      "D": "345",
+      "E": "355"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 148,
+    "question": "Hitung",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2025/11/S9-300x156.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 150,
+    "question": "Sebuah bus melakukan perjalanan antar kota setiap 4 hari sekali, dan sebuah minibus setiap 6 hari sekali. Dalam satu kali keberangkatan, bus membawa 40 penumpang dan minibus membawa 20 penumpang. Dalam 24 hari, berapa total penumpang yang diangkut keduanya?",
+    "image": null,
+    "options": {
+      "A": "360",
+      "B": "400",
+      "C": "420",
+      "D": "440",
+      "E": "480"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 151,
+    "question": "Sebuah pabrik membuat botol kaca, plastik, dan logam. Produksi masing-masing dilakukan setiap 2, 3, dan 6 hari sekali. Dalam setiap produksi, pabrik menghasilkan 300, 250, dan 400 botol secara berurutan. Berapa total botol dalam 12 hari?",
+    "image": null,
+    "options": {
+      "A": "2.000",
+      "B": "2.150",
+      "C": "2.250",
+      "D": "2.650",
+      "E": "2.500"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 152,
+    "question": "Sebuah mesin A bekerja setiap 5 hari sekali menghasilkan 500 unit barang, mesin B setiap 10 hari menghasilkan 700 unit. Dalam 30 hari, berapa total barang yang dihasilkan?",
+    "image": null,
+    "options": {
+      "A": "4.200",
+      "B": "4.400",
+      "C": "4.600",
+      "D": "4.800",
+      "E": "5000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 153,
+    "question": "Seorang pedagang menjual buah apel, jeruk, dan mangga. Pengiriman apel setiap 3 hari sekali, jeruk setiap 4 hari sekali, dan mangga setiap 6 hari sekali. Setiap kali datang, jumlah buah yang diterima berturut-turut 90, 120, dan 180 buah.\nDalam 12 hari, total buah yang diterima adalah …",
+    "image": null,
+    "options": {
+      "A": "1.020",
+      "B": "1.080",
+      "C": "1.140",
+      "D": "1.200",
+      "E": "1.260"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 154,
+    "question": "Sebuah kapal nelayan berangkat melaut setiap 5 hari sekali, membawa hasil tangkapan rata-rata 250 kg ikan. Kapal kedua berangkat setiap 10 hari sekali membawa 400 kg. Dalam 20 hari, berapa hasil tangkapan keduanya?",
+    "image": null,
+    "options": {
+      "A": "1.850 kg",
+      "B": "1.900 kg",
+      "C": "2.000 kg",
+      "D": "2.100 kg",
+      "E": "2.200 kg",
+      "F": "1.950 kg"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Tiga lampu jalan dinyalakan secara bergantian. Lampu A menyala setiap 2 jam sekali, lampu B setiap 3 jam, dan lampu C setiap 4 jam. Jika ketiganya pertama kali menyala bersamaan pukul 06.00, maka dalam 24 jam berapa kali ketiganya menyala bersamaan?",
+    "image": null,
+    "options": {
+      "A": "2 kali",
+      "B": "3 kali",
+      "C": "4 kali",
+      "D": "5 kali",
+      "E": "6 kali"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Suatu mesin mencetak buku matematika setiap 3 hari sekali, IPA setiap 5 hari sekali, dan IPS setiap 6 hari sekali. Jika setiap kali cetak dihasilkan masing-masing 300, 250, dan 200 buku, maka dalam 30 hari total buku yang dicetak adalah …",
+    "image": null,
+    "options": {
+      "A": "3.200",
+      "B": "3.500",
+      "C": "3.800",
+      "D": "4.000",
+      "E": "4.200",
+      "F": "4.100"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "question": "Sebuah toko sembako menerima pasokan gula setiap 4 hari sekali (50 kg), minyak setiap 6 hari sekali (30 kg), dan beras setiap 8 hari sekali (100 kg). Dalam 24 hari, total berat pasokan adalah …",
+    "image": null,
+    "options": {
+      "A": "1.000 kg",
+      "B": "1.020 kg",
+      "C": "1.050 kg",
+      "D": "1.080 kg",
+      "E": "1.100 kg"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 158,
+    "question": "Tiga mobil tangki air mengantarkan air ke tiga tempat berbeda. Mobil A setiap 2 hari sekali (1.000 liter), mobil B setiap 3 hari sekali (1.500 liter), dan mobil C setiap 6 hari sekali (2.000 liter). Dalam 12 hari, total air yang diantar adalah …",
+    "image": null,
+    "options": {
+      "A": "8.000 liter",
+      "B": "8.500 liter",
+      "C": "9.000 liter",
+      "D": "9.500 liter",
+      "E": "10.000 liter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 159,
+    "question": "Asri mengelilingi lapangan sebanyak 4 kali putaran. Untuk sekali mengelilingi lapangan, Asri membutuhkan waktu selama 3 menit 14 detik. Berapa waktu yang dibutuhkan Asri untuk menyelesaikan larinya?",
+    "image": null,
+    "options": {
+      "A": "12 menit 56 detik.",
+      "B": "11 menit 56 detik.",
+      "C": "12 menit 54 detik.",
+      "D": "12 menit 50 detik."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 160,
+    "question": "Sebuah barang dibeli dengan mendapat untung 15 persen. Jika untung yang diperoleh sebesar Rp21.000, maka harga jual barang tersebut adalah...",
+    "image": null,
+    "options": {
+      "A": "Rp161.000",
+      "B": "Rp160.000",
+      "C": "Rp155.000",
+      "D": "Rp151.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Perbandingan uang Mawar dan Melati adalah 3:7. Jika uang Melati Rp210.000 maka berapakah selisih uang keduanya?",
+    "image": null,
+    "options": {
+      "A": "Rp90.000",
+      "B": "Rp190.000",
+      "C": "Rp120.000",
+      "D": "Rp130.000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 162,
+    "question": "Pada awal tahun 2014, sebuah supermarket menjual pakaian dengan diskon besar- besaran. Ayah membeli kemeja dengan mendapat diskon 10 persen dari harga awal dan diskon tambahan 30 persen dari harga kemeja setelah didiskon 10 persen. Jika Ayah membayar dengan harga Rp126.000, harga kemeja tersebut sebelum ada diskon adalah...",
+    "image": null,
+    "options": {
+      "A": "Rp175.000",
+      "B": "Rp176.400",
+      "C": "Rp180.400",
+      "D": "Rp200.000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 163,
+    "question": "Harga daging bebek hidup per ons adalah Rp1.200,00, sedangkan harga daging bebek goreng per ons adalah Rp2.500. Seekor bebek akan mengalami penyusutan berat 35 persen setelah digoreng. Selain menjual dalam keadaan digoreng, penjual juga menjual bebek hidup. Sebelumnya ia telah membeli bebek-bebek dengan harga Rp655.200. Ia pun menjual keseluruhan bebek-bebek itu dengan harga Rp743.400 dan dari setiap bebek ia mendapat untung Rp2.100 Berapakah jumlah bebek yang dijual?",
+    "image": null,
+    "options": {
+      "A": "32 ekor",
+      "B": "40 ekor",
+      "C": "42 ekor",
+      "D": "46 ekor"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "question": "Empat tahun yang lalu, jumlah umur adik dan kakak adalah dua kali umur adik saat ini. Enam tahun yang akan datang, umur adik duapertiga umur kakak. Jumlah umur adik dan kakak saat ini adalah ... tahun.",
+    "image": null,
+    "options": {
+      "A": "38",
+      "B": "36",
+      "C": "28",
+      "D": "26"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "question": "Sepuluh orang siswa dijadikan sebagai sampel dan diukur tinggi badannya. Hasil pengukuran tinggi badan adalah sebagai berikut: 172, 167, 180, 170, 169, 160, 175, 165, 173, 170. Tentukan modus tinggi badan siswa!",
+    "image": null,
+    "options": {
+      "A": "170",
+      "B": "160",
+      "C": "175",
+      "D": "173"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 166,
+    "question": "Pada pukul 08.00 pagi massa suatu zat radioaktif adalah 0,2 kg. Apabila diketahui laju peluruhan zat radioaktif tersebut 10% setiap jam, sisa zat radioaktif itu pada pukul 14.00 siang dalam gram adalah .....",
+    "image": null,
+    "options": {
+      "A": "106 Gram",
+      "B": "100 Gram",
+      "C": "103 Gram",
+      "D": "107 Gram"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "question": "Untuk pembelian suatu barang, Pak Bambang harus meminjam uang kepada temannya sebesar Rp2.000.000 dengan perjanjian bunga sebesar 7,5 persen. Pak Bambang kemudian menjual barang tersebut seharga Rp2.250.000. Pak Bambang kemudian mengembalikan uang pinjamannya berikut bunga.\nBerapakah uang kontan di tangan Pak Bambang kini setelah sebelumnya ia membeli oleh- oleh untuk keluarganya seharga Rp30.500 dan ongkos parkir motor sebesar Rp2.000?",
+    "image": null,
+    "options": {
+      "A": "Rp67.000",
+      "B": "Rp67.500",
+      "C": "Rp68.000",
+      "D": "Rp68.500"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Azam meminjam uang sebesar Rp2.000.000 di koperasi. Jika jumlah uang yang harus dibayar Azam setelah meminjam selama 15 bulan adalah Rp2.245.000, besar persentase bunga pinjaman per tahun adalah...",
+    "image": null,
+    "options": {
+      "A": "9,0",
+      "B": "9,2",
+      "C": "9,4",
+      "D": "9,8"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 169,
+    "question": "Sebuah drum minyak berbentuk silinder berisi 1/5 dari volume drum. Jika seorang pedagang menuangkan minyak sebanyak 2 liter lagi, drum berisi 1/2 bagian dari volume drum. Daya tampung drum adalah ...",
+    "image": null,
+    "options": {
+      "A": "3 liter",
+      "B": "6,6 liter",
+      "C": "5,6 liter",
+      "D": "6 liter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 170,
+    "question": "Banyak kursi pada baris pertama di sebuh gedung pertemuan ada 12. Penyusunannya membentuk deret geometri, sehingga pada baris ke-5 berjumlah 192 kursi. Jika dalam gedung ituterdapat 6 baris kursi, maka banyak kursi dalam gedung adalah....",
+    "image": null,
+    "options": {
+      "A": "756",
+      "B": "768",
+      "C": "1152",
+      "D": "2304"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 171,
+    "question": "Aliando meninggalkan kota Jogja pukul 07.15, kemudian tiba di ambarawa pukul 12.00. Jika selama perjalanan Aliando memacu sepeda motornya dengan kecepatan 50 km/jam dan mampir untuk beristirahat di sebuah rumah makan selama  1 jam, jarak Jogja-Ambarawa adalah ...",
+    "image": null,
+    "options": {
+      "A": "140 km",
+      "B": "156 km",
+      "C": "167,5 km",
+      "D": "187,5 km"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 172,
+    "question": "Jika periode suatu fungsi trigonometri adalah 3600, maka fungsi ini adalah:\n(1) sin x\n(2) cos x\n(3) sin (x + 1800)\n(4) tan x",
+    "image": null,
+    "options": {
+      "A": "(1), (2) dan (3)",
+      "B": "(1) dan (3)",
+      "C": "(2) dan (4)",
+      "D": "(4) saja"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Untuk mengerjakan 1 unit rumah dibutuhkan waktu 36 hari dengan 12 tenaga kerja. Berapa waktu akan dihabiskan bila menggunakan 24 orang tenaga kerja?",
+    "image": null,
+    "options": {
+      "A": "18 Hari",
+      "B": "14 Hari",
+      "C": "15 Hari",
+      "D": "16 Hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 174,
+    "question": "Dengan menggunakan skala dan kertas gambar yang sama, pada interval 00&lt; x &lt; 900 maka akan terlihat:\n(1) Maksimum sin x = maksimum cos x\n(2) Maksimum tan x &gt; Maksimum cos x\n(3) Maksimum 3 sinx &gt; Maksimum sin 3x\n(4) Maksimum 3 sin x &gt; Maksimum 3 cos x\nPernyataan yang bernilai benar adalah....",
+    "image": null,
+    "options": {
+      "A": "(1), (2) dan (3) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (4) benar",
+      "D": "(4) saja"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "Desi mendapat nilai 82 untuk IPA, nilai 89 untuk IPS, nilai 79 untuk bahasa Indonesia, nilai 87 untuk Matematika, dan X untuk bahasa Inggris. Jika Desi ingin mendapatkan rata- rata nilainya sebesar 84, nilai X adalah...",
+    "image": null,
+    "options": {
+      "A": "87",
+      "B": "83",
+      "C": "86",
+      "D": "84"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 176,
+    "question": "Reno bermain bola di arena permainan dengan 5 koin. Kemudian menang tiket yang dapat ditukar dengan 12 koin. Kemudian Reno main lagi dengan 7 koin pada permainan lain. Jika awalnya Reno mempunyai 10 koin, maka jumlah koin Reno sekarang adalah .....",
+    "image": null,
+    "options": {
+      "A": "9 koin",
+      "B": "10 koin",
+      "C": "11 koin",
+      "D": "12 koin"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 177,
+    "question": "Dari sekelompok anak, 16 anak senang membaca, 18 anak senang menggambar, 8 anak senang keduanya, tetapi ada 4 anak yang tidak suka membaca maupun menggambar. Banyaknya anak dalam kelompok tersebut adalah .....",
+    "image": null,
+    "options": {
+      "A": "40 anak",
+      "B": "20 anak",
+      "C": "25 anak",
+      "D": "30 anak"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 178,
+    "question": "Perbandingan uang Gunawan dan uang Chacha adalah 3 : 2. Jika uang Gunawan dan Chacha berjumlah Rp. 150.000, berapa masing-masing uang Gunawan dan Chacha ?",
+    "image": null,
+    "options": {
+      "A": "Rp. 80.000 dan Rp. 60.000",
+      "B": "Rp. 90.000 dan Rp. 60.000",
+      "C": "Rp. 90.000 dan Rp. 70.000",
+      "D": "Rp. 100.000 dan Rp. 90.000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 179,
+    "question": "Reinince mempunyai uang Rp. 4.500.000 dan ia berniat membeli sebuah handycam seharga Rp. 2.500.000 sebelum diskon. Harga diskon handycam tersebut adalah 20%. Selain itu, Reinince juga membelanjakan uangnya untuk keperluan lain sebesar Rp. 1.500.000. Berapa sisa uang Reinince saat ini?",
+    "image": null,
+    "options": {
+      "A": "Rp. 1.000.000",
+      "B": "Rp. 1.200.000",
+      "C": "Rp. 1.500.000",
+      "D": "Rp. 1.300.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "question": "Devon membeli boneka seharga Rp. 50.000. Kemudian, boneka dijual lagi dengan harga Rp. 80.000. Berapa persen keuntungan Devon?",
+    "image": null,
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 181,
+    "question": "Jarak antara kota A – Z 360 km. Jika ditempuh dengan sepeda motor berkecepatan 90 km/jam maka lama perjalanan...",
+    "image": null,
+    "options": {
+      "A": "240 menit",
+      "B": "180 menit",
+      "C": "200 menit",
+      "D": "220 menit"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 182,
+    "question": "Ivander menabung di Bank Rp. 150.000. Bunga 1 tahunnya adalah 12,5 %. Maka jumlah tabungan Ivander setelah 1 tahun adalah...",
+    "image": null,
+    "options": {
+      "A": "Rp. 158.750",
+      "B": "Rp. 168.750",
+      "C": "Rp. 178.750",
+      "D": "Rp. 188.750"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 183,
+    "question": "Pak RW mendapat sumbangan 8 karung beras. Tiap karung beratnya 50 kg. Beras dibagikan kepada 20 orang warga. Tiap warga memperoleh beras sebanyak...",
+    "image": null,
+    "options": {
+      "A": "60 kg",
+      "B": "20 kg",
+      "C": "24 kg",
+      "D": "36 kg"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 184,
+    "question": "Perbandingan jumlah uang yang dimiliki Andi dan Cantika adalah 7 : 5, sedangkan perbandingan jumlah uang yang dimiliki Ben dan Andi adalah 3 : 4. Jika selisih uang yang dimiliki Cantika dan Ben adalah Rp56.000,00, maka jumlah uang ketiga orang tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Rp3.648.000,00",
+      "B": "Rp3.864.000,00",
+      "C": "Rp4.964.000,00",
+      "D": "Rp5.246.000,00"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 185,
+    "question": "Jika sebuah foto berukuran 12 cm dan 15 cm diletakkan disebuah karton. Pada bagian atas kiri dan kanan foto masih tersisa karton selebar 2 cm, jika foto dan karton sebangun maka luas karton adalah...",
+    "image": null,
+    "options": {
+      "A": "20 cm",
+      "B": "25 cm",
+      "C": "30 cm",
+      "D": "16 cm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Dalam skala Richter, kekuatan  R dari suatu gempa bumi dengan intensitas I dimodelkan dengan, di mana I 0  = 1 merupakan intensitas minimum yang digunakan untuk perbandingan. Intensitas masing-masing gempa bumi berikut adalah….. (Intensitas merupakan ukuran energy gelombang dari suatu gempa bumi D. I. Yogyakarta dan Klaten pada tahun 2006 : R = 5,9)",
+    "image": null,
+    "options": {
+      "A": "316.000.000",
+      "B": "31.600.000",
+      "C": "3.160.000",
+      "D": "316.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "question": "Pak Didi ingin mengecat sebuah dinding rumahnya yang berukuran 850 cm x 600 cm. Biaya pengecatan dinding yang berlaku saat ini adalah Rp4.250 per 1 m2. Biaya yang harus dikeluarkan oleh Pak Didi untuk mengecat dinding rumahnya adalah...",
+    "image": null,
+    "options": {
+      "A": "Rp174.750",
+      "B": "Rp182.250",
+      "C": "Rp195.000",
+      "D": "Rp216.750"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 188,
+    "question": "Sebuah peta mempunyai skala 1 : 250.000 jika kota A dan B mempunyai jarak 50 km, maka jarak kedua kota pada peta adalah ....",
+    "image": null,
+    "options": {
+      "A": "10 cm",
+      "B": "15 cm",
+      "C": "20 cm",
+      "D": "25 cm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 189,
+    "question": "Sebuah pohon tumbuh 30 cm setiap bulan. Saat ini, tinggi pohon 1,2 meter.Berapa bulan lagi pohon tersebut akan mencapai tinggi 2 meter ....",
+    "image": null,
+    "options": {
+      "A": "2 bulan",
+      "B": "2 bulan 20 hari",
+      "C": "3 bulan",
+      "D": "3 bulan 10 hari",
+      "E": "4 bulan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 200,
+    "question": "Seorang siswa memperoleh nilai 82, 94, 86 dan 78 untuk 4 mata pelajaran. Berapa nilai yang harus ditambahkan untuk mata pelajaran kelima agar mendapat nilai rata-rata ....",
+    "image": null,
+    "options": {
+      "A": "86",
+      "B": "87",
+      "C": "88",
+      "D": "89",
+      "E": "90"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 201,
+    "question": "Pada suatu agen koran dan majalah terdapat 20 orang berlangganan koran dan majalah, 26 orang berlangganan majalah, dan 36 orang berlangganan koran. Banyaknya seluruh pelanggan agen tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "40 orang",
+      "B": "42 orang",
+      "C": "60 orang",
+      "D": "78 orang",
+      "E": "84 orang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 202,
+    "question": "Jika Abu memacu motornya dari rumah ke kantor dengan kecepatan 24 km/jam maka ia akan terlambat 15 menit, tetapi jika ia memacu motornya dengan kecepatan 36 km/jam maka ia akan sampai 10 menit lebih awal. Berapa jarak tempuh rumah Abu ke kantornya?",
+    "image": null,
+    "options": {
+      "A": "35 km",
+      "B": "32,5 km",
+      "C": "30 km",
+      "D": "27 km",
+      "E": "3 km"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Dua tahun yang lalu jumlah usia dua orang bersaudara adalah 31 tahun. Lima tahun mendatang, dua kali usia yang muda 18 tahun lebih dari usia yang tua. Pada saat ini usia yang muda adalah ...",
+    "image": null,
+    "options": {
+      "A": "12 tahun",
+      "B": "13 tahun",
+      "C": "14 tahun",
+      "D": "15 tahun",
+      "E": "16 tahun"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 204,
+    "question": "Di sebuah kotak terdapat 20 buku dengan 10 di antarannya bersampul biru. Joko diminta mengambil 17 buku yang terdiri dari seluruh buku bersampul biru dan buku lainnya. Banyaknya pilihan yang dapat joko ambil adalah ...",
+    "image": null,
+    "options": {
+      "A": "125",
+      "B": "120",
+      "C": "106",
+      "D": "96",
+      "E": "80"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 205,
+    "question": "Sebuah kompetisi sepak bola diikuti oleh tim A, B, C, dan D, dimana satu tim akan bertanding satu kali melawan tim lainnya. Nilai yang diberikan yakni 3 poin untuk tim yang menang, 1 poin untuk masing-masing tum yang imbang (seri), dan 0 untuk tim yang kalah. Jika tim A kalah satu kali, tim B selalu kalah dan tim C dua kali seri, juara pada kompetisi tersebut adalah ...",
+    "image": null,
+    "options": {
+      "A": "Tim A",
+      "B": "Tim B",
+      "C": "Tim C",
+      "D": "Tim A dan C dengan poin yang sama",
+      "E": "Tim C dan D dengan poin yang sama"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 206,
+    "question": "Lima orang akan pergi ke pantai menggunakan sebuah mobil berkapasitas 6 penumpang. Jika ada dua orang di antara mereka yang bisa menjadi sopir, maka banyak cara susunan tempat duduk yang dapat terjadi adalah ...",
+    "image": null,
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "180",
+      "D": "240",
+      "E": "280"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 207,
+    "question": "Berapa kg pupuk yang mengandung 30% nitrogen yang harus ditambahkan pada 120 kg pupuk yang mengandung 20% nitrogen agar cepat tercapai campuran pupuk yang mengandung 27,5% nitrogen .....",
+    "image": null,
+    "options": {
+      "A": "120 kg",
+      "B": "240 kg",
+      "C": "360 kg",
+      "D": "480 kg",
+      "E": "600 kg"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Dessy merayakan ulang tahun pada tanggal 1 Desember 2006. Jika pada hari tersebut usia Dessy sama dengan jumlah digit dari angka kelahirannya, maka Dessy lahir pada tahun ...",
+    "image": null,
+    "options": {
+      "A": "1994",
+      "B": "1992",
+      "C": "1989",
+      "D": "1984",
+      "E": "1979"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 210,
+    "question": "Seorang petani ingin membuat pagar pembatas tanaman seperti yang ditunjukkan oleh gambar di bawah ini. Panjang kawat adalah 24 m. Berapa luas maksimum yang dapat dibuat oleh petani?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2023/11/mtk2-300x150.jpg",
+    "options": {
+      "A": "24 m²",
+      "B": "24,5 m²",
+      "C": "26 m²",
+      "D": "22 m²"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 211,
+    "question": "Populasi ternak di suatu Desa disajikan pada diagram lingkaran berikut !\nJumlah kambing di Desa tersebut adalah :",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-08.42.35.jpeg",
+    "options": {
+      "A": "1.500 ekor",
+      "B": "800 ekor",
+      "C": "1.000 ekor",
+      "D": "1.4000 ekor"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 212,
+    "question": "Sebuah bambu dipotong menjadi dua bagian dari P dan P bagian yang lebih panjang, membentuk rusuk kubus yang luasnya empat kali kubus yang rusuknya Q. Nilai P/Q adalah...",
+    "image": null,
+    "options": {
+      "A": "0,7",
+      "B": "1,4",
+      "C": "2",
+      "D": "4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 213,
+    "question": "Berikut ini adalah gambar diagram batang yang menunjukkan data hasil panen kebun para petani di desa Rawa Barat.\nDari gambar di atas, hasil panen kentang belum diketahui jumlahnya. Jika total hasil panen kebun para petani di bulan ini adalah sejumlah 150 kilogram, berapakah hasil dari panen kentangnya?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-08.53.46-300x172.jpeg",
+    "options": {
+      "A": "60 kg",
+      "B": "30 kg",
+      "C": "35 kg",
+      "D": "40 kg"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 214,
+    "question": "Diagram lingkaran menyatakan jenis kegiatan ekstrakulikuler di suatu SMK yang diikuti 540 orang\nSelisih siswa yang mengikuti ekstrakulikuler music dan pramuka adalah …",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-09.00.02.jpeg",
+    "options": {
+      "A": "12 orang",
+      "B": "14 orang",
+      "C": "15 orang",
+      "D": "120 orang"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 215,
+    "question": "Seseorang mengendarai mobil ke tempat kerjanya selama 1 jam dengan jarak 30 km. Jika dia terlambat berangkat 10 menit, kecepatan yang harus digunakan agar sampai ke kantor adalah …",
+    "image": null,
+    "options": {
+      "A": "33 km/jam",
+      "B": "36 km/jam",
+      "C": "35 km/jam",
+      "D": "39 km/jam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 216,
+    "question": "Seseorang mengendarai motor ke tempat kerjanya selama 1 jam dengan jarak 30km. Jika ia terlambat berangkat 10 menit, kecepatan yang harus digunakan agar sampai adalah .....",
+    "image": null,
+    "options": {
+      "A": "33km/jam",
+      "B": "35km/jam",
+      "C": "36km/jam",
+      "D": "39km/jam",
+      "E": "40km/jam"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Seorang anak bernama Oni membeli baju seharga Rp.100.000,00 dengan diskon 25%+40% dan celana seharga Rp.100.000,00 dengan diskon 55%. Jika a adalah harga baju setelah didiskon dan b adalah harga celana setelah didiskon, maka …",
+    "image": null,
+    "options": {
+      "A": "a + b = 100.000",
+      "B": "a – b = 10.000",
+      "C": "a > b",
+      "D": "a = b = 45.000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 218,
+    "question": "Seorang anak bernama Oni setiap pagi selalu berolahraga memutari sebuah lapangan dengan keliling 0,5 km. Apabila dengan kecepatan lari 5 km/jam Oni mampu memutari lapangan sebanyak 5 kali, berapa lamakah Oni lari setiap paginya?",
+    "image": null,
+    "options": {
+      "A": "50 menit",
+      "B": "40 menit",
+      "C": "30 menit",
+      "D": "20 menit"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Kecepatan Andi dalam bersepeda 25% lebih cepat daripada Budi. Andi dan Budi bersepeda dari Jogja sampai Klaten seajuh 30km. Jika Andi berhenti di Prambanan selama 12 menit untuk beristirahat maka kecepatan Budi adalah ...",
+    "image": null,
+    "options": {
+      "A": "30 km/jam",
+      "B": "25 km/jam",
+      "C": "15 km/jam",
+      "D": "10 km/jam"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 220,
+    "question": "Jika perbandingan volume dua buah bola adalah 1:27 maka perbandingan luas kedua bola adalah ...",
+    "image": null,
+    "options": {
+      "A": "1 : 9",
+      "B": "3 : 18",
+      "C": "3 : 21",
+      "D": "2 : 27"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Mahasiswa Fisika di salah satu kampus telah menyelesaikan 120 SKS dengan Indeks prestasi kumulatif 3,1. Semester ini dia mengambil 18 SKS. Berapa Indeks Prestasi yang harus dia capai agar Indeks prestasi Kumulatif 3,15?",
+    "image": null,
+    "options": {
+      "A": "3,48",
+      "B": "3,57",
+      "C": "3,67",
+      "D": "3,7"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 222,
+    "question": "Seorang ibu mendapat gaji sebulan sebesar Rp 1.000.000 dengan penghasilan tidak kena pajak Rp 400.000. Jika besar pajak penghasilan (PPh) adalah 10 % berapakah gaji yang diterima ibu tersebut?",
+    "image": null,
+    "options": {
+      "A": "Rp. 940.000",
+      "B": "Rp. 950.000",
+      "C": "Rp. 920.000",
+      "D": "Rp. 910.000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 223,
+    "question": "Sebuah komik disewakan dengan harga Rp. 2.000,- untuk 3 hari pertama dan untuk hari selanjutnya Rp. 500,- per harinya. Jika penyewa komik tersebut membayar Rp. 9.500,- untuk sebuah buku, maka penyewa tersebut menyewa komik selama .....",
+    "image": null,
+    "options": {
+      "A": "18 hari",
+      "B": "19 hari",
+      "C": "20 hari",
+      "D": "21 hari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 224,
+    "question": "Seorang memiliki bangunan yang seharga Rp. 1.000.000,- per m2 dengan luas bangunan 126 m2. Dalam penilaian pajak, rumah tersebut dinilai 2/ dari harganya. Jika pajak yang wajib dibayarkan adalah Rp. 12,50- per Rp. 1.000,- rupiahnya, maka jumlah pajak yang harus dibayarkan adalah .....",
+    "image": null,
+    "options": {
+      "A": "Rp. 126.000.000,-",
+      "B": "Rp. 84.000.000,-",
+      "C": "Rp. 1.050.000,-",
+      "D": "Rp. 126.000,-"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 225,
+    "question": "Seorang pedagang membeli beberapa ekor anak kambing dengan harga Rp. 800.000,-. Kemudian, ia menjualnya seharga Rp. 1.050.000,- maka keuntungan yang diperoleh pedagang tersebut adalah .....",
+    "image": null,
+    "options": {
+      "A": "31,25%",
+      "B": "25%",
+      "C": "28%",
+      "D": "30,35%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 226,
+    "question": "Delapan orang yang diantaranya ada Roni dan Rani duduk melingkari sebuah meja bundar. Ada berapa banyak susunan mereka duduk jika Roni dan Rani harus selalu berdampingan ?",
+    "image": null,
+    "options": {
+      "A": "5.040",
+      "B": "2.520",
+      "C": "1.440",
+      "D": "1.080"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Jika x adalah sisi persegi dengan luas 144 dan y adalah sisi persegi panjang dengan luas 144 yang sisi pendeknya 6 cm, nilai xy adalah ...",
+    "image": null,
+    "options": {
+      "A": "144",
+      "B": "256",
+      "C": "288",
+      "D": "289"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 228,
+    "question": "perhatikan gambar berikut ..?\nVolume bangun diatas adalah ?",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2023/11/mtk-3.png",
+    "options": {
+      "A": "= 360 cm³",
+      "B": "= 720 cm³",
+      "C": "= 460 cm³",
+      "D": "= 180 cm³"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 229,
+    "question": "Volume bangun ruang berikut adalah ....",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2023/11/mtk-4.png",
+    "options": {
+      "A": "= 320 cm³",
+      "B": "= 640 cm³",
+      "C": "= 240 cm³",
+      "D": "= 160 cm³"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 230,
+    "question": "Pada gambar berikut diketahui tinggi limas sama dengan tinggi balok.",
+    "image": "https://app.pojokcat.com/wp-content/uploads/2023/11/mtk-5.png",
+    "options": {
+      "A": "= 960 cm³",
+      "B": "= 1.440 cm³",
+      "C": "= 480 cm³",
+      "D": "= 273 cm³"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Pada saat ulangan IPS, Jaka menghadapi 60 buah soal pilihan ganda. Ia dapat menjawab dengan benar 45 soal. Berapa persen jawaban Jaka yang benar itu?",
+    "image": null,
+    "options": {
+      "A": "= 75 %.",
+      "B": "= 45 %.",
+      "C": "= 25 %.",
+      "D": "= 65 %."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 232,
+    "question": "Ari membeli sebuah sepeda dan kemudian menjualnya 20% lebih banyak dari harga pembeliannya. Jika ia menjual sepeda seharga Rp. 144.000,00, berapa harga sepeda waktu Ari membelinya?",
+    "image": null,
+    "options": {
+      "A": "Rp.120.000,00",
+      "B": "Rp.140.000,00",
+      "C": "Rp.122.000,00",
+      "D": "Rp.124.000,00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 233,
+    "question": "Sebuah toko pakaian mencantumkan potongan harga 10 % untuk hemat Rp.15.000,00. Selanjutnya ketika Ami membeli sehelai baju manajer toko mengatakan memberi potongan harga 30% dari harga asal. Berapa rupiah potongan harga pada saat Ami membeli baju itu?",
+    "image": null,
+    "options": {
+      "A": "Rp. 45.000,00",
+      "B": "Rp. 46.000,00",
+      "C": "Rp. 54.000,00",
+      "D": "Rp. 50.000,00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 234,
+    "question": "Seorang pedagang membeli 10 karung beras dengan harga Rp.210.000/karung. Jika setengahnya dijual Rp.224.000/karung dan sisanya dijual Rp. 232.000/karung, keuntungan pedagang tersebut adalah ....",
+    "image": null,
+    "options": {
+      "A": "9.15%",
+      "B": "8,52%",
+      "C": "8,57%",
+      "D": "7,85%",
+      "E": "7,57%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 235,
+    "question": "Seorang pekerja mengecat tembok yang tingginya 3 meter dan telah sepertiganya selesai. Jika dia selanjutnya mengecat tembok 10 meter persegi lagi, ia sudah menyelesaikan tiga perempatnya. Berapa meterkah panjang tembok itu?",
+    "image": null,
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "6",
+      "D": "4"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Sebuah mobil travel mempunyai kapasitas penumpang 16 orang tidak termasuk sopir dan kernet. mobil tersebut membutuhkan konsumsi bensin 10 km untuk 1 liter dengan harga bensin Rp.10.000. Diketahui jarak Solo Jogja adalah 80 KM dan jarak Solo Semarang adalah 140 km. biaya tol adalah Rp2.000 tiap km di mana Jogja terdapat tol sepanjang 30 km dan Semarang terdapat tol sepanjang 100 km. pemilik mobil memberikan uang makan kepada sopir dan karet masing-masing 150.000 tiap perjalanan. pemilik mobil juga menghendaki minimal laba 20% dari modal. manakah\nPernyataan yang paling Benar berdasarkan informasi di atas?",
+    "image": null,
+    "options": {
+      "A": "Biaya sewa Solo Jogja tanpa tol adalah Rp1.200.000",
+      "B": "Biaya sewa Solo Jogja menggunakan tol adalah Rp1.500.000",
+      "C": "Biaya sewa Solo Semarang tanpa tol adalah 100.000 tiap penumpang",
+      "D": "Biaya sewa Solo Semarang dengan tol adalah Rp40.000 tiap penumpang"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 237,
+    "question": "Seorang dari titik X berjalan ke timur 1 KM, kemudian 2 KM ke Utara, lalu 1 KM ke Timur, terus 1 KM ke Utara, lalu 1 KM ke Timur, terakhir 1 KM ke utara sampai titik Y. Berapa KM jarak titik X ke titik V?",
+    "image": null,
+    "options": {
+      "A": "12",
+      "B": "7",
+      "C": "5",
+      "D": "4"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Dalam sebuah kandang ada 50 ekor ayam. Yang terdiri atas 27 ekor ayam jantan, dan 18 ekor ayam berwarna hitam. Apabila yang berwarna hitam di kandang itu ada 35 ekor maka berapakah banyaknya ayam betina yang tidak berwarna hitam?",
+    "image": null,
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "10",
+      "D": "8"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 239,
+    "question": "Agar terbentuk pengurus suatu organisasi terdapat 2 calon ketua 3 calon sekretaris serta 2 orang calon bendahara dan tidak ada seorangpun yang dicalonkan pada dua kedudukan yang berbeda, dalam berapa carakah susunan pengurus tersebut terdiri dari seorang ketua seorang sekretaris dan seorang bendahara yang dapat dibentuk?",
+    "image": null,
+    "options": {
+      "A": "12 Cara",
+      "B": "18 Cara",
+      "C": "16 Cara",
+      "D": "10 Cara"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 208,
     "question": "Jika x = 3 dan y = 4, maka tentukanlah nilai dari: 2x^2 - 3y + 5 = ...",
     "options": {
       "A": "9",
@@ -11,7 +2582,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 2,
+    "id": 209,
     "question": "Sebuah motor menempuh jarak sejauh 120 km dalam waktu 2 jam. Berapa kecepatan rata-rata motor tersebut?",
     "options": {
       "A": "50 km/jam",
@@ -22,7 +2593,7 @@
     "correctAnswer": "B"
   },
   {
-    "id": 3,
+    "id": 210,
     "question": "Berapakah nilai dari 15% dari uang sebesar Rp 200.000?",
     "options": {
       "A": "Rp 20.000",
@@ -33,7 +2604,7 @@
     "correctAnswer": "C"
   },
   {
-    "id": 4,
+    "id": 211,
     "question": "Tentukan hasil perhitungan pecahan berikut: 4/5 + 1/2 - 1/4 = ...",
     "options": {
       "A": "17/20",
@@ -44,7 +2615,7 @@
     "correctAnswer": "C"
   },
   {
-    "id": 5,
+    "id": 212,
     "question": "Tentukan nilai rata-rata (mean) dari data nilai berikut: 7, 8, 9, 6, 10.",
     "options": {
       "A": "7,0",
